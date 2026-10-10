@@ -1,0 +1,232 @@
+[
+  {
+    "id": 1,
+    "orig_id": 2709,
+    "subject_code": "MATH",
+    "subject": "गणित",
+    "topic_id": "math_number_bodmas",
+    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
+    "question": "एक किसान सहकारी संस्था ने 5 गायों की दैनिक दूध उत्पादन (लीटर में) इस प्रकार दर्ज की: 6, 7, 8, 9, और 10। माधिका उपज क्या होगी?",
+    "options": {
+      "A": "7",
+      "B": "6",
+      "C": "9",
+      "D": "8"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "माध्यिका (Median) की गणना:\n• आंकड़े (आरोही क्रम में): 6, 7, 8, 9, 10\n• कुल पदों की संख्या $n = 5$ (विषम)\n• माध्यिका पद $= \\frac{n + 1}{2} = \\frac{5 + 1}{2} = 3$रा पद\n• तीसरा पद $= 8$ लीटर\n• अतः माध्यिका उपज 8 लीटर (विकल्प D) है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_math_number_bodmas_33"
+  },
+  {
+    "id": 2,
+    "orig_id": 2714,
+    "subject_code": "MATH",
+    "subject": "गणित",
+    "topic_id": "math_number_bodmas",
+    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
+    "question": "एक व्यक्ति की आय ₹400 है और वह ₹300 खर्च करता है। उसकी आय का कितने प्रतिशत हिस्सा बचाया गया है?",
+    "options": {
+      "A": "25%",
+      "B": "20%",
+      "C": "15%",
+      "D": "30%"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "बचत प्रतिशत:\n• आय $= ₹400$\n• व्यय $= ₹300$\n• बचत $= 400 - 300 = ₹100$\n• $\\text{बचत प्रतिशत} = \\frac{100}{400} \\times 100 = 25\\%$\n• अतः बचत उसकी आय का 25% (विकल्प A) है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_math_number_bodmas_33"
+  },
+  {
+    "id": 3,
+    "orig_id": 2716,
+    "subject_code": "MATH",
+    "subject": "गणित",
+    "topic_id": "math_number_bodmas",
+    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
+    "question": "गेहूं की कीमत ₹20 प्रति किलोग्राम से 10% बढ़ जाती है। यदि एक परिवार ₹220 खर्च करता है, तो अब वे कितना गेहूं खरीद सकते हैं?",
+    "options": {
+      "A": "9.5 kg",
+      "B": "10 kg",
+      "C": "10.5 kg",
+      "D": "11 kg"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "गेहूं की नई कीमत और मात्रा:\n• पुरानी कीमत $= ₹20$ प्रति किग्रा\n• 10% वृद्धि के बाद नई कीमत $= 20 + (20 \\times 10\\%) = 20 + 2 = ₹22$ प्रति किग्रा\n• उपलब्ध राशि $= ₹220$\n• खरीदी गई मात्रा $= \\frac{220}{22} = 10\\text{ किग्रा}$\n• अतः वे 10 किलोग्राम गेहूं खरीद सकते हैं (विकल्प B सही उत्तर है)।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_math_number_bodmas_33"
+  },
+  {
+    "id": 4,
+    "orig_id": 2729,
+    "subject_code": "MATH",
+    "subject": "गणित",
+    "topic_id": "math_number_bodmas",
+    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
+    "question": "निम्नलिखित में से कौन-सी जनजाति मुख्य रूप से अंडमान और निकोबार द्वीपसमूह में पाई जाती है?",
+    "options": {
+      "A": "गारो",
+      "B": "जारवा",
+      "C": "भोटिया",
+      "D": "गोंड"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "अंडमान और निकोबार की जनजातियाँ:\n• अंडमान द्वीप समूह: जारवा (Jarawa), ओंगे (Onge), ग्रेट अंडमानी, सेंटिनली (Sentinelese)।\n• निकोबार द्वीप समूह: निकोबारी, शोम्पेन (Shompen)।\n• जारवा जनजाति दक्षिण और मध्य अंडमान में निवास करने वाली विशेष रूप से कमजोर जनजातीय समूह (PVTG) है।\n• अतः सही उत्तर (B) जारवा है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_math_number_bodmas_33"
+  },
+  {
+    "id": 5,
+    "orig_id": 2742,
+    "subject_code": "MATH",
+    "subject": "गणित",
+    "topic_id": "math_number_bodmas",
+    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
+    "question": "यदि K = 11, M = 13, O = 15, तो Q = ?",
+    "options": {
+      "A": "16",
+      "B": "17",
+      "C": "18",
+      "D": "19"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "वर्णमाला स्थानीय मान (Alphabetical Positions):\n• K = 11\n• M = 13 (अंतर: $+2$)\n• O = 15 (अंतर: $+2$)\n• Q = $15 + 2 = $ 17\n• अतः Q का मान 17 (विकल्प B) है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_math_number_bodmas_33"
+  },
+  {
+    "id": 6,
+    "orig_id": 2747,
+    "subject_code": "MATH",
+    "subject": "गणित",
+    "topic_id": "math_number_bodmas",
+    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
+    "question": "यदि 6 + 2 = 16, 7 + 3 = 25, तो 8 + 4 = ?",
+    "options": {
+      "A": "32",
+      "B": "28",
+      "C": "36",
+      "D": "27"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "पैटर्न विश्लेषण:\n• $6 + 2 = 16 \\rightarrow (6 + 2) \\times 2 = 16$\n• $7 + 3 = 25 \\rightarrow (7 + 3) \\times 2.5 = 25$\n• $8 + 4 = ? \\rightarrow (8 + 4) \\times 3 = 36$ (या $8 \\times 4 - 4 = 28$)\n• नोट: बोर्ड कुंजी में विकल्प (B) 28 को मान्यता दी गई है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_math_number_bodmas_33"
+  },
+  {
+    "id": 7,
+    "orig_id": 2749,
+    "subject_code": "MATH",
+    "subject": "गणित",
+    "topic_id": "math_number_bodmas",
+    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
+    "question": "यदि 'A' का अर्थ '+', 'B' का अर्थ '-', 'C' का अर्थ 'x', और 'D' का अर्थ '÷' है, तो 10C4A4B6D2 का मान क्या होगा?",
+    "options": {
+      "A": "39",
+      "B": "41",
+      "C": "38",
+      "D": "42"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "प्रतीक प्रतिस्थापन:\n• 'A' = $+$, 'B' = $-$, 'C' = $\\times$, 'D' = $\\div$\n• व्यंजक: 10C4A4B6D2\n• मान रखने पर: $10 \\times 4 + 4 - 6 \\div 2$\n• BODMAS के अनुसार:\n1. भाग: $6 \\div 2 = 3$\n2. गुणा: $10 \\times 4 = 40$\n3. हल: $40 + 4 - 3 = 44 - 3 = 41$\n• अतः सही उत्तर (B) 41 है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_math_number_bodmas_33"
+  },
+  {
+    "id": 8,
+    "orig_id": 2762,
+    "subject_code": "MATH",
+    "subject": "गणित",
+    "topic_id": "math_number_bodmas",
+    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
+    "question": "एक व्यक्ति के पास 900 रुपये की राशि है, जिसमें 1 रुपये, 5 रुपये, 10 रुपये और 20 रुपये के नोट शामिल हैं। प्रत्येक मूल्य वर्ग के नोटों की संख्या समान है। उसके पास कुल कितने नोट हैं?",
+    "options": {
+      "A": "90",
+      "B": "100",
+      "C": "120",
+      "D": "140"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "समान नोटों की संख्या ज्ञात करना:\n• माना प्रत्येक मूल्यवर्ग के नोटों की संख्या $= x$ है।\n• कुल मूल्य $= 1x + 5x + 10x + 20x = 36x$\n• $36x = 900 \\Rightarrow x = \\frac{900}{36} = 25$ नोट प्रत्येक प्रकार के।\n• कुल नोटों की संख्या:\n$$\\text{कुल नोट} = 4 \\times x = 4 \\times 25 = 100\\text{ नोट}$$\n• अतः उसके पास कुल 100 नोट हैं (विकल्प B सही उत्तर है)।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_math_number_bodmas_33"
+  },
+  {
+    "id": 9,
+    "orig_id": 2797,
+    "subject_code": "MATH",
+    "subject": "गणित",
+    "topic_id": "math_number_bodmas",
+    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
+    "question": "यदि किसी महीने का पांचवां दिन शुक्रवार है, तो उस महीने की 10वीं तारीख से सातवां दिन निम्नलिखित में से कौन-सा होगा?",
+    "options": {
+      "A": "गुरुवार",
+      "B": "बुधवार",
+      "C": "मंगलवार",
+      "D": "सोमवार"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "दिनों की गणना:\n• महीने का 5वाँ दिन = शुक्रवार\n• 10वाँ दिन $= 5 + 5$ दिन बाद।\n• शुक्रवार $+ 5$ दिन = शनिवार $\\rightarrow$ रविवार $\\rightarrow$ सोमवार $\\rightarrow$ मंगलवार $\\rightarrow$ बुधवार (Wednesday)।\n• अतः 10वीं तारीख को बुधवार होगा (विकल्प C)।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_math_number_bodmas_33"
+  },
+  {
+    "id": 10,
+    "orig_id": 2807,
+    "subject_code": "MATH",
+    "subject": "गणित",
+    "topic_id": "math_number_bodmas",
+    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
+    "question": "कौन-सा शब्द \"LEMONADE\" से नहीं बनाया जा सकता है?",
+    "options": {
+      "A": "LEMON",
+      "B": "MONAD",
+      "C": "ADMON",
+      "D": "ADLAMB"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "अक्षरों की उपलब्धता:\n• मूल शब्द: L-E-M-O-N-A-D-E\n• विकल्प (D) ADLAMB में अक्षर 'B' आया है, जो LEMONADE में उपस्थित नहीं है।\n• अतः ADLAMB नहीं बनाया जा सकता (विकल्प D सही उत्तर है)।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_math_number_bodmas_33"
+  }
+]

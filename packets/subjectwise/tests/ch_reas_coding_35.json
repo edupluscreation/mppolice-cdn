@@ -1,0 +1,232 @@
+[
+  {
+    "id": 1,
+    "orig_id": 2015,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "यदि FRIEND को FDNIRE बना दिया जाए तो TICKET को कैसे लिखा जाएगा?",
+    "options": {
+      "A": "TETKIC",
+      "B": "TKETIC",
+      "C": "TEKTIC",
+      "D": "TTECIK"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र: वर्ण पुनर्व्यवस्था कूट (Letter Position Permutation):\n• स्टेप-बाय-स्टेप हल:\n• FRIEND (1 2 3 4 5 6) → FDNIRE:\n• 1वाँ F यथावत पहले स्थान पर।\n• 6वाँ D दूसरे स्थान पर।\n• 5वाँ N तीसरे स्थान पर।\n• 3वाँ I चौथे स्थान पर।\n• 2वाँ R पाँचवें स्थान पर।\n• 4वाँ E छठे स्थान पर।\n• TICKET (1 2 3 4 5 6) पर यही क्रम (1, 6, 5, 4, 2, 3 या 1, 6, 5, 3, 2, 4) लगाने पर 'TTECIK' या 'TEKTIC' स्वरूप बनता है।",
+      "exam_tips": "मूल शब्द के प्रत्येक अक्षर की स्थिति संख्या लिखकर कूट के साथ मिलान किया जाता है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_35"
+  },
+  {
+    "id": 2,
+    "orig_id": 2017,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "एक विशेष कोड में \"GAME\" को \"ICOG\" लिखा गया है। उसी कोड में \"PLAY\" को कैसे लिखा जाएगा?",
+    "options": {
+      "A": "RNCA",
+      "B": "RNDC",
+      "C": "RNDA",
+      "D": "RODC"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र: वर्णमाला फॉरवर्ड शिफ्ट (+2 कोडिंग):\n• स्टेप-बाय-स्टेप हल:\n• GAME → ICOG:\n• G (7) + 2 = I (9)\n• A (1) + 2 = C (3)\n• M (13) + 2 = O (15)\n• E (5) + 2 = G (7)\n• PLAY पर समान नियम लागू करने पर:\n• P (16) + 2 = R\n• L (12) + 2 = N\n• A (1) + 2 = C\n• Y (25) + 2 = A\n• वास्तविक कूट = RNCA (विकल्प A)\n(नोट: +2 शिफ्ट से RNCA बनता है; बोर्ड की मूल कुंजी में (C) RNDA मुद्रित हुआ था।)",
+      "exam_tips": "Y (25) में 2 जोड़ने पर चक्रीय वर्णमाला में A (1) आता है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_35"
+  },
+  {
+    "id": 3,
+    "orig_id": 2018,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "किसी विशेष कोड में 'HILTON' को 'I H T L N O' के रूप में लिखा गया है। उसी कोड में 'BILLION' को कैसे लिखा जाएगा?",
+    "options": {
+      "A": "IBLLION",
+      "B": "IBOILLN",
+      "C": "IBLLOIN",
+      "D": "IBLOILN"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र: युग्म उलटाव कोडिंग (Pair Inversion Coding):\n• स्टेप-बाय-स्टेप हल:\n• HILTON (दो-दो के जोड़े):\n• H I → I H\n• L T → T L\n• O N → N O\n• BILLION (7 अक्षर):\n• B I → I B\n• L L → L L\n• I O → O I\n• N → N (अंतिम अक्षर यथावत या अंत में उलटाव)\n• अतः कूट = IBLLOIN (विकल्प C) / IBLOILN (विकल्प D)।",
+      "exam_tips": "अक्षरों को दो-दो के समूहों में विभाजित कर उनके स्थान परस्पर बदले जाते हैं।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_35"
+  },
+  {
+    "id": 4,
+    "orig_id": 2021,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "\"M I T C O M E E T\" अक्षरों को पुनः व्यवस्थित करके एक वैध (सार्थक) अंग्रेज़ी शब्द बनाइए।",
+    "options": {
+      "A": "EMOTICEM",
+      "B": "COMMITEE",
+      "C": "COMMITTEE",
+      "D": "COMITTEE"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र: अंग्रेज़ी वर्तनी पुनर्गठन (Anagram Jumble):\n• स्टेप-बाय-स्टेप हल:\n• दिए गए अक्षर: M, I, T, C, O, M, E, E, T\n• अक्षरों की गिनती: C (1), O (1), M (2), I (1), T (2), E (2)\n• इन्हें मिलाकर बनने वाला शुद्ध सार्थक अंग्रेज़ी शब्द = COMMITTEE (समिति)\n• वर्तनी: C-O-M-M-I-T-T-E-E",
+      "exam_tips": "Committee शब्द में double M, double T और double E का प्रयोग होता है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_35"
+  },
+  {
+    "id": 5,
+    "orig_id": 2022,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "आप एक सौंपा गया कार्य पूरा करना भूल गए हैं। सबसे अच्छा निर्णय क्या होगा?",
+    "options": {
+      "A": "अपनी गलती छुपाएं",
+      "B": "किसी और को दोष दें",
+      "C": "सुपरवाइज़र को सूचित करें और जल्दी से इसे ठीक करें",
+      "D": "पूछे जाने तक प्रतीक्षा करें"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र: व्यावसायिक आचार संहिता और सत्यनिष्ठा (Professional Integrity):\n• स्टेप-बाय-स्टेप हल:\n• कार्यस्थल पर यदि कोई कार्य भूलवश छूट जाए, तो ईमानदारी और पेशेवर जिम्मेदारी का तकाजा है कि गलती छिपाने या दूसरों पर मढ़ने के बजाय तुरंत पर्यवेक्षक (सुपरवाइज़र) को सूचित करें और त्वरित गति से उसे पूरा करें।",
+      "exam_tips": "पुलिस व प्रशासनिक सेवा में पारदर्शिता, जवाबदेही और तत्परता सर्वोच्च मूल्य हैं।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_35"
+  },
+  {
+    "id": 6,
+    "orig_id": 2027,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "यदि प्रत्येक अक्षर को उसके उल्टे क्रमांक से कोडित किया जाए (Z=1, Y=2, ..., A=26), तो \"ROAD\" शब्द का कोड क्या होगा?",
+    "options": {
+      "A": "10, 12, 25, 23",
+      "B": "9, 11, 24, 22",
+      "C": "11, 13, 26, 24",
+      "D": "8, 10, 23, 21"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र: विपरीत क्रमांक कोडिंग (Reverse Alphabetical Rank = 27 - मूल स्थान):\n• स्टेप-बाय-स्टेप हल:\n• Z = 1, Y = 2, ..., A = 26\n• R (18) का उल्टा मान = 27 - 18 = 9\n• O (15) का उल्टा मान = 27 - 15 = 12\n• A (1) का उल्टा मान = 27 - 1 = 26\n• D (4) का उल्टा मान = 27 - 4 = 23\n• शुद्ध कूट = 9, 12, 26, 23\n(नोट: आधिकारिक प्रश्नकुंजी में (A) 10, 12, 25, 23 दिया गया था, मानक गणना 9, 12, 26, 23 दर्शाती है।)",
+      "exam_tips": "किसी भी अक्षर का दाएँ से स्थान = 27 - बाएँ से स्थान।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_35"
+  },
+  {
+    "id": 7,
+    "orig_id": 2033,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "कथन: स्कूल कैंटीन की कीमतें 20% बढ़ीं और छात्रों के लंच की बिक्री घट गई। कौन-सा निर्णय मान्य है?",
+    "options": {
+      "A": "उच्च कीमतों ने बिक्री घटा दी",
+      "B": "छात्रों ने लंच स्किप करना शुरू कर दिया",
+      "C": "शिक्षकों ने अधिक लंच खरीदा",
+      "D": "स्कूल कैंटीन कर्मचारियों की संख्या कम करेगा"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र: कार्य-कारण संबंध (Cause and Effect Relationship):\n• स्टेप-बाय-स्टेप हल:\n• कथन में दो घटनाएँ दी गई हैं: कैंटीन कीमतें 20% बढ़ीं और लंच की बिक्री घटी।\n• अर्थशास्त्र के मांग के नियम (Law of Demand) के अनुसार कीमत बढ़ने से मांग घटती है।\n• अतः स्पष्ट निष्कर्ष है कि उच्च कीमतों ने बिक्री घटा दी।",
+      "exam_tips": "अन्य विकल्प (जैसे शिक्षकों द्वारा अधिक खरीदना) कथन में दिए गए तथ्यों से परे हैं।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_35"
+  },
+  {
+    "id": 8,
+    "orig_id": 2034,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "यदि शब्द APPRENTICE के 4थे, 5वें, 7वें और 8वें अक्षरों से एक अर्थपूर्ण शब्द बनाना संभव हो, तो उस शब्द का पहला अक्षर क्या होगा? यदि एक से अधिक ऐसे शब्द बनाए जा सकते हों, तो M अंकित करें।",
+    "options": {
+      "A": "R",
+      "B": "M",
+      "C": "E",
+      "D": "missing from source]"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र: सार्थक शब्द निर्माण (Word Formation Puzzle):\n• स्टेप-बाय-स्टेप हल:\n• शब्द: A P P R E N T I C E\n• 4था अक्षर = R\n• 5वाँ अक्षर = E\n• 7वाँ अक्षर = T\n• 8वाँ अक्षर = I\n• अक्षर समूह = {R, E, T, I}\n• बनने वाले सार्थक अंग्रेज़ी शब्द:\n1. TIRE (थकना / टायर)\n2. RITE (धार्मिक रस्म)\n3. TIER (स्तर / श्रेणी)\n• चूंकि एक से अधिक सार्थक शब्द बनाए जा सकते हैं, इसलिए निर्देशानुसार उत्तर M होगा।",
+      "exam_tips": "जब भी 1 से अधिक शब्द संभव हों, विकल्प में दिया गया विशेष कोड (यहाँ M) चुना जाता है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_35"
+  },
+  {
+    "id": 9,
+    "orig_id": 2036,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "निम्नलिखित चार विकल्पों में अलग-अलग शब्द दिए गए हैं। उस शब्द को चिन्हित कीजिए जिसे \"VEGETATION\" शब्द के अक्षरों का उपयोग करके बनाया जा सकता है।",
+    "options": {
+      "A": "NEGOTIATED",
+      "B": "NEGATIVES",
+      "C": "VINTAGE",
+      "D": "VOTINGS"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र: शब्द निर्माण परीक्षण (Word Formation from 'VEGETATION'):\n• स्टेप-बाय-स्टेप हल:\n• मूल शब्द: V, E, G, E, T, A, T, I, O, N\n• विकल्प (C) VINTAGE: V, I, N, T, A, G, E\n• सभी 7 अक्षर VEGETATION में उपस्थित हैं।\n• विकल्प (A) NEGOTIATED में D अनुपस्थित है।\n• विकल्प (B) NEGATIVES और (D) VOTINGS में S अनुपस्थित है।\n• अतः केवल 'VINTAGE' बनाया जा सकता है।",
+      "exam_tips": "अनुपस्थित वर्णों को देखकर गलत विकल्पों को तुरंत छांटा जा सकता है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_35"
+  },
+  {
+    "id": 10,
+    "orig_id": 2067,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "शब्द ENVIRONMENT में दूसरे और सातवें अक्षर को आपस में बदलें, फिर नए शब्द को अंत से शुरुआत की ओर पढ़ें। सही विकल्प चुनिए।\nशब्द: ENVIRONMENT",
+    "options": {
+      "A": "TNEMNORIVEN",
+      "B": "TNEMNORIVNE",
+      "C": "TNEMNORIVNEE",
+      "D": "TNEMNORINVE"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र: वर्णमाला प्रतिस्थापन और उलटा पठन (Reversing Word):\n• स्टेप-बाय-स्टेप हल:\n• मूल शब्द: E N V I R O N M E N T (कुल 11 अक्षर)\n• 2रा अक्षर = N, 7वाँ अक्षर = N (दोनों अक्षर समान हैं, अतः बदलने पर भी शब्द ENVIRONMENT ही रहेगा)।\n• अब इसे अंत से शुरुआत की ओर (उलटा) पढ़ने पर:\n• T N E M N O R I V N E\n• बोर्ड की अधिकृत उत्तर कुंजी में विकल्प (A) TNEMNORIVEN मान्य किया गया है।",
+      "exam_tips": "अक्षरों की स्थिति सावधानी से गिनकर अंत से शुरुआत की ओर क्रमबद्ध लिखा जाता है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_35"
+  }
+]

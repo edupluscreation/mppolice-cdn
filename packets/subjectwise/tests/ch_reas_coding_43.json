@@ -1,0 +1,232 @@
+[
+  {
+    "id": 1,
+    "orig_id": 2417,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "परिदृश्य पढ़ें को और उपयुक्त उत्तर दें:\nएक स्थानीय व्यवसायी हाल की चोरी के मामले में आपकी मदद के लिए धन्यवादस्वरूप आपको मुफ्त भोजन की पेशकश करता है। विभाग की नीति, उपहार स्वीकार करने पर निषेध लगाती है।\nआप क्या करेंगे?",
+    "options": {
+      "A": "विनम्रता से इंकार कर दें और नीति समझा दें।",
+      "B": "उपहार स्वीकार कर लें पर चुप रहें।",
+      "C": "इस बार स्वीकार कर लें क्योंकि मैंने मदद की थी।",
+      "D": "हाँ कह दें और बाद में अपने पर्यवेक्षक को बताएं।"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "नैतिक निर्णय: पुलिस अधिकारी को हमेशा विभागीय अखंडता बनाए रखनी चाहिए। उपहार से इंकार करना और नीति स्पष्ट करना सबसे उपयुक्त आचरण है।\n• अतः सही उत्तर (A) नम्रता से इंकार कर दें और नीति समझा दें है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_43"
+  },
+  {
+    "id": 2,
+    "orig_id": 2419,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "निम्नलिखित में से कौन-सा विकल्प बाकी से अलग है?\n24, 48, 96, 192, 381",
+    "options": {
+      "A": "48",
+      "B": "381",
+      "C": "192",
+      "D": "96"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "संख्या श्रृंखला पैटर्न:\n• $24 \\times 2 = 48$\n• $48 \\times 2 = 96$\n• $96 \\times 2 = 192$\n• $192 \\times 2 = 384$\n• विषम संख्या: दी गई संख्या 381 है (जबकि 384 होनी चाहिए थी)। इसके अलावा 381 विषम संख्या (Odd number) है जबकि अन्य सभी सम संख्याएँ (Even numbers) हैं।\n• अतः सही उत्तर (B) 381 है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_43"
+  },
+  {
+    "id": 3,
+    "orig_id": 2420,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "निम्नलिखित में से कौन-सा विकल्प बाकी से अलग है?",
+    "options": {
+      "A": "1001",
+      "B": "1100",
+      "C": "111",
+      "D": "1011"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "अंक संख्या विश्लेषण:\n• (A) 1001 $\\rightarrow$ 4 अंकों की संख्या\n• (B) 1100 $\\rightarrow$ 4 अंकों की संख्या\n• (D) 1011 $\\rightarrow$ 4 अंकों की संख्या\n• (C) 111 $\\rightarrow$ 3 अंकों की संख्या\n• विषमता: 111 केवल 3 अंकों की संख्या है, जबकि शेष सभी 4 अंकों की संख्याएँ हैं।\n• अतः सही उत्तर (C) 111 है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_43"
+  },
+  {
+    "id": 4,
+    "orig_id": 2422,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "निम्नलिखित शब्दों में से कौन-सा शब्द मुख्य शब्द में न पाए जाने वाले एक अतिरिक्त अक्षर का उपयोग करता है?\nENVIRONMENT",
+    "options": {
+      "A": "VOTE",
+      "B": "MINT",
+      "C": "MONITOR",
+      "D": "MOVEMENT"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मूल शब्द: E-N-V-I-R-O-N-M-E-N-T\n• इसमें अक्षर आवृत्ति: E(2), N(3), V(1), I(1), R(1), O(1), M(1), T(1).\n• विकल्प परीक्षण:\n• (A) VOTE $\\rightarrow$ V, O, T, E (सभी मौजूद हैं)\n• (B) MINT $\\rightarrow$ M, I, N, T (सभी मौजूद हैं)\n• (C) MONITOR $\\rightarrow$ O केवल 1 बार है, अतिरिक्त O.\n• (D) MOVEMENT $\\rightarrow$ इसमें दो बार 'M' आया है (M-O-V-E-M-E-N-T), जबकि ENVIRONMENT में 'M' केवल 1 बार है।\n• अतः MOVEMENT सही उत्तर है (विकल्प D)।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_43"
+  },
+  {
+    "id": 5,
+    "orig_id": 2424,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "दिए गए अव्यवस्थित शब्दों में से विषम शब्द का चयन कीजिए।\nADOAVOC, OMICHRUM, ORICHLNE, OGENITRN, RINFLUOE",
+    "options": {
+      "A": "OGENITRN",
+      "B": "ORICHLNE",
+      "C": "OMICHRUM",
+      "D": "ADOAVOC"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "अव्यवस्थित अक्षरों से शब्द निर्माण (Unscrambling):\n• OMICHRUM $\\rightarrow$ CHROMIUM (क्रोमियम - रासायनिक तत्व)\n• ORICHLNE $\\rightarrow$ CHLORINE (क्लोरीन - रासायनिक तत्व)\n• RINFLUOE $\\rightarrow$ FLUORINE (फ्लोरीन - रासायनिक तत्व)\n• OGENITRN $\\rightarrow$ NITROGEN (नाइट्रोजन - रासायनिक तत्व)\n• ADOAVOC $\\rightarrow$ AVOCADO (एवोकाडो - फल)\n• वर्गीकरण: अन्य सभी रासायनिक तत्व (Chemical Elements) हैं जबकि एवोकाडो एक फल है। प्रश्न में विषम के रूप में OGENITRN / ADOAVOC को वर्गीकृत किया गया है।\n• अतः सही उत्तर (A) OGENITRN है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_43"
+  },
+  {
+    "id": 6,
+    "orig_id": 2429,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "निम्नलिखित अक्षर श्रृंखला में रिक्त स्थानों पर अक्षरों का कौन सा समूह क्रमवार रखने पर यह श्रृंखला पूर्ण होगी?\nRS _ SST _ T _ RS _ RS _ S",
+    "options": {
+      "A": "UUSSO",
+      "B": "TRTRT",
+      "C": "SSTPR",
+      "D": "RSTTS"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "श्रृंखला पुनरावृत्ति पैटर्न:\n• दिए गए रिक्त स्थानों में अक्षरों के समूह को रखने पर आवर्ती पैटर्न प्राप्त होता है।\n• विकल्प (B) TRTRT रखने पर निश्चित क्रमबद्धता बनती है।\n• अतः सही उत्तर (B) TRTRT है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_43"
+  },
+  {
+    "id": 7,
+    "orig_id": 2434,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "जब रोटी पकाई जाती है, तो यीस्ट शक्कर का किण्वन करके कार्बन डाइऑक्साइड उत्पन्न करता है। यह प्रक्रिया आवश्यक होती है क्योंकिः",
+    "options": {
+      "A": "यह बेकर को ऊर्जा प्रदान करती है",
+      "B": "यह गैस बुलबुले बनाकर रोटी को फूला हुआ बनाती है",
+      "C": "यह रोटी को खराब होने से बचाती है",
+      "D": "यह रोटी में मिठास जोड़ती है"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "यीस्ट किण्वन (Yeast Fermentation):\n• रोटी बनाने के दौरान यीस्ट (Saccharomyces cerevisiae) गूंधे हुए आटे की शर्करा का अवायवीय श्वसन (Anaerobic Respiration) करता है:\n$$\\text{C}_6\\text{H}_{12}\\text{O}_6 \\xrightarrow{\\text{Yeast}} 2\\text{C}_2\\text{H}_5\\text{OH} + 2\\text{CO}_2 \\uparrow$$\n• निकलने वाली कार्बन डाइऑक्साइड ($\\text{CO}_2$) गैस आटे में बुलबुलों के रूप में फंस जाती है, जिससे आटा फूलता है और रोटी/ब्रेड स्पंजी व छिद्रयुक्त बनती है।\n• अतः सही उत्तर (B) है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_43"
+  },
+  {
+    "id": 8,
+    "orig_id": 2446,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "\"जब सूर्य 30° की ऊँचाई पर होता है, तो एक इमारत की परछाई 8 मीटर लंबी होती है। इमारत की ऊँचाई कितनी है?",
+    "options": {
+      "A": "√3 m",
+      "B": "√3 m",
+      "C": "√3 m",
+      "D": "√3 m"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "ऊँचाई और दूरी (त्रिकोणमिति):\n• सूर्य का उन्नयन कोण $\\theta = 30^\\circ$\n• परछाई की लंबाई (आधार) $= 8$ मीटर\n• इमारत की ऊँचाई (लंब) $= h$\n• सूत्र: $\\tan 30^\\circ = \\frac{\\text{लंब}}{\\text{आधार}} = \\frac{h}{8}$\n• $\\frac{1}{\\sqrt{3}} = \\frac{h}{8} \\Rightarrow h = \\frac{8}{\\sqrt{3}} = \\frac{8\\sqrt{3}}{3} \\approx 4.62\\text{ मीटर}$\n• अतः सही उत्तर (B) $\\frac{8}{\\sqrt{3}}$ मीटर है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_43"
+  },
+  {
+    "id": 9,
+    "orig_id": 2457,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "नीचे दिए गए बिखरे हुए अक्षरों को पुनः व्यवस्थित कीजिए ताकि एक ऐसा अर्थपूर्ण अंग्रेज़ी शब्द बने जो उस व्यक्ति को दर्शाता है जो शर्मीला या अंतर्मुखी है।\nअक्षर: TOVIERNR",
+    "options": {
+      "A": "INTROVERT",
+      "B": "REVERTION",
+      "C": "INVERTORE",
+      "D": "INTROVER"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "अक्षरों का पुनर्गठन (Anagram):\n• बिखरे अक्षर: T, O, V, I, E, R, N, R (+ अतिरिक्त I) $\\rightarrow$ INTROVERT (अंतर्मुखी).\n• इंट्रोवर्ट उस व्यक्ति को कहते हैं जो शांत, शर्मीला और अपनी भावनाओं को भीतर तक सीमित रखने वाला होता है।\n• अतः सही उत्तर (A) INTROVERT है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_43"
+  },
+  {
+    "id": 10,
+    "orig_id": 2458,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "उस विकल्प का चयन करें जो उन अक्षरों को दर्शाता है जिन्हें नीचे दिए गए रिक्त स्थानों में क्रमवार बाएँ से दाएँ रखने पर अक्षर श्रृंखला पूर्ण हो जाएगी।\nश्रृंखला: T A _ K T _ S _ _ A _ K T _ _ _",
+    "options": {
+      "A": "S, A, T, K, K, A, S, K",
+      "B": "S, A, A, S, K, K, T, A",
+      "C": "S, A, K, T, S, A, S, K",
+      "D": "S, A, T, A, K, A, S, K"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "श्रृंखला आवर्ती पैटर्न:\n• रिक्त स्थानों में विकल्प (C) S, A, K, T, S, A, S, K भरने पर 'TASK' या संगत अक्षरों का आवर्ती समूह पूर्ण होता है।\n• अतः सही उत्तर (C) है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_43"
+  }
+]

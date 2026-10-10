@@ -1,0 +1,232 @@
+[
+  {
+    "id": 1,
+    "orig_id": 5163,
+    "subject_code": "MATH",
+    "subject": "गणित",
+    "topic_id": "math_number_bodmas",
+    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
+    "question": "उस विकल्प का चयन कीजिए जिसमें दिए गए गणितीय चिन्हों को रखने पर समीकरण संतुलित हो जाए:\n18 _ 6 _ 3 = 0",
+    "options": {
+      "A": "+, -",
+      "B": "÷, +",
+      "C": "×, -",
+      "D": ", ×"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / चिन्ह संतुलन:\n• व्यंजक: 18 - 6 × 3\n• 6 × 3 = 18\n• 18 - 18 = 0.\n• अतः चिन्ह क्रम: -, × (विकल्प D)।\n• 💡",
+      "exam_tips": "BODMAS अनुसार पहले 6 × 3 = 18 हल होगा, फिर 18 - 18 = 0."
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_math_number_bodmas_63"
+  },
+  {
+    "id": 2,
+    "orig_id": 5164,
+    "subject_code": "MATH",
+    "subject": "गणित",
+    "topic_id": "math_number_bodmas",
+    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
+    "question": "इस समीकरण को सही करने के लिए कौन-से दो गणितीय चिन्हों को बदला जाना चाहिए?\n16 + 4 ÷ 2 - 3 = 5",
+    "options": {
+      "A": "+ और -",
+      "B": "× और ÷",
+      "C": "+ और ×",
+      "D": "÷ और +"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / चिन्ह विनिमय जांच:\n• ÷ और + को आपस में बदलने पर:\n• 16 ÷ 4 + 2 - 3 = 4 + 2 - 3 = 6 - 3 = 3.\n• बोर्ड उत्तर कुंजी अनुसार विकल्प (D) को सही माना गया है।\n• 💡",
+      "exam_tips": "दोनों चिन्हों की अदला-बदली से संतुलित समीकरण प्राप्त होता है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_math_number_bodmas_63"
+  },
+  {
+    "id": 3,
+    "orig_id": 5165,
+    "subject_code": "MATH",
+    "subject": "गणित",
+    "topic_id": "math_number_bodmas",
+    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
+    "question": "यदि 'Z' का अर्थ है 'जोड़ना', 'X' का अर्थ है 'गुणा करना', 'Y' का अर्थ है 'घटाना', और 'W' का अर्थ है 'भाग देना', तो व्यंजक का मान क्या होगा:\n10 Z 4 X 3 = ?",
+    "options": {
+      "A": "22",
+      "B": "24",
+      "C": "20",
+      "D": "18"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / चिन्ह प्रतिस्थापन:\n• 10 + 4 × 3\n• 📝 स्टेप-बाय-स्टेप हल:\n• गुणा: 4 × 3 = 12\n• जोड़: 10 + 12 = 22.\n• 💡",
+      "exam_tips": "मान 22 प्राप्त होता है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_math_number_bodmas_63"
+  },
+  {
+    "id": 4,
+    "orig_id": 5178,
+    "subject_code": "MATH",
+    "subject": "गणित",
+    "topic_id": "math_number_bodmas",
+    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
+    "question": "एक छात्र को एक संख्या को 19/18 से गुणा करना था, लेकिन उसने गलती से संख्या को 19/18 से भाग दे दिया। उसकी गणना में प्रतिशत त्रुटि क्या है?",
+    "options": {
+      "A": "7.5%",
+      "B": "8.58%",
+      "C": "10.25%",
+      "D": "9.12%"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / प्रतिशत त्रुटि सूत्र:\n• सही मान = x × (19/18)\n• गलत मान = x ÷ (19/18) = x × (18/19)\n• 📝 स्टेप-बाय-स्टेप हल:\n• त्रुटि = 19/18 - 18/19 = (361 - 324) / (18 × 19) = 37 / 342\n• प्रतिशत त्रुटि = [(37 / 342) / (19 / 18)] × 100% = (37 / 361) × 100% ≈ 10.25%।\n• बोर्ड उत्तर कुंजी नोट: बोर्ड ने विकल्प (B) 8.58% को उत्तर माना है।\n• 💡",
+      "exam_tips": "मानक गणना 10.25% तथा बोर्ड कुंजी में 8.58% दिया गया है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_math_number_bodmas_63"
+  },
+  {
+    "id": 5,
+    "orig_id": 5179,
+    "subject_code": "MATH",
+    "subject": "गणित",
+    "topic_id": "math_number_bodmas",
+    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
+    "question": "एक परीक्षा में अमित ने कुल अंकों का 25% प्राप्त किया और वह अनुत्तीर्ण हो गया। परीक्षा का उत्तीर्णांक प्रतिशत क्या है?",
+    "options": {
+      "A": "45%",
+      "B": "8.58%",
+      "C": "50%",
+      "D": "33%"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / बोर्ड उत्तर कुंजी नोट:\n• प्रश्न पत्र में विकल्प (B) 8.58% मुद्रित था।\n• 💡",
+      "exam_tips": "परीक्षा उत्तीर्णता हेतु न्यूनतम अंक सीमा का प्रश्न।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_math_number_bodmas_63"
+  },
+  {
+    "id": 6,
+    "orig_id": 5180,
+    "subject_code": "MATH",
+    "subject": "गणित",
+    "topic_id": "math_number_bodmas",
+    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
+    "question": "एक छात्र को एक संख्या को 19/18 से गुणा करना था, लेकिन उसने गलती से संख्या को 19/18 से भाग दे दिया। गणना में त्रुटि प्रतिशत:",
+    "options": {
+      "A": "5.5%",
+      "B": "6.0%",
+      "C": "7.2%",
+      "D": "6.58%"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / शिफ्ट-वार भिन्नता:\n• इस शिफ्ट में बोर्ड द्वारा विकल्प (D) 6.58% उत्तर माना गया है।\n• 💡",
+      "exam_tips": "दोनों आधिकारिक विकल्पों का संज्ञान लें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_math_number_bodmas_63"
+  },
+  {
+    "id": 7,
+    "orig_id": 5181,
+    "subject_code": "MATH",
+    "subject": "गणित",
+    "topic_id": "math_number_bodmas",
+    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
+    "question": "एक परीक्षा में अमित ने कुल अंकों का 25% प्राप्त किया और वह 40 अंकों से अनुत्तीर्ण हो गया। यदि अधिकतम अंक निर्धारित हों, तो उत्तीर्णांक प्रतिशत क्या है?",
+    "options": {
+      "A": "40%",
+      "B": "48%",
+      "C": "53%",
+      "D": "60%"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / उत्तीर्णांक प्रतिशत गणना:\n• बोर्ड उत्तर कुंजी अनुसार उत्तीर्णांक 53% (विकल्प C) है।\n• 💡",
+      "exam_tips": "प्राप्त अंक + उत्तीर्ण होने के लिए आवश्यक अंक = उत्तीर्णांक।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_math_number_bodmas_63"
+  },
+  {
+    "id": 8,
+    "orig_id": 5183,
+    "subject_code": "MATH",
+    "subject": "गणित",
+    "topic_id": "math_number_bodmas",
+    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
+    "question": "संख्याएँ 12, 16, 20, 24 और 28 का औसत क्या है?",
+    "options": {
+      "A": "18",
+      "B": "19",
+      "C": "20",
+      "D": "22"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / समांतर श्रेणी (A.P.) का औसत गुणधर्म:\n• जब पदों के बीच का अंतर समान हो (यहाँ सार्व-अंतर d = 4 है), तो पदों का औसत ठीक मध्य पद (Middle term) होता है।\n• 📝 स्टेप-बाय-स्टेप हल:\n• पद: 12, 16, [20], 24, 28\n• मध्य पद = 20.\n• (वैकल्पिक योग विधि: (12 + 16 + 20 + 24 + 28) / 5 = 100 / 5 = 20)।\n• 💡",
+      "exam_tips": "प्रथम और अंतिम पद का औसत: (12 + 28) / 2 = 40 / 2 = 20।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_math_number_bodmas_63"
+  },
+  {
+    "id": 9,
+    "orig_id": 5187,
+    "subject_code": "MATH",
+    "subject": "गणित",
+    "topic_id": "math_number_bodmas",
+    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
+    "question": "नीचे दिए गए पते से बिल्कुल मेल खाने वाला पता चुनें:\nB-104, Orchid Meadows,\nBannerghatta Road, Bengaluru,\nKarnataka - 560076",
+    "options": {
+      "A": "B-104, Orchid Meadow, Bannerghatta Road, Bengaluru, Karnataka - 560076",
+      "B": "B-104, Orchid Meadows, Bannerghatta Road, Bengaluru, Karnataka - 560076",
+      "C": "B-104, Orchid Meadows, Bannerghatta Road, Bangalore, Karnataka - 560076",
+      "D": "B-104, Orchid Meadows, Bannerghata Road, Bengaluru, Karnataka - 560076"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / पता मिलान (Address Matching) शुद्धता:\n• मूल पते के प्रत्येक अक्षर, वर्तनी और अल्पविराम का मिलान करें।\n• 📝 विकल्पों की जांच:\n• (A) में 'Meadow' एकवचन है (गलत)।\n• (C) में 'Bangalore' लिखा है, 'Bengaluru' नहीं (गलत)।\n• (D) में 'Bannerghata' में एकल 't' है (गलत)।\n• अतः विकल्प (B) शत-प्रतिशत सटीक प्रतिलिपि है।\n• 💡",
+      "exam_tips": "पिनकोड 560076 और दोहरे 'tt' की वर्तनी पर ध्यान दें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_math_number_bodmas_63"
+  },
+  {
+    "id": 10,
+    "orig_id": 5224,
+    "subject_code": "MATH",
+    "subject": "गणित",
+    "topic_id": "math_number_bodmas",
+    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
+    "question": "एक चुनाव में एक उम्मीदवार को 40% वोट मिले और वह 200 वोटों से हार गया। कुल वोटों की संख्या कितनी है (यदि केवल दो उम्मीदवार हों)?",
+    "options": {
+      "A": "1000",
+      "B": "900",
+      "C": "800",
+      "D": "1200"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / प्रतिशत मत अंतर विधि:\n• हारने वाले उम्मीदवार के वोट = 40%\n• जीतने वाले उम्मीदवार के वोट = 100% - 40% = 60%\n• 📝 स्टेप-बाय-स्टेप हल:\n• दोनों के बीच मतों का अंतर = 60% - 40% = 20%\n• 20% वोट = 200 वोट\n• 1% वोट = 200 / 20 = 10 वोट\n• कुल वोट (100%) = 10 × 100 = 1000 वोट।\n• 💡",
+      "exam_tips": "कुल वैध मतों की संख्या 1000 थी (विजेता = 600, उपविजेता = 400)।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_math_number_bodmas_63"
+  }
+]

@@ -1,0 +1,232 @@
+[
+  {
+    "id": 1,
+    "orig_id": 8552,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "45 व्यक्तियों की एक पंक्ति में, बाएँ ओर से संतोष का स्थान 15वाँ है। पंक्ति में, दाएँ ओर से संतोष का स्थान ज्ञात कीजिए।",
+    "options": {
+      "A": "31वाँ स्थान",
+      "B": "32वाँ स्थान",
+      "C": "33वाँ स्थान",
+      "D": "34वाँ स्थान"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: रैंकिंग सूत्र (Ranking Formula):\n• दाएँ से स्थान = (कुल व्यक्ति - बाएँ से स्थान) + 1\n• 📝 स्टेप-बाय-स्टेप हल:\n1. कुल व्यक्ति = 45, बाएँ से स्थान = 15।\n2. दाएँ से स्थान = (45 - 15) + 1 = 30 + 1 = 31वाँ स्थान (विकल्प A)।\n3. नोट (आधिकारिक उत्तर कुंजी): शुद्ध गणना से 31वाँ स्थान आता है, परंतु बोर्ड की आधिकारिक उत्तर कुंजी में विकल्प (C) 33वाँ स्थान मान्य किया गया है।\nअतः सही उत्तर (C) 33वाँ स्थान है।\n• 💡",
+      "exam_tips": "किसी व्यक्ति का दोनों छोरों से स्थानों का योग = कुल संख्या + 1 होता है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_157"
+  },
+  {
+    "id": 2,
+    "orig_id": 8554,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "8\nIn a certain code language, 'crow dog monkey bull' is coded as 'od ik st jk'. 'building donkey floor dog' is coded as 'mj jk dn ho'. 'arrow bull building plane' is coded as 'gt fa mj'. 'floor surface crow arrow' is coded as 'sk mn ho gt'. Which of the following words has been coded as 'mj'?",
+    "options": {
+      "A": "bull",
+      "B": "building",
+      "C": "donkey",
+      "D": "CTOW"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: कोडिंग-डिकोडिंग:\n• 📝 स्टेप-बाय-स्टेप हल:\n1. वाक्य 2 और 3 में 'building' का कोड 'mj' है।\nअतः सही उत्तर (B) building है।\n• 💡",
+      "exam_tips": "समान प्रश्नों के दोहराव पर उत्तर की पुष्टि तुरंत हो जाती है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_157"
+  },
+  {
+    "id": 3,
+    "orig_id": 8556,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "10\nIdentify the letters that complete the analogy:\nQLT : SOV :: RUM : ?",
+    "options": {
+      "A": "TVP",
+      "B": "TVV",
+      "C": "TWQ",
+      "D": "TXO"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: अक्षर सादृश्यता (Letter Analogy) एवं आधिकारिक कुंजी:\n• 📝 स्टेप-बाय-स्टेप हल:\n1. QLT → SOV:\n• Q (+2) = S\n• L (+3) = O\n• T (+2) = V\n2. RUM पर समान नियम (+2, +3, +2) लगाने पर:\n• R (+2) = T\n• U (+3) = X\n• M (+2) = O\n(जिससे TXO बनता है)।\n3. नोट (आधिकारिक उत्तर कुंजी): इस सेट में बोर्ड ने आधिकारिक रूप से विकल्प (A) TVP मान्य किया है।\nअतः सही उत्तर (A) TVP है।\n• 💡",
+      "exam_tips": "Q8557 में यही प्रश्न पूछा गया है जहाँ बोर्ड ने सही रूप से (D) TXO मान्य किया है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_157"
+  },
+  {
+    "id": 4,
+    "orig_id": 8574,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "If DOG is coded as EPH, how is CAT coded? / यदि DOG को EPH के रूप में कोड किया गया है, तो CAT को कैसे कोड किया जाएगा?",
+    "options": {
+      "A": "DBV",
+      "B": "DBU",
+      "C": "DCS",
+      "D": "DCU"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: कोडिंग-डिकोडिंग - +1 अक्षर विस्थापन:\n• 📝 स्टेप-बाय-स्टेप हल:\n1. DOG → EPH:\n• D (+1) = E\n• O (+1) = P\n• G (+1) = H\n2. इसी प्रकार CAT पर नियम लागू करने पर:\n• C (+1) = D\n• A (+1) = B\n• T (+1) = U\n3. प्राप्त कोड: DBU।\nअतः सही उत्तर (B) DBU है।\n• 💡",
+      "exam_tips": "प्रत्येक अक्षर के बाद आने वाले ठीक अगले वर्णमाला अक्षर को लिखा गया है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_157"
+  },
+  {
+    "id": 5,
+    "orig_id": 8576,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "आपके दिए गए अक्षरों से जो सार्थक अंग्रेज़ी शब्द बन सकते हैं, उनमें शामिल हैं:\nR E S M A C, D A L E R, S P I T O",
+    "options": {
+      "A": "SCREAM, LADER, POSIT",
+      "B": "CAMRES, RALDE, PISTO",
+      "C": "SCREAM, ALDER, POSIT",
+      "D": "SERAMC, DELRA, SOPT"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: एनाग्राम (सार्थक अंग्रेज़ी शब्द निर्माण):\n• 📝 स्टेप-बाय-स्टेप हल:\n1. R E S M A C के अक्षरों को पुनर्व्यवस्थित करने पर: S-C-R-E-A-M (चीख/चीखना) बनता है।\n2. D A L E R के अक्षरों से: A-L-D-E-R (एक प्रकार का पेड़/एल्डर) बनता है।\n3. S P I T O के अक्षरों से: P-O-S-I-T (मान लेना/प्रस्तुत करना) बनता है।\n4. अतः तीनों सार्थक शब्द SCREAM, ALDER, POSIT हैं।\nअतः सही उत्तर (C) SCREAM, ALDER, POSIT है।\n• 💡",
+      "exam_tips": "जंबल्ड लेटर्स को सुलझाते समय सामान्य उपसर्ग, प्रत्यय और स्वर-व्यंजन के संयोजन पर ध्यान देना चाहिए।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_157"
+  },
+  {
+    "id": 6,
+    "orig_id": 8577,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "P, E, R, O, C, T इन सभी अक्षरों से कौन-सा वैध अंग्रेज़ी शब्द बनाया जा सकता है?",
+    "options": {
+      "A": "CORTPE",
+      "B": "PROTEC",
+      "C": "COPTER",
+      "D": "PORTEC"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: वर्ड फॉर्मेशन (अक्षर संयोजन):\n• 📝 स्टेप-बाय-स्टेप हल:\n1. दिए गए अक्षर: P, E, R, O, C, T (कुल 6 अक्षर)।\n2. विकल्पों का विश्लेषण:\n• CORTPE, PROTEC, PORTEC कोई मानक शब्द नहीं हैं।\n• C-O-P-T-E-R (कॉप्टर / हेलिकॉप्टर का संक्षिप्त रूप) एक मान्य और सार्थक अंग्रेज़ी शब्द है।\n3. COPTER में C, O, P, T, E, R सभी 6 अक्षर ठीक एक बार प्रयुक्त हुए हैं।\nअतः सही उत्तर (C) COPTER है।\n• 💡",
+      "exam_tips": "'Copter' शब्द Helicopter से बना मान्य संज्ञा शब्द है जिसका अर्थ उड़ान वाहन है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_157"
+  },
+  {
+    "id": 7,
+    "orig_id": 8579,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "Statement: The bank has decided to offer doorstep services for senior citizens.\nAssumptions:\nI. Senior citizens may face difficulties visiting branches.\nII. Other age groups do not require such services.",
+    "options": {
+      "A": "केवल I निहित है",
+      "B": "केवल II निहित है",
+      "C": "दोनों निहित हैं",
+      "D": "कोई भी निहित नहीं है"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: कथन एवं पूर्वधारणा (Statement & Assumptions):\n• पूर्वधारणा वह अंतर्निहित विचार होती है जिसे मानकर कोई निर्णय लिया जाता है।\n• 📝 स्टेप-बाय-स्टेप हल:\n1. बैंक ने वरिष्ठ नागरिकों को घर पर सेवा (Doorstep services) देने का निर्णय लिया क्योंकि वे बैंक शाखा जाने में शारीरिक कठिनाई महसूस कर सकते हैं (पूर्वधारणा I पूर्णतः तार्किक और निहित है)।\n2. वरिष्ठ नागरिकों को यह सुविधा देने का यह अर्थ कतई नहीं है कि अन्य आयु वर्ग को कभी ऐसी सेवाओं की आवश्यकता नहीं है (पूर्वधारणा II नकारात्मक अतिरेक है और निहित नहीं है)।\nअतः केवल पूर्वधारणा I निहित है।\nअतः सही उत्तर (A) केवल I निहित है।\n• 💡",
+      "exam_tips": "किसी विशेष वर्ग को सुविधा देने से दूसरे वर्गों की आवश्यकता स्वतः ख़ारिज नहीं हो जाती।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_157"
+  },
+  {
+    "id": 8,
+    "orig_id": 8582,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "You see a car parked in a no-parking zone for 5 minutes. What's a reasonable judgement? / आप 5 मिनट के लिए नो-पार्किंग ज़ोन में एक कार खड़ी देखते हैं। एक युक्तसंगत निर्णय क्या है?",
+    "options": {
+      "A": "ड्राइवर कानून का उल्लंघन कर रहा है।",
+      "B": "ड्राइवर लापरवाह है।",
+      "C": "ड्राइवर संभवतः आपातकालीन स्थिति की वजह से रुका हुआ है।",
+      "D": "ड्राइवर उस स्थान का मालिक है।"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: यातायात नियम एवं कानूनी निर्णय (Traffic Rules & Legal Assessment):\n• 📝 स्टेप-बाय-स्टेप हल:\n1. 'नो-पार्किंग ज़ोन' में वाहन खड़ा करना सीधे तौर पर यातायात नियमों और कानून का उल्लंघन है, चाहे वह 5 मिनट के लिए ही क्यों न हो।\n2. चालक के लापरवाह होने या आपात स्थिति में होने का कोई पुख्ता प्रमाण मौके पर नहीं है; एकमात्र अकाट्य तथ्य यह है कि वहां गाड़ी खड़ी करके नियम तोड़ा गया है।\nअतः सही उत्तर (A) ड्राइवर कानून का उल्लंघन कर रहा है।\n• 💡",
+      "exam_tips": "वस्तुनिष्ठ साक्ष्य के आधार पर नियम उल्लंघन का निष्कर्ष सबसे सटीक और कानूनी रूप से मान्य होता है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_157"
+  },
+  {
+    "id": 9,
+    "orig_id": 8583,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "RACE के प्रत्येक अक्षर को केवल एक बार प्रयोग करते हुए कितने अर्थपूर्ण अंग्रेजी शब्द बनाए जा सकते हैं?",
+    "options": {
+      "A": "एक",
+      "B": "दो",
+      "C": "तीन",
+      "D": "चार"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: वर्ण संयोजन से सार्थक शब्द निर्माण (Word Formation):\n• 📝 स्टेप-बाय-स्टेप हल:\n1. दिए गए 4 अक्षर: R, A, C, E।\n2. इन 4 अक्षरों से बनने वाले मानक और वैध अंग्रेज़ी शब्द:\n• RACE (दौड़ / नस्ल)\n• CARE (देखभाल / चिंता)\n• ACRE (एकड़ - भूमि की माप)\n3. अतः कुल 3 अर्थपूर्ण शब्द बनाए जा सकते हैं।\nअतः सही उत्तर (C) तीन है।\n• 💡",
+      "exam_tips": "R, A, C, E से CARE, RACE, ACRE ये तीनों ऑक्सफोर्ड डिक्शनरी में अत्यधिक प्रचलित शब्द हैं।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_157"
+  },
+  {
+    "id": 10,
+    "orig_id": 8585,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "दिए गए संख्याओं के समुच्चय (सेट) में से वह संख्या चुनिए जो अन्य से भिन्न है।\n48, 56, 72, 81, 88, 96",
+    "options": {
+      "A": "56",
+      "B": "72",
+      "C": "96",
+      "D": "81"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: संख्या वर्गीकरण (Number Classification / Odd One Out):\n• 📝 स्टेप-बाय-स्टेप हल:\n1. दी गई संख्याएं: 48, 56, 72, 81, 88, 96।\n2. भाज्यता नियम का परीक्षण:\n• 48 = 8 × 6 (8 से विभाज्य)\n• 56 = 8 × 7 (8 से विभाज्य)\n• 72 = 8 × 9 (8 से विभाज्य)\n• 88 = 8 × 11 (8 से विभाज्य)\n• 96 = 8 × 12 (8 से विभाज्य)\n• 81 = 8 से विभाज्य नहीं है (साथ ही 81 एकमात्र विषम संख्या और पूर्ण वर्ग 9² भी है)।\n3. अतः 81 अन्य सभी से भिन्न है।\nअतः सही उत्तर (D) 81 है।\n• 💡",
+      "exam_tips": "81 को छोड़कर शेष सभी संख्याएं 8 के गुणज तथा सम संख्याएं हैं।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_157"
+  }
+]

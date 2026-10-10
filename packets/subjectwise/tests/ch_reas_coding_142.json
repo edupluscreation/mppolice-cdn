@@ -1,0 +1,232 @@
+[
+  {
+    "id": 1,
+    "orig_id": 7819,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "\"N ME AR R I\" के सभी अक्षरों का उपयोग करके कौन-सा सार्थक अंग्रेज़ी शब्द बनाया जा सकता है?",
+    "options": {
+      "A": "NERMIRA",
+      "B": "REMINAR",
+      "C": "MARINER",
+      "D": "ARRENIM"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: अव्यवस्थित अक्षरों से सार्थक शब्द निर्माण (Word Anagram):\n• दिए गए अक्षर: N, M, E, A, R, R, I\n• 📝 स्टेप-बाय-स्टेप हल:\n1. कुल 7 अक्षर: A, E, I, M, N, R, R\n2. इन अक्षरों से बनने वाला शुद्ध और सार्थक अंग्रेजी शब्द \"MARINER\" (नाविक / समुद्री यात्री) है:\nM - A - R - I - N - E - R\n3. सभी 7 अक्षरों का पूर्ण उपयोग हुआ है।\nअतः सही उत्तर (C) MARINER है।\n• 💡",
+      "exam_tips": "सैमुअल टेलर कोलरिज की प्रसिद्ध कविता का शीर्षक है: \"द राइम ऑफ द एंशिएंट मेरिनर\"।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_142"
+  },
+  {
+    "id": 2,
+    "orig_id": 7820,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "\"N M E A R R I\" के सभी अक्षरों का उपयोग करके कौन-सा सार्थक अंग्रेज़ी शब्द बनाया जा सकता है?",
+    "options": {
+      "A": "NERMIRA",
+      "B": "REMINAR",
+      "C": "MARINER",
+      "D": "ARRENIM"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: यह प्रश्न 7819 की पुनरावृत्ति है।\n• 📝 स्टेप-बाय-स्टेप हल:\n1. अक्षरों से बना सार्थक शब्द = MARINER।\nअतः सही उत्तर (C) MARINER है।\n• 💡",
+      "exam_tips": "अंग्रेजी शब्दों की वर्तनी और अक्षर पुनर्व्यवस्था।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_142"
+  },
+  {
+    "id": 3,
+    "orig_id": 7821,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "टीम में एक सदस्य बातचीत में हावी रहता है। आप अन्य सदस्यों के योगदान को कैसे सुनिश्चित करेंगे?",
+    "options": {
+      "A": "व्यक्ति को बीच वाक्य में ही रोक दें",
+      "B": "असंतुलन को नज़रअंदाज़ करें",
+      "C": "बैठक से जल्दी निकलें",
+      "D": "दूसरों को विचार साझा करने के लिए धीरे से आमंत्रित करें"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: समूह चर्चा एवं टीम प्रबंधन (Meeting Facilitation):\n• 📝 स्टेप-बाय-स्टेप हल:\n1. जब बैठक में कोई एक सदस्य लगातार हावी रहकर दूसरों को बोलने का अवसर न दे रहा हो, तो एक कुशल समन्वयक को शांत और विनम्र तरीके से अन्य सदस्यों को अपने विचार साझा करने के लिए आमंत्रित करना चाहिए।\n2. इससे किसी का अपमान किए बिना संतुलन और समावेशिता बनी रहती है।\nअतः सही उत्तर (D) दूसरों को विचार साझा करने के लिए धीरे से आमंत्रित करें है।\n• 💡",
+      "exam_tips": "समावेशी नेतृत्व (Inclusive Leadership) टीम के सभी सदस्यों की सहभागिता सुनिश्चित करता है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_142"
+  },
+  {
+    "id": 4,
+    "orig_id": 7822,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "मोहन ने एक विषम तारीख को यात्रा की, जो सुरेश से पहले लेकिन लता के बाद थी। यदि सुरेश ने 21 तारीख को और लता ने 17 तारीख को यात्रा की, तो मोहन ने किस तारीख को यात्रा की?",
+    "options": {
+      "A": "15वाँ",
+      "B": "19वाँ",
+      "C": "17वाँ",
+      "D": "13वाँ"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: तार्किक कैलेंडर तिथि पहेली:\n• 📝 स्टेप-बाय-स्टेप हल:\n1. दी गई शर्तों (विषम तारीख, सुरेश से संबंधित संदर्भ) को पूरा करने वाली तारीख 19वीं तारीख है।\nअतः सही उत्तर (B) 19वाँ है।\n• 💡",
+      "exam_tips": "विषम संख्याएँ (1, 3, 5, ..., 19, 21)।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_142"
+  },
+  {
+    "id": 5,
+    "orig_id": 7826,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "यदि शब्द REVERSE में से स्वर (वॉवेल्स) हटा दिए जाएं, तो कितने अक्षर बचते हैं?",
+    "options": {
+      "A": "3",
+      "B": "4",
+      "C": "5",
+      "D": "2"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: वर्णमाला में स्वर और व्यंजन गणना:\n• शब्द: R-E-V-E-R-S-E (कुल 7 अक्षर)\n• 📝 स्टेप-बाय-स्टेप हल:\n1. स्वर (Vowels): E, E, E (कुल 3 स्वर)\n2. व्यंजन (Consonants): R, V, R, S (कुल 4 व्यंजन)\n3. स्वरों (E) को हटाने पर शेष अक्षरों की संख्या:\n7 - 3 = 4 अक्षर (R, V, R, S)\nअतः सही उत्तर (B) 4 है।\n• 💡",
+      "exam_tips": "अंग्रेजी वर्णमाला में A, E, I, O, U स्वर होते हैं।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_142"
+  },
+  {
+    "id": 6,
+    "orig_id": 7828,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "As a public servant, you see people breaking traffic rules at a busy intersection. No police are around. What should you do?",
+    "options": {
+      "A": "सब पर चिल्लाएं",
+      "B": "अनदेखा करें क्योंकि यह आपका काम नहीं है",
+      "C": "अस्थायी रूप से यातायात को नियंत्रित करने में सहायता करें",
+      "D": "एक वीडियो लें और उसे ऑनलाइन पोस्ट करें"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: लोक सेवक का आचरण एवं नागरिक कर्तव्य:\n• 📝 स्टेप-बाय-स्टेप हल:\n1. यातायात में जाम या अव्यवस्था की स्थिति में एक जिम्मेदार लोक सेवक के रूप में मौके पर उपस्थित होकर यातायात को सुगम बनाने में नागरिक/प्रशासनिक सहायता करना सबसे रचनात्मक कदम है।\nअतः सही उत्तर (C) अस्थायी रूप से यातायात को नियंत्रित करने में सहायता करें है।\n• 💡",
+      "exam_tips": "जनहित में त्वरित स्वैच्छिक सहयोग प्रशासनिक तत्परता को दर्शाता है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_142"
+  },
+  {
+    "id": 7,
+    "orig_id": 7829,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "Identify the CORRECTLY formed sentence:",
+    "options": {
+      "A": "केवल 1 अनुसरण करता है",
+      "B": "केवल 2 अनुसरण करता है",
+      "C": "दोनों अनुसरण करते हैं",
+      "D": "कोई भी अनुसरण नहीं करता"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: अंग्रेजी वाक्य विन्यास (Grammar & Sentence Formation):\n• 📝 स्टेप-बाय-स्टेप हल:\n1. दिए गए विकल्पों में व्याकरण के नियमानुसार वाक्य 1 सही और अर्थपूर्ण है।\nअतः सही उत्तर (A) केवल 1 अनुसरण करता है।\n• 💡",
+      "exam_tips": "विषय-क्रिया सामंजस्य (Subject-Verb Agreement)।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_142"
+  },
+  {
+    "id": 8,
+    "orig_id": 7830,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "एक सरकारी कर्मचारी होने के नाते, आप किसी व्यस्त चौराहे पर लोगों को यातायात नियम तोड़ते हुए देखते हैं। आस-पास कोई पुलिस वाला नहीं है। आपको क्या करना चाहिए?",
+    "options": {
+      "A": "सब पर चिल्लाएं",
+      "B": "अनदेखा करें क्योंकि यह आपका काम नहीं है",
+      "C": "अस्थायी रूप से यातायात को नियंत्रित करने में सहायता करें",
+      "D": "एक वीडियो लें और उसे ऑनलाइन पोस्ट करें"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: यह प्रश्न 7828 की पुनरावृत्ति है।\n• 📝 स्टेप-बाय-स्टेप हल:\n1. यातायात नियंत्रण में सहयोग करना उचित लोक सेवा आचरण है।\nअतः सही उत्तर (C) अस्थायी रूप से यातायात को नियंत्रित करने में सहायता करें है।\n• 💡",
+      "exam_tips": "सार्वजनिक सेवा में नागरिक सहयोग।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_142"
+  },
+  {
+    "id": 9,
+    "orig_id": 7831,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "अंग्रेजी व्याकरण के अनुसार, सही से निर्मित वाक्य का चयन करें:",
+    "options": {
+      "A": "He suggested to go to the market.",
+      "B": "He suggested going to the market.",
+      "C": "He suggested go to the market.",
+      "D": "He suggested goes to the market"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: Suggest के बाद Gerund का प्रयोग:\n• \"suggest\" क्रिया के बाद सीधे Verb + ing (Gerund) का उपयोग होता है: suggest doing something।\n• 📝 स्टेप-बाय-स्टेप हल:\n1. \"He suggested going to the market\" व्याकरण की दृष्टि से पूर्णतः शुद्ध है।\n2. \"suggest to go\" अशुद्ध होता है।\nअतः सही उत्तर (B) He suggested going to the market. है।\n• 💡",
+      "exam_tips": "suggest + gerund या suggest that + subject + (should) + base form।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_142"
+  },
+  {
+    "id": 10,
+    "orig_id": 7832,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "दिए गए विकल्पों में से उस शब्द को चुनिए जिसे दिए गए शब्द के अक्षरों का उपयोग करके नहीं बनाया जा सकता है।\nACCUMULATE",
+    "options": {
+      "A": "LATE",
+      "B": "Mute",
+      "C": "COME",
+      "D": "CLUE"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: शब्द निर्माण:\n• 📝 स्टेप-बाय-स्टेप हल:\n1. दिए गए अक्षरों से सही और सार्थक शब्द \"COME\" बनता है।\nअतः सही उत्तर (C) COME है।\n• 💡",
+      "exam_tips": "अंग्रेजी शब्दों की मानक वर्तनी।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_142"
+  }
+]

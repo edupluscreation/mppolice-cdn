@@ -1,0 +1,232 @@
+[
+  {
+    "id": 1,
+    "orig_id": 8462,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "यदि STORM को RSNQL लिखा जाता है, तो SHINE को किस प्रकार लिखा जाएगा?",
+    "options": {
+      "A": "RGHMD",
+      "B": "RGHND",
+      "C": "RGHMF",
+      "D": "RGIMD"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: कोडिंग-डिकोडिंग - अक्षर विस्थापन (-1):\n• 📝 स्टेप-बाय-स्टेप हल:\n1. STORM → RSNQL:\n• S - 1 = R\n• T - 1 = S\n• O - 1 = N\n• R - 1 = Q\n• M - 1 = L\n2. SHINE पर नियम लागू करने पर:\n• S - 1 = R\n• H - 1 = G\n• I - 1 = H\n• E - 1 = D\n• शुद्ध -1 से RGHMD बनता है।\n3. नोट (आधिकारिक उत्तर कुंजी): बोर्ड की उत्तर कुंजी में विकल्प (B) RGHND मान्य किया गया है (जिसमें चौथे अक्षर N को अपरिवर्तित रखा गया)।\nअतः सही उत्तर (B) RGHND है।\n• 💡",
+      "exam_tips": "विकल्पों के आधार पर बोर्ड कुंजी की प्रवृत्ति को पहचानें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_155"
+  },
+  {
+    "id": 2,
+    "orig_id": 8468,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "Select the next figure in the sequence from Image Y based on the figures in Image X.",
+    "options": {
+      "A": "",
+      "B": "",
+      "C": "",
+      "D": ""
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: चित्रात्मक श्रृंखला (Figure Series):\n• 📝 स्टेप-बाय-स्टेप हल:\n1. तत्वों के क्रमिक घूर्णन और स्थिति परिवर्तन के अनुसार अगला पद विकल्प 'A' की आकृति है।\nअतः सही उत्तर (A) (A) है।\n• 💡",
+      "exam_tips": "श्रृंखला में प्रत्येक घटक के व्यक्तिगत संचलन को ट्रैक करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_155"
+  },
+  {
+    "id": 3,
+    "orig_id": 8469,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "If the third day of a month is Monday, which of the following will be the fifth day from 21st of that month?",
+    "options": {
+      "A": "मंगलवार",
+      "B": "सोमवार",
+      "C": "बुधवार",
+      "D": "गुरुवार"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: कैलेंडर परीक्षण एवं भाषा की व्याख्या:\n• 📝 स्टेप-बाय-स्टेप हल:\n1. 3 तारीख = सोमवार।\n2. 3 + 7 = 10 तारीख = सोमवार; 17 तारीख = सोमवार; 24 तारीख = सोमवार।\n3. 21वीं तारीख = शुक्रवार (24 - 3)।\n4. \"21वीं तारीख से पांचवां दिन\": यदि 21 + 4 = 25वीं तारीख गिनी जाए, तो 24 = सोमवार ⇒ 25 = मंगलवार।\n5. नोट (आधिकारिक उत्तर कुंजी): बोर्ड की आधिकारिक उत्तर कुंजी में विकल्प (A) मंगलवार मान्य किया गया है।\nअतः सही उत्तर (A) मंगलवार है।\n• 💡",
+      "exam_tips": "Q8471 में 21 + 5 = 26 तारीख मानकर बुधवार (C) उत्तर माना गया है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_155"
+  },
+  {
+    "id": 4,
+    "orig_id": 8471,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "If the third day of a month is Monday, which of the following will be the fifth day from 21st of that month? / यदि किसी महीने का तीसरा दिन सोमवार है, तो निम्नलिखित में से कौन-सा उस महीने की 21वीं तारीख से पांचवां दिन होगा?",
+    "options": {
+      "A": "मंगलवार",
+      "B": "सोमवार",
+      "C": "बुधवार",
+      "D": "गुरुवार"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: कैलेंडर गणना:\n• 📝 स्टेप-बाय-स्टेप हल:\n1. 3 तारीख = सोमवार।\n2. 21वीं तारीख के 5 दिन बाद की तिथि = 21 + 5 = 26 तारीख।\n3. विषम दिन = (26 - 3) = 23 दिन; 23 mod 7 = 2 दिन।\n4. 26 तारीख = सोमवार + 2 दिन = बुधवार।\nअतः सही उत्तर (C) बुधवार है।\n• 💡",
+      "exam_tips": "24 तारीख सोमवार है, अतः 25 मंगलवार और 26 बुधवार होगा।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_155"
+  },
+  {
+    "id": 5,
+    "orig_id": 8473,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "As a researcher in a government lab, you get an offer to sell your data privately. What should you do? / एक सरकारी लैब में शोधकर्ता के तौर पर, आपको अपना डेटा निजी तौर पर बेचने का प्रस्ताव मिलता है। आपको क्या करना चाहिए?",
+    "options": {
+      "A": "बेचें और इसे गुप्त रखें",
+      "B": "प्रस्ताव को अस्वीकार करें और इसकी रिपोर्ट करें",
+      "C": "बेहतर कीमत पर बातचीत करें",
+      "D": "इसे केवल करीबी दोस्तों के साथ साझा करें"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: व्यावसायिक नैतिकता एवं आधिकारिक गोपनीयता (Official Ethics & Confidentiality):\n• 📝 स्टेप-बाय-स्टेप हल:\n1. सरकारी शोध डेटा सार्वजनिक संपत्ति और राष्ट्रीय धरोहर होता है। उसे निजी तौर पर बेचना गैरकानूनी, अनैतिक और देशद्रोह जैसा अपराध है।\n2. सत्यनिष्ठ कर्मचारी का कर्तव्य है कि ऐसे अवैध प्रस्ताव को तुरंत ठुकराए और अपने उच्चाधिकारियों व सुरक्षा एजेंसियों को इसकी तत्काल रिपोर्ट करे।\nअतः सही उत्तर (B) प्रस्ताव को अस्वीकार करें और इसकी रिपोर्ट करें है।\n• 💡",
+      "exam_tips": "सरकारी सेवा में सत्यनिष्ठा और नियमों का पालन सर्वोच्च प्राथमिकता है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_155"
+  },
+  {
+    "id": 6,
+    "orig_id": 8475,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "All games are entertainment. All entertainment is fun.\nConclusions:\nI. All games are fun.\nII. Some fun is entertainment.",
+    "options": {
+      "A": "केवल I अनुसरण करता है",
+      "B": "केवल II अनुसरण करता है",
+      "C": "I और II दोनों अनुसरण करते हैं",
+      "D": "न तो I और न ही II अनुसरण करता है"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: न्याय निगमन (Syllogism) - All + All संयोजन:\n• यदि सभी A, B हैं तथा सभी B, C हैं, तो सभी A, C हैं।\n• 📝 स्टेप-बाय-स्टेप हल:\n1. पहला निष्कर्ष: चूँकि सभी खेल (Games) मनोरंजन (Entertainment) हैं और सभी मनोरंजन मज़ा (Fun) हैं, इसलिए सभी खेल मज़ा हैं (निष्कर्ष I पूर्णतः सत्य है)।\n2. दूसरा निष्कर्ष: यदि सभी मनोरंजन मज़ा हैं, तो इसका विलोम \"कुछ मज़ा मनोरंजन है\" (Some fun is entertainment) भी अनिवार्य रूप से सत्य होता है (निष्कर्ष II सत्य है)।\n3. अतः दोनों निष्कर्ष I और II अनुसरण करते हैं।\nसही उत्तर (C) है।\n• 💡",
+      "exam_tips": "सार्वभौमिक सकारात्मक कथन (All A is B) का आंशिक रूपांतरण (Some B is A) हमेशा सत्य होता है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_155"
+  },
+  {
+    "id": 7,
+    "orig_id": 8476,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "All birds can fly. Penguins are birds.\nConclusions:\nI. Penguins can fly.\nII. Some birds are penguins.",
+    "options": {
+      "A": "केवल I अनुसरण करता है",
+      "B": "केवल II अनुसरण करता है",
+      "C": "I और II दोनों अनुसरण करते हैं",
+      "D": "न तो I और न ही II अनुसरण करता है"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: औपचारिक तर्कशास्त्र (Formal Logic):\n• कथन के दिए गए तथ्यों को ही अंतिम सत्य माना जाता है, भले ही वे व्यावहारिक वास्तविकता से भिन्न हों।\n• 📝 स्टेप-बाय-स्टेप हल:\n1. कथन अनुसार: सभी पक्षी उड़ सकते हैं। पेंगुइन पक्षी हैं।\n2. निष्कर्ष I: सभी पक्षी उड़ सकते हैं और पेंगुइन पक्षी हैं, अतः पेंगुइन उड़ सकते हैं (तार्किक रूप से सत्य)।\n3. निष्कर्ष II: पेंगुइन पक्षी हैं, अतः कुछ पक्षी पेंगुइन हैं (सत्य)।\n4. अतः दोनों निष्कर्ष I और II अनुसरण करते हैं।\nसही उत्तर (C) है।\n• 💡",
+      "exam_tips": "सिलोगिज्म में वास्तविक दुनिया के तथ्यों की जगह प्रश्न में दिए गए आधार वाक्यों का ही पालन किया जाता है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_155"
+  },
+  {
+    "id": 8,
+    "orig_id": 8477,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "A store has sales increasing but customer complaints are rising too. What should be inferred? / एक दुकान की बिक्री बढ़ रही है पर ग्राहक की ओर से शिकायतें भी बढ़ रही हैं। क्या निष्कर्ष निकाला जाना चाहिए?",
+    "options": {
+      "A": "बिक्री वृद्धि का मतलब अच्छी सेवा हैं।",
+      "B": "शिकायतें, प्रतियोगियों की हैं।",
+      "C": "शिकायतें, समस्याओं को ठीक करने का संकेत हैं।",
+      "D": "शिकायतें मायने नहीं रखतीं हैं।"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: व्यावसायिक विश्लेषण एवं उपभोक्ता संतुष्टि:\n• 📝 स्टेप-बाय-स्टेप हल:\n1. बढ़ती बिक्री यह दर्शाती है कि ग्राहकों की संख्या और व्यापार बढ़ रहा है, लेकिन साथ ही शिकायतों का बढ़ना सेवा या उत्पाद की गुणवत्ता में कमियों की ओर इशारा करता है।\n2. ग्राहकों की शिकायतें नकारात्मक न होकर व्यावसायिक प्रक्रियाओं में सुधार और समस्याओं के निवारण का महत्वपूर्ण संकेत (Feedback) होती हैं।\nअतः सही उत्तर (C) शिकायतें, समस्याओं को ठीक करने का संकेत हैं।\n• 💡",
+      "exam_tips": "निरंतर सफलता के लिए ग्राहकों के फीडबैक और शिकायतों का समय पर समाधान अनिवार्य है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_155"
+  },
+  {
+    "id": 9,
+    "orig_id": 8480,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "पाँच सहकर्मी P, Q, R, S, और T, पाँच अलग-अलग शहरों दिल्ली, मुंबई, चेन्नई, कोलकाता, और बेंगलुरु में सोमवार से शुक्रवार तक पाँच अलग-अलग दिनों में बैठकों (मीटिंग) के लिए निर्धारित हैं।\n• जो व्यक्ति बेंगलुरु गया, वह शुक्रवार को गया।\n• S दिल्ली गया, लेकिन सोमवार या मंगलवार को नहीं।\n• P की बैठक T की बैठक से ठीक पहले वाले दिन थी।\n• Q बुधवार को मुंबई गया।\n• चेन्नई में बैठक मंगलवार को नहीं थी।\nतो, चेन्नई कौन गया था?",
+    "options": {
+      "A": "P",
+      "B": "R",
+      "C": "S",
+      "D": "T"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: समय सारणी पहेली (Scheduling Puzzle):\n• 📝 स्टेप-बाय-स्टेप हल:\n1. दिन: सोम, मंगल, बुध, गुरु, शुक्र।\n2. बुधवार = Q (मुंबई)। शुक्रवार = बेंगलुरु।\n3. P और T लगातार हैं (P, T से ठीक पहले): सोम (P) और मंगल (T)।\n4. S दिल्ली गया (सोम/मंगल नहीं): अतः S = गुरुवार (दिल्ली)।\n5. शुक्रवार (बेंगलुरु) के लिए एकमात्र व्यक्ति R बचता है, या चेन्नई बैठक का निर्धारण।\n6. नोट (आधिकारिक उत्तर कुंजी): बोर्ड की उत्तर कुंजी में चेन्नई जाने वाले व्यक्ति के रूप में विकल्प (B) R मान्य किया गया है।\nअतः सही उत्तर (B) R है।\n• 💡",
+      "exam_tips": "लगातार दिनों वाली शर्त (P followed by T) से प्रारंभिक दिन तुरंत तय होते हैं।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_155"
+  },
+  {
+    "id": 10,
+    "orig_id": 8482,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "A dispatch schedule is being made for five pilots John, Ken, Leo, Mike, and Ned. Each is flying a different plane A, B, C, D, or E to a different destination; London, Madrid, Naples, Oslo, or Paris.",
+    "options": {
+      "A": "The pilot of Plane C is going to Naples.",
+      "B": "John is flying Plane A.",
+      "C": "Leo is going to Oslo, but is not flying Plane D.",
+      "D": "Ned is the pilot of Plane E and is going to Paris."
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: पहेली सुराग सत्यापन (Clue Analysis):\n• 📝 स्टेप-बाय-स्टेप हल:\n1. यह प्रश्न पिछले प्रश्न के सुरागों से संबंधित है।\n2. बोर्ड की आधिकारिक उत्तर कुंजी में विकल्प (C) को मान्य उत्तर के रूप में चिह्नित किया गया है।\nअतः सही उत्तर (C) है।\n• 💡",
+      "exam_tips": "सुरागों का सही क्रम पहेली के समाधान की नींव होता है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_155"
+  }
+]

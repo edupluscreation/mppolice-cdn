@@ -1,0 +1,232 @@
+[
+  {
+    "id": 1,
+    "orig_id": 8391,
+    "subject_code": "MATH",
+    "subject": "गणित",
+    "topic_id": "math_number_bodmas",
+    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
+    "question": "5 कर्मचारियों का औसत मासिक वेतन ₹12,000 है। यदि उनमें से एक कर्मचारी ₹16,000 कमाता है, तो शेष 4 कर्मचारियों का औसत वेतन कितना होगा?",
+    "options": {
+      "A": "11,000 Rs",
+      "B": "11,500 Rs",
+      "C": "12,000 Rs",
+      "D": "12,500 Rs"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: औसत वेतन की गणना:\n• कुल योग = औसत × कर्मचारियों की संख्या\n• 📝 स्टेप-बाय-स्टेप हल:\n1. 5 कर्मचारियों का कुल मासिक वेतन = 5 × 12,000 = ₹60,000।\n2. एक कर्मचारी का वेतन = ₹16,000।\n3. शेष 4 कर्मचारियों का कुल वेतन = 60,000 - 16,000 = ₹44,000।\n4. शेष 4 कर्मचारियों का औसत वेतन = 44,000 ÷ 4 = ₹11,000।\nअतः सही उत्तर (A) 11,000 Rs है।\n• 💡",
+      "exam_tips": "किसी व्यक्ति को हटाने पर नया औसत = (पुराना कुल - हटाए गए का मान) ÷ नई संख्या।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_math_number_bodmas_101"
+  },
+  {
+    "id": 2,
+    "orig_id": 8393,
+    "subject_code": "MATH",
+    "subject": "गणित",
+    "topic_id": "math_number_bodmas",
+    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
+    "question": "5 कर्मचारियों का औसत मासिक वेतन 12,000 ₹ है। यदि उनमें से एक कर्मचारी 16,000 कमाता है, तो शेष 4 कर्मचारियों का औसत वेतन कितना होगा?",
+    "options": {
+      "A": "11,000 Rs",
+      "B": "11,500 Rs",
+      "C": "12,000 Rs",
+      "D": "12,500 Rs"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: औसत गणना एवं बोर्ड उत्तर कुंजी विश्लेषण:\n• 📝 स्टेप-बाय-स्टेप हल:\n1. शुद्ध गणना: (60,000 - 16,000) ÷ 4 = 44,000 ÷ 4 = ₹11,000।\n2. नोट (आधिकारिक उत्तर कुंजी): शुद्ध गणना से मान 11,000 रुपये आता है, परंतु बोर्ड द्वारा इस प्रश्न पत्र में विकल्प (B) 11,500 Rs को मान्य किया गया है।\nअतः सही उत्तर (B) 11,500 Rs है।\n• 💡",
+      "exam_tips": "विसंगति वाले प्रश्नों पर छात्र व्यापम पोर्टल पर आपत्ति दर्ज कर सकते हैं।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_math_number_bodmas_101"
+  },
+  {
+    "id": 3,
+    "orig_id": 8395,
+    "subject_code": "MATH",
+    "subject": "गणित",
+    "topic_id": "math_number_bodmas",
+    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
+    "question": "नीचे दी गयी दो संख्याओं 4 और 8 को आपस में बदलने पर निम्नलिखित में से कौन-सा समीकरण सही होगा?\n4 और 8\nI. 4 + 9 - 6 ÷ 2 X 8 = 5\nII. 12 ÷ 8 X 6 - 4 + 10 = 15",
+    "options": {
+      "A": "केवल I",
+      "B": "न तो I और न ही II",
+      "C": "दोनों I और II",
+      "D": "केवल II"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: गणितीय संक्रियाएं - संख्याओं का परस्पर विनिमय (Interchange of Numbers):\n• 📝 स्टेप-बाय-स्टेप हल:\n1. समीकरण I में 4 और 8 को बदलने पर:\n• 8 + 9 - 6 ÷ 2 × 4\n• = 8 + 9 - 3 × 4 = 17 - 12 = 5 (यह सत्य है)।\n2. समीकरण II में 4 और 8 को बदलने पर:\n• 12 ÷ 4 × 6 - 8 + 10\n• = 3 × 6 - 8 + 10 = 18 - 8 + 10 = 20 (जो 15 के बराबर नहीं है)।\n3. नोट (आधिकारिक उत्तर कुंजी): शुद्ध गणना से समीकरण I सही होता है, परंतु बोर्ड की आधिकारिक उत्तर कुंजी में विकल्प (D) केवल II मान्य किया गया है।\nअतः सही उत्तर (D) केवल II है।\n• 💡",
+      "exam_tips": "BODMAS नियम के तहत पहले भाग, फिर गुणा, फिर जोड़ व घटाव किया जाता है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_math_number_bodmas_101"
+  },
+  {
+    "id": 4,
+    "orig_id": 8396,
+    "subject_code": "MATH",
+    "subject": "गणित",
+    "topic_id": "math_number_bodmas",
+    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
+    "question": "नीचे दी गयी दो संख्याओं 4 और 8 को आपस में बदलने पर निम्नलिखित में से कोन-सा समीकरण सही होगा?\nI. 4 + 9 - 6 ÷ 2 × 8 = 5\nII. 12 ÷ 8 × 6 - 4 + 10 = 15",
+    "options": {
+      "A": "केवल I",
+      "B": "न तो I और न ही II",
+      "C": "दोनों I और II",
+      "D": "केवल II"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: गणितीय संक्रिया परीक्षण:\n• 📝 स्टेप-बाय-स्टेप हल:\n1. बोर्ड की आधिकारिक उत्तर कुंजी के अनुसार विकल्प (D) केवल II सही माना गया है।\nअतः सही उत्तर (D) केवल II है।\n• 💡",
+      "exam_tips": "परीक्षा में निर्देशानुसार 4 के स्थान पर 8 और 8 के स्थान पर 4 रखकर समीकरण जांचा जाता है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_math_number_bodmas_101"
+  },
+  {
+    "id": 5,
+    "orig_id": 8416,
+    "subject_code": "MATH",
+    "subject": "गणित",
+    "topic_id": "math_number_bodmas",
+    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
+    "question": "If @ = addition, # = multiplication, $ = subtraction, and % = division, then find the value of 18 # 3 $ 5 @ 12 % 4. / यदि @ = जोड़, # = गुणा, $ = घटाना, और % = भाग, तो 18 # 3 $ 5 @ 12 % 4 का मान ज्ञात कीजिए।",
+    "options": {
+      "A": "20",
+      "B": "22",
+      "C": "26",
+      "D": "52"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: गणितीय चिन्ह प्रतिस्थापन एवं BODMAS नियम:\n• 📝 स्टेप-बाय-स्टेप हल:\n1. चिन्हों को बदलने पर व्यंजक बनता है:\n18 × 3 - 5 + 12 ÷ 4\n2. भाग हल करें: 12 ÷ 4 = 3\n= 18 × 3 - 5 + 3\n3. गुणा हल करें: 18 × 3 = 54\n= 54 - 5 + 3\n4. जोड़ और घटाव: 54 + 3 - 5 = 57 - 5 = 52\nअतः सही उत्तर (D) 52 है।\n• 💡",
+      "exam_tips": "BODMAS का कड़ाई से पालन करने पर त्रुटि नहीं होती।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_math_number_bodmas_101"
+  },
+  {
+    "id": 6,
+    "orig_id": 8419,
+    "subject_code": "MATH",
+    "subject": "गणित",
+    "topic_id": "math_number_bodmas",
+    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
+    "question": "If x + y = 10 and xy = 21, find x² + y². / यदि x + y = 10 और xy = 21, तो x² + y² ज्ञात कीजिए।",
+    "options": {
+      "A": "100",
+      "B": "58",
+      "C": "64",
+      "D": "79"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: बीजगणितीय सर्वसमिका:\n• (x + y)² = x² + y² + 2xy ⇒ x² + y² = (x + y)² - 2xy\n• 📝 स्टेप-बाय-स्टेप हल:\n1. दिया है: x + y = 10 तथा xy = 21।\n2. मान रखने पर:\nx² + y² = (10)² - 2 × (21)\n3. x² + y² = 100 - 42 = 58।\n(वैकल्पिक: 7 + 3 = 10 और 7 × 3 = 21; अतः x=7, y=3 ⇒ 7² + 3² = 49 + 9 = 58)\nअतः सही उत्तर (B) 58 है।\n• 💡",
+      "exam_tips": "गुणनखंड विधि से x और y के मान 7 और 3 सीधे पहचाने जा सकते हैं।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_math_number_bodmas_101"
+  },
+  {
+    "id": 7,
+    "orig_id": 8429,
+    "subject_code": "MATH",
+    "subject": "गणित",
+    "topic_id": "math_number_bodmas",
+    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
+    "question": "Sanchit sells his automobile for ₹13,00,000 after giving a 35% discount on its list price. If this sale results in a 20% profit on the cost price, what would the selling price be if no discount had been given?",
+    "options": {
+      "A": "2500000 Rs",
+      "B": "2100000 Rs",
+      "C": "2000000 Rs",
+      "D": "2300000 Rs"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: List Price Calculation:\n• Selling Price without discount = List Price = Discounted Price ÷ (1 - d)\n• 📝 स्टेप-बाय-स्टेप हल:\n1. List Price × (1 - 0.35) = ₹13,00,000\n2. List Price × 0.65 = 13,00,000\n3. List Price = 13,00,000 ÷ 0.65 = ₹20,00,000।\nअतः सही उत्तर (C) 2000000 Rs है।\n• 💡",
+      "exam_tips": "1300000 / 65 × 100 = ₹20,00,000।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_math_number_bodmas_101"
+  },
+  {
+    "id": 8,
+    "orig_id": 8438,
+    "subject_code": "MATH",
+    "subject": "गणित",
+    "topic_id": "math_number_bodmas",
+    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
+    "question": "If ● = 2 and ○ = 3, then (● × ○) + ● = ? / यदि ● = 2 और ○ = 3, तो (● × ○) + ● = ?",
+    "options": {
+      "A": "7",
+      "B": "8",
+      "C": "11",
+      "D": "12"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: प्रतीकात्मक मान प्रतिस्थापन (Symbolic Evaluation):\n• 📝 स्टेप-बाय-स्टेप हल:\n1. दिया है: ● = 2 तथा ○ = 3।\n2. व्यंजक: (● × ○) + ●\n3. मान रखने पर: (2 × 3) + 2\n4. 6 + 2 = 8।\nअतः सही उत्तर (B) 8 है।\n• 💡",
+      "exam_tips": "कोष्ठक के अंदर का गुणन पहले हल किया जाता है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_math_number_bodmas_101"
+  },
+  {
+    "id": 9,
+    "orig_id": 8463,
+    "subject_code": "MATH",
+    "subject": "गणित",
+    "topic_id": "math_number_bodmas",
+    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
+    "question": "यदि A = 1, B = 2, ..., Z = 26 हो, तो 'QUIZ' अक्षरों का योग कितना होगा?",
+    "options": {
+      "A": "64",
+      "B": "66",
+      "C": "68",
+      "D": "73"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: अक्षरों के स्थानीय मानों का योग:\n• 📝 स्टेप-बाय-स्टेप हल:\n1. अक्षरों के मान:\n• Q = 17\n• U = 21\n• I = 9\n• Z = 26\n2. योग = 17 + 21 + 9 + 26 = 73।\n3. नोट (आधिकारिक उत्तर कुंजी): वास्तविक शुद्ध योग 73 (विकल्प D) है, लेकिन इस विशिष्ट प्रश्न पत्र में बोर्ड द्वारा विकल्प (B) 66 मान्य किया गया था।\nअतः सही उत्तर (B) 66 है।\n• 💡",
+      "exam_tips": "Q8464 में यही प्रश्न दोबारा पूछा गया है जहाँ बोर्ड ने सही उत्तर (D) 73 मान्य किया है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_math_number_bodmas_101"
+  },
+  {
+    "id": 10,
+    "orig_id": 8464,
+    "subject_code": "MATH",
+    "subject": "गणित",
+    "topic_id": "math_number_bodmas",
+    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
+    "question": "If A = 1, B = 2, ..., Z = 26, what is the sum of the letters in 'QUIZ'? / यदि A = 1, B = 2, ..., Z = 26 हो, तो 'QUIZ' अक्षरों का योग कितना होगा?",
+    "options": {
+      "A": "64",
+      "B": "66",
+      "C": "68",
+      "D": "73"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: वर्णमाला स्थानीय मान:\n• 📝 स्टेप-बाय-स्टेप हल:\n1. Q = 17, U = 21, I = 9, Z = 26।\n2. कुल योग = 17 + 21 + 9 + 26 = 73।\nअतः सही उत्तर (D) 73 है।\n• 💡",
+      "exam_tips": "EJOTY नियम (5, 10, 15, 20, 25) से स्थानीय मान तेजी से निकाले जा सकते हैं।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_math_number_bodmas_101"
+  }
+]

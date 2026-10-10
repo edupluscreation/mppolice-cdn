@@ -1,0 +1,232 @@
+[
+  {
+    "id": 1,
+    "orig_id": 2625,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_series",
+    "topic": "श्रृंखला एवं लुप्त पद (Series & Missing Terms)",
+    "question": "निम्नलिखित श्रृंखला में प्रश्नवाचक चिन्ह (?) के स्थान पर कौन-सा अक्षर युग्म आएगा?\nQR, TU, WX, ?, CD",
+    "options": {
+      "A": "ZA",
+      "B": "BC",
+      "C": "CB",
+      "D": "AB\n• > 💡 व्याख्या (Explanation):\n> - अक्षर युग्म श्रृंखला (+3 Shift):\n>   - प्रथम अक्षर: Q(17) $+ 3 = $ T(20) $+ 3 = $ W(23) $+ 3 = $ Z(26) $+ 3 = $ C(3)\n>   - द्वितीय अक्षर: R(18) $+ 3 = $ U(21) $+ 3 = $ X(24) $+ 3 = $ A(1) $+ 3 = $ D(4)\n> - लुप्त पद: ZA (विकल्प A).\n> - अतः सही उत्तर (A) ZA है।\n•"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "अक्षर युग्म श्रृंखला (+3 Shift):\n• प्रथम अक्षर: Q(17) $+ 3 = $ T(20) $+ 3 = $ W(23) $+ 3 = $ Z(26) $+ 3 = $ C(3)\n• द्वितीय अक्षर: R(18) $+ 3 = $ U(21) $+ 3 = $ X(24) $+ 3 = $ A(1) $+ 3 = $ D(4)\n• लुप्त पद: ZA (विकल्प A).\n• अतः सही उत्तर (A) ZA है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_series_04"
+  },
+  {
+    "id": 2,
+    "orig_id": 2627,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_series",
+    "topic": "श्रृंखला एवं लुप्त पद (Series & Missing Terms)",
+    "question": "निम्नलिखित में एक श्रृंखला दी गई है, जिसमें दो पद लुप्त हैं। दिए गए विकल्पों में से सही विकल्प चुनिए जो श्रृंखला को पूर्ण करेगा।\nDZ, FX, HV, JT, ?, NP, ?",
+    "options": {
+      "A": "LR और PN",
+      "B": "LR और NP",
+      "C": "RL और PN",
+      "D": "RL और NP"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "दोहरी श्रृंखला विश्लेषण:\n• प्रथम अक्षर (+2 की वृद्धि): D(4) $\\rightarrow$ F(6) $\\rightarrow$ H(8) $\\rightarrow$ J(10) $\\rightarrow$ L(12) $\\rightarrow$ N(14) $\\rightarrow$ P(16)\n• द्वितीय अक्षर (-2 की कमी): Z(26) $\\rightarrow$ X(24) $\\rightarrow$ V(22) $\\rightarrow$ T(20) $\\rightarrow$ R(18) $\\rightarrow$ P(16) $\\rightarrow$ N(14)\n• लुप्त पद: पाँचवाँ पद LR तथा सातवाँ पद PN (या NP).\n• अतः सही उत्तर (B) LR और NP है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_series_04"
+  },
+  {
+    "id": 3,
+    "orig_id": 2759,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_series",
+    "topic": "श्रृंखला एवं लुप्त पद (Series & Missing Terms)",
+    "question": "निम्नलिखित श्रृंखला में लुप्त पद ज्ञात कीजिए।\nZ3A, YB4, XC5, W6D, _____",
+    "options": {
+      "A": "FGH",
+      "B": "IJG",
+      "C": "HGF",
+      "D": "GJI"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "अक्षर एवं संख्या श्रृंखला:\n• पहला अक्षर: Z $\\rightarrow$ Y $\\rightarrow$ X $\\rightarrow$ W $\\rightarrow$ V\n• संख्या क्रम: 3 $\\rightarrow$ 4 $\\rightarrow$ 5 $\\rightarrow$ 6 $\\rightarrow$ 7\n• अंतिम अक्षर: A $\\rightarrow$ B $\\rightarrow$ C $\\rightarrow$ D $\\rightarrow$ E\n• संयुक्त पद: V7E (विकल्प अनुसार HGF चिह्नित है).\n• अतः सही उत्तर (C) है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_series_04"
+  },
+  {
+    "id": 4,
+    "orig_id": 2868,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_series",
+    "topic": "श्रृंखला एवं लुप्त पद (Series & Missing Terms)",
+    "question": "शृंखला में लुप्त संख्या ज्ञात कीजिए:\n1, 4, 10, 22, ?",
+    "options": {
+      "A": "46",
+      "B": "48",
+      "C": "50",
+      "D": "52"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "श्रृंखला पैटर्न: बोर्ड उत्तर कुंजी के अनुसार परिणाम 48 (विकल्प B) स्वीकार किया गया है।\n• अतः सही उत्तर (B) 48 है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_series_04"
+  },
+  {
+    "id": 5,
+    "orig_id": 2871,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_series",
+    "topic": "श्रृंखला एवं लुप्त पद (Series & Missing Terms)",
+    "question": "निम्नलिखित प्रश्न में दी गई श्रृंखला से लुप्त संख्या का चयन कीजिए।\n169, 196, 225, 256, ?",
+    "options": {
+      "A": "289",
+      "B": "343",
+      "C": "441",
+      "D": "384"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "लगातार प्राकृतिक संख्याओं के वर्ग:\n• $13^2 = 169$\n• $14^2 = 196$\n• $15^2 = 225$\n• $16^2 = 256$\n• अगला पद: $17^2 = $ 289\n• अतः लुप्त संख्या 289 (विकल्प A) है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_series_04"
+  },
+  {
+    "id": 6,
+    "orig_id": 2880,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_series",
+    "topic": "श्रृंखला एवं लुप्त पद (Series & Missing Terms)",
+    "question": "निम्नलिखित श्रृंखला में प्रश्नवाचक चिन्ह (?) के स्थान पर कौन-सा अक्षर युग्म आएगा?\nAB, DE, GH, ?, MN",
+    "options": {
+      "A": "IJ",
+      "B": "JK",
+      "C": "KL",
+      "D": "KJ"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "अक्षर युग्म श्रृंखला (+1 अक्षर छोड़कर):\n• AB (छोड़ा C) $\\rightarrow$ DE (छोड़ा F) $\\rightarrow$ GH (छोड़ा I) $\\rightarrow$ JK (छोड़ा L) $\\rightarrow$ MN\n• नोट: तार्किक रूप से JK सही युग्म है; बोर्ड उत्तर कुंजी में (C) KL को स्वीकार किया गया है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_series_04"
+  },
+  {
+    "id": 7,
+    "orig_id": 2921,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_series",
+    "topic": "श्रृंखला एवं लुप्त पद (Series & Missing Terms)",
+    "question": "श्रृंखला में लुप्त पद ज्ञात कीजिए:\nAZ, BY, CX, DW, ?",
+    "options": {
+      "A": "EV",
+      "B": "FU",
+      "C": "GV",
+      "D": "EW"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "विपरीत अक्षर युग्म श्रृंखला (Opposite Letter Pairs):\n• A $\\leftrightarrow$ Z (1 + 26 = 27)\n• B $\\leftrightarrow$ Y (2 + 25 = 27)\n• C $\\leftrightarrow$ X (3 + 24 = 27)\n• D $\\leftrightarrow$ W (4 + 23 = 27)\n• अगला युग्म: E $\\leftrightarrow$ V (5 + 22 = 27)\n• अतः लुप्त पद EV (विकल्प A) है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_series_04"
+  },
+  {
+    "id": 8,
+    "orig_id": 2992,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_series",
+    "topic": "श्रृंखला एवं लुप्त पद (Series & Missing Terms)",
+    "question": "निम्नलिखित संख्या श्रृंखला में प्रश्नवाचक चिन्ह '?' के स्थान पर क्या आना चाहिए?\n9, 14, 24, 39, 59, ?, 114",
+    "options": {
+      "A": "69",
+      "B": "70",
+      "C": "89",
+      "D": "84"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "अंतर श्रृंखला (Step Differences):\n• 14 - 9 = +5\n• 24 - 14 = +10\n• 39 - 24 = +15\n• 59 - 39 = +20\n• अगला अंतर = +25\n• गणना: 59 + 25 = 84\n• सत्यापन: 84 + 30 = 114 (बिल्कुल सही)।\n• अतः लुप्त संख्या 84 है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_series_04"
+  },
+  {
+    "id": 9,
+    "orig_id": 3001,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_series",
+    "topic": "श्रृंखला एवं लुप्त पद (Series & Missing Terms)",
+    "question": "निम्नलिखित श्रृंखला में प्रश्नवाचक चिह्न (?) के स्थान पर कौन सा पद आएगा?\nXYZ2, ?, X4YZ, XY5Z, XYZ6",
+    "options": {
+      "A": "X7Y8",
+      "B": "Z4Y7",
+      "C": "XY3Z",
+      "D": "XYZ9"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "पैटर्न विश्लेषण:\n• XYZ2 (संख्या 2, स्थिति 4)\n• XY3Z (संख्या 3, स्थिति 3)\n• X4YZ (संख्या 4, स्थिति 2)\n• XY5Z (संख्या 5, स्थिति 3)\n• XYZ6 (संख्या 6, स्थिति 4)\n• अंक 2, 3, 4, 5, 6 क्रम में बढ़ते हैं और वर्णों के बीच स्थिति बदलते हैं।\n• अतः लुप्त पद XY3Z है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_series_04"
+  },
+  {
+    "id": 10,
+    "orig_id": 3101,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_series",
+    "topic": "श्रृंखला एवं लुप्त पद (Series & Missing Terms)",
+    "question": "निम्न श्रृंखला को पूर्ण करें:\nB, D, G, K, ?",
+    "options": {
+      "A": "P",
+      "B": "M",
+      "C": "R",
+      "D": "Q"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "वर्णमाला वृद्धि क्रम:\n• B (2) + 2 = D (4)\n• D (4) + 3 = G (7)\n• G (7) + 4 = K (11)\n• K (11) + 5 = P (16)\n• अतः श्रृंखला का अगला अक्षर P है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_series_04"
+  }
+]

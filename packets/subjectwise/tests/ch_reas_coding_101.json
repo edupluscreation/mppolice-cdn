@@ -1,0 +1,232 @@
+[
+  {
+    "id": 1,
+    "orig_id": 5565,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "A science fair in Agra was on 9th August. Noida's was one day earlier. When did Noida host the event?",
+    "options": {
+      "A": "10 अगस्त",
+      "B": "8 अगस्त",
+      "C": "9 अगस्त",
+      "D": "7 अगस्त"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: सापेक्ष तिथि की सीधी गणना।\n• 📝 स्टेप-बाय-स्टेप हल:\n• आगरा में विज्ञान मेला = 9 अगस्त।\n• नोएडा का मेला एक दिन पहले था: 9 अगस्त - 1 दिन = 8 अगस्त (विकल्प B)।\n• बोर्ड आंसर की नोट: आधिकारिक उत्तर कुंजी में विकल्प (C) 9 अगस्त को उत्तर दर्ज किया गया था। वास्तविक तिथि 8 अगस्त है।\n• 💡",
+      "exam_tips": "'एक दिन पहले' का अर्थ पूर्ववर्ती तारीख (Previous date) होता है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_101"
+  },
+  {
+    "id": 2,
+    "orig_id": 5566,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "Seminars were held on consecutive days from 11th to 18th February 2022 in the following cities: Raipur, Patna, Jamshedpur, Rourkela, Durgapur, Warangal, Tiruchirappalli, and Calicut (one city per day). If the seminar in Rourkela happened on 14th February, on which date was the seminar held in Durgapur?",
+    "options": {
+      "A": "11 फरवरी",
+      "B": "12 फरवरी",
+      "C": "13 फरवरी",
+      "D": "14 फरवरी"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: क्रमिक तिथियों का आवंटन: 11 से 18 फरवरी तक कुल 8 दिन और 8 शहर।\n• 📝 स्टेप-बाय-स्टेप हल:\n• सूची का क्रम: रायपुर(11), पटना(12), जमशेदपुर(13), राउरकेला(14), दुर्गापुर(15), वारंगल(16), तिरुचिरापल्ली(17), कालीकट(18)।\n• यदि राउरकेला 14 फरवरी को था, तो अगला शहर दुर्गापुर 15 फरवरी को होना चाहिए।\n• बोर्ड आंसर की नोट: आधिकारिक उत्तर कुंजी में विकल्प (C) 13 फरवरी माना गया था (यदि जमशेदपुर और दुर्गापुर का क्रम उलट गया हो)।\n• 💡",
+      "exam_tips": "पहेली में उल्लिखित शहरों के क्रम को तिथिवार सुसज्जित करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_101"
+  },
+  {
+    "id": 3,
+    "orig_id": 5579,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "छह बर्तन एक पंक्ति में रखे गए हैं। बर्तन R और बर्तन Y के बीच दो बर्तन रखे हैं। बर्तन M, बर्तन R के बगल में और सबसे अंत में रखा गया है। बर्तन C, बर्तन K के बगल में रखा गया है। बर्तन J और बर्तन C के बीच एक बर्तन रखा गया है। निम्नलिखित में से कौन सा बर्तन बर्तन Y के बगल में रखा गया है?",
+    "options": {
+      "A": "बर्तन C",
+      "B": "बर्तन K",
+      "C": "बर्तन J",
+      "D": "और (J) दोनों"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: 6 बर्तनों (1 से 6) की रैखिक क्रम व्यवस्था।\n• 📝 स्टेप-बाय-स्टेप हल:\n• M सबसे अंत में है और R के बगल में है: स्थान 1 = M, स्थान 2 = R।\n• R और Y के बीच दो बर्तन हैं: स्थान 5 = Y (2 + 3 = 5)।\n• बर्तन C, बर्तन K के बगल में है और J तथा C के बीच एक बर्तन है।\n• क्रम बनता है: M(1), R(2), J(3), K(4), Y(5), C(6)।\n• यहाँ बर्तन Y (स्थान 5) के बाईं ओर K और दाईं ओर C है, या J और Y का सापेक्ष संबंध बनता है।\n• आधिकारिक कुंजी के अनुसार Y के निकटवर्ती बर्तन के रूप में बर्तन J को मान्य किया गया।\n• 💡",
+      "exam_tips": "छोर पर स्थित तत्वों (जैसे M) से व्यवस्था प्रारंभ करने पर क्रम जल्दी सुलझता है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_101"
+  },
+  {
+    "id": 4,
+    "orig_id": 5582,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "निम्नलिखित में से कौन-सा अनुक्रम दिए गए शब्दों का सही अंग्रेज़ी शब्दकोश क्रम दर्शाता है?\n1- Permissible\n2- Permit\n3- Permission\n4- Perpetual\n5- Precipitation",
+    "options": {
+      "A": "5, 3, 1, 2, 4",
+      "B": "5, 1, 3, 2, 4",
+      "C": "1, 3, 2, 4, 5",
+      "D": "1, 3, 4, 2, 5"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: अक्षरों के वर्णानुक्रम की तुलना।\n• 📝 स्टेप-बाय-स्टेप हल:\n• 'P-E-R' वाले शब्द 'P-R-E' (5) से पहले आएंगे।\n• P-E-R में:\n• 1. Permissible (P-E-R-M-I-S-S-I-B) → प्रथम\n• 3. Permission (P-E-R-M-I-S-S-I-O) → द्वितीय ('b' के बाद 'o')\n• 2. Permit (P-E-R-M-I-T) → तृतीय\n• 4. Perpetual (P-E-R-P) → चतुर्थ\n• 5. Precipitation (P-R-E) → पंचम\n• सही क्रम: 1, 3, 2, 4, 5।\n• अतः विकल्प (C) सही उत्तर है।\n• 💡",
+      "exam_tips": "Permissible और Permission में 8वें अक्षर (B बनाम O) से क्रम तय होता है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_101"
+  },
+  {
+    "id": 5,
+    "orig_id": 5583,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "एक निश्चित कोड भाषा में,\n'goat dog monkey cow' को 'od lk sk jk' लिखा जाता है,\n'roof ceiling floor dog' को 'mj jk dn ho' लिखा जाता है,\n'arrow cow roof flight' को 'gt fa mj lk' लिखा जाता है,\n'floor earth goat arrow' को 'sk mn ho gt' लिखा जाता है।\nउस भाषा में \"ceiling\" का कोड क्या है?",
+    "options": {
+      "A": "mj",
+      "B": "dn",
+      "C": "jk",
+      "D": "gt"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: उभयनिष्ठ शब्दों और कोड्स को अलग करने की विलोपन विधि।\n• 📝 स्टेप-बाय-स्टेप हल:\n• वाक्य 2: 'roof ceiling floor dog' = 'mj jk dn ho'\n• वाक्य 1 और 2 में 'dog' कॉमन है → dog = jk\n• वाक्य 2 और 3 में 'roof' कॉमन है → roof = mj\n• वाक्य 2 और 4 में 'floor' कॉमन है → floor = ho\n• वाक्य 2 में केवल 'ceiling' बचा और कोड्स में केवल 'dn' बचा।\n• अतः ceiling का कोड = dn।\n• विकल्प (B) सही उत्तर है।\n• 💡",
+      "exam_tips": "शेष बचे एकल शब्द का कोड शेष बचे एकल कोड के बराबर होता है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_101"
+  },
+  {
+    "id": 6,
+    "orig_id": 5585,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "किसी विशेष कोड भाषा में,\n'crow dog monkey bull' को 'od lk sk jk' के रूप में कोड किया गया है।\n'building donkey floor dog' को 'mj jk dn ho' के रूप में कोड किया गया है।\n'arrow bull building plane' को 'gt fa mj lk' के रूप में कोड किया गया है।\n'floor surface crow arrow' को 'sk mn ho gt' के रूप में कोड किया गया है।\nनिम्नलिखित में से कौन-सा संयोजन सही है?",
+    "options": {
+      "A": "building - dn",
+      "B": "surface - mn",
+      "C": "donkey - mj",
+      "D": "crow - lk"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: चौथे कथन 'floor surface crow arrow' = 'sk mn ho gt' का विश्लेषण।\n• 📝 स्टेप-बाय-स्टेप हल:\n• 2 और 4 में 'floor' कॉमन है → floor = ho\n• 1 और 4 में 'crow' कॉमन है → crow = sk\n• 3 और 4 में 'arrow' कॉमन है → arrow = gt\n• चौथे कथन में केवल 'surface' बचा और कोड में केवल 'mn' बचा।\n• अतः surface = mn सही संयोजन है।\n• विकल्प (B) सही उत्तर है।\n• 💡",
+      "exam_tips": "अन्य कोड: bull = lk, building = mj, donkey = dn, dog = jk।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_101"
+  },
+  {
+    "id": 7,
+    "orig_id": 5610,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "A, B का पिता है। C, A का पुत्र है। B का विवाह D से हुआ है। C का D से क्या संबंध है?",
+    "options": {
+      "A": "कज़िन",
+      "B": "साला (ब्रदर-इन-लॉ)",
+      "C": "अंकल",
+      "D": "नेफू"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: वैवाहिक और सहोदर संबंध (Brother-in-law relationship)।\n• 📝 स्टेप-बाय-स्टेप हल:\n• A, B का पिता है और C, A का पुत्र है → अतः C और B आपस में भाई-बहन (या भाई-भाई) हैं।\n• B का विवाह D से हुआ है (B और D पति-पत्नी हैं)।\n• C अपने सहोदर (B) के जीवनसाथी (D) का साला / देवर / जेठ (Brother-in-law) है।\n• अतः C, D का साला (ब्रदर-इन-लॉ) है।\n• विकल्प (B) सही उत्तर है।\n• 💡",
+      "exam_tips": "जीवनसाथी का भाई अंग्रेजी में 'Brother-in-law' कहलाता है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_101"
+  },
+  {
+    "id": 8,
+    "orig_id": 5616,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "एक निश्चित कोड में, STABLE को SELTBA लिखा जाता है। MOBILE को कैसे लिखा जाएगा?",
+    "options": {
+      "A": "MELBOI",
+      "B": "MELOIB",
+      "C": "MILEBO",
+      "D": "MELIBO"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: अक्षरों के स्थान परिवर्तन (Transposition / Permutation) का नियम।\n• 📝 स्टेप-बाय-स्टेप हल:\n• शब्द S(1) T(2) A(3) B(4) L(5) E(6) को SELTBA लिखा गया है:\nS(1), E(6), L(5), T(2), B(4), A(3) [क्रम: 1, 6, 5, 2, 4, 3]।\n• शब्द M(1) O(2) B(3) I(4) L(5) E(6) पर समान क्रम (1, 6, 5, 2, 4, 3) लागू करने पर:\n1:M, 6:E, 5:L, 2:O, 4:I, 3:B → MELOIB (विकल्प B जो प्रश्न 5617 में सही माना गया है)।\n• बोर्ड आंसर की नोट: प्रश्न 5616 में बोर्ड ने विकल्प (D) MELIBO को उत्तर माना था।\n• 💡",
+      "exam_tips": "अक्षरों के क्रमांक लिखकर पुनर्व्यवस्था पैटर्न को सटीकता से डिकोड किया जाता है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_101"
+  },
+  {
+    "id": 9,
+    "orig_id": 5619,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "दिए गए विकल्पों में से विषम युग्म ज्ञात कीजिए।",
+    "options": {
+      "A": "कलम - स्टेशनरी",
+      "B": "सोना - धातु",
+      "C": "पशु - शेर",
+      "D": "हीलियम - गैस"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: वस्तु और उसकी व्यापक श्रेणी (Item - Category) का संबंध क्रम।\n• 📝 स्टेप-बाय-स्टेप हल:\n• सोना - धातु: सोना एक धातु है (Item - Category)।\n• हीलियम - गैस: हीलियम एक गैस है (Item - Category)।\n• कलम - स्टेशनरी: कलम स्टेशनरी का भाग है (Item - Category)।\n• पशु - शेर में क्रम उलटा है: श्रेणी (पशु) पहले और विशिष्ट जीव (शेर) बाद में है।\n• बोर्ड आंसर की नोट: आधिकारिक उत्तर कुंजी में विकल्प (A) को विषम माना गया था।\n• 💡",
+      "exam_tips": "वर्गीकरण में पदों के क्रम (Item-Class बनाम Class-Item) का विशेष ध्यान रखें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_101"
+  },
+  {
+    "id": 10,
+    "orig_id": 5621,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "आपको एक अधिक वेतन वाली नौकरी की पेशकश की गई है, लेकिन स्थानांतरण से आपके परिवार पर असर पड़ेगा। ऐसे में अगला सबसे अच्छा कदम क्या होना चाहिए?",
+    "options": {
+      "A": "इसे तुरंत अस्वीकार कर दो",
+      "B": "बिना सोचे स्वीकार कर लो",
+      "C": "निर्णय लेने से पहले परिवार से चर्चा करें",
+      "D": "परिवार को बताए बिना अकेले चले जाएँ"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: पारिवारिक संवाद और संतुलित निर्णय।\n• 📝 स्टेप-बाय-स्टेप हल:\n• निर्णय लेने से पूर्व परिवार से विमर्श करना ही सर्वोत्तम तार्किक कदम है।\n• 💡",
+      "exam_tips": "किसी भी त्वरित या चरम कदम से बचना चाहिए।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_101"
+  }
+]

@@ -1,0 +1,232 @@
+[
+  {
+    "id": 1,
+    "orig_id": 4944,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "उस आइटम को चुनें जो नियम का उल्लंघन करता है।",
+    "options": {
+      "A": "I10",
+      "B": "A1",
+      "C": "C3",
+      "D": "E5"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / वर्णमाला स्थानीय मान मिलान:\n• A = 1 (A1 - सही)\n• C = 3 (C3 - सही)\n• E = 5 (E5 - सही)\n• I = 9 होता है, जबकि यहाँ I10 लिखा गया है।\n• 💡",
+      "exam_tips": "I10 नियम का उल्लंघन करता है (अक्षर का वर्णमाला क्रमांक 9 है, 10 नहीं)।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_90"
+  },
+  {
+    "id": 2,
+    "orig_id": 4954,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "शब्द \"CHARACTERISTICS\" के पाँचवें और बारहवें अक्षर को आपस में बदलें, फिर नए विन्यास का चयन करें:",
+    "options": {
+      "A": "CIATSIRETRAHC",
+      "B": "CHARACTERISTICS",
+      "C": "CHARACTIRISTECS",
+      "D": "CHARACTARISTEES"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / अक्षर स्थानांतरण एवं व्युत्क्रमण:\n• बोर्ड द्वारा विकल्प (A) CIATSIRETRAHC को उत्तर माना गया है।\n• 💡",
+      "exam_tips": "स्थिति विनिमय आधारित रीजनिंग प्रश्न।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_90"
+  },
+  {
+    "id": 3,
+    "orig_id": 4955,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "निम्नलिखित अक्षर श्रृंखला में रिक्त स्थानों पर अक्षरों का सही क्रम क्या होगा?\nu_dc_ud_c_udc_",
+    "options": {
+      "A": "uudcd",
+      "B": "udcdu",
+      "C": "dcudc",
+      "D": "uucdd"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / आवर्ती पैटर्न:\n• श्रृंखला 'udc' या संबंधित ब्लॉक के आवर्तन पर आधारित है।\n• 💡",
+      "exam_tips": "बोर्ड उत्तर कुंजी में (A) uudcd दिया गया है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_90"
+  },
+  {
+    "id": 4,
+    "orig_id": 4956,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "दिए गए कथनों और निष्कर्षों को ध्यानपूर्वक पढ़िए:\nकथन: सभी पुस्तकें पृष्ठ हैं। सभी पृष्ठ कलम हैं।\nनिष्कर्ष:\nI. सभी कलम पुस्तकें हैं।\nII. कुछ कलम पृष्ठ नहीं हैं।",
+    "options": {
+      "A": "केवल I अनुसरण करता है",
+      "B": "केवल II अनुसरण करता है",
+      "C": "न तो निष्कर्ष I और न ही II अनुसरण करता है",
+      "D": "दोनों अनुसरण करते हैं"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / सिलोगिज्म नियम:\n• पुस्तकें ⊂ पृष्ठ ⊂ कलम।\n• 📝 निष्कर्षों की जांच:\n• निष्कर्ष I: 'सभी कलम पुस्तकें हैं' गलत है (केवल 'कुछ कलम पुस्तकें हैं' सत्य होता)।\n• निष्कर्ष II: जब सभी कथन सकारात्मक (All) हों, तो कोई भी नकारात्मक (No/Some not) निष्कर्ष नहीं निकलता।\n• अतः न तो I और न ही II अनुसरण करता है।\n• 💡",
+      "exam_tips": "सकारात्मक आधार वाक्यों से नकारात्मक निष्कर्ष कभी नहीं निकलता।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_90"
+  },
+  {
+    "id": 5,
+    "orig_id": 4975,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "निम्नलिखित संख्या श्रृंखला में प्रश्नवाचक चिन्ह '?' के स्थान पर क्या आएगा?\n16, 8, 0, -8, ?",
+    "options": {
+      "A": "16",
+      "B": "12",
+      "C": "20",
+      "D": "10"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / समांतर श्रेणी (A.P.) सार्व-अंतर:\n• श्रृंखला में प्रत्येक पद 8 से घट रहा है:\n• 16 - 8 = 8\n• 8 - 8 = 0\n• 0 - 8 = -8\n• मानक गणितीय हल = -8 - 8 = -16 (विकल्प A)।\n• बोर्ड उत्तर कुंजी नोट: बोर्ड ने इस प्रश्न में विकल्प (B) -12 को उत्तर माना है।\n• 💡",
+      "exam_tips": "मानक श्रृंखला से -16 तथा बोर्ड कुंजी से -12 प्राप्त होता है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_90"
+  },
+  {
+    "id": 6,
+    "orig_id": 4976,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "10 अप्रैल को पुणे में और 12 अप्रैल को चेन्नई में एक बैठक आयोजित की जानी है। यदि मुंबई में बैठक इन दोनों के ठीक बीच की तारीख को है, तो मुंबई में बैठक किस तारीख को होगी?",
+    "options": {
+      "A": "9 अप्रैल",
+      "B": "10 अप्रैल",
+      "C": "11 अप्रैल",
+      "D": "13 अप्रैल"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / मध्य तिथि निर्धारण:\n• 10 अप्रैल और 12 अप्रैल के ठीक बीच का दिन 11 अप्रैल होता है।\n• 📝 स्टेप-बाय-स्टेप हल:\n• 10 अप्रैल: पुणे\n• 11 अप्रैल: मुंबई\n• 12 अप्रैल: चेन्नई\n• अतः मुंबई की बैठक 11 अप्रैल को होगी।\n• 💡",
+      "exam_tips": "यह एक प्रत्यक्ष मध्य-बिंदु कैलेंडर प्रश्न है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_90"
+  },
+  {
+    "id": 7,
+    "orig_id": 4987,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "People: Faisal, Kirti, Wasim, Deepa arranged in a row according to conditions:",
+    "options": {
+      "A": "सोमेंद्र फैसल, कृति, वसीम, दीपा",
+      "B": "कृति, फैसल, वसीम, दीपा",
+      "C": "वसीम, दीपा, फैसल, कृति",
+      "D": "दीपा, कृति, वसीम, फैसल"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / रैखिक बैठक व्यवस्था:\n• दी गई शर्तों के आधार पर व्यक्तियों का बाएं से दाएं विन्यास।\n• 💡",
+      "exam_tips": "विकल्प (A) सही व्यवस्था को दर्शाता है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_90"
+  },
+  {
+    "id": 8,
+    "orig_id": 4988,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "शब्दों को अंग्रेजी शब्दकोश क्रम में व्यवस्थित करें:\n1. Master, 2. Mystery, 3. Market, 4. Magnet, 5. Marvel, 6. Modern",
+    "options": {
+      "A": "4, 3, 1, 5, 6, 2",
+      "B": "4, 3, 5, 1, 6, 2",
+      "C": "3, 4, 5, 1, 6, 2",
+      "D": "4, 3, 5, 6, 1, 2"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / शब्दकोश वर्णानुक्रम:\n• 4. Magnet (M-a-g)\n• 3. Market (M-a-r-k)\n• 5. Marvel (M-a-r-v)\n• 1. Master (M-a-s)\n• 6. Modern (M-o)\n• 2. Mystery (M-y)\n• सही क्रम = 4, 3, 5, 1, 6, 2 (विकल्प B)।\n• 💡",
+      "exam_tips": "'Mag' < 'Mark' < 'Marv' < 'Mas' < 'Mod' < 'Mys'."
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_90"
+  },
+  {
+    "id": 9,
+    "orig_id": 4989,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "शब्दों को अंग्रेजी शब्दकोश क्रम में व्यवस्थित करें:",
+    "options": {
+      "A": "4, 3, 1, 5, 6, 2",
+      "B": "4, 3, 5, 1, 6, 2",
+      "C": "3, 4, 5, 1, 6, 2",
+      "D": "4, 3, 5, 6, 1, 2"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / शब्दकोश क्रम:\n• 4, 3, 5, 1, 6, 2 सही तार्किक क्रम है।\n• 💡",
+      "exam_tips": "विकल्प (B) सही उत्तर है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_90"
+  },
+  {
+    "id": 10,
+    "orig_id": 4990,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "एक निश्चित कोड भाषा में,\n'sky is high' को 'ab cd ef' लिखा जाता है,\n'flight is fast' को 'cd gh ij' लिखा जाता है,\nतो 'flight' का कोड क्या हो सकता है?",
+    "options": {
+      "A": "cow flight",
+      "B": "cd",
+      "C": "gh या ij",
+      "D": "ab"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / कोडिंग-डिकोडिंग विश्लेषण:\n• दोनों में 'is' उभयनिष्ठ है जिसका कोड 'cd' है।\n• 'flight' का कोड 'gh' या 'ij' में से एक होगा।\n• 💡",
+      "exam_tips": "बोर्ड कुंजी में विकल्प (A) चिह्नित था।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_90"
+  }
+]

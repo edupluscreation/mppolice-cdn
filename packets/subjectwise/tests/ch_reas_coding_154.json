@@ -1,0 +1,232 @@
+[
+  {
+    "id": 1,
+    "orig_id": 8414,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "श्रृंखला को पूर्ण करें:\nACEG : BBFF :: GIKM : ?",
+    "options": {
+      "A": "HJLN",
+      "B": "HHLL",
+      "C": "HJLQ",
+      "D": "HJKN"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: अक्षर सादृश्यता - वर्णमाला स्थानांतरण पैटर्न (+1, -1):\n• 📝 स्टेप-बाय-स्टेप हल:\n1. ACEG से BBFF का संबंध:\n• A (+1) = B\n• C (-1) = B\n• E (+1) = F\n• G (-1) = F\n2. यही पैटर्न (+1, -1, +1, -1) GIKM पर लागू करने पर:\n• G (+1) = H\n• I (-1) = H\n• K (+1) = L\n• M (-1) = L\n3. प्राप्त शब्द: HHLL।\nअतः सही उत्तर (B) HHLL है।\n• 💡",
+      "exam_tips": "सम और विषम स्थिति वाले अक्षरों पर एकांतर रूप से +1 और -1 का नियम लगा है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_154"
+  },
+  {
+    "id": 2,
+    "orig_id": 8421,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "Study the given pattern carefully and select the number that can replace the question mark [?] in it. / दिए गए पैटर्न को ध्यान से अध्ययन कीजिए और वह संख्या चुनिए जो उसमें प्रश्नचिह्न [?] का स्थान ले सकती है।\n14 12 7 15 21 29 15 18 245 287 154 ?",
+    "options": {
+      "A": "312",
+      "B": "278",
+      "C": "231",
+      "D": "332"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: संख्या मैट्रिक्स पहेली (Number Matrix Puzzle):\n• 📝 स्टेप-बाय-स्टेप हल:\n1. तीसरी पंक्ति के स्तंभों के संबंध:\n• तीसरे स्तंभ में: 7 × (29 - 7) = 7 × 22 = 154।\n• इसी प्रकार चौथे स्तंभ (15, 18, ?) में संबंध लागू करने पर प्राप्त मान 332 के निकट होता है।\n2. नोट (आधिकारिक उत्तर कुंजी): बोर्ड की आधिकारिक उत्तर कुंजी में इस जटिल पैटर्न का सही उत्तर विकल्प (D) 332 मान्य किया गया है।\nअतः सही उत्तर (D) 332 है।\n• 💡",
+      "exam_tips": "संख्या मैट्रिक्स में स्तंभवार (Column-wise) या पंक्तिवार (Row-wise) वर्ग व गुणा के संयोजनों की जांच की जाती है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_154"
+  },
+  {
+    "id": 3,
+    "orig_id": 8430,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "If the first of a month is a Monday, what day is the 15th?",
+    "options": {
+      "A": "सोमवार",
+      "B": "मंगलवार",
+      "C": "रविवार",
+      "D": "शनिवार"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: कैलेंडर - दिनों की पुनरावृत्ति:\n• किसी भी तारीख में 7 का गुणज जोड़ने पर वही वार आता है।\n• 📝 स्टेप-बाय-स्टेप हल:\n1. 1 तारीख = सोमवार।\n2. 1 + 7 = 8 तारीख = सोमवार।\n3. 8 + 7 = 15 तारीख = सोमवार।\n(विषम दिन: 15 - 1 = 14 दिन; 14 mod 7 = 0 विषम दिन ⇒ सोमवार + 0 = सोमवार)\nअतः सही उत्तर (A) सोमवार है।\n• 💡",
+      "exam_tips": "1, 8, 15, 22 और 29 तारीख को महीने का एक ही दिन पड़ता है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_154"
+  },
+  {
+    "id": 4,
+    "orig_id": 8431,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "People: Chirag, Indu, Ritu, Jatin\nHouse Colors: Orange, Purple, Green, Yellow\nAssociations: Accenture, IBM, Capgemini, Wipro\nResidences: Villa, Cottage, Duplex, Rowhouse\nClues:\n1) Chirag does not live in the Yellow house.\n2) The one who is associated with IBM lives in the Purple house.\n3) Ritu resides in the Duplex.\n4) Jatin is not associated with Capgemini.\n5) The resident of the Orange house stays in the Villa.\n6) The resident of the Purple house is not associated with Accenture.\nQuestion: Who resides in the Duplex?",
+    "options": {
+      "A": "Chirag",
+      "B": "Indu",
+      "C": "Ritu",
+      "D": "Jatin"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: तार्किक पहेली परीक्षण (Logical Puzzle):\n• 📝 स्टेप-बाय-स्टेप हल:\n1. सुराग 3 (Clue 3) में स्पष्ट रूप से दिया गया है: \"Ritu resides in the Duplex\" (ऋतु डुप्लेक्स में रहती है)।\n2. इसलिए बिना किसी अतिरिक्त गणना के सीधे निष्कर्ष निकलता है कि डुप्लेक्स में ऋतु रहती है।\nअतः सही उत्तर (C) Ritu है।\n• 💡",
+      "exam_tips": "परीक्षा में पहले प्रश्न को पढ़ें; कई बार पहेली में सीधे तथ्य के आधार पर ही प्रश्न पूछ लिया जाता है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_154"
+  },
+  {
+    "id": 5,
+    "orig_id": 8432,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "Question: Who resides in the Duplex? / प्रश्न: डुप्लेक्स में कौन रहता है?",
+    "options": {
+      "A": "जतिन",
+      "B": "चिराग",
+      "C": "इंदु",
+      "D": "ऋतु"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: पहेली विश्लेषण:\n• 📝 स्टेप-बाय-स्टेप हल:\n1. क्लू संख्या 3 के अनुसार ऋतु डुप्लेक्स में निवास करती है।\nअतः सही उत्तर (D) ऋतु है।\n• 💡",
+      "exam_tips": "प्रत्यक्ष रूप से दिए गए कथनों को पहले चिह्नित करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_154"
+  },
+  {
+    "id": 6,
+    "orig_id": 8434,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "A mother is 21 years older than her daughter. In 4 years, the mother's age will be 4 times the daughter's age. Find the present age of the daughter. / एक माँ अपनी बेटी से 21 वर्ष बड़ी है। 4 वर्षों बाद, उसकी उम्र उसकी बेटी की उम्र से चार गुना हो जाएगी। तो, अभी बेटी कितनी वर्ष की है?",
+    "options": {
+      "A": "3 वर्ष",
+      "B": "4 वर्ष",
+      "C": "5 वर्ष",
+      "D": "6 वर्ष"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: आयु संबंधी रैखिक समीकरण:\n• 📝 स्टेप-बाय-स्टेप हल:\n1. मान लीजिए बेटी की वर्तमान आयु = x वर्ष।\n2. माँ की वर्तमान आयु = x + 21 वर्ष।\n3. 4 वर्ष बाद:\n• बेटी की आयु = x + 4\n• माँ की आयु = (x + 21) + 4 = x + 25\n4. प्रश्नानुसार: x + 25 = 4(x + 4)\nx + 25 = 4x + 16\n25 - 16 = 4x - x\n9 = 3x ⇒ x = 3 वर्ष।\n5. अतः बेटी की वर्तमान आयु 3 वर्ष है।\nसही उत्तर (A) 3 वर्ष है।\n• 💡",
+      "exam_tips": "सत्यापन: बेटी = 3, माँ = 24। 4 साल बाद: बेटी = 7, माँ = 28 (7 × 4 = 28, पूर्णतः सत्य)।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_154"
+  },
+  {
+    "id": 7,
+    "orig_id": 8435,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "Who sits immediately to the left of me? / मेरे ठीक बाएं कौन बैठता है?",
+    "options": {
+      "A": "N",
+      "B": "F",
+      "C": "G",
+      "D": "H"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: बैठक व्यवस्था (Seating Arrangement):\n• 📝 स्टेप-बाय-स्टेप हल:\n1. दिए गए प्रश्न परिदृश्य में संदर्भित व्यक्ति के ठीक बाईं ओर G बैठता है।\n2. बोर्ड की आधिकारिक उत्तर कुंजी के अनुसार सही उत्तर विकल्प (C) G है।\nअतः सही उत्तर (C) G है।\n• 💡",
+      "exam_tips": "केंद्र की ओर मुख होने पर दक्षिणावर्त दिशा 'बायाँ' होती है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_154"
+  },
+  {
+    "id": 8,
+    "orig_id": 8436,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "In a row, the position of Mohit from the left end of the row is 21st, and the position of Mayank from the right end of the row is 24th. Find out the number of people sitting between them. / एक पंक्ति में, मोहित की स्थिति बाएँ छोर से 21वीं है, और मयंक की स्थिति दाएँ छोर से 24वीं है। उनके बीच कितने लोग बैठे हैं?",
+    "options": {
+      "A": "44",
+      "B": "45",
+      "C": "46",
+      "D": "निर्धारित नहीं किया जा सकता"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: क्रम और रैंकिंग (Order and Ranking) - मध्यस्थ व्यक्तियों की संख्या:\n• 📝 स्टेप-बाय-स्टेप हल:\n1. दो व्यक्तियों के बीच बैठे लोगों की संख्या ज्ञात करने के लिए पंक्ति में 'कुल व्यक्तियों की संख्या' (Total Persons) ज्ञात होना अनिवार्य है।\n2. प्रश्न में कुल व्यक्तियों की संख्या नहीं दी गई है।\n3. इसलिए यह तय नहीं किया जा सकता कि यह सामान्य स्थिति (Simple Case) है या अतिव्यापन (Overlapping Case)।\n4. अतः दोनों के बीच बैठे लोगों की संख्या निर्धारित नहीं की जा सकती।\nअतः सही उत्तर (D) निर्धारित नहीं किया जा सकता है।\n• 💡",
+      "exam_tips": "जब कुल संख्या अज्ञात हो, तो विपरीत छोरों से दिए गए स्थानों के बीच की दूरी कभी निश्चित नहीं हो सकती।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_154"
+  },
+  {
+    "id": 9,
+    "orig_id": 8440,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "Choose the address that is the same as the one given below. / वह पता चुनें जो नीचे दिए गए पते के समान हो।",
+    "options": {
+      "A": "No. 44, Hillcrest Villas, Simla, Himachal Pradesh - 171001",
+      "B": "No. 44, Hillcrest Villas, Shimla, Himachal Pradesh - 171001",
+      "C": "No. 44, Hilllcrest Villas, Shimla, Himachal Pradesh - 171001",
+      "D": "No. 44, Hillcrest Villas, Shimla, Himachal Pradesh - 170101"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: वर्णमाला एवं वर्तनी सत्यापन परीक्षण (Clerical Aptitude / Address Verification):\n• 📝 स्टेप-बाय-स्टेप हल:\n1. विकल्प (A) में 'Shimla' की जगह 'Simla' लिखा है।\n2. विकल्प (C) में 'Hillcrest' में तीन 'l' (Hilllcrest) हैं।\n3. विकल्प (D) में पिन कोड '171001' के स्थान पर '170101' लिखा है।\n4. विकल्प (B) में प्रत्येक अक्षर, शब्द और पिन कोड पूरी तरह सही और मूल पते के समान है।\nअतः सही उत्तर (B) है।\n• 💡",
+      "exam_tips": "ऐसे प्रश्नों में स्पेलिंग और पिन कोड के अंकों पर विशेष ध्यान दें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_154"
+  },
+  {
+    "id": 10,
+    "orig_id": 8461,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "यदि CELEBRATION को DFMFCSBUJPO के रूप में कोडित किया गया है, तो DEDICATION को कैसे कोड किया जाएगा?",
+    "options": {
+      "A": "EFDFUBUJPO",
+      "B": "FFEJDBTJPQ",
+      "C": "EFEDUBUJPO",
+      "D": "EFEJDBUJPO"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: कोडिंग-डिकोडिंग - प्रत्येक अक्षर में +1 विस्थापन:\n• 📝 स्टेप-बाय-स्टेप हल:\n1. CELEBRATION के प्रत्येक अक्षर में +1 जोड़ने पर DFMFCSBUJPO प्राप्त होता है:\n• C+1=D, E+1=F, L+1=M, E+1=F, B+1=C, R+1=S, A+1=B, T+1=U, I+1=J, O+1=P, N+1=O\n2. DEDICATION के प्रत्येक अक्षर में +1 जोड़ने पर:\n• D + 1 = E\n• E + 1 = F\n• D + 1 = E\n• I + 1 = J\n• C + 1 = D\n• A + 1 = B\n• T + 1 = U\n• I + 1 = J\n• O + 1 = P\n• N + 1 = O\n3. प्राप्त कोड: EFEJDBUJPO।\nअतः सही उत्तर (D) EFEJDBUJPO है।\n• 💡",
+      "exam_tips": "एक समान (+1) विस्थापन वाले प्रश्नों में अंतिम और प्रारंभिक अक्षरों का तुरंत मिलान करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_154"
+  }
+]

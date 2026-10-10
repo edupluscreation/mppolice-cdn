@@ -1,0 +1,232 @@
+[
+  {
+    "id": 1,
+    "orig_id": 52,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_words",
+    "topic": "शब्द निर्माण एवं शब्दकोश (Words & Dictionary)",
+    "question": "अक्षरों \"C R M O D E A T\" से कौन-सा वैध (सार्थक) अंग्रेज़ी शब्द बनाया जा सकता है?",
+    "options": {
+      "A": "COMATRED",
+      "B": "TARCOMED",
+      "C": "DEMOCRAT",
+      "D": "DORMCATE"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "अक्षरों की जाँच:\nदिए गए अक्षर: C, R, M, O, D, E, A, T (कुल 8 अक्षर)।\n• शब्द निर्माण:\n• D + E + M + O + C + R + A + T = DEMOCRAT (लोकतंत्रवादी)।\n• शब्द में प्रयुक्त सभी 8 अक्षर दिए गए समूह से ठीक एक-एक बार मेल खाते हैं।\n• अन्य विकल्प (COMATRED, TARCOMED आदि) अंग्रेजी शब्दकोश में कोई वैध सार्थक शब्द नहीं हैं।\n• निष्कर्ष: सही सार्थक शब्द DEMOCRAT (विकल्प C) है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_words_01"
+  },
+  {
+    "id": 2,
+    "orig_id": 139,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_words",
+    "topic": "शब्द निर्माण एवं शब्दकोश (Words & Dictionary)",
+    "question": "शब्दों को शब्दकोश क्रम में व्यवस्थित करें और वह शब्द चुनें जो सबसे पहले आता है।  \nFROG, FRONT, FROM, FROWN",
+    "options": {
+      "A": "FROM",
+      "B": "FROG",
+      "C": "FRONT",
+      "D": "FROWN"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "अंग्रेजी शब्दकोश क्रम (Alphabetical Ordering):\nसभी शब्दों के शुरुआती तीन अक्षर समान हैं: F-R-O\nअब चौथे अक्षर की तुलना करें:\n• FROG → चौथा अक्षर G (7)\n• FROM → चौथा अक्षर M (13)\n• FRONT → चौथा अक्षर N (14)\n• FROWN → चौथा अक्षर W (23)\nअंग्रेजी वर्णमाला में 'G' सबसे पहले आता है, अतः FROG शब्दकोश में सबसे पहले आएगा।\n• पूर्ण शब्दकोश क्रम: FROG → FROM → FRONT → FROWN\n• निष्कर्ष: सही उत्तर (B) FROG है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_words_01"
+  },
+  {
+    "id": 3,
+    "orig_id": 140,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_words",
+    "topic": "शब्द निर्माण एवं शब्दकोश (Words & Dictionary)",
+    "question": "शब्दकोश में वर्णानुक्रम के अनुसार सबसे अंतिम में कौन सा शब्द आता है?  \nBRIGHT, BRIM, BRINE, BRISK",
+    "options": {
+      "A": "BRIGHT",
+      "B": "BRIM",
+      "C": "BRINE",
+      "D": "BRISK"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "वर्णानुक्रम तुलना:\nसभी शब्दों के शुरुआती तीन अक्षर समान हैं: B-R-I\nचौथे अक्षर का वर्णमाला स्थानीय मान देखें:\n1. BRIGHT → चौथा अक्षर G (7)\n2. BRIM → चौथा अक्षर M (13)\n3. BRINE → चौथा अक्षर N (14)\n4. BRISK → चौथा अक्षर S (19)\nवर्णमाला में S सबसे अंत में आता है, अतः BRISK सबसे अंत में आएगा।\n• निष्कर्ष: सही उत्तर (D) BRISK है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_words_01"
+  },
+  {
+    "id": 4,
+    "orig_id": 856,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_words",
+    "topic": "शब्द निर्माण एवं शब्दकोश (Words & Dictionary)",
+    "question": "शब्दों को शब्दकोश क्रम में व्यवस्थित करें और वह शब्द चुनें जो सबसे अंत में आता है:\nBUS, BUSY, BUSINESS, BUSH",
+    "options": {
+      "A": "BUSH",
+      "B": "BUSINESS",
+      "C": "BUS",
+      "D": "BUSY"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र:\n• शब्दकोश में अक्षर-दर-अक्षर तुलना होती है।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• BUS सबसे छोटा पहले आएगा।\n• BUSINESS (BUSI) और BUSH (BUSH) में H पहले, फिर BUSY (BUSY) में Y सबसे बाद में।\n• अतः अंत में BUSY, विकल्प (D) सही है।",
+      "exam_tips": "छोटे शब्द पहले, फिर चौथे अक्षर से तुलना करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_words_01"
+  },
+  {
+    "id": 5,
+    "orig_id": 1787,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_words",
+    "topic": "शब्द निर्माण एवं शब्दकोश (Words & Dictionary)",
+    "question": "A, E, R, L, S, T अक्षरों को पुनः व्यवस्थित करके एक सही अंग्रेज़ी शब्द बनाइए।",
+    "options": {
+      "A": "RASTLE",
+      "B": "SLATER",
+      "C": "STREAL",
+      "D": "ALERTS"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र: एनाग्राम (Anagram / Word Formation):\n• विवरण:\n• दिए गए 6 अक्षरों {A, E, R, L, S, T} को मिलाकर मानक सार्थक अंग्रेजी शब्द ALERTS (सचेत/चेतावनी) बनता है।\n• अन्य विकल्प शब्दकोश में मान्य नहीं हैं।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_words_01"
+  },
+  {
+    "id": 6,
+    "orig_id": 3003,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_words",
+    "topic": "शब्द निर्माण एवं शब्दकोश (Words & Dictionary)",
+    "question": "निम्नलिखित शब्दों को उस क्रम में व्यवस्थित कीजिए जिस क्रम में वे अंग्रेजी शब्दकोश में आते हैं\n1. Wagnor\n2. Wagged\n3. Wabash\n4. Waggon\n5. Wackily",
+    "options": {
+      "A": "3, 5, 2, 1, 4",
+      "B": "3, 5, 1, 4, 2",
+      "C": "3, 2, 1, 4, 5",
+      "D": "[Not provided in source]"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "शब्दकोश क्रम:\n1. Wabash (Wa-b) ➔ 3\n2. Wackily (Wa-c) ➔ 5\n3. Wagged (Wa-g-g-e) ➔ 2\n4. Waggon (Wa-g-g-o) ➔ 4\n5. Wagnor (Wa-g-n) ➔ 1\n• सही क्रम: 3, 5, 2, 4, 1 (या 3, 5, 2, 1, 4 बोर्ड कुंजी विकल्प A)।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_words_01"
+  },
+  {
+    "id": 7,
+    "orig_id": 4892,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_words",
+    "topic": "शब्द निर्माण एवं शब्दकोश (Words & Dictionary)",
+    "question": "उस विकल्प का चयन करें जो दिए गए शब्दों के सही क्रम को दर्शाता है जैसा कि वे अंग्रेजी शब्दकोश में दिखाई देंगे।\n1. Boom\n2. Boss\n3. Bowl\n4. Book\n5. Boost",
+    "options": {
+      "A": "4, 1, 5, 3, 2",
+      "B": "4, 1, 5, 2, 3",
+      "C": "4, 5, 1, 2, 3",
+      "D": "4, 1, 2, 5, 3"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / शब्दकोश क्रम (Alphabetical Ordering):\n• सभी शब्द 'Bo' से शुरू होते हैं। तीसरे और चौथे अक्षर की तुलना करें:\n• 📝 स्टेप-बाय-स्टेप क्रम:\n• 1. Book (B-o-o-k) → चौथा अक्षर k (प्रथम स्थान = 4)\n• 2. Boom (B-o-o-m) → चौथा अक्षर m (द्वितीय स्थान = 1)\n• 3. Boost (B-o-o-s) → चौथा अक्षर s (तृतीय स्थान = 5)\n• 4. Boss (B-o-s-s) → तीसरा अक्षर s (चतुर्थ स्थान = 2)\n• 5. Bowl (B-o-w-l) → तीसरा अक्षर w (पंचम स्थान = 3)\n• सही क्रम = 4, 1, 5, 2, 3 (विकल्प B)।\n• 💡",
+      "exam_tips": "तीसरे अक्षर 'o', 's', 'w' की वर्णमाला वरीयता देखें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_words_01"
+  },
+  {
+    "id": 8,
+    "orig_id": 5521,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_words",
+    "topic": "शब्द निर्माण एवं शब्दकोश (Words & Dictionary)",
+    "question": "निम्नलिखित में से कौन-सा शब्द \"DYNAMIC\" के पहले चार अक्षरों से शुरू होने वाला मान्य शब्द है?",
+    "options": {
+      "A": "DYNASTY",
+      "B": "DYNAVOX",
+      "C": "DYNATEC",
+      "D": "DYNE"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: शब्द संरचना और उपसर्ग परीक्षण।\n• 📝 स्टेप-बाय-स्टेप हल:\n• शब्द 'DYNAMIC' के पहले चार अक्षर D - Y - N - A हैं।\n• विकल्प (A) \"DYNASTY\" D-Y-N-A से शुरू होता है और मानक अंग्रेजी शब्दकोश का मान्य शब्द है।\n• बोर्ड आंसर की नोट: आधिकारिक उत्तर कुंजी में विकल्प (D) DYNE को अंकित किया गया था (यद्यपि DYNE में पहले 3 अक्षर D-Y-N ही मिलते हैं)। शब्दकोश के अनुसार D-Y-N-A से DYNASTY भी पूर्णतः मान्य शब्द है।\n• 💡",
+      "exam_tips": "उपसर्ग (Prefix) मिलान में अक्षरों के सटीक क्रम की पुष्टि करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_words_01"
+  },
+  {
+    "id": 9,
+    "orig_id": 5580,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_words",
+    "topic": "शब्द निर्माण एवं शब्दकोश (Words & Dictionary)",
+    "question": "उस सही विकल्प का चयन करें जो दिए गए शब्दों को अंग्रेजी शब्दकोश में उनके क्रम के अनुसार व्यवस्थित करता है।\n1- Magic\n2- Magician\n3- Maggie\n4- Magnets\n5- Magenta",
+    "options": {
+      "A": "5, 3, 1, 4, 2",
+      "B": "3, 5, 1, 4, 2",
+      "C": "5, 3, 1, 2, 4",
+      "D": "5, 3, 2, 1, 4"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: शब्दकोश क्रम (Alphabetical Order)।\n• 📝 स्टेप-बाय-स्टेप हल:\n• 5. Magenta (M-A-G-E) → सबसे पहले\n• 3. Maggie (M-A-G-G) → दूसरा\n• 1. Magic (M-A-G-I-C) → तीसरा\n• 2. Magician (M-A-G-I-C-I) → चौथा\n• 4. Magnets (M-A-G-N) → पांचवां\n• वास्तविक क्रम: 5, 3, 1, 2, 4 (विकल्प C जो प्रश्न 5581 में सही माना गया है)।\n• बोर्ड आंसर की नोट: प्रश्न 5580 में बोर्ड ने विकल्प (A) 5, 3, 1, 4, 2 को उत्तर माना था।\n• 💡",
+      "exam_tips": "Magic, Magician का आधार शब्द है, अतः Magic पहले और Magician बाद में आएगा।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_words_01"
+  },
+  {
+    "id": 10,
+    "orig_id": 5860,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_words",
+    "topic": "शब्द निर्माण एवं शब्दकोश (Words & Dictionary)",
+    "question": "निम्नलिखित शब्दों को उस क्रम में व्यवस्थित कीजिए जिस क्रम में वे अंग्रेजी शब्दकोश में आते हैं:\n1. Padeye\n2. Pademelon\n3. Paderewski\n4. Padishah\n5. Paderborn",
+    "options": {
+      "A": "25314",
+      "B": "25431",
+      "C": "25413",
+      "D": "52314"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: अंग्रेजी शब्दकोश क्रम (Dictionary Order of Words):\nशब्दों को उनके वर्णमाला क्रम में पहले से अंतिम अक्षर तक व्यवस्थित करना।\n• 📝 स्टेप-बाय-स्टेप हल:\n1. दिए गए शब्द:\n1. Padeye: P-a-d-e-y\n2. Pademelon: P-a-d-e-m\n3. Paderewski: P-a-d-e-r-e\n4. Padishah: P-a-d-i\n5. Paderborn: P-a-d-e-r-b\n2. तुलना:\n• सभी में 'Pad' समान है। चौथा अक्षर 1, 2, 3, 5 में 'e' है और 4 में 'i' है (अतः 4 सबसे अंत में आएगा)।\n• 1, 2, 3, 5 में पांचवां अक्षर:\n• 2 में 'm' (सबसे पहले आएगा → 2)\n• 5 में 'r-b' (दूसरे स्थान पर → 5)\n• 3 में 'r-e' (तीसरे स्थान पर → 3)\n• 1 में 'y' (चौथे स्थान पर → 1)\n• 4 में 'i' (पांचवें स्थान पर → 4)\n3. शुद्ध शब्दकोश क्रम: 2 → 5 → 3 → 1 → 4 (विकल्प A)\n4. व्यापम बोर्ड द्वारा इस प्रश्न में विकल्प (B) 25431 को उत्तर कुंजी में चिह्नित किया गया है।\n• 💡",
+      "exam_tips": "वास्तविक शब्दकोश क्रम 25314 (विकल्प A) है, बोर्ड कुंजी 25431 दर्शाती है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_words_01"
+  }
+]

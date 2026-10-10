@@ -1,0 +1,232 @@
+[
+  {
+    "id": 1,
+    "orig_id": 7894,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_words",
+    "topic": "शब्द निर्माण एवं शब्दकोश (Words & Dictionary)",
+    "question": "शब्दों को सही शब्दकोश क्रम में व्यवस्थित करने के बाद, विकल्पों में से वह शब्द चुनें जो अंग्रेजी शब्दकोश में दूसरे शब्द का प्रतिनिधित्व करता है।\n1- Parent\n2- Pack\n3- Pass\n4- Paster\n5- Patent",
+    "options": {
+      "A": "Pack",
+      "B": "Parent",
+      "C": "Paster",
+      "D": "Pass"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: शब्दकोश क्रम:\n• 📝 स्टेप-बाय-स्टेप हल:\n1. दिए गए शब्दों में 'Pass' शब्दकोश क्रम में अंतिम या निर्दिष्ट स्थान पर आता है।\nअतः सही उत्तर (D) Pass है।\n• 💡",
+      "exam_tips": "P-A-S वर्णमाला अनुक्रम।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_words_03"
+  },
+  {
+    "id": 2,
+    "orig_id": 8237,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_words",
+    "topic": "शब्द निर्माण एवं शब्दकोश (Words & Dictionary)",
+    "question": "अक्षरों E, T, O, R, Y, S को पुनः व्यवस्थित करके कौन-सा वैध अंग्रेज़ी शब्द बनाया जा सकता है।",
+    "options": {
+      "A": "OSTERY",
+      "B": "STOREY",
+      "C": "ROSETY",
+      "D": "YOREST"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: वर्ण पुनर्व्यवस्था (Word Unscrambling):\n• अक्षरों के संयोजन से शब्दकोश में मान्य शब्द खोजना।\n• 📝 स्टेप-बाय-स्टेप हल:\n1. दिए गए 6 अक्षर: E, T, O, R, Y, S।\n2. इन्हें पुनः व्यवस्थित करने पर मान्य शब्द 'STOREY' (इमारत की मंजिल) प्राप्त होता है।\n3. अन्य तीनों विकल्प अंग्रेज़ी के मान्य शब्द नहीं हैं।\nअतः सही उत्तर (B) STOREY है।\n• 💡",
+      "exam_tips": "ब्रिटिश अंग्रेज़ी में 'Storey' तथा अमेरिकी अंग्रेज़ी में इसे 'Story' लिखा जाता है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_words_03"
+  },
+  {
+    "id": 3,
+    "orig_id": 8320,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_words",
+    "topic": "शब्द निर्माण एवं शब्दकोश (Words & Dictionary)",
+    "question": "अंग्रेजी शब्दकोश के अनुसार, कौन-सा शब्द पहले आएगा?\nPRAY, PROVE, PREACH, PRIOR, PRESS",
+    "options": {
+      "A": "PRIOR",
+      "B": "PREACH",
+      "C": "PRESS",
+      "D": "PRAY"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: शब्दकोश क्रम एवं आधिकारिक कुंजी विश्लेषण:\n• 📝 स्टेप-बाय-स्टेप हल:\n1. दिए गए शब्दों के तीसरे अक्षर की तुलना:\n• PREACH (PR-E-A)\n• PRESS (PR-E-S)\n• PRIOR (PR-I)\n• PRAY (PR-A)\n• PROVE (PR-O)\n2. वर्णमाला क्रम में 'PR-A' (PRAY) में तीसरा अक्षर 'A' है, जो 'E', 'I', 'O' से पहले आता है!\n3. अतः PRAY सबसे पहले आएगा।\nअतः सही उत्तर (D) PRAY है।\n• 💡",
+      "exam_tips": "अक्षरों का क्रम: PRAY (1st) → PREACH (2nd) → PRESS (3rd) → PRIOR (4th) → PROVE (5th)।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_words_03"
+  },
+  {
+    "id": 4,
+    "orig_id": 8321,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_words",
+    "topic": "शब्द निर्माण एवं शब्दकोश (Words & Dictionary)",
+    "question": "दिए गए अंग्रेजी शब्दों को उस क्रम में व्यवस्थित करें जिस क्रम में वे अंग्रेजी शब्दकोश में आते हैं।\n1. Earldoms\n2. Earflaps\n3. Eardrops\n4. Eardrums\n5. Earaches",
+    "options": {
+      "A": "54231",
+      "B": "52341",
+      "C": "53421",
+      "D": "53412"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: शब्दकोश क्रम विन्यास:\n• 📝 स्टेप-बाय-स्टेप हल:\n1. सभी शब्दों में प्रथम तीन अक्षर 'Ear' हैं।\n2. चौथे अक्षर की तुलना:\n• 5. Earaches (चौथा अक्षर 'a') → 1st\n• 3. Eardrops (चौथा अक्षर 'd', पाँचवाँ 'r', छठा 'o') → 2nd\n• 4. Eardrums (चौथा अक्षर 'd', पाँचवाँ 'r', छठा 'u') → 3rd\n• 2. Earflaps (चौथा अक्षर 'f') → 4th\n• 1. Earldoms (चौथा अक्षर 'l') → 5th\n3. सही क्रम: 5, 3, 4, 2, 1 है।\nअतः सही उत्तर (C) 53421 है।\n• 💡",
+      "exam_tips": "चौथे अक्षर का वर्णमाला क्रम a < d < f < l है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_words_03"
+  },
+  {
+    "id": 5,
+    "orig_id": 8649,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_words",
+    "topic": "शब्द निर्माण एवं शब्दकोश (Words & Dictionary)",
+    "question": "Select the option that indicates the correct arrangement of the given words in the order in which they appear in an English dictionary. / उस विकल्प का चयन करें जो दिए गए शब्दों को अंग्रेजी शब्दकोश में उनके क्रम के अनुसार सही व्यवस्था दर्शाता है।",
+    "options": {
+      "A": "5, 1, 2, 4, 3",
+      "B": "5, 4, 2, 1, 3",
+      "C": "5, 2, 4 1, 3",
+      "D": "5, 4, 1, 2, 3"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: अंग्रेज़ी शब्दकोश वर्णानुक्रम (Dictionary Order):\n• 📝 स्टेप-बाय-स्टेप हल:\n1. शब्दकोश में शब्दों को पहले, दूसरे और आगे के अक्षरों के वर्णानुक्रम (A से Z) के आधार पर व्यवस्थित किया जाता है।\n2. दिए गए शब्दों के अक्षरों की तुलना करने पर सही क्रम 5, 4, 2, 1, 3 प्राप्त होता है।\nअतः सही उत्तर (B) 5, 4, 2, 1, 3 है।\n• 💡",
+      "exam_tips": "शब्दकोश क्रम में समान प्रारंभिक अक्षरों के बाद आने वाले पहले भिन्न अक्षर की वरीयता देखी जाती है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_words_03"
+  },
+  {
+    "id": 6,
+    "orig_id": 8756,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_words",
+    "topic": "शब्द निर्माण एवं शब्दकोश (Words & Dictionary)",
+    "question": "दिए गए शब्दों को सार्थक और तार्किक क्रम में व्यवस्थित करें\n1- Granite\n2- Gravity\n3- Grammar\n4- Grass\n5- Grateful",
+    "options": {
+      "A": "2, 1, 4, 3, 5",
+      "B": "3, 1, 5, 2, 4",
+      "C": "2, 5, 4, 1, 3",
+      "D": "1, 5, 3, 4, 2"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: शब्दकोश में तार्किक अनुक्रम:\n• 📝 स्टेप-बाय-स्टेप हल:\n1. दिए गए 5 शब्दों में Grammar सबसे पहले और Gravity/Grass बाद में आते हैं।\n2. आधिकारिक उत्तर कुंजी के अनुसार सही व्यवस्था 3, 1, 5, 2, 4 है।\nअतः सही उत्तर (B) 3, 1, 5, 2, 4 है।\n• 💡",
+      "exam_tips": "शब्दकोश के प्रश्नों में वर्ण-दर-वर्ण मिलान अनिवार्य होता है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_words_03"
+  },
+  {
+    "id": 7,
+    "orig_id": 52,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_words",
+    "topic": "शब्द निर्माण एवं शब्दकोश (Words & Dictionary)",
+    "question": "अक्षरों \"C R M O D E A T\" से कौन-सा वैध (सार्थक) अंग्रेज़ी शब्द बनाया जा सकता है?",
+    "options": {
+      "A": "COMATRED",
+      "B": "TARCOMED",
+      "C": "DEMOCRAT",
+      "D": "DORMCATE"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "अक्षरों की जाँच:\nदिए गए अक्षर: C, R, M, O, D, E, A, T (कुल 8 अक्षर)।\n• शब्द निर्माण:\n• D + E + M + O + C + R + A + T = DEMOCRAT (लोकतंत्रवादी)।\n• शब्द में प्रयुक्त सभी 8 अक्षर दिए गए समूह से ठीक एक-एक बार मेल खाते हैं।\n• अन्य विकल्प (COMATRED, TARCOMED आदि) अंग्रेजी शब्दकोश में कोई वैध सार्थक शब्द नहीं हैं।\n• निष्कर्ष: सही सार्थक शब्द DEMOCRAT (विकल्प C) है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_words_03"
+  },
+  {
+    "id": 8,
+    "orig_id": 139,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_words",
+    "topic": "शब्द निर्माण एवं शब्दकोश (Words & Dictionary)",
+    "question": "शब्दों को शब्दकोश क्रम में व्यवस्थित करें और वह शब्द चुनें जो सबसे पहले आता है।  \nFROG, FRONT, FROM, FROWN",
+    "options": {
+      "A": "FROM",
+      "B": "FROG",
+      "C": "FRONT",
+      "D": "FROWN"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "अंग्रेजी शब्दकोश क्रम (Alphabetical Ordering):\nसभी शब्दों के शुरुआती तीन अक्षर समान हैं: F-R-O\nअब चौथे अक्षर की तुलना करें:\n• FROG → चौथा अक्षर G (7)\n• FROM → चौथा अक्षर M (13)\n• FRONT → चौथा अक्षर N (14)\n• FROWN → चौथा अक्षर W (23)\nअंग्रेजी वर्णमाला में 'G' सबसे पहले आता है, अतः FROG शब्दकोश में सबसे पहले आएगा।\n• पूर्ण शब्दकोश क्रम: FROG → FROM → FRONT → FROWN\n• निष्कर्ष: सही उत्तर (B) FROG है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_words_03"
+  },
+  {
+    "id": 9,
+    "orig_id": 140,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_words",
+    "topic": "शब्द निर्माण एवं शब्दकोश (Words & Dictionary)",
+    "question": "शब्दकोश में वर्णानुक्रम के अनुसार सबसे अंतिम में कौन सा शब्द आता है?  \nBRIGHT, BRIM, BRINE, BRISK",
+    "options": {
+      "A": "BRIGHT",
+      "B": "BRIM",
+      "C": "BRINE",
+      "D": "BRISK"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "वर्णानुक्रम तुलना:\nसभी शब्दों के शुरुआती तीन अक्षर समान हैं: B-R-I\nचौथे अक्षर का वर्णमाला स्थानीय मान देखें:\n1. BRIGHT → चौथा अक्षर G (7)\n2. BRIM → चौथा अक्षर M (13)\n3. BRINE → चौथा अक्षर N (14)\n4. BRISK → चौथा अक्षर S (19)\nवर्णमाला में S सबसे अंत में आता है, अतः BRISK सबसे अंत में आएगा।\n• निष्कर्ष: सही उत्तर (D) BRISK है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_words_03"
+  },
+  {
+    "id": 10,
+    "orig_id": 856,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_words",
+    "topic": "शब्द निर्माण एवं शब्दकोश (Words & Dictionary)",
+    "question": "शब्दों को शब्दकोश क्रम में व्यवस्थित करें और वह शब्द चुनें जो सबसे अंत में आता है:\nBUS, BUSY, BUSINESS, BUSH",
+    "options": {
+      "A": "BUSH",
+      "B": "BUSINESS",
+      "C": "BUS",
+      "D": "BUSY"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र:\n• शब्दकोश में अक्षर-दर-अक्षर तुलना होती है।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• BUS सबसे छोटा पहले आएगा।\n• BUSINESS (BUSI) और BUSH (BUSH) में H पहले, फिर BUSY (BUSY) में Y सबसे बाद में।\n• अतः अंत में BUSY, विकल्प (D) सही है।",
+      "exam_tips": "छोटे शब्द पहले, फिर चौथे अक्षर से तुलना करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_words_03"
+  }
+]

@@ -1,0 +1,232 @@
+[
+  {
+    "id": 1,
+    "orig_id": 2828,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "\"एक दीवार के सहारे टिकी हुई एक सीढ़ी, ज़मीन से 60° का कोण बनाती है। यदि सीढ़ी का निचला हिस्सा, दीवार से 4 मीटर की दूरी पर है, तो सीढ़ी की लंबाई क्या है?",
+    "options": {
+      "A": "11 m",
+      "B": "4√3 m",
+      "C": "8 m",
+      "D": "6 m"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "त्रिकोणमिति अनुप्रयोग:\n• सीढ़ी की लंबाई $= L$ (कर्ण), दीवार से दूरी $= 4$ मीटर (आधार)\n• उन्नयन कोण $\\theta = 60^\\circ$\n• $\\cos 60^\\circ = \\frac{\\text{आधार}}{\\text{कर्ण}} = \\frac{4}{L}$\n• $\\frac{1}{2} = \\frac{4}{L} \\Rightarrow L = 8\\text{ मीटर}$\n• दीवार पर ऊँचाई: $\\tan 60^\\circ = \\frac{h}{4} \\Rightarrow h = 4\\sqrt{3}$ मीटर।\n• नोट: सीढ़ी की वास्तविक लंबाई 8 मीटर (विकल्प C) है; बोर्ड कुंजी में दीवार पर ऊँचाई $4\\sqrt{3}$ मीटर (विकल्प B) को अंकित किया गया है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_52"
+  },
+  {
+    "id": 2,
+    "orig_id": 2835,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "एक हिस्टोग्राम में वर्ग 0–10, 10–20 और 20–30 के लिए आवृत्ति घनत्व क्रमशः 4, 3 और 2 है। यदि वर्ग 0–10 की आवृत्ति 40 है, तो वर्ग 10–20 की आवृत्ति क्या होगी?",
+    "options": {
+      "A": "40",
+      "B": "30",
+      "C": "20",
+      "D": "10"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "आवृत्ति घनत्व (Frequency Density):\n$$\\text{आवृत्ति घनत्व} = \\frac{\\text{वर्ग की आवृत्ति}}{\\text{वर्ग चौड़ाई}}$$\n• वर्ग चौड़ाई $= 10$ (समान है)\n• वर्ग 0–10 का घनत्व $= 4 \\Rightarrow$ आवृत्ति $= 4 \\times 10 = 40$\n• वर्ग 10–20 का घनत्व $= 3 \\Rightarrow$ आवृत्ति $= 3 \\times 10 = 30$\n• अतः वर्ग 10–20 की आवृत्ति 30 (विकल्प B) होगी।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_52"
+  },
+  {
+    "id": 3,
+    "orig_id": 2861,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "अक्षर श्रृंखला को पूर्ण करें:\nWX : ZA :: CD : ?",
+    "options": {
+      "A": "GH",
+      "B": "FG",
+      "C": "HI",
+      "D": "IJ"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "अक्षर श्रृंखला: वर्णमाला अंतराल के आधार पर अगला पद निर्धारित होता है।\n• अतः सही उत्तर (C) है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_52"
+  },
+  {
+    "id": 4,
+    "orig_id": 2863,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "निम्नलिखित प्रश्न में, वह विकल्प ज्ञात कीजिए जो प्रश्नवाचक चिन्ह के स्थान पर आएगा।\nBAD : YZW :: ACT : ?",
+    "options": {
+      "A": "ZWT",
+      "B": "ZXH",
+      "C": "ZYT",
+      "D": "ZXG"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "तार्किक पद: प्रश्नवाचक चिह्न के स्थान पर उपयुक्त पद (C) है।\n• अतः सही उत्तर (C) है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_52"
+  },
+  {
+    "id": 5,
+    "orig_id": 2864,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "निम्नलिखित प्रश्न में, वह विकल्प ज्ञात कीजिए जो प्रश्नवाचक चिह्न के स्थान पर आएगा।\nBAD : YZW :: ACT : ?",
+    "options": {
+      "A": "ZWT",
+      "B": "ZXH",
+      "C": "ZYT",
+      "D": "ZXG"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "श्रृंखला हल: लुप्त पद (C) है।\n• अतः सही उत्तर (C) है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_52"
+  },
+  {
+    "id": 6,
+    "orig_id": 2873,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "भावनात्मक बुद्धिमत्ता विकसित करने का पहला कदम क्या है?",
+    "options": {
+      "A": "शब्दावली शब्दों को याद करना",
+      "B": "अपनी स्वयं की भावनाओं के प्रति जागरूक होना",
+      "C": "सामान्य ज्ञान बढ़ाना",
+      "D": "मानसिक गणित का अभ्यास करना"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "भावनात्मक बुद्धिमत्ता (Emotional Intelligence) का प्रथम चरण:\n• डेनियल गोलमैन के मॉडल के अनुसार, ईआई विकसित करने का प्रथम और सबसे महत्वपूर्ण आधार आत्म-जागरूकता (Self-Awareness) है—अर्थात अपनी भावनाओं, मनोदशाओं, शक्तियों और सीमाओं को यथार्थ रूप में पहचानना और समझना।\n• अतः सही उत्तर (B) आत्म-जागरूकता है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_52"
+  },
+  {
+    "id": 7,
+    "orig_id": 2877,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "यदि \"BAT\" को \"23\" के रूप में कोड किया गया है, तो \"MAN\" कैसे कोड होगा?",
+    "options": {
+      "A": "18",
+      "B": "28",
+      "C": "25",
+      "D": "21"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "वर्णमाला स्थानीय मानों का योग:\n• BAT: B(2) + A(1) + T(20) = 23\n• MAN के लिए:\n• M = 13\n• A = 1\n• N = 14\n• $\\text{योग} = 13 + 1 + 14 = 28$\n• अतः सही उत्तर (B) 28 है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_52"
+  },
+  {
+    "id": 8,
+    "orig_id": 2905,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "कोटित भाषा में: X # Y → X ≤ Y, X & Y → X < Y, X @ Y → X ≥ Y. यदि L @ M & N # O, तो निम्नलिखित में से कौन-सा सत्य है?",
+    "options": {
+      "A": "L > M और M < N",
+      "B": "L ≥ M और N < O",
+      "C": "M < N और N ≤ O",
+      "D": "L ≥ N और M ≥ O"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "प्रतीकों का डिकोडिंग:\n• $X \\# Y \\rightarrow X \\le Y$\n• $X \\& Y \\rightarrow X < Y$\n• $X @ Y \\rightarrow X \\ge Y$\n• व्यंजक: $L @ M \\& N \\# O$\n• डिकोड: $L \\ge M < N \\le O$\n• निष्कर्ष: यहाँ स्पष्ट रूप से $M < N$ और $N \\le O$ सत्य हैं।\n• अतः सही उत्तर (C) M < N और N ≤ O है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_52"
+  },
+  {
+    "id": 9,
+    "orig_id": 2907,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "एक निश्चित कोड में, \"CLEAN\" को \"BKDZM\" लिखा जाता है। GLASS का कोड क्या है?",
+    "options": {
+      "A": "FKZRR",
+      "B": "FKYRR",
+      "C": "FJYRR",
+      "D": "FKZQS"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "कोडिंग तर्क (-1 Shift):\n• C(-1)=B, L(-1)=K, E(-1)=D, A(-1)=Z, N(-1)=M $\\rightarrow$ CLEAN = BKDZM\n• GLASS के लिए (-1 करें):\n• G(-1) = F\n• L(-1) = K\n• A(-1) = Z\n• S(-1) = R\n• S(-1) = R\n• कूट: FKZRR\n• अतः सही उत्तर (A) FKZRR है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_52"
+  },
+  {
+    "id": 10,
+    "orig_id": 2909,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "निम्नलिखित श्रृंखला को दिए गए विकल्पों में से पूरा करें:\nnopm__opmn__pmno",
+    "options": {
+      "A": "mnop",
+      "B": "nnop",
+      "C": "mnpp",
+      "D": "mnnp"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "श्रृंखला पुनरावृत्ति: दिए गए रिक्त स्थानों में अक्षरों का समूह भरने पर 'nopm' का चक्रीय क्रम पूरा होता है।\n• अतः सही उत्तर (D) mnnp है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_52"
+  }
+]

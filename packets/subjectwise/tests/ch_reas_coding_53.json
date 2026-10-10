@@ -1,0 +1,232 @@
+[
+  {
+    "id": 1,
+    "orig_id": 2910,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "निम्नलिखित श्रृंखला को दिए गए विकल्पों में से पूरा करें:\nnopm_opmn__pmno",
+    "options": {
+      "A": "mnop",
+      "B": "nnop",
+      "C": "mnpp",
+      "D": "mnnp"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "चक्रीय पैटर्न: रिक्त स्थानों में सही संयोजन विकल्प (A) है।\n• अतः सही उत्तर (A) है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_53"
+  },
+  {
+    "id": 2,
+    "orig_id": 2911,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "यदि 'ROSE' को '185' के रूप में और 'LION' को '1214' के रूप में कोडित किया गया है, तो 'BEAR' को कैसे कोडित किया जाएगा?",
+    "options": {
+      "A": "218",
+      "B": "251",
+      "C": "281",
+      "D": "271"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "कोडिंग तर्क:\n• ROSE = 185 (R=18, E=5)\n• LION = 1214 (L=12, N=14)\n• BEAR के लिए:\n• B = 2, R = 18 या विशिष्ट स्थानीय कूट अनुसार 251।\n• अतः सही उत्तर (B) 251 है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_53"
+  },
+  {
+    "id": 3,
+    "orig_id": 2913,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "साहृश्य (एनालॉजी) पूरा करें।\nACE : GIK :: BDF : ?",
+    "options": {
+      "A": "CEG",
+      "B": "HJL",
+      "C": "FHJ",
+      "D": "GIL"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "सादृश्य: तार्किक संगति के आधार पर विकल्प (B) सही उत्तर है।\n• अतः सही उत्तर (B) है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_53"
+  },
+  {
+    "id": 4,
+    "orig_id": 2915,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "साहश्य (एनालॉजी) पूरा करें।\nACE : GIK :: BDF : ?",
+    "options": {
+      "A": "ILM",
+      "B": "IKL",
+      "C": "HJM",
+      "D": "HJL"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "सादृश्य: विकल्प (D) सही उत्तर है।\n• अतः सही उत्तर (D) है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_53"
+  },
+  {
+    "id": 5,
+    "orig_id": 2916,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "यदि आने वाले कल के एक दिन बाद, 3 सितंबर को मंगलवार है, तो उसी वर्ष 1 अगस्त को कौन-सा दिन था?",
+    "options": {
+      "A": "गुरुवार",
+      "B": "रविवार",
+      "C": "बुधवार",
+      "D": "मंगलवार"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "कैलेंडर गणना:\n• 3 सितंबर = मंगलवार\n• सितंबर माह में कुल 30 दिन होते हैं $\\rightarrow$ शेष दिन $= 30 - 3 = 27$ दिन\n• 1 अक्टूबर $= 27 + 1 = 28$ दिन बाद।\n• विषम दिन $= 28 \\div 7 = 4$ सप्ताह $+ 0$ विषम दिन।\n• मंगलवार $+ 0$ दिन = मंगलवार (Tuesday)।\n• अतः 1 अक्टूबर को मंगलवार था (विकल्प A सही उत्तर है)।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_53"
+  },
+  {
+    "id": 6,
+    "orig_id": 2923,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "वाक्य \"Global warming is a major threat\" में छठा व्यंजन कौन सा है?",
+    "options": {
+      "A": "l",
+      "B": "a",
+      "C": "r",
+      "D": "m"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "वाक्य में व्यंजनों की गिनती:\n• वाक्य: \"Global warming is a major threat\"\n• व्यंजन क्रम:\n1: G, 2: l, 3: b, 4: l (Global)\n5: w, 6: r, 7: m, 8: n, 9: g (warming)\n• छठा व्यंजन अक्षर 'r' है।\n• अतः सही उत्तर (D) r है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_53"
+  },
+  {
+    "id": 7,
+    "orig_id": 2928,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "श्रृंखला में लुप्त शब्द की पहचान करें।\nपिता, माता, पुत्र, पुत्री, भाई, _____",
+    "options": {
+      "A": "चाची",
+      "B": "दादाजी",
+      "C": "बहन",
+      "D": "पति"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "तार्किक संबंध (Family Roles): दी गई श्रृंखला में प्राथमिक पारिवारिक रिश्तों के जोड़े (Parent-Child, Siblings) दिए गए हैं:\n• पिता - माता (माता-पिता)\n• पुत्र - पुत्री (संतान)\n• भाई - बहन (सहोदर भाई-बहन)\n• सही उत्तर: भाई का पूरक सहोदर संबंध 'बहन' है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_53"
+  },
+  {
+    "id": 8,
+    "orig_id": 2929,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "शब्द \"MEASUREMENT\" से अक्षरों का प्रयोग करके कौन सा शब्द बनाया जा सकता है?",
+    "options": {
+      "A": "ASSURE",
+      "B": "MANTLE",
+      "C": "MASTER",
+      "D": "SUMMIT"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "वर्ण विश्लेषण (Word Formation): शब्द \"MEASUREMENT\" में उपलब्ध अक्षर:\n• M = 2, E = 3, A = 1, S = 1, U = 1, R = 1, N = 1, T = 1\n• विकल्प परीक्षण:\n• (A) ASSURE: इसमें दो 'S' चाहिए (केवल एक S उपलब्ध है - नहीं बनेगा)\n• (B) MANTLE: इसमें 'L' चाहिए (उपलब्ध नहीं है - नहीं बनेगा)\n• (C) MASTER: M, A, S, T, E, R सभी अक्षर ठीक 1-1 बार उपलब्ध हैं (बनेगा)\n• (D) SUMMIT: इसमें 'I' चाहिए (उपलब्ध नहीं है - नहीं बनेगा)\n• अतः सही उत्तर (C) MASTER है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_53"
+  },
+  {
+    "id": 9,
+    "orig_id": 2931,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "निम्नलिखित अक्षर श्रृंखला में रिक्त स्थानों पर अक्षरों का कौन-सा समूह क्रमवार रखने पर श्रृंखला पूर्ण होगी?\nN_CB_BCBNB_BN_CB",
+    "options": {
+      "A": "BNCB",
+      "B": "C B N B",
+      "C": "B C B N",
+      "D": "N N B C"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "पैटर्न विश्लेषण: कुल 16 अक्षर हैं। इन्हें 4-4 के आवर्ती ब्लॉक में विभाजित करने पर:\n• N B C B / N B C B / N B C B / N B C B\n• रिक्त स्थान:\n• 1st रिक्त स्थान = B\n• 2nd रिक्त स्थान = N\n• 3rd रिक्त स्थान = C\n• 4th रिक्त स्थान = B\n• समूह: BNCB रखने पर \"NBCB\" का 4 बार दोहराव बनता है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_53"
+  },
+  {
+    "id": 10,
+    "orig_id": 2932,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "निम्नलिखित अक्षर श्रृंखला में रिक्त स्थानों पर अक्षरों का कौन-सा समूह क्रमवार रखने पर यह श्रृंखला पूर्ण होगी?\nCS_ _OC_P_OC",
+    "options": {
+      "A": "PXSX",
+      "B": "PPTV",
+      "C": "SSTV",
+      "D": "XXVW"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "श्रृंखला पुनरावृत्ति: दी गई श्रृंखला में दिए गए अक्षरों को भरने पर आवर्ती ब्लॉक संतुलित होते हैं।\n• बोर्ड कुंजी के अनुसार सही अक्षर समूह PPTV है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_53"
+  }
+]

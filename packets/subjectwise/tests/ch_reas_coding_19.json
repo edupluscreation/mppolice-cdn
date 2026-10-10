@@ -1,0 +1,232 @@
+[
+  {
+    "id": 1,
+    "orig_id": 1121,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "यदि A2B3 को C4D5 के रूप में कोडित किया गया है, तो X7Y8 को कैसे कोडित किया जाएगा?",
+    "options": {
+      "A": "Z9A10",
+      "B": "Z9A11",
+      "C": "Z9B11",
+      "D": "Z8A10"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र:\n• प्रत्येक अक्षर-संख्या में +2 है, Z के बाद A से चक्र है।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• X+2 = Z, 7+2 = 9, Y+2 = A (चक्र से)।\n• आधिकारिक कुंजी के अनुसार अंतिम Z9A10, विकल्प (A) है।",
+      "exam_tips": "चक्र में 26 के बाद 1 से गिनें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_19"
+  },
+  {
+    "id": 2,
+    "orig_id": 1122,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "एक कोड में, M5#N4 को O7#P6 के रूप में लिखा जाता है। K2#L3 कैसे कोड किया जाएगा?",
+    "options": {
+      "A": "L4#N5",
+      "B": "M4#O5",
+      "C": "M4#N5",
+      "D": "M4#N6"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र:\n• प्रत्येक में +2 का नियम है, # स्थिर है।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• K+2 = M, 2+2 = 4, L+2 = N, 3+2 = 5 से M4#N5 बनता है।\n• मूल में विकल्प कटे हैं, अगले प्रश्न 1124 में पूर्ण विकल्प हैं।",
+      "exam_tips": "# जैसे चिह्न अपरिवर्तित रहते हैं।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_19"
+  },
+  {
+    "id": 3,
+    "orig_id": 1131,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "48 छात्रों की एक पंक्ति में, मोहित बाएँ से 13वें स्थान पर है। यदि वह 5 स्थान दाएँ की ओर खिसकता है, तो दाएँ से उसकी नई स्थिति क्या होगी?",
+    "options": {
+      "A": "दाएँ से 30वाँ",
+      "B": "दाएँ से 33वाँ",
+      "C": "दाएँ से 32वाँ",
+      "D": "दाएँ से 31वाँ"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र:\n• नई बाईं स्थिति = 18, दाईं = कुल - बाईं + 1।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• शुद्ध गणना से 31वाँ (विकल्प D) बनता है।\n• आधिकारिक कुंजी के अनुसार 33वाँ, विकल्प (B) दिया गया है, परीक्षा में कुंजी को अंतिम मानें।",
+      "exam_tips": "खिसकने पर नई बाईं स्थिति पहले निकालें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_19"
+  },
+  {
+    "id": 4,
+    "orig_id": 1132,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "50 छात्रों की कक्षा में, राजेश नीचे से 39वें स्थान पर है। तो ऊपर से उसकी स्थिति क्या होगी?",
+    "options": {
+      "A": "11वाँ",
+      "B": "13वाँ",
+      "C": "12वाँ\n• उत्तर: (C) 12वाँ\n• > 💡 व्याख्या (Explanation):\n> • मुख्य तथ्य / नियम / सूत्र:\n>   • ऊपर से = कुल - नीचे से + 1 = 12।\n> • स्टेप-बाय-स्टेप हल / विवरण:\n>   • मूल में विकल्प D कटा है, अगले प्रश्न 1134 में पूर्ण विकल्पों के साथ उत्तर 12वाँ है।\n> • परीक्षा उपयोगी बिंदु:\n>   • +1 करना न भूलें।\n•",
+      "D": ""
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र:\n• ऊपर से = कुल - नीचे से + 1 = 12।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• मूल में विकल्प D कटा है, अगले प्रश्न 1134 में पूर्ण विकल्पों के साथ उत्तर 12वाँ है।",
+      "exam_tips": "+1 करना न भूलें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_19"
+  },
+  {
+    "id": 5,
+    "orig_id": 1135,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "आपका प्रबंधक दूसरों के सामने आपको नकारात्मक प्रतिक्रिया देता है। सबसे अच्छा भावनात्मक बुद्धिमत्ता वाला उत्तर क्या होगा?",
+    "options": {
+      "A": "शांति से जवाब दें और बाद में अकेले में चर्चा करें",
+      "B": "तुरंत बीच में टोकें और अपना बचाव करें",
+      "C": "गुस्से में कमरे से बाहर निकलें",
+      "D": "अपने प्रबंधक की आलोचना करें"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र:\n• सार्वजनिक विवाद से बचकर निजी संवाद EI है।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• अतः विकल्प (A) सही है।",
+      "exam_tips": "शांति और समय दोनों महत्वपूर्ण हैं।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_19"
+  },
+  {
+    "id": 6,
+    "orig_id": 1140,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "सादृश्य (एनालॉजी) पूरा करें।\nJKL : MNO :: PQR : ?",
+    "options": {
+      "A": "STU",
+      "B": "OPQ",
+      "C": "UST",
+      "D": "QPO"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र:\n• प्रत्येक में +3 का नियम है।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• P+3 = S, Q+3 = T, R+3 = U, अतः विकल्प (A) सही है।",
+      "exam_tips": "क्रमागत अक्षरों में अंतर देखें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_19"
+  },
+  {
+    "id": 7,
+    "orig_id": 1146,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "अंग्रेजी भाषा में, निम्नलिखित हिस्सों को एक सार्थक वाक्य बनाने के लिए पुनर्वव्यवस्थित कीजिए:",
+    "options": {
+      "A": "a new software update (B) The IT department released (C) to improve security (D) last night.\nसही क्रम चुनें:\n• (A) B-A-C-D",
+      "B": "The IT department released (C) to improve security (D) last night.\nसही क्रम चुनें:\n• (A) B-A-C-D\n(B) A-B-C-D",
+      "C": "to improve security (D) last night.\nसही क्रम चुनें:\n• (A) B-A-C-D\n(B) A-B-C-D\n(C) B-C-D-A",
+      "D": "last night.\nसही क्रम चुनें:\n• (A) B-A-C-D\n(B) A-B-C-D\n(C) B-C-D-A\n(D) D-C-B-A"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र:\n• क्रम: कर्ता + कर्म + उद्देश्य + समय है।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• The IT department released a new software update to improve security last night बनता है।\n• अतः विकल्प (A) सही है।",
+      "exam_tips": "समय अंत में आता है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_19"
+  },
+  {
+    "id": 8,
+    "orig_id": 1148,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "अंग्रेजी भाषा में, निम्नलिखित हिस्सों को एक सार्थक वाक्य बनाने के लिए पुनर्व्यवस्थित कीजिए:",
+    "options": {
+      "A": "a new software update (B) The IT department released (C) to improve security (D) last night.\nसही क्रम चुनें:\n• (A) B - A - C - D",
+      "B": "The IT department released (C) to improve security (D) last night.\nसही क्रम चुनें:\n• (A) B - A - C - D\n(B) A - B - C - D",
+      "C": "to improve security (D) last night.\nसही क्रम चुनें:\n• (A) B - A - C - D\n(B) A - B - C - D\n(C) B - C - A - D",
+      "D": "last night.\nसही क्रम चुनें:\n• (A) B - A - C - D\n(B) A - B - C - D\n(C) B - C - A - D\n(D) C - B - A - D"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र:\n• क्रम: कर्ता + कर्म + उद्देश्य + समय है।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• The IT department released a new software update to improve security last night बनता है।\n• अतः विकल्प (A) सही है।",
+      "exam_tips": "समय अंत में आता है।\n• नोट: इसी प्रश्न की पुनरावृत्ति (प्रश्न 1146) में आधिकारिक उत्तर (A) है, जबकि यहाँ (C) दिया गया है — परीक्षा में दी गई कुंजी को अंतिम मानें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_19"
+  },
+  {
+    "id": 9,
+    "orig_id": 1149,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "कथन: पाठ्यक्रम संक्षेप किए जाने के बाद छात्र खराब प्रदर्शन कर गए। कौन-सा निर्णय मान्य है?",
+    "options": {
+      "A": "संक्षिप्त पाठ्यक्रम ने सीखने में सुधार नहीं किया",
+      "B": "शिक्षकों ने अधिक प्रभावी ढंग से पढ़ाया",
+      "C": "परीक्षाएँ पहले से आसान थीं",
+      "D": "छात्र कक्षाओं में अधिक नियमित रूप से भाग लेने लगे"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र:\n• संक्षेप के बाद गिरावट संक्षेप की विफलता है।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• अतः विकल्प (A) सही है।",
+      "exam_tips": "कारण-परिणाम में निकट संबंध चुनें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_19"
+  },
+  {
+    "id": 10,
+    "orig_id": 1150,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "एक सहकर्मी कई कार्यों को स्वयं करने के लिए लेता है पर अधिकांश को पूरा नहीं कर पाता। सबसे अच्छा निष्कर्ष कौन-सा है?",
+    "options": {
+      "A": "वे काम से अधिक ध्यान पसंद करते हैं।",
+      "B": "उन्हें समय प्रबंधन में सुधार की आवश्यकता है।",
+      "C": "वे बेईमान हैं।",
+      "D": "उन्हें स्वयं से काम करना बंद कर देना चाहिए।"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र:\n• अधूरे कार्य प्रबंधन की कमी दर्शाते हैं।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• अतः विकल्प (B) सही है।",
+      "exam_tips": "नकारात्मक चरित्र अनुमान से बचें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_19"
+  }
+]

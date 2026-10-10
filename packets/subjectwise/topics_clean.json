@@ -1,0 +1,250 @@
+{
+  "GK": {
+    "totalQuestions": 1546,
+    "totalTests": 157,
+    "topics": [
+      {
+        "topicId": "gk_culture",
+        "topicName": "कला, संस्कृति, मेले एवं खेल (Art, Culture & Sports)",
+        "totalQuestions": 138,
+        "totalTests": 14,
+        "testPrefix": "ch_gk_culture"
+      },
+      {
+        "topicId": "gk_economy",
+        "topicName": "भारतीय अर्थव्यवस्था (Economy)",
+        "totalQuestions": 61,
+        "totalTests": 7,
+        "testPrefix": "ch_gk_economy"
+      },
+      {
+        "topicId": "gk_geography",
+        "topicName": "भारत एवं विश्व का भूगोल (Geography)",
+        "totalQuestions": 50,
+        "totalTests": 5,
+        "testPrefix": "ch_gk_geography"
+      },
+      {
+        "topicId": "gk_history",
+        "topicName": "भारतीय इतिहास (History)",
+        "totalQuestions": 123,
+        "totalTests": 13,
+        "testPrefix": "ch_gk_history"
+      },
+      {
+        "topicId": "gk_mpgk",
+        "topicName": "मध्य प्रदेश सामान्य ज्ञान (MP GK)",
+        "totalQuestions": 996,
+        "totalTests": 100,
+        "testPrefix": "ch_gk_mpgk"
+      },
+      {
+        "topicId": "gk_polity",
+        "topicName": "भारतीय राजव्यवस्था एवं संविधान (Polity)",
+        "totalQuestions": 178,
+        "totalTests": 18,
+        "testPrefix": "ch_gk_polity"
+      }
+    ]
+  },
+  "REASONING": {
+    "totalQuestions": 2333,
+    "totalTests": 239,
+    "topics": [
+      {
+        "topicId": "reas_analogy",
+        "topicName": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
+        "totalQuestions": 154,
+        "totalTests": 16,
+        "testPrefix": "ch_reas_analogy"
+      },
+      {
+        "topicId": "reas_blood",
+        "topicName": "रक्त संबंध (Blood Relations)",
+        "totalQuestions": 156,
+        "totalTests": 16,
+        "testPrefix": "ch_reas_blood"
+      },
+      {
+        "topicId": "reas_clock_calendar",
+        "topicName": "घड़ी एवं कैलेंडर (Clock & Calendar)",
+        "totalQuestions": 90,
+        "totalTests": 9,
+        "testPrefix": "ch_reas_clock_calendar"
+      },
+      {
+        "topicId": "reas_coding",
+        "topicName": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+        "totalQuestions": 1621,
+        "totalTests": 163,
+        "testPrefix": "ch_reas_coding"
+      },
+      {
+        "topicId": "reas_critical",
+        "topicName": "तार्किक विश्लेषण एवं निर्णय क्षमता (Critical Reasoning)",
+        "totalQuestions": 38,
+        "totalTests": 4,
+        "testPrefix": "ch_reas_critical"
+      },
+      {
+        "topicId": "reas_direction",
+        "topicName": "दिशा और दूरी परीक्षण (Direction & Distance)",
+        "totalQuestions": 75,
+        "totalTests": 8,
+        "testPrefix": "ch_reas_direction"
+      },
+      {
+        "topicId": "reas_nonverbal",
+        "topicName": "अशाब्दिक तर्क एवं प्रतिबिंब (Non-Verbal & Mirror Image)",
+        "totalQuestions": 2,
+        "totalTests": 1,
+        "testPrefix": "ch_reas_nonverbal"
+      },
+      {
+        "topicId": "reas_seating_ranking",
+        "topicName": "बैठक व्यवस्था एवं रैंकिंग (Seating & Ranking)",
+        "totalQuestions": 32,
+        "totalTests": 4,
+        "testPrefix": "ch_reas_seating_ranking"
+      },
+      {
+        "topicId": "reas_series",
+        "topicName": "श्रृंखला एवं लुप्त पद (Series & Missing Terms)",
+        "totalQuestions": 96,
+        "totalTests": 10,
+        "testPrefix": "ch_reas_series"
+      },
+      {
+        "topicId": "reas_syllogism",
+        "topicName": "न्याय निगमन (Syllogism)",
+        "totalQuestions": 43,
+        "totalTests": 5,
+        "testPrefix": "ch_reas_syllogism"
+      },
+      {
+        "topicId": "reas_words",
+        "topicName": "शब्द निर्माण एवं शब्दकोश (Words & Dictionary)",
+        "totalQuestions": 26,
+        "totalTests": 3,
+        "testPrefix": "ch_reas_words"
+      }
+    ]
+  },
+  "MATH": {
+    "totalQuestions": 1730,
+    "totalTests": 178,
+    "topics": [
+      {
+        "topicId": "math_average_age",
+        "topicName": "औसत एवं आयु संबंधी प्रश्न (Average & Ages)",
+        "totalQuestions": 62,
+        "totalTests": 7,
+        "testPrefix": "ch_math_average_age"
+      },
+      {
+        "topicId": "math_interest",
+        "topicName": "साधारण एवं चक्रवृद्धि ब्याज (Simple & Compound Interest)",
+        "totalQuestions": 68,
+        "totalTests": 7,
+        "testPrefix": "ch_math_interest"
+      },
+      {
+        "topicId": "math_mensuration",
+        "topicName": "क्षेत्रमिति एवं ज्यामिति (Mensuration & Geometry)",
+        "totalQuestions": 241,
+        "totalTests": 25,
+        "testPrefix": "ch_math_mensuration"
+      },
+      {
+        "topicId": "math_number_bodmas",
+        "topicName": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
+        "totalQuestions": 1046,
+        "totalTests": 105,
+        "testPrefix": "ch_math_number_bodmas"
+      },
+      {
+        "topicId": "math_percentage",
+        "topicName": "प्रतिशत (Percentage)",
+        "totalQuestions": 40,
+        "totalTests": 4,
+        "testPrefix": "ch_math_percentage"
+      },
+      {
+        "topicId": "math_profit_loss",
+        "topicName": "लाभ-हानि एवं बट्टा (Profit, Loss & Discount)",
+        "totalQuestions": 152,
+        "totalTests": 16,
+        "testPrefix": "ch_math_profit_loss"
+      },
+      {
+        "topicId": "math_ratio_mix",
+        "topicName": "अनुपात, समानुपात एवं मिश्रण (Ratio & Proportion)",
+        "totalQuestions": 94,
+        "totalTests": 10,
+        "testPrefix": "ch_math_ratio_mix"
+      },
+      {
+        "topicId": "math_speed_distance",
+        "topicName": "चाल, दूरी, समय एवं रेलगाड़ी (Speed, Distance & Time)",
+        "totalQuestions": 23,
+        "totalTests": 3,
+        "testPrefix": "ch_math_speed_distance"
+      },
+      {
+        "topicId": "math_time_work",
+        "topicName": "समय और कार्य (Time & Work)",
+        "totalQuestions": 4,
+        "totalTests": 1,
+        "testPrefix": "ch_math_time_work"
+      }
+    ]
+  },
+  "SCIENCE": {
+    "totalQuestions": 1246,
+    "totalTests": 127,
+    "topics": [
+      {
+        "topicId": "sci_anatomy",
+        "topicName": "मानव शरीर क्रिया विज्ञान (Anatomy & Physiology)",
+        "totalQuestions": 160,
+        "totalTests": 16,
+        "testPrefix": "ch_sci_anatomy"
+      },
+      {
+        "topicId": "sci_botany",
+        "topicName": "पादप विज्ञान एवं आनुवंशिकी (Botany & Genetics)",
+        "totalQuestions": 74,
+        "totalTests": 8,
+        "testPrefix": "ch_sci_botany"
+      },
+      {
+        "topicId": "sci_chemistry",
+        "topicName": "रसायन विज्ञान (Chemistry)",
+        "totalQuestions": 362,
+        "totalTests": 37,
+        "testPrefix": "ch_sci_chemistry"
+      },
+      {
+        "topicId": "sci_environment",
+        "topicName": "पर्यावरण एवं पारिस्थितिकी (Ecology & Environment)",
+        "totalQuestions": 50,
+        "totalTests": 5,
+        "testPrefix": "ch_sci_environment"
+      },
+      {
+        "topicId": "sci_health",
+        "topicName": "रोग, स्वास्थ्य एवं पोषण (Diseases & Nutrition)",
+        "totalQuestions": 39,
+        "totalTests": 4,
+        "testPrefix": "ch_sci_health"
+      },
+      {
+        "topicId": "sci_physics",
+        "topicName": "भौतिक विज्ञान (Physics)",
+        "totalQuestions": 561,
+        "totalTests": 57,
+        "testPrefix": "ch_sci_physics"
+      }
+    ]
+  }
+}

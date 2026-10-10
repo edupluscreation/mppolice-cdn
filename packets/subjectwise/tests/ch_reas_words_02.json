@@ -1,0 +1,232 @@
+[
+  {
+    "id": 1,
+    "orig_id": 5894,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_words",
+    "topic": "शब्द निर्माण एवं शब्दकोश (Words & Dictionary)",
+    "question": "शब्दकोश में सबसे अंत में कौन-सा शब्द आता है?\nLATEST, LATER, LATEX, LATITUDE",
+    "options": {
+      "A": "LATEST",
+      "B": "LATER",
+      "C": "LATEX",
+      "D": "LATITUDE"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: शब्दकोश क्रम में अंतिम शब्द (Alphabetical Order - Last Word):\nशब्दों के पहले भिन्न होने वाले अक्षर के वर्णमाला क्रम की तुलना करना।\n• 📝 स्टेप-बाय-स्टेप हल:\n1. दिए गए शब्द: LATER, LATEST, LATEX, LATITUDE\n2. सभी शब्दों में पहले तीन अक्षर 'LAT' समान हैं।\n3. चौथे अक्षर की तुलना:\n• LATER में चौथा अक्षर 'E' है।\n• LATEST में चौथा अक्षर 'E' है।\n• LATEX में चौथा अक्षर 'E' है।\n• LATITUDE में चौथा अक्षर 'I' है।\n4. अंग्रेजी वर्णमाला में 'I', 'E' के बाद आता है।\n5. 'E' वाले सभी शब्द (LATER, LATEST, LATEX) पहले समाप्त हो जाएंगे और 'I' वाला शब्द 'LATITUDE' सबसे अंत में आएगा।\n6. अतः शब्दकोश में सबसे अंत में आने वाला शब्द 'LATITUDE' है।\n7. सही विकल्प (D) LATITUDE है।\n• 💡",
+      "exam_tips": "संपूर्ण क्रम: LATER (1st) → LATEST (2nd) → LATEX (3rd) → LATITUDE (4th/अंतिम)।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_words_02"
+  },
+  {
+    "id": 2,
+    "orig_id": 5934,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_words",
+    "topic": "शब्द निर्माण एवं शब्दकोश (Words & Dictionary)",
+    "question": "नीचे दिए गए बिखरे हुए अक्षरों को पुनः व्यवस्थित कीजिए ताकि एक ऐसा अर्थपूर्ण अंग्रेज़ी शब्द बने जो उस व्यक्ति को दर्शाता है जो धार्मिक या आध्यात्मिक उद्देश्य से यात्रा करता है।\nअक्षर: M G I P R I L",
+    "options": {
+      "A": "IMPLORE",
+      "B": "GRIMPE",
+      "C": "PRIMAL",
+      "D": "PILGRIM"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: वर्ण पुनर्व्यवस्था और शब्द निर्माण (Anagram / Vocabulary):\nअक्षरों M, G, I, P, R, I, L से धार्मिक यात्री को दर्शाने वाला शब्द बनाना।\n• 📝 स्टेप-बाय-स्टेप हल:\n1. दिए गए अक्षर: M, G, I, P, R, I, L (कुल 7 अक्षर)\n2. इन अक्षरों का संयोजन:\nP - I - L - G - R - I - M\n3. शब्द बनता है: \"PILGRIM\" (पिल्ग्रिम)\n4. 'Pilgrim' का अर्थ हिंदी में 'तीर्थयात्री' होता है, जो धार्मिक या आध्यात्मिक उद्देश्य से पवित्र स्थानों की यात्रा करता है।\n5. अतः सही शब्द PILGRIM है।\n6. सही विकल्प (D) PILGRIM है।\n• 💡",
+      "exam_tips": "अंग्रेजी शब्दकोश में 'Pilgrimage' का अर्थ तीर्थयात्रा होता है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_words_02"
+  },
+  {
+    "id": 3,
+    "orig_id": 6095,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_words",
+    "topic": "शब्द निर्माण एवं शब्दकोश (Words & Dictionary)",
+    "question": "दिए गए शब्दों को उस क्रम में व्यवस्थित कीजिए जिसमें वे शब्दकोश में आते हैं।\n1. Eagle\n2. Earth\n3. East\n4. Easy\n5. Early",
+    "options": {
+      "A": "15234",
+      "B": "12534",
+      "C": "15324",
+      "D": "51234"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: शब्दकोश क्रम (Dictionary Order):\nअक्षरों के वर्णमाला क्रम की तुलना।\n• 📝 स्टेप-बाय-स्टेप हल:\n1. सभी शब्द 'Ea' से शुरू होते हैं।\n2. तीसरा अक्षर देखें:\n• 1. Eagle ('g') -> सबसे पहले (1)\n• 5. Early ('r', चौथा 'l') -> दूसरा (5)\n• 2. Earth ('r', चौथा 't') -> तीसरा (2)\n• 3. East ('s', चौथा 't') -> चौथा (3)\n• 4. Easy ('s', चौथा 'y') -> पांचवां (4)\n3. सही क्रम: 1, 5, 2, 3, 4 (15234)।\n4. अतः सही विकल्प (A) 15234 है।\n• 💡",
+      "exam_tips": "Early में 'l' Earth के 't' से पहले आता है, इसलिए 5 पहले और 2 बाद में आएगा।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_words_02"
+  },
+  {
+    "id": 4,
+    "orig_id": 6121,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_words",
+    "topic": "शब्द निर्माण एवं शब्दकोश (Words & Dictionary)",
+    "question": "उन शब्दों का सही क्रम चुनें जो दिये गए शब्दों के सही क्रम को दर्शाते हैं जैसा कि वे अंग्रेजी शब्दकोश में दिखाई देंगे।\n1. Temple\n2. Temperature\n3. Temporary\n4. Tempest\n5. Temptation",
+    "options": {
+      "A": "2, 1, 4, 3, 5",
+      "B": "2, 4, 3, 1, 5",
+      "C": "2, 4, 1, 3, 5",
+      "D": "1, 2, 4, 3, 5"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: अंग्रेजी शब्दकोश क्रम (Alphabetical Ordering):\nप्रारंभिक उभयनिष्ठ अक्षरों के बाद के वर्णों की तुलना।\n• 📝 स्टेप-बाय-स्टेप हल:\n1. सभी शब्द 'Temp' से शुरू होते हैं।\n2. पांचवें अक्षर की तुलना:\n• Temperature ('e', छठा 'r', सातवां 'a') -> सबसे पहले (2)\n• Tempest ('e', छठा 's') -> दूसरा (4)\n• Temple ('l') -> तीसरा (1)\n• Temporary ('o') -> चौथा (3)\n• Temptation ('t') -> पांचवां (5)\n3. क्रम बनता है: 2, 4, 1, 3, 5\n4. अतः सही विकल्प (C) 2, 4, 1, 3, 5 है।\n• 💡",
+      "exam_tips": "e < l < o < t के आधार पर शब्दों की स्थिति निर्धारित होती है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_words_02"
+  },
+  {
+    "id": 5,
+    "orig_id": 6166,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_words",
+    "topic": "शब्द निर्माण एवं शब्दकोश (Words & Dictionary)",
+    "question": "उस सही विकल्प का चयन करें जो दिए गए शब्दों को अंग्रेजी शब्दकोश में उनके क्रम के अनुसार व्यवस्थित करता है।\n1. Bright\n2. Brick\n3. Bridge\n4. Bribe\n5. Brilliant\n6. Bring",
+    "options": {
+      "A": "4, 3, 2, 1, 5, 6",
+      "B": "4, 2, 3, 1, 5, 6",
+      "C": "2, 4, 3, 1, 5, 6",
+      "D": "4, 2, 1, 3, 5, 6"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: शब्दकोश क्रम (Alphabetical Order):\nसभी शब्द 'Bri' से शुरू होते हैं।\n• 📝 स्टेप-बाय-स्टेप हल:\n1. चौथे अक्षर की तुलना:\n• 4. Bribe ('b') -> 1st\n• 2. Brick ('c', 5th 'k') -> 2nd\n• 3. Bridge ('d') -> 3rd\n• 1. Bright ('g') -> 4th\n• 5. Brilliant ('l') -> 5th\n• 6. Bring ('n') -> 6th\n2. सही क्रम: 4, 2, 3, 1, 5, 6\n3. अतः सही विकल्प (B) 4, 2, 3, 1, 5, 6 है।\n• 💡",
+      "exam_tips": "वर्णमाला क्रम: b < c < d < g < l < n।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_words_02"
+  },
+  {
+    "id": 6,
+    "orig_id": 6277,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_words",
+    "topic": "शब्द निर्माण एवं शब्दकोश (Words & Dictionary)",
+    "question": "दिए गए अंग्रेजी शब्दों को उस क्रम में व्यवस्थित करें जिस क्रम में वे अंग्रेजी शब्दकोश में आते हैं।\n1. Magnet\n2. Magnum\n3. Magic\n4. Magnolia\n5. Magnify",
+    "options": {
+      "A": "3, 1, 4, 5, 2",
+      "B": "3, 1, 5, 4, 2",
+      "C": "1, 3, 5, 4, 2",
+      "D": "3, 5, 1, 4, 2"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: शब्दकोश क्रम (Dictionary Order):\nसभी शब्द 'Mag' से प्रारंभ होते हैं।\n• 📝 स्टेप-बाय-स्टेप हल:\n1. चौथे अक्षर की तुलना:\n• 3. Magic ('i') -> सबसे पहले (3)\n• 1. Magnet ('n', 5th 'e') -> दूसरा (1)\n• 5. Magnify ('n', 5th 'i') -> तीसरा (5)\n• 4. Magnolia ('n', 5th 'o') -> चौथा (4)\n• 2. Magnum ('n', 5th 'u') -> पांचवां (2)\n2. सही क्रम: 3, 1, 5, 4, 2\n3. अतः सही विकल्प (B) 3, 1, 5, 4, 2 है।\n• 💡",
+      "exam_tips": "वर्णमाला क्रम: i < ne < ni < no < nu।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_words_02"
+  },
+  {
+    "id": 7,
+    "orig_id": 6488,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_words",
+    "topic": "शब्द निर्माण एवं शब्दकोश (Words & Dictionary)",
+    "question": "\"R, A, C, E\" के सभी अक्षरों का प्रयोग करके कौन-सा सार्थक शब्द बनाया जा सकता है?",
+    "options": {
+      "A": "CARE",
+      "B": "RAEC",
+      "C": "CERA",
+      "D": "CEAR"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम: अक्षरों के पुनर्संयोजन से सार्थक अंग्रेजी शब्द निर्माण।\n• 📝 स्टेप-बाय-स्टेप हल:\n• अक्षर: R, A, C, E\n• विकल्पों में:\n• CARE (देखभाल/परवाह) एक पूर्णतः मान्य और अर्थपूर्ण अंग्रेजी शब्द है।\n• अन्य कोई भी विकल्प शब्दकोश में मान्य शब्द नहीं है।\n• 💡",
+      "exam_tips": "RACE और CARE एक-दूसरे के अनाग्राम (Anagrams) हैं।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_words_02"
+  },
+  {
+    "id": 8,
+    "orig_id": 6574,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_words",
+    "topic": "शब्द निर्माण एवं शब्दकोश (Words & Dictionary)",
+    "question": "अक्षरों C, R, E, T, A, P, U से कौन-सा वैध अंग्रेज़ी शब्द बनाया जा सकता है?",
+    "options": {
+      "A": "CAPTURE",
+      "B": "CURPETA",
+      "C": "ACEPTUR",
+      "D": "CRAPUTE"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम: अनाग्राम (Anagram) से सार्थक शब्द निर्माण।\n• 📝 स्टेप-बाय-स्टेप हल:\n• दिए गए अक्षर: C, R, E, T, A, P, U (7 अक्षर)\n• इन अक्षरों को व्यवस्थित करने पर:\n• CAPTURE (पकड़ना/कैद करना) एक पूर्णतः सार्थक और व्याकरण सम्मत अंग्रेजी शब्द बनता है।\n• अन्य कोई भी विकल्प अंग्रेजी शब्दकोश में मान्य शब्द नहीं है।\n• अतः सही उत्तर विकल्प (A) CAPTURE है।\n• 💡",
+      "exam_tips": "C-A-P-T-U-R-E में सभी 7 दिए गए अक्षरों का ठीक एक-एक बार प्रयोग हुआ है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_words_02"
+  },
+  {
+    "id": 9,
+    "orig_id": 7297,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_words",
+    "topic": "शब्द निर्माण एवं शब्दकोश (Words & Dictionary)",
+    "question": "शब्दकोश में सबसे पहले कौन-सा शब्द आता है?\nCRY, CRYPT, CRYSTAL, CRYING",
+    "options": {
+      "A": "CRYING",
+      "B": "CRYSTAL",
+      "C": "CRY",
+      "D": "CRYPT"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: शब्दकोश क्रम व्यवस्था (Dictionary Order):\n• शब्दों के अक्षरों की वर्णमाला क्रम में तुलना।\n• 📝 स्टेप-बाय-स्टेप हल:\n1. दिए गए शब्द:\n• (1) CRY (3 अक्षर)\n• (2) CRYING (C-R-Y के बाद I)\n• (3) CRYPT (C-R-Y के बाद P)\n• (4) CRYSTAL (C-R-Y के बाद S)\n2. चारों शब्दों में पहले तीन अक्षर \"CRY\" समान हैं।\n3. शब्दकोश के नियमानुसार, जो शब्द यहीं समाप्त हो जाता है (CRY), वह उन शब्दों से पहले आता है जिनमें इसके आगे और अक्षर जुड़े होते हैं।\n4. अतः शब्दकोश में सबसे पहले CRY आएगा।\n5. सही उत्तर (C) CRY है।\n• 💡",
+      "exam_tips": "पूर्ण शब्द हमेशा अपने विस्तारित डेरिवेटिव शब्दों से पहले आता है (उदा. CAT, CATER से पहले आता है)।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_words_02"
+  },
+  {
+    "id": 10,
+    "orig_id": 7784,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_words",
+    "topic": "शब्द निर्माण एवं शब्दकोश (Words & Dictionary)",
+    "question": "दिए गए अंग्रेजी शब्दों को उस क्रम में व्यवस्थित करें जिस क्रम में वे अंग्रेजी शब्दकोश में आते हैं।\n1- Kashmir\n2- Kayak\n3- Kebab\n4- Karaoke\n5- Karma",
+    "options": {
+      "A": "4, 5, 3, 2, 1",
+      "B": "4, 5, 1, 2, 3",
+      "C": "4, 5, 3, 1, 2",
+      "D": "4, 5, 1, 3, 2"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: शब्दकोश क्रम व्यवस्था (Dictionary Order):\n• 📝 स्टेप-बाय-स्टेप हल:\n1. दिए गए शब्दों के वर्णमाला क्रम की तुलना करने पर सही क्रम 4, 5, 3, 1, 2 बनता है।\nअतः सही उत्तर (C) 4, 5, 3, 1, 2 है।\n• 💡",
+      "exam_tips": "पहले अक्षर से मिलान शुरू करें, समान होने पर दूसरे और तीसरे अक्षर की तुलना करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_words_02"
+  }
+]

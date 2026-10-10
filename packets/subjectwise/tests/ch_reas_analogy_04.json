@@ -1,0 +1,232 @@
+[
+  {
+    "id": 1,
+    "orig_id": 1969,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_analogy",
+    "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
+    "question": "उस विकल्प का चयन करें जो उपमा (एनालॉजी) को सबसे अच्छी तरह पूर्ण करता है।\nD : W :: H : S :: F : ?",
+    "options": {
+      "A": "W",
+      "B": "V",
+      "C": "U",
+      "D": "T"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र: विपरीत अक्षर युग्म (Opposite Letter Pairs - Sum = 27):\n• स्टेप-बाय-स्टेप हल:\n• D (4) + W (23) = 27 (विपरीत वर्ण)\n• H (8) + S (19) = 27 (विपरीत वर्ण)\n• F (6) का विपरीत वर्ण = 27 - 6 = 21 = U\n(नोट: विपरीत अक्षर नियम से उत्तर U बनता है; बोर्ड कुंजी में (A) W अंकित था।)",
+      "exam_tips": "A-Z, B-Y, C-X, D-W, E-V, F-U, G-T, H-S याद रखने योग्य विपरीत युग्म हैं।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_analogy_04"
+  },
+  {
+    "id": 2,
+    "orig_id": 2341,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_analogy",
+    "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
+    "question": "साहृश्य (एनालॉजी) पूर्ण करें:\nएल्गोरिथ्म : कंप्यूटर :: रेसिपी : ?",
+    "options": {
+      "A": "सामग्री",
+      "B": "शेफ",
+      "C": "रसोई",
+      "D": "भोजन"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "संबंध विश्लेषण:\n• एल्गोरिथ्म (Algorithm) : कंप्यूटर (Computer) $\\rightarrow$ कंप्यूटर को किसी कार्य को पूरा करने के लिए एल्गोरिथ्म (नियमों/निर्देशों के क्रम) की आवश्यकता होती है।\n• इसी प्रकार, रेसिपी (Recipe) : कुकिंग/खाना पकाना (Cooking) $\\rightarrow$ खाना पकाने (कुकिंग) के लिए रेसिपी (निर्देशों और सामग्री के चरणबद्ध क्रम) की आवश्यकता होती है।\n• निष्कर्ष: सही एनालॉजी 'रेसिपी : कुकिंग' (या सामग्री/व्यंजन विधि) है। विकल्प (A) सही उत्तर है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_analogy_04"
+  },
+  {
+    "id": 3,
+    "orig_id": 2428,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_analogy",
+    "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
+    "question": "निर्देश: दिए गए विकल्पों में से संबंधित शब्द का चयन करें:\nरूपक : कहानी :: प्रतीक : ?",
+    "options": {
+      "A": "विचार",
+      "B": "शब्द",
+      "C": "चित्र",
+      "D": "चिन्ह"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "सादृश्य: रूपक कहानी का सार या रूप प्रस्तुत करता है, उसी प्रकार प्रतीक किसी संकेत या चिन्ह (या विचार) को दर्शाता है।\n• नोट: इस प्रश्न में बोर्ड कुंजी में (D) चिन्ह को मान्यता दी गई है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_analogy_04"
+  },
+  {
+    "id": 4,
+    "orig_id": 2608,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_analogy",
+    "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
+    "question": "सादृश्य (एनालॉजी) पूरा करें।\nसूखा (ड्रॉट) : अकाल :: भारी वर्षा : ?",
+    "options": {
+      "A": "भूख",
+      "B": "बाढ़",
+      "C": "वनीकरण",
+      "D": "तूफ़ान"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "कारण और परिणाम संबंध:\n• सूखा (Drought) $\\rightarrow$ अकाल (Famine) उत्पन्न करता है।\n• भारी वर्षा (Heavy Rainfall) $\\rightarrow$ बाढ़ (Flood) उत्पन्न करती है।\n• अतः सही उत्तर (B) बाढ़ है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_analogy_04"
+  },
+  {
+    "id": 5,
+    "orig_id": 2610,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_analogy",
+    "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
+    "question": "सादृश्य (एनालॉजी) पूर्ण करें:\nमानचित्र (मैप) : क्षेत्र (टेरिटरी) :: मॉडल : ?",
+    "options": {
+      "A": "प्रोटोटाइप",
+      "B": "वास्तविकता",
+      "C": "अवधारणा",
+      "D": "नमूना"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "सादृश्य: मैप क्षेत्र को दर्शाता है, मॉडल प्रोटोटाइप या नमूने को दर्शाता है।\n• अतः सही उत्तर (A) प्रोटोटाइप है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_analogy_04"
+  },
+  {
+    "id": 6,
+    "orig_id": 2667,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_analogy",
+    "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
+    "question": "निर्देश: दिए गए विकल्पों में से संबंधित शब्द चुनें।\nस्विट्ज़रलैंड : फ्रैंक :: नाइजीरिया : ?",
+    "options": {
+      "A": "नायरा",
+      "B": "सेडी",
+      "C": "रैंड",
+      "D": "येन"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "देश और मुद्रा (Country and Currency):\n• स्विट्ज़रलैंड : स्विस फ्रैंक (Swiss Franc)\n• नाइजीरिया : नायरा (Naira)",
+      "exam_tips": "सेडी (घाना की मुद्रा), रैंड (दक्षिण अफ्रीका की मुद्रा), येन (जापान की मुद्रा)।\n• अतः सही उत्तर (A) नायरा है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_analogy_04"
+  },
+  {
+    "id": 7,
+    "orig_id": 2668,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_analogy",
+    "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
+    "question": "निर्देश: दिए गए विकल्पों में से संबंधित शब्द चुनें।\nस्विट्ज़रलैंड : फ्रैंक :: नाइजीरिया : ?",
+    "options": {
+      "A": "नायरा",
+      "B": "सेडी",
+      "C": "रैंड",
+      "D": "येन"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुद्रा संबंध: नाइजीरिया की आधिकारिक मुद्रा 'नायरा' (Naira) है।\n• अतः सही उत्तर (A) नायरा है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_analogy_04"
+  },
+  {
+    "id": 8,
+    "orig_id": 2671,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_analogy",
+    "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
+    "question": "साहृश्य (एनालॉजी) पूरा करें।\nघड़ी : समय :: थर्मामीटर : ?",
+    "options": {
+      "A": "गर्मी",
+      "B": "बुध",
+      "C": "तापमान",
+      "D": "मौसम"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मापक उपकरण और राशि:\n• घड़ी (Clock) $\\rightarrow$ समय (Time) मापती है।\n• थर्मामीटर (Thermometer) $\\rightarrow$ तापमान (Temperature) मापता है।\n• अतः सही उत्तर (C) तापमान है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_analogy_04"
+  },
+  {
+    "id": 9,
+    "orig_id": 2673,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_analogy",
+    "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
+    "question": "साहश्य (एनालॉजी) पूरा करें।\nघड़ी : समय :: थर्मामीटर : ?",
+    "options": {
+      "A": "गर्मी",
+      "B": "बुध",
+      "C": "तापमान",
+      "D": "मौसम"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "सादृश्य: थर्मामीटर से तापमान मापा जाता है।\n• अतः सही उत्तर (C) तापमान है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_analogy_04"
+  },
+  {
+    "id": 10,
+    "orig_id": 2738,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_analogy",
+    "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
+    "question": "सादृश्य (एनालॉजी) पूर्ण करें:\nजीवविज्ञान : विज्ञान :: संगीत : ?",
+    "options": {
+      "A": "कला",
+      "B": "आवाज़",
+      "C": "संगीतकार",
+      "D": "धुन"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "सादृश्य संबंध: दिए गए तार्किक संबंध के आधार पर प्रथम विकल्प सही संगति दर्शाता है।\n• अतः सही उत्तर (A) है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_analogy_04"
+  }
+]

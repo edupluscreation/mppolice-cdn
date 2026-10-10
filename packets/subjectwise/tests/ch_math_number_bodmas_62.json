@@ -1,0 +1,232 @@
+[
+  {
+    "id": 1,
+    "orig_id": 5054,
+    "subject_code": "MATH",
+    "subject": "गणित",
+    "topic_id": "math_number_bodmas",
+    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
+    "question": "यदि $ = भाग, @ = जोड़, # = घटाना, और % = गुणा, तो निम्नलिखित व्यंजक का मान क्या होगा?\n20 @ 8 % 2 $ 4 # 3 = ?",
+    "options": {
+      "A": "18",
+      "B": "16",
+      "C": "21",
+      "D": "25"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / चिन्ह प्रतिस्थापन एवं BODMAS:\n• व्यंजक: 20 + 8 × 2 ÷ 4 - 3\n• 📝 स्टेप-बाय-स्टेप हल:\n• भाग व गुणा: 8 × (2 ÷ 4) = 8 × 0.5 = 4\n• जोड़ व घटाव: 20 + 4 - 3 = 24 - 3 = 21 (मानक गणितीय मान)।\n• बोर्ड उत्तर कुंजी नोट: बोर्ड कुंजी में विकल्प (B) 16 अंकित था।\n• 💡",
+      "exam_tips": "BODMAS से 21 तथा बोर्ड कुंजी में 16 प्राप्त होता है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_math_number_bodmas_62"
+  },
+  {
+    "id": 2,
+    "orig_id": 5056,
+    "subject_code": "MATH",
+    "subject": "गणित",
+    "topic_id": "math_number_bodmas",
+    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
+    "question": "यदि $ = भाग, @ = जोड़, # = घटाना, और % = गुणा, तो व्यंजक का मान:",
+    "options": {
+      "A": "18",
+      "B": "16",
+      "C": "21",
+      "D": "24"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / बोर्ड उत्तर कुंजी:\n• आधिकारिक कुंजी अनुसार विकल्प (B) 16 सही है।\n• 💡",
+      "exam_tips": "प्रतीकात्मक संक्रिया परीक्षण।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_math_number_bodmas_62"
+  },
+  {
+    "id": 3,
+    "orig_id": 5062,
+    "subject_code": "MATH",
+    "subject": "गणित",
+    "topic_id": "math_number_bodmas",
+    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
+    "question": "एक कार 120 किलोमीटर की दूरी 20 किलोमीटर प्रति घंटे की चाल से तय करती है और उसी मार्ग से 30 किलोमीटर प्रति घंटे की चाल से वापस लौटती है। पूरी यात्रा की औसत चाल क्या है?",
+    "options": {
+      "A": "25 किमी/घंटा",
+      "B": "24 किमी/घंटा",
+      "C": "22 किमी/घंटा",
+      "D": "26 किमी/घंटा"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / समान दूरी हेतु औसत चाल सूत्र (हरात्मक माध्य):\n• औसत चाल = (2 × v₁ × v₂) / (v₁ + v₂)\n• 📝 स्टेप-बाय-स्टेप हल:\n• v₁ = 20 किमी/घंटा, v₂ = 30 किमी/घंटा\n• औसत चाल = (2 × 20 × 30) / (20 + 30) = 1200 / 50 = 24 किमी/घंटा।\n• 💡",
+      "exam_tips": "कभी भी दोनों चालों का सामान्य अंकगणितीय औसत (20+30)/2 = 25 न निकालें; सही औसत चाल 24 किमी/घंटा है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_math_number_bodmas_62"
+  },
+  {
+    "id": 4,
+    "orig_id": 5065,
+    "subject_code": "MATH",
+    "subject": "गणित",
+    "topic_id": "math_number_bodmas",
+    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
+    "question": "पते के संभावित शहर की पहचान करें।\nCMC Hospital, Ida Scudder Road,\nTamil Nadu - 632004",
+    "options": {
+      "A": "वेल्लोर",
+      "B": "मदुरै",
+      "C": "सेलम",
+      "D": "तिरुचिरापल्ली"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / पिनकोड एवं संस्थान मिलान:\n• क्रिश्चियन मेडिकल कॉलेज (CMC Hospital) वेल्लोर (Vellore), तमिलनाडु में स्थित प्रसिद्ध चिकित्सा संस्थान है।\n• पिनकोड 632004 वेल्लोर शहर का है।\n• 💡",
+      "exam_tips": "वेल्लोर का सीएमसी अस्पताल विश्व प्रसिद्ध है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_math_number_bodmas_62"
+  },
+  {
+    "id": 5,
+    "orig_id": 5067,
+    "subject_code": "MATH",
+    "subject": "गणित",
+    "topic_id": "math_number_bodmas",
+    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
+    "question": "पते के संभावित शहर की पहचान करें।\nIda Scudder Road, Tamil Nadu - 632004",
+    "options": {
+      "A": "वेल्लोर",
+      "B": "चेन्नई",
+      "C": "कोयंबटूर",
+      "D": "तंजावुर"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / भौगोलिक मिलान:\n• वेल्लोर शहर सही उत्तर है।\n• 💡",
+      "exam_tips": "विकल्प (A) सही उत्तर है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_math_number_bodmas_62"
+  },
+  {
+    "id": 6,
+    "orig_id": 5099,
+    "subject_code": "MATH",
+    "subject": "गणित",
+    "topic_id": "math_number_bodmas",
+    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
+    "question": "यदि A=26, B=25... Z=1 हो, तो \"LOW\" का कोड क्या होगा?",
+    "options": {
+      "A": "15124",
+      "B": "14124",
+      "C": "15125",
+      "D": "14125"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / विपरीत वर्णमाला स्थानीय मान सूत्र:\n• विपरीत मान = 27 - सामान्य मान\n• 📝 स्टेप-बाय-स्टेप हल:\n• L (सामान्य 12) = 27 - 12 = 15\n• O (सामान्य 15) = 27 - 15 = 12\n• W (सामान्य 23) = 27 - 23 = 4\n• संयोजित कोड = 15124 (विकल्प A)।\n• 💡",
+      "exam_tips": "वर्णमाला का विपरीत क्रमांक 27 में से घटाकर निकाला जाता है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_math_number_bodmas_62"
+  },
+  {
+    "id": 7,
+    "orig_id": 5121,
+    "subject_code": "MATH",
+    "subject": "गणित",
+    "topic_id": "math_number_bodmas",
+    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
+    "question": "कौन-सी विशेषता लैंगिक और अलैंगिक प्रजनन में मुख्य अंतर करती है?",
+    "options": {
+      "A": "जनकों की संख्या",
+      "B": "बीजाणुओं का उपयोग",
+      "C": "वानस्पतिक अंग",
+      "D": "इनमें से कोई नहीं"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / प्रजनन के प्रकार:\n• अलैंगिक प्रजनन (Asexual Reproduction): केवल एक ही जनक (Single Parent) शामिल होता है और युग्मकों का संलयन नहीं होता (संतानें 'क्लोन' होती हैं)।\n• लैंगिक प्रजनन (Sexual Reproduction): दो विपरीत लिंगी जनक (द्विजनकीय - Two Parents) शामिल होते हैं और नर व मादा युग्मकों के संलयन से विविधता उत्पन्न होती है।\n• 💡",
+      "exam_tips": "युग्मक निर्माण और निषेचन लैंगिक प्रजनन की विशिष्ट पहचान हैं।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_math_number_bodmas_62"
+  },
+  {
+    "id": 8,
+    "orig_id": 5124,
+    "subject_code": "MATH",
+    "subject": "गणित",
+    "topic_id": "math_number_bodmas",
+    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
+    "question": "थर्मल पावर प्लांट में उपस्थित कणीय पदार्थ को हटाने के लिए कौन-सा उपकरण व्यापक रूप से उपयोग किया जाता है?",
+    "options": {
+      "A": "निस्पंदन",
+      "B": "साइक्लोन सेपरेटर",
+      "C": "विद्युत स्थैतिक अवक्षेपक",
+      "D": "गुरुत्वीय सेटलर"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / पर्यावरण अभियांत्रिकी:\n• ESP (Electrostatic Precipitator) कणीय उत्सर्जन को रोकने की सर्वोत्तम तकनीक है।\n• 💡",
+      "exam_tips": "विकल्प (C) सही उत्तर है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_math_number_bodmas_62"
+  },
+  {
+    "id": 9,
+    "orig_id": 5132,
+    "subject_code": "MATH",
+    "subject": "गणित",
+    "topic_id": "math_number_bodmas",
+    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
+    "question": "एक गाँव की कुल जनसंख्या 2000 है, जिसमें 800 महिलाएं हैं। गाँव में महिलाओं का प्रतिशत क्या है?",
+    "options": {
+      "A": "40%",
+      "B": "45%",
+      "C": "50%",
+      "D": "60%"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / प्रतिशत सूत्र:\n• महिलाओं का प्रतिशत = (महिलाओं की संख्या / कुल जनसंख्या) × 100\n• 📝 स्टेप-बाय-स्टेप हल:\n• प्रतिशत = (800 / 2000) × 100 = 80 / 2 = 40%।\n• 💡",
+      "exam_tips": "पुरुषों का प्रतिशत = 100% - 40% = 60% (1200 पुरुष)।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_math_number_bodmas_62"
+  },
+  {
+    "id": 10,
+    "orig_id": 5160,
+    "subject_code": "MATH",
+    "subject": "गणित",
+    "topic_id": "math_number_bodmas",
+    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
+    "question": "मूल्यांकन करें:\n6 × 8 + 12 ÷ 2 = ?",
+    "options": {
+      "A": "30",
+      "B": "48",
+      "C": "54",
+      "D": "60"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / BODMAS नियम:\n• व्यंजक: 6 × 8 + 12 ÷ 2\n• 📝 स्टेप-बाय-स्टेप हल:\n• भाग: 12 ÷ 2 = 6\n• गुणा: 6 × 8 = 48\n• जोड़: 48 + 6 = 54.\n• 💡",
+      "exam_tips": "सटीक मान 54 (विकल्प C) प्राप्त होता है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_math_number_bodmas_62"
+  }
+]
