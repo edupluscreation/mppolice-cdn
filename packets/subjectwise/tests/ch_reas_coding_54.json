@@ -1,52 +1,6 @@
 [
   {
     "id": 1,
-    "orig_id": 2933,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "निम्नलिखित अक्षर श्रृंखला में रिक्त स्थानों पर अक्षरों का कौन सा समूह क्रमवार रखने पर यह श्रृंखला पूर्ण होगी?\nBCD_E_CD_E_C_DEB",
-    "options": {
-      "A": "EBDBC",
-      "B": "EFFCD",
-      "C": "BCDEF",
-      "D": "DDCCA"
-    },
-    "correct": "B",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "श्रृंखला प्रारूप: निरंतर अक्षर विन्यास में पैटर्न के अनुसार दिए गए रिक्त स्थानों पर EFFCD समूह उपयुक्त बैठता है।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_54"
-  },
-  {
-    "id": 2,
-    "orig_id": 2947,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "10 पुरुष, एक तालाब को 20 दिनों में खोदते हैं। यदि केवल 8 पुरुष उपलब्ध हों तो वही तालाब कितने दिनों में खोदेंगे?",
-    "options": {
-      "A": "22 दिन",
-      "B": "24 दिन",
-      "C": "25 दिन",
-      "D": "20 दिन"
-    },
-    "correct": "C",
-    "explanation": {
-      "formula": "सूत्र: M₁ × D₁ = M₂ × D₂ (कार्य समान होने पर)\n• मान रखने पर:\n• M₁ = 10 पुरुष, D₁ = 20 दिन\n• M₂ = 8 पुरुष, D₂ = ?\n• 10 × 20 = 8 × D₂\n• 200 = 8 × D₂\n• D₂ = 200 ÷ 8 = 25 दिन\n• अतः 8 पुरुष उस तालाब को 25 दिनों में खोदेंगे।",
-      "solution": "विस्तृत व्याख्या उपलब्ध है।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_54"
-  },
-  {
-    "id": 3,
     "orig_id": 2956,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -69,7 +23,7 @@
     "mock_id": "ch_reas_coding_54"
   },
   {
-    "id": 4,
+    "id": 2,
     "orig_id": 2969,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -92,7 +46,7 @@
     "mock_id": "ch_reas_coding_54"
   },
   {
-    "id": 5,
+    "id": 3,
     "orig_id": 2988,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -115,7 +69,7 @@
     "mock_id": "ch_reas_coding_54"
   },
   {
-    "id": 6,
+    "id": 4,
     "orig_id": 2993,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -138,7 +92,7 @@
     "mock_id": "ch_reas_coding_54"
   },
   {
-    "id": 7,
+    "id": 5,
     "orig_id": 2995,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -161,7 +115,7 @@
     "mock_id": "ch_reas_coding_54"
   },
   {
-    "id": 8,
+    "id": 6,
     "orig_id": 2998,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -184,7 +138,7 @@
     "mock_id": "ch_reas_coding_54"
   },
   {
-    "id": 9,
+    "id": 7,
     "orig_id": 3002,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -207,7 +161,7 @@
     "mock_id": "ch_reas_coding_54"
   },
   {
-    "id": 10,
+    "id": 8,
     "orig_id": 3005,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -224,6 +178,52 @@
     "explanation": {
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "कोडिंग तुलना:\n• कथन 2: 'roof ceiling floor dog' = 'mj jk dn ho'\n• कथन 3: 'arrow cow roof flight' = 'gt fa mj lk'\n• दोनों कथनों में एकमात्र उभयनिष्ठ (Common) शब्द 'roof' है और उभयनिष्ठ कोड 'mj' है।\n• अतः 'mj' का कोड 'roof' है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_54"
+  },
+  {
+    "id": 9,
+    "orig_id": 3006,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "साहृश्य (एनालॉजी) को पूरा करने के लिए सही अक्षरों को पहचानें:\nMEL : OGN :: PHR : ?",
+    "options": {
+      "A": "RJS",
+      "B": "QJT",
+      "C": "RJT",
+      "D": "RKT"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "अक्षर विस्थापन (+2):\n• M (+2) = O, E (+2) = G, L (+2) = N\n• P (+2) = R, H (+2) = J, R (+2) = T\n• परिणाम: RJT। बोर्ड विकल्प (B) QJT / (C) RJT में से RJT सटीक है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_54"
+  },
+  {
+    "id": 10,
+    "orig_id": 3007,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "सादृश्य (एनालॉजी) को पूरा करने के लिए सही अक्षरों को पहचानें:\nMEL : OGN :: PHR : ?",
+    "options": {
+      "A": "RJS",
+      "B": "QJT",
+      "C": "RJT",
+      "D": "RKT"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "नियम: प्रत्येक वर्ण में +2 का विस्थापन करने पर PHR ➔ RJT बनता है।\n• अतः सही उत्तर (C) RJT है।",
+      "solution": "विस्तृत व्याख्या उपलब्ध है।",
       "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
     },
     "difficulty": "Medium",

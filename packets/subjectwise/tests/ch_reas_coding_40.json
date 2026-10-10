@@ -1,29 +1,6 @@
 [
   {
     "id": 1,
-    "orig_id": 2274,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "निर्देश: निम्नलिखित वस्तुओं को देखें और सही विकल्प चुनें।\nफावड़ा, पोलआर्म्स्, कुल्हाड़ियाँ, कटार",
-    "options": {
-      "A": "फावड़ा",
-      "B": "पोलआर्म्स्",
-      "C": "पिस्तौल",
-      "D": "कटारें"
-    },
-    "correct": "C",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "मुख्य तथ्य / नियम / सूत्र: हथियारों का वर्गीकरण (Melee Weapons vs Firearm):\n• स्टेप-बाय-स्टेप हल:\n• फावड़ा, पोलआर्म्स (लंबी लाठी वाले भाले), कुल्हाड़ियाँ और कटारें प्राचीन/पारंपरिक धारदार या भारी प्रहारक हथियार व औजार हैं।\n• जबकि पिस्तौल (Pistol) आधुनिक बारूदी आग्नेयास्त्र (Firearm) है।\n• अतः पिस्तौल अन्य सभी से सर्वथा भिन्न है।",
-      "exam_tips": "धारदार हथियार बनाम आग्नेयास्त्र का वर्गीकरण।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_40"
-  },
-  {
-    "id": 2,
     "orig_id": 2280,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -46,7 +23,7 @@
     "mock_id": "ch_reas_coding_40"
   },
   {
-    "id": 3,
+    "id": 2,
     "orig_id": 2286,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -69,7 +46,7 @@
     "mock_id": "ch_reas_coding_40"
   },
   {
-    "id": 4,
+    "id": 3,
     "orig_id": 2287,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -92,7 +69,7 @@
     "mock_id": "ch_reas_coding_40"
   },
   {
-    "id": 5,
+    "id": 4,
     "orig_id": 2289,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -115,7 +92,7 @@
     "mock_id": "ch_reas_coding_40"
   },
   {
-    "id": 6,
+    "id": 5,
     "orig_id": 2290,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -138,7 +115,7 @@
     "mock_id": "ch_reas_coding_40"
   },
   {
-    "id": 7,
+    "id": 6,
     "orig_id": 2291,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -161,7 +138,7 @@
     "mock_id": "ch_reas_coding_40"
   },
   {
-    "id": 8,
+    "id": 7,
     "orig_id": 2314,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -184,7 +161,7 @@
     "mock_id": "ch_reas_coding_40"
   },
   {
-    "id": 9,
+    "id": 8,
     "orig_id": 2321,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -207,7 +184,7 @@
     "mock_id": "ch_reas_coding_40"
   },
   {
-    "id": 10,
+    "id": 9,
     "orig_id": 2327,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -225,6 +202,29 @@
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "मुख्य तथ्य: वरिष्ठ अधिवक्ता मनन कुमार मिश्रा (Manan Kumar Mishra) बार काउंसिल ऑफ इंडिया (BCI) के लंबे समय से अध्यक्ष (Chairman) के पद पर कार्यरत रहे हैं।\n• बार काउंसिल ऑफ इंडिया (BCI): यह अधिवक्ता अधिनियम, 1961 (Advocates Act, 1961) के तहत स्थापित एक सांविधिक निकाय है जो भारत में कानूनी पेशे और कानूनी शिक्षा के मानकों को नियंत्रित करता है।",
       "exam_tips": "BCI का मुख्यालय नई दिल्ली में स्थित है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_40"
+  },
+  {
+    "id": 10,
+    "orig_id": 2342,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "यदि 2 → 10, 3 → 20, 4 → 30, तो 6 → ?",
+    "options": {
+      "A": "40",
+      "B": "50",
+      "C": "60",
+      "D": "70"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "पैटर्न विश्लेषण:\n• 2 ➔ 10 : (2 - 1) × 10 = 1 × 10 = 10\n• 3 ➔ 20 : (3 - 1) × 10 = 2 × 10 = 20\n• 4 ➔ 30 : (4 - 1) × 10 = 3 × 10 = 30\n• अतः 6 के लिए:\n• (6 - 1) × 10 = 5 × 10 = 50\n• वैकल्पिक तर्क: इनपुट में लगातार +1 होने पर आउटपुट में +10 की वृद्धि होती है।\n• 4 ➔ 30\n• 5 ➔ 40\n• 6 ➔ 50\n• अतः सही उत्तर (B) 50 है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
     },
     "difficulty": "Medium",
     "mock_id": "ch_reas_coding_40"

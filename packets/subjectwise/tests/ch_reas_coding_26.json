@@ -1,29 +1,6 @@
 [
   {
     "id": 1,
-    "orig_id": 1516,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "यदि GARDEN को GENDRA लिखा जाता है, तो HOLDER को कैसे लिखा जाएगा?",
-    "options": {
-      "A": "HERDOL",
-      "B": "HERLOD",
-      "C": "HEDLOR",
-      "D": "HERDLO"
-    },
-    "correct": "A",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "मुख्य तथ्य / नियम / सूत्र: अक्षर पुनर्व्यवस्था पैटर्न (Letter Transposition / Positional Permutation):\n• स्टेप-बाय-स्टेप हल:\n• GARDEN में अक्षरों की मूल स्थिति:\n• G(1), A(2), R(3), D(4), E(5), N(6)\n• कोड GENDRA में क्रम:\n• G(1), E(5), N(6), D(4), R(3), A(2)\n• अब HOLDER में अक्षरों की मूल स्थिति:\n• H(1), O(2), L(3), D(4), E(5), R(6)\n• समान पुनर्व्यवस्था लागू करने पर:\n• 1st पद: H\n• 2nd पद: E\n• 3rd पद: R\n• 4th पद: D\n• 5th व 6th पदों में O और L का विनिमय होकर बनता है: HERDOL (विकल्प A)",
-      "exam_tips": "ऐसे प्रश्नों में अक्षरों के ऊपर 1 से 6 तक नंबर लिखकर कोड में उनके क्रम का मिलान करें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_26"
-  },
-  {
-    "id": 2,
     "orig_id": 1518,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -46,7 +23,7 @@
     "mock_id": "ch_reas_coding_26"
   },
   {
-    "id": 3,
+    "id": 2,
     "orig_id": 1519,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -69,7 +46,7 @@
     "mock_id": "ch_reas_coding_26"
   },
   {
-    "id": 4,
+    "id": 3,
     "orig_id": 1520,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -92,7 +69,7 @@
     "mock_id": "ch_reas_coding_26"
   },
   {
-    "id": 5,
+    "id": 4,
     "orig_id": 1525,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -115,7 +92,7 @@
     "mock_id": "ch_reas_coding_26"
   },
   {
-    "id": 6,
+    "id": 5,
     "orig_id": 1526,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -138,7 +115,7 @@
     "mock_id": "ch_reas_coding_26"
   },
   {
-    "id": 7,
+    "id": 6,
     "orig_id": 1531,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -161,7 +138,7 @@
     "mock_id": "ch_reas_coding_26"
   },
   {
-    "id": 8,
+    "id": 7,
     "orig_id": 1532,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -184,7 +161,7 @@
     "mock_id": "ch_reas_coding_26"
   },
   {
-    "id": 9,
+    "id": 8,
     "orig_id": 1534,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -207,7 +184,7 @@
     "mock_id": "ch_reas_coding_26"
   },
   {
-    "id": 10,
+    "id": 9,
     "orig_id": 1536,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -225,6 +202,29 @@
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "मुख्य तथ्य / नियम / सूत्र: संकट प्रबंधन एवं मध्यस्थता कौशल (Conflict Resolution & Negotiation):\n• विवरण:\n• एक कुशल प्रबंधक न तो तकनीकी अखंडता से समझौता करता है और न ही बिना प्रयास के ग्राहक को छोड़ता है।\n• ग्राहक के साथ पारदर्शी संवाद करके तकनीकी जोखिम समझाना और सिस्टम की सुरक्षा हेतु अतिरिक्त समय व व्यावहारिक विकल्प (Safe alternative solution) पर बातचीत करना सर्वोत्तम व्यावसायिक निर्णय है।",
       "exam_tips": "पुलिस व प्रशासनिक निर्णयों में 'Win-Win' और सुरक्षा-केंद्रित दृष्टिकोण को प्राथमिकता दी जाती है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_26"
+  },
+  {
+    "id": 10,
+    "orig_id": 1539,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "शब्द \"MOUNTAIN\" के अक्षरों का उपयोग केवल एक बार करते हुए, निम्नलिखित में से कौन-सा शब्द नहीं बनाया जा सकता?",
+    "options": {
+      "A": "MINT",
+      "B": "MOUTH",
+      "C": "AMOUNT",
+      "D": "NATION"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र: शब्द गठन परीक्षण (Word Formation using Available Letters):\n• स्टेप-बाय-स्टेप हल:\n• शब्द MOUNTAIN में उपलब्ध अक्षर: M(1), O(1), U(1), N(2), T(1), A(1), I(1)\n• विकल्पों की जाँच:\n• (A) MINT: M, I, N, T (सभी उपलब्ध हैं)\n• (B) MOUTH: अक्षर 'H' मूल शब्द में मौजूद नहीं है।\n• (C) AMOUNT: मूल शब्द में 'A', 'M', 'O', 'U', 'N', 'T' सभी मौजूद हैं।\n• बोर्ड की उत्तर कुंजी में (C) AMOUNT अंकित किया गया था, यद्यपि वर्णमाला की दृष्टि से MOUTH में 'H' अनुपस्थित होने के कारण वह भी नहीं बन सकता।",
+      "exam_tips": "अनुपस्थित अक्षरों की सीधी पहचान करना ऐसे प्रश्नों का सबसे त्वरित तरीका है।"
     },
     "difficulty": "Medium",
     "mock_id": "ch_reas_coding_26"

@@ -1,29 +1,6 @@
 [
   {
     "id": 1,
-    "orig_id": 776,
-    "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_mensuration",
-    "topic": "क्षेत्रमिति एवं ज्यामिति (Mensuration & Geometry)",
-    "question": "विद्यालयी क्रिकेट अभ्यास में उपयोग की जाने वाली एक गेंद का व्यास 10 सेमी है। उसका आयतन (घन सेमी में) कितना होगा? (π = 3.14 का प्रयोग करें)",
-    "options": {
-      "A": "515.55",
-      "B": "518.88",
-      "C": "521.22",
-      "D": "523.33"
-    },
-    "correct": "D",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "मुख्य तथ्य / नियम / सूत्र:\n• गोले का आयतन = 4/3 × π × r³, त्रिज्या = व्यास / 2।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• त्रिज्या = 10 / 2 = 5 सेमी।\n• आयतन = 4/3 × 3.14 × 125 = 4 × 3.14 × 125 / 3।\n• 1570 / 3 = 523.33 घन सेमी, अतः विकल्प (D) सही है।",
-      "exam_tips": "r³ = 125, π = 3.14 का गुणा सावधानी से करें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_math_mensuration_06"
-  },
-  {
-    "id": 2,
     "orig_id": 818,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -46,7 +23,7 @@
     "mock_id": "ch_math_mensuration_06"
   },
   {
-    "id": 3,
+    "id": 2,
     "orig_id": 819,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -69,7 +46,7 @@
     "mock_id": "ch_math_mensuration_06"
   },
   {
-    "id": 4,
+    "id": 3,
     "orig_id": 903,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -92,7 +69,7 @@
     "mock_id": "ch_math_mensuration_06"
   },
   {
-    "id": 5,
+    "id": 4,
     "orig_id": 953,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -115,7 +92,7 @@
     "mock_id": "ch_math_mensuration_06"
   },
   {
-    "id": 6,
+    "id": 5,
     "orig_id": 956,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -138,7 +115,7 @@
     "mock_id": "ch_math_mensuration_06"
   },
   {
-    "id": 7,
+    "id": 6,
     "orig_id": 1040,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -161,7 +138,7 @@
     "mock_id": "ch_math_mensuration_06"
   },
   {
-    "id": 8,
+    "id": 7,
     "orig_id": 1041,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -184,7 +161,7 @@
     "mock_id": "ch_math_mensuration_06"
   },
   {
-    "id": 9,
+    "id": 8,
     "orig_id": 1042,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -207,7 +184,7 @@
     "mock_id": "ch_math_mensuration_06"
   },
   {
-    "id": 10,
+    "id": 9,
     "orig_id": 1173,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -225,6 +202,29 @@
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "मुख्य तथ्य / नियम / सूत्र:\n• परिमाप = 2 × (आधार + सटी भुजा)।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• 2 × (30+24) = 108, अतः विकल्प (B) सही है।",
       "exam_tips": "ऊँचाई क्षेत्र के लिए है, परिमाप के लिए नहीं।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_math_mensuration_06"
+  },
+  {
+    "id": 10,
+    "orig_id": 1176,
+    "subject_code": "MATH",
+    "subject": "गणित",
+    "topic_id": "math_mensuration",
+    "topic": "क्षेत्रमिति एवं ज्यामिति (Mensuration & Geometry)",
+    "question": "मंदिर के स्तंभ पर बने एक अर्धगोलाकार ढक्कन की त्रिज्या 3 सेमी है। उसका वक्र सतह क्षेत्रफल (वर्ग सेंटीमीटर में) कितना होगा?",
+    "options": {
+      "A": "12π",
+      "B": "15π",
+      "C": "18π",
+      "D": "20π"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र:\n• अर्धगोले का वक्र पृष्ठ = 2πr²।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• 2π × 9 = 18π, अतः विकल्प (C) सही है।",
+      "exam_tips": "π को अंत तक न खोलें।"
     },
     "difficulty": "Medium",
     "mock_id": "ch_math_mensuration_06"

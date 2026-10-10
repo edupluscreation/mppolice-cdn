@@ -1,12 +1,12 @@
 {
   "GK": {
-    "totalQuestions": 1546,
-    "totalTests": 157,
+    "totalQuestions": 1526,
+    "totalTests": 156,
     "topics": [
       {
         "topicId": "gk_culture",
         "topicName": "कला, संस्कृति, मेले एवं खेल (Art, Culture & Sports)",
-        "totalQuestions": 138,
+        "totalQuestions": 135,
         "totalTests": 14,
         "testPrefix": "ch_gk_culture"
       },
@@ -20,36 +20,36 @@
       {
         "topicId": "gk_geography",
         "topicName": "भारत एवं विश्व का भूगोल (Geography)",
-        "totalQuestions": 50,
+        "totalQuestions": 48,
         "totalTests": 5,
         "testPrefix": "ch_gk_geography"
       },
       {
         "topicId": "gk_history",
         "topicName": "भारतीय इतिहास (History)",
-        "totalQuestions": 123,
+        "totalQuestions": 122,
         "totalTests": 13,
         "testPrefix": "ch_gk_history"
       },
       {
         "topicId": "gk_mpgk",
         "topicName": "मध्य प्रदेश सामान्य ज्ञान (MP GK)",
-        "totalQuestions": 996,
-        "totalTests": 100,
+        "totalQuestions": 983,
+        "totalTests": 99,
         "testPrefix": "ch_gk_mpgk"
       },
       {
         "topicId": "gk_polity",
         "topicName": "भारतीय राजव्यवस्था एवं संविधान (Polity)",
-        "totalQuestions": 178,
+        "totalQuestions": 177,
         "totalTests": 18,
         "testPrefix": "ch_gk_polity"
       }
     ]
   },
   "REASONING": {
-    "totalQuestions": 2333,
-    "totalTests": 239,
+    "totalQuestions": 2325,
+    "totalTests": 238,
     "topics": [
       {
         "topicId": "reas_analogy",
@@ -61,7 +61,7 @@
       {
         "topicId": "reas_blood",
         "topicName": "रक्त संबंध (Blood Relations)",
-        "totalQuestions": 156,
+        "totalQuestions": 154,
         "totalTests": 16,
         "testPrefix": "ch_reas_blood"
       },
@@ -75,8 +75,8 @@
       {
         "topicId": "reas_coding",
         "topicName": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-        "totalQuestions": 1621,
-        "totalTests": 163,
+        "totalQuestions": 1615,
+        "totalTests": 162,
         "testPrefix": "ch_reas_coding"
       },
       {
@@ -131,8 +131,8 @@
     ]
   },
   "MATH": {
-    "totalQuestions": 1730,
-    "totalTests": 178,
+    "totalQuestions": 1720,
+    "totalTests": 176,
     "topics": [
       {
         "topicId": "math_average_age",
@@ -151,21 +151,21 @@
       {
         "topicId": "math_mensuration",
         "topicName": "क्षेत्रमिति एवं ज्यामिति (Mensuration & Geometry)",
-        "totalQuestions": 241,
-        "totalTests": 25,
+        "totalQuestions": 239,
+        "totalTests": 24,
         "testPrefix": "ch_math_mensuration"
       },
       {
         "topicId": "math_number_bodmas",
         "topicName": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
-        "totalQuestions": 1046,
-        "totalTests": 105,
+        "totalQuestions": 1039,
+        "totalTests": 104,
         "testPrefix": "ch_math_number_bodmas"
       },
       {
         "topicId": "math_percentage",
         "topicName": "प्रतिशत (Percentage)",
-        "totalQuestions": 40,
+        "totalQuestions": 39,
         "totalTests": 4,
         "testPrefix": "ch_math_percentage"
       },
@@ -200,28 +200,28 @@
     ]
   },
   "SCIENCE": {
-    "totalQuestions": 1246,
-    "totalTests": 127,
+    "totalQuestions": 1236,
+    "totalTests": 125,
     "topics": [
       {
         "topicId": "sci_anatomy",
         "topicName": "मानव शरीर क्रिया विज्ञान (Anatomy & Physiology)",
-        "totalQuestions": 160,
+        "totalQuestions": 158,
         "totalTests": 16,
         "testPrefix": "ch_sci_anatomy"
       },
       {
         "topicId": "sci_botany",
         "topicName": "पादप विज्ञान एवं आनुवंशिकी (Botany & Genetics)",
-        "totalQuestions": 74,
+        "totalQuestions": 73,
         "totalTests": 8,
         "testPrefix": "ch_sci_botany"
       },
       {
         "topicId": "sci_chemistry",
         "topicName": "रसायन विज्ञान (Chemistry)",
-        "totalQuestions": 362,
-        "totalTests": 37,
+        "totalQuestions": 360,
+        "totalTests": 36,
         "testPrefix": "ch_sci_chemistry"
       },
       {
@@ -234,15 +234,15 @@
       {
         "topicId": "sci_health",
         "topicName": "रोग, स्वास्थ्य एवं पोषण (Diseases & Nutrition)",
-        "totalQuestions": 39,
+        "totalQuestions": 38,
         "totalTests": 4,
         "testPrefix": "ch_sci_health"
       },
       {
         "topicId": "sci_physics",
         "topicName": "भौतिक विज्ञान (Physics)",
-        "totalQuestions": 561,
-        "totalTests": 57,
+        "totalQuestions": 557,
+        "totalTests": 56,
         "testPrefix": "ch_sci_physics"
       }
     ]

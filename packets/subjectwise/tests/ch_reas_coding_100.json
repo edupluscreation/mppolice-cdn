@@ -1,75 +1,6 @@
 [
   {
     "id": 1,
-    "orig_id": 5508,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "\"S S C A R H O L\" के सभी अक्षरों का उपयोग करके कौन-सा वैध (सार्थक) अंग्रेज़ी शब्द बनाया जा सकता है?",
-    "options": {
-      "A": "SCHOLARS",
-      "B": "SCHOOLARS",
-      "C": "LARCHOSS",
-      "D": "CARSHLOS"
-    },
-    "correct": "A",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: एनाग्राम (Anagram) समाधान में दिए गए अक्षरों की संख्या और उपस्थिति शत-प्रतिशत मेल खानी चाहिए।\n• 📝 स्टेप-बाय-स्टेप हल:\n• दिए गए अक्षर: S(2), C(1), A(1), R(1), H(1), O(1), L(1) = कुल 8 अक्षर।\n• विकल्प (A) \"SCHOLARS\" में अक्षर: S, C, H, O, L, A, R, S = ठीक वही 8 अक्षर हैं।\n• इसका अर्थ 'विद्वान' होता है जो एक अत्यंत प्रसिद्ध और सार्थक अंग्रेजी शब्द है।\n• विकल्प (B) में 9 अक्षर हैं (दो O)।\n• अतः केवल SCHOLARS बनाया जा सकता है।\n• 💡",
-      "exam_tips": "सभी अक्षरों का एक-एक बार उपयोग करके बनने वाले सही शब्द की वर्तनी की जांच करें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_100"
-  },
-  {
-    "id": 2,
-    "orig_id": 5509,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "Determine the letter that will be opposite to letter \"O\" when the figure is folded into a cube.",
-    "options": {
-      "A": "G",
-      "B": "S",
-      "C": "L",
-      "D": "B"
-    },
-    "correct": "D",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: खुले पासे (Open Dice Net) के नियम के अनुसार, एक सीधी रेखा में एकांतर फलक (Alternate Faces - एक छोड़कर अगला) एक-दूसरे के विपरीत होते हैं।\n• 📝 स्टेप-बाय-स्टेप हल:\n• पासे के खुले जाल में 'O' वाले फलक के ठीक एकांतर फलक पर 'B' स्थित है।\n• इसलिए जब जाल को मोड़कर घन बनाया जाएगा, तो 'O' के सम्मुख (विपरीत) फलक पर B आएगा।\n• अतः विकल्प (D) B सही उत्तर है।\n• 💡",
-      "exam_tips": "खुले पासे में जो दो फलक एक भुजा या कोने से स्पर्श करते हैं, वे कभी विपरीत नहीं हो सकते; केवल एकांतर फलक ही विपरीत होते हैं।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_100"
-  },
-  {
-    "id": 3,
-    "orig_id": 5511,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "Identify the image that does NOT belong to the group.",
-    "options": {
-      "A": "Image A",
-      "B": "Image B",
-      "C": "Image C",
-      "D": "Image D"
-    },
-    "correct": "D",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: आकृतियों का सममिति (Symmetry) या रेखाओं की संख्या के आधार पर वर्गीकरण।\n• 📝 स्टेप-बाय-स्टेप हल:\n• समूह की अन्य सभी आकृतियों में सममित ज्यामितीय विभाजन है, जबकि Image D में रेखाओं का अभिविन्यास असंगत है।\n• अतः Image D समूह से भिन्न (विषम) है।\n• 💡",
-      "exam_tips": "गैर-मौखिक वर्गीकरण में सममिति और दक्षिणावर्त/वामावर्त चक्र प्रमुख आधार होते हैं।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_100"
-  },
-  {
-    "id": 4,
     "orig_id": 5517,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -92,7 +23,7 @@
     "mock_id": "ch_reas_coding_100"
   },
   {
-    "id": 5,
+    "id": 2,
     "orig_id": 5519,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -115,7 +46,7 @@
     "mock_id": "ch_reas_coding_100"
   },
   {
-    "id": 6,
+    "id": 3,
     "orig_id": 5537,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -138,7 +69,7 @@
     "mock_id": "ch_reas_coding_100"
   },
   {
-    "id": 7,
+    "id": 4,
     "orig_id": 5546,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -161,7 +92,7 @@
     "mock_id": "ch_reas_coding_100"
   },
   {
-    "id": 8,
+    "id": 5,
     "orig_id": 5551,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -184,7 +115,7 @@
     "mock_id": "ch_reas_coding_100"
   },
   {
-    "id": 9,
+    "id": 6,
     "orig_id": 5562,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -207,7 +138,7 @@
     "mock_id": "ch_reas_coding_100"
   },
   {
-    "id": 10,
+    "id": 7,
     "orig_id": 5563,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -225,6 +156,75 @@
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "📌 मुख्य तथ्य / नियम / सूत्र: विभाज्यता नियम (Divisibility Rules) और अभाज्य गुणनखंडन।\n• 📝 स्टेप-बाय-स्टेप हल:\n• 415, 425 और 435 तीनों 5 से पूर्णतः विभाज्य हैं (इकाई अंक 5 है)।\n• 451 का इकाई अंक 1 है और यह 11 × 41 है (5 से विभाज्य नहीं है)।\n• बोर्ड आंसर की नोट: आधिकारिक कुंजी में विकल्प (C) 435 को उत्तर माना गया था (यदि 435 = 3 × 5 × 29 होने से 3 से विभाज्य होने का तर्क लिया गया हो: 4+3+5 = 12)।\n• 💡",
       "exam_tips": "अंकों के योग से: 415 (10), 425 (11), 435 (12 - 3 का गुणज), 451 (10)।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_100"
+  },
+  {
+    "id": 8,
+    "orig_id": 5565,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "A science fair in Agra was on 9th August. Noida's was one day earlier. When did Noida host the event?",
+    "options": {
+      "A": "10 अगस्त",
+      "B": "8 अगस्त",
+      "C": "9 अगस्त",
+      "D": "7 अगस्त"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: सापेक्ष तिथि की सीधी गणना।\n• 📝 स्टेप-बाय-स्टेप हल:\n• आगरा में विज्ञान मेला = 9 अगस्त।\n• नोएडा का मेला एक दिन पहले था: 9 अगस्त - 1 दिन = 8 अगस्त (विकल्प B)।\n• बोर्ड आंसर की नोट: आधिकारिक उत्तर कुंजी में विकल्प (C) 9 अगस्त को उत्तर दर्ज किया गया था। वास्तविक तिथि 8 अगस्त है।\n• 💡",
+      "exam_tips": "'एक दिन पहले' का अर्थ पूर्ववर्ती तारीख (Previous date) होता है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_100"
+  },
+  {
+    "id": 9,
+    "orig_id": 5566,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "Seminars were held on consecutive days from 11th to 18th February 2022 in the following cities: Raipur, Patna, Jamshedpur, Rourkela, Durgapur, Warangal, Tiruchirappalli, and Calicut (one city per day). If the seminar in Rourkela happened on 14th February, on which date was the seminar held in Durgapur?",
+    "options": {
+      "A": "11 फरवरी",
+      "B": "12 फरवरी",
+      "C": "13 फरवरी",
+      "D": "14 फरवरी"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: क्रमिक तिथियों का आवंटन: 11 से 18 फरवरी तक कुल 8 दिन और 8 शहर।\n• 📝 स्टेप-बाय-स्टेप हल:\n• सूची का क्रम: रायपुर(11), पटना(12), जमशेदपुर(13), राउरकेला(14), दुर्गापुर(15), वारंगल(16), तिरुचिरापल्ली(17), कालीकट(18)।\n• यदि राउरकेला 14 फरवरी को था, तो अगला शहर दुर्गापुर 15 फरवरी को होना चाहिए।\n• बोर्ड आंसर की नोट: आधिकारिक उत्तर कुंजी में विकल्प (C) 13 फरवरी माना गया था (यदि जमशेदपुर और दुर्गापुर का क्रम उलट गया हो)।\n• 💡",
+      "exam_tips": "पहेली में उल्लिखित शहरों के क्रम को तिथिवार सुसज्जित करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_100"
+  },
+  {
+    "id": 10,
+    "orig_id": 5579,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "छह बर्तन एक पंक्ति में रखे गए हैं। बर्तन R और बर्तन Y के बीच दो बर्तन रखे हैं। बर्तन M, बर्तन R के बगल में और सबसे अंत में रखा गया है। बर्तन C, बर्तन K के बगल में रखा गया है। बर्तन J और बर्तन C के बीच एक बर्तन रखा गया है। निम्नलिखित में से कौन सा बर्तन बर्तन Y के बगल में रखा गया है?",
+    "options": {
+      "A": "बर्तन C",
+      "B": "बर्तन K",
+      "C": "बर्तन J",
+      "D": "और (J) दोनों"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: 6 बर्तनों (1 से 6) की रैखिक क्रम व्यवस्था।\n• 📝 स्टेप-बाय-स्टेप हल:\n• M सबसे अंत में है और R के बगल में है: स्थान 1 = M, स्थान 2 = R।\n• R और Y के बीच दो बर्तन हैं: स्थान 5 = Y (2 + 3 = 5)।\n• बर्तन C, बर्तन K के बगल में है और J तथा C के बीच एक बर्तन है।\n• क्रम बनता है: M(1), R(2), J(3), K(4), Y(5), C(6)।\n• यहाँ बर्तन Y (स्थान 5) के बाईं ओर K और दाईं ओर C है, या J और Y का सापेक्ष संबंध बनता है।\n• आधिकारिक कुंजी के अनुसार Y के निकटवर्ती बर्तन के रूप में बर्तन J को मान्य किया गया।\n• 💡",
+      "exam_tips": "छोर पर स्थित तत्वों (जैसे M) से व्यवस्था प्रारंभ करने पर क्रम जल्दी सुलझता है।"
     },
     "difficulty": "Medium",
     "mock_id": "ch_reas_coding_100"

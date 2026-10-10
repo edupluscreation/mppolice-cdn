@@ -1,52 +1,6 @@
 [
   {
     "id": 1,
-    "orig_id": 3635,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "एक ॠजुकोण कितने डिग्री के बराबर होता है?",
-    "options": {
-      "A": "90°",
-      "B": "120°",
-      "C": "270°",
-      "D": "180°"
-    },
-    "correct": "D",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "कोणों की परिभाषा:\n• ऋजुकोण (Straight Angle): एक सीधी रेखा पर बनने वाला कोण 180° का होता है।\n• समकोण = 90°, पूर्ण कोण = 360°।\n• सही विकल्प: (D) 180°।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_66"
-  },
-  {
-    "id": 2,
-    "orig_id": 3662,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "अक्षर श्रृंखला को पूर्ण करें:\nJUMP : KVOR :: FISH : ?",
-    "options": {
-      "A": "GJWL",
-      "B": "GJXL",
-      "C": "GJUJ",
-      "D": "GJVL"
-    },
-    "correct": "B",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "सादृश्यता कोडिंग:\n• J(10) + 1 = K(11)\n• U(21) + 1 = V(22)\n• M(13) + 2 = O(15)\n• P(16) + 2 = R(18)\n• FISH पर पैटर्न अनुप्रयोग:\n• F(6) + 1 = G(7)\n• I(9) + 1 = J(10)\n• बोर्ड उत्तर कुंजी के अनुसार GJXL (विकल्प B) निर्धारित किया गया है।\n• सही विकल्प: (B) GJXL।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_66"
-  },
-  {
-    "id": 3,
     "orig_id": 3667,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -69,7 +23,7 @@
     "mock_id": "ch_reas_coding_66"
   },
   {
-    "id": 4,
+    "id": 2,
     "orig_id": 3672,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -92,7 +46,7 @@
     "mock_id": "ch_reas_coding_66"
   },
   {
-    "id": 5,
+    "id": 3,
     "orig_id": 3676,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -115,7 +69,7 @@
     "mock_id": "ch_reas_coding_66"
   },
   {
-    "id": 6,
+    "id": 4,
     "orig_id": 3677,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -138,7 +92,7 @@
     "mock_id": "ch_reas_coding_66"
   },
   {
-    "id": 7,
+    "id": 5,
     "orig_id": 3678,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -161,7 +115,7 @@
     "mock_id": "ch_reas_coding_66"
   },
   {
-    "id": 8,
+    "id": 6,
     "orig_id": 3679,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -184,7 +138,7 @@
     "mock_id": "ch_reas_coding_66"
   },
   {
-    "id": 9,
+    "id": 7,
     "orig_id": 3680,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -207,7 +161,7 @@
     "mock_id": "ch_reas_coding_66"
   },
   {
-    "id": 10,
+    "id": 8,
     "orig_id": 3703,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -224,6 +178,52 @@
     "explanation": {
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "कैलेंडर गणना (1 मई से 1 दिसंबर):\n• मई (30 शेष), जून (30), जुलाई (31), अगस्त (31), सितंबर (30), अक्टूबर (31), नवंबर (30), दिसंबर (1)\n• कुल दिन = 214 दिन\n• 214 mod 7 = 4 विषम दिन\n• शनिवार + 4 दिन = बुधवार (Wednesday)\n• बोर्ड उत्तर कुंजी: बोर्ड ने विकल्प (B) गुरुवार को स्वीकार किया है। मानक कैलेंडर गणना में दिन बुधवार आता है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_66"
+  },
+  {
+    "id": 9,
+    "orig_id": 3705,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "यदि 1 अक्टूबर 2023 रविवार था, तो 1 सितंबर 2023 कौन-सा सप्ताह का दिन था?",
+    "options": {
+      "A": "गुरुवार",
+      "B": "शुक्रवार",
+      "C": "शनिवार",
+      "D": "रविवार"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "कैलेंडर गणना:\n• 1 अक्टूबर 2023 रविवार था।\n• सितंबर माह में कुल 30 दिन होते हैं (30 mod 7 = 2 विषम दिन)।\n• रविवार से 2 दिन पहले का दिन = शुक्रवार (Friday)।\n• अतः 1 सितंबर 2023 को शुक्रवार था।\n• सही विकल्प: (B) शुक्रवार।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_66"
+  },
+  {
+    "id": 10,
+    "orig_id": 3708,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "किसने अधिक अंक प्राप्त किए P और Q में?\n(i) P ने R से अधिक अंक प्राप्त किए।\n(ii) Q ने R से अधिक अंक प्राप्त किए।",
+    "options": {
+      "A": "केवल पहला कथन पर्याप्त है",
+      "B": "केवल दूसरा कथन पर्याप्त है",
+      "C": "दोनों कथन मिलकर पर्याप्त हैं",
+      "D": "कोई भी कथन पर्याप्त नहीं है"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "आंकड़ों की पर्याप्तता (Data Sufficiency):\n• कथन (i): P > R (P ने R से अधिक अंक पाए)\n• कथन (ii): Q > R (Q ने R से अधिक अंक पाए)\n• इन दोनों से केवल यह पता चलता है कि P और Q दोनों R से बड़े हैं, परंतु P और Q के बीच कौन बड़ा है यह ज्ञात नहीं किया जा सकता।\n• निष्कर्ष: दोनों कथन मिलकर भी उत्तर देने के लिए पर्याप्त नहीं हैं।\n• सही विकल्प: (D) कोई भी कथन पर्याप्त नहीं है।",
       "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
     },
     "difficulty": "Medium",

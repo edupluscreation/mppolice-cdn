@@ -1,52 +1,6 @@
 [
   {
     "id": 1,
-    "orig_id": 3489,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "छह लोग (A, B, C, D, E, F) एक गोल घेरे में बैठे हैं। यदि A, D के ठीक सामने बैठा है और B, A के तुरंत बाईं ओर बैठा है, तो D के तुरंत दाएं ओर कौन बैठा है?",
-    "options": {
-      "A": "E",
-      "B": "F",
-      "C": "C",
-      "D": "B"
-    },
-    "correct": "B",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "सिटिंग अरेंजमेंट: 6 व्यक्ति (A, B, C, D, E, F) केंद्र की ओर मुख करके बैठे हैं।\n• चरणबद्ध स्थिति:\n1. A और D आमने-सामने बैठे हैं।\n2. B, A के तुरंत बाईं ओर है (Clockwise adjacent to A)।\n3. वृत्त में 6 स्थानों पर A के सम्मुख D है, तो B के ठीक सामने का स्थान D के तुरंत दाईं ओर होगा।\n4. दिए गए क्रम के अनुसार D के तुरंत दाईं ओर F बैठता है।",
-      "exam_tips": "6 व्यक्तियों के वृत्ताकार घेरे में किसी व्यक्ति के तुरंत बाएं का सम्मुख व्यक्ति, उस व्यक्ति के तुरंत दाएं होता है।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_63"
-  },
-  {
-    "id": 2,
-    "orig_id": 3490,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "छह दोस्त (P, Q, R, S, T, U) एक गोल घेरे में बैठे हैं और सभी केंद्र की ओर मुख किए हुए हैं। यदि P, Q के तुरंत बाईं ओर बैठा है और R, Q के तुरंत दाएं ओर बैठा है, तो P के ठीक सामने कौन बैठा है?",
-    "options": {
-      "A": "S",
-      "B": "T",
-      "C": "U",
-      "D": "R"
-    },
-    "correct": "C",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "क्रमबद्ध व्यवस्था: 6 व्यक्ति (P, Q, R, S, T, U) केंद्र की ओर मुख किए हुए हैं।\n• विश्लेषण:\n• Q के तुरंत बाईं ओर P है।\n• Q के तुरंत दाईं ओर R है।\n• 6 व्यक्तियों के घेरे में आमने-सामने कुल 3 जोड़े होते हैं। P, Q के तुरंत बाएं है।\n• व्यवस्था के अनुसार P के ठीक सामने U बैठता है (विकल्प C)।",
-      "exam_tips": "जब सम संख्या में व्यक्ति वृत्त में बैठते हैं, तो स्थान संख्या n/2 की दूरी पर सम्मुख स्थान होता है।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_63"
-  },
-  {
-    "id": 3,
     "orig_id": 3492,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -69,7 +23,7 @@
     "mock_id": "ch_reas_coding_63"
   },
   {
-    "id": 4,
+    "id": 2,
     "orig_id": 3493,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -92,7 +46,7 @@
     "mock_id": "ch_reas_coding_63"
   },
   {
-    "id": 5,
+    "id": 3,
     "orig_id": 3499,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -115,7 +69,7 @@
     "mock_id": "ch_reas_coding_63"
   },
   {
-    "id": 6,
+    "id": 4,
     "orig_id": 3505,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -138,7 +92,7 @@
     "mock_id": "ch_reas_coding_63"
   },
   {
-    "id": 7,
+    "id": 5,
     "orig_id": 3508,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -161,7 +115,7 @@
     "mock_id": "ch_reas_coding_63"
   },
   {
-    "id": 8,
+    "id": 6,
     "orig_id": 3509,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -184,7 +138,7 @@
     "mock_id": "ch_reas_coding_63"
   },
   {
-    "id": 9,
+    "id": 7,
     "orig_id": 3510,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -207,7 +161,7 @@
     "mock_id": "ch_reas_coding_63"
   },
   {
-    "id": 10,
+    "id": 8,
     "orig_id": 3512,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -224,6 +178,52 @@
     "explanation": {
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "पहेली विश्लेषण (मंजिल 4, 5, 6, 7):\n1. मीरा 4थी मंजिल पर काम करती है (मंजिल 4 = मीरा)।\n2. कंपनी Y का कर्मचारी 6ठी मंजिल पर है (मंजिल 6 = Y)।\n3. ओमर कंपनी Z के लिए काम करता है और 7वीं पर नहीं है।\n4. खाली मंजिलें: 5 और 7। चूंकि ओमर 7वीं पर नहीं है, अतः ओमर 5वीं मंजिल पर ही होगा (मंजिल 5 = ओमर, कंपनी Z)।\n5. 7वीं मंजिल पर नीना (कंपनी W) काम करेगी।\n• निष्कर्ष: पाँचवीं मंजिल पर ओमर काम करता है।\n• सही विकल्प: (C) ओमर।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_63"
+  },
+  {
+    "id": 9,
+    "orig_id": 3513,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "निम्नलिखित अक्षर श्रृंखला में रिक्त स्थानों पर अक्षरों का कौन सा समूह क्रमवार रखने पर श्रृंखला पूर्ण होगी?\nRT_T RS_S RTR_ RSR_RTRT",
+    "options": {
+      "A": "RRTS",
+      "B": "SSUV",
+      "C": "PQRS",
+      "D": "QQRR"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "पैटर्न विश्लेषण:\n• मूल श्रृंखला: RT_T RS_S RTR_ RSR_ RTRT\n• आवर्ती पैटर्न: RTRT RSRS RTRT RSRS RTRT\n• रिक्त स्थानों में भरे गए अक्षर: R, R, T, S ⇒ RRTS\n• सही विकल्प: (A) RRTS।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_63"
+  },
+  {
+    "id": 10,
+    "orig_id": 3514,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "निम्नलिखित अक्षर श्रृंखला में रिक्त स्थानों पर अक्षरों का कौन सा समूह क्रमवार रखने पर यह श्रृंखला पूर्ण होगी?\nLL _ LLL _ LLLL _ LLLL _ M",
+    "options": {
+      "A": "MMML",
+      "B": "MLPO",
+      "C": "LMON",
+      "D": "OPMN"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "श्रृंखला का प्रारूप:\n• LL M LLL M LLLL M LLLL M...\n• प्रत्येक चरण में L की संख्या बढ़ती है और बीच में M का आवर्तन होता है।\n• भरे जाने वाले अक्षर: M, M, M, L ⇒ MMML (विकल्प A)।",
       "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
     },
     "difficulty": "Medium",

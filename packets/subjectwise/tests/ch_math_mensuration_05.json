@@ -1,29 +1,6 @@
 [
   {
     "id": 1,
-    "orig_id": 265,
-    "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_mensuration",
-    "topic": "क्षेत्रमिति एवं ज्यामिति (Mensuration & Geometry)",
-    "question": "आंगनवाड़ी की फ़र्श में उपयोग की गई एक वर्गाकार टाइल की भुजा 6 सेमी है। उसका क्षेत्रफल कितने वर्ग सेंटीमीटर होगा?",
-    "options": {
-      "A": "32",
-      "B": "24",
-      "C": "30",
-      "D": "36"
-    },
-    "correct": "D",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "मुख्य तथ्य / वर्ग का क्षेत्रफल सूत्र:\n• वर्ग का क्षेत्रफल = भुजा × भुजा = (भुजा)²\n• स्टेप-बाय-स्टेप गणना:\n1. वर्गाकार टाइल की भुजा (a) = 6 सेमी\n2. क्षेत्रफल = 6² = 6 × 6 = 36 वर्ग सेंटीमीटर (सेमी²)",
-      "exam_tips": "यदि परिमाप पूछा जाता, तो परिमाप = 4 × भुजा = 4 × 6 = 24 सेमी होता।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_math_mensuration_05"
-  },
-  {
-    "id": 2,
     "orig_id": 267,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -46,7 +23,7 @@
     "mock_id": "ch_math_mensuration_05"
   },
   {
-    "id": 3,
+    "id": 2,
     "orig_id": 268,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -69,7 +46,7 @@
     "mock_id": "ch_math_mensuration_05"
   },
   {
-    "id": 4,
+    "id": 3,
     "orig_id": 291,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -92,7 +69,7 @@
     "mock_id": "ch_math_mensuration_05"
   },
   {
-    "id": 5,
+    "id": 4,
     "orig_id": 292,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -115,7 +92,7 @@
     "mock_id": "ch_math_mensuration_05"
   },
   {
-    "id": 6,
+    "id": 5,
     "orig_id": 347,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -138,7 +115,7 @@
     "mock_id": "ch_math_mensuration_05"
   },
   {
-    "id": 7,
+    "id": 6,
     "orig_id": 348,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -161,7 +138,7 @@
     "mock_id": "ch_math_mensuration_05"
   },
   {
-    "id": 8,
+    "id": 7,
     "orig_id": 349,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -184,7 +161,7 @@
     "mock_id": "ch_math_mensuration_05"
   },
   {
-    "id": 9,
+    "id": 8,
     "orig_id": 350,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -207,7 +184,7 @@
     "mock_id": "ch_math_mensuration_05"
   },
   {
-    "id": 10,
+    "id": 9,
     "orig_id": 772,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -225,6 +202,29 @@
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "मुख्य तथ्य / नियम / सूत्र:\n• व्यास = 2 × त्रिज्या।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• 2 × 7 = 14 सेमी, अतः विकल्प (C) सही है।",
       "exam_tips": "त्रिज्या आधी, व्यास दोगुना होता है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_math_mensuration_05"
+  },
+  {
+    "id": 10,
+    "orig_id": 776,
+    "subject_code": "MATH",
+    "subject": "गणित",
+    "topic_id": "math_mensuration",
+    "topic": "क्षेत्रमिति एवं ज्यामिति (Mensuration & Geometry)",
+    "question": "विद्यालयी क्रिकेट अभ्यास में उपयोग की जाने वाली एक गेंद का व्यास 10 सेमी है। उसका आयतन (घन सेमी में) कितना होगा? (π = 3.14 का प्रयोग करें)",
+    "options": {
+      "A": "515.55",
+      "B": "518.88",
+      "C": "521.22",
+      "D": "523.33"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र:\n• गोले का आयतन = 4/3 × π × r³, त्रिज्या = व्यास / 2।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• त्रिज्या = 10 / 2 = 5 सेमी।\n• आयतन = 4/3 × 3.14 × 125 = 4 × 3.14 × 125 / 3।\n• 1570 / 3 = 523.33 घन सेमी, अतः विकल्प (D) सही है।",
+      "exam_tips": "r³ = 125, π = 3.14 का गुणा सावधानी से करें।"
     },
     "difficulty": "Medium",
     "mock_id": "ch_math_mensuration_05"

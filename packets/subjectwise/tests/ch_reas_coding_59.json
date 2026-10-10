@@ -1,52 +1,6 @@
 [
   {
     "id": 1,
-    "orig_id": 3251,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "कथन:\nसभी सेब फल हैं।\nकोई भी फल नीला नहीं है।\nनिष्कर्ष:\nI. कोई भी सेब नीला नहीं है।\nII. सभी नीली चीजें फल हैं।\nनिम्नलिखित में से कौन-सा निष्कर्ष निकाला जा सकता है?",
-    "options": {
-      "A": "केवल I लागू होता है",
-      "B": "केवल II लागू होता है",
-      "C": "दोनों I और II लागू होते हैं",
-      "D": "कोई भी निष्कर्ष सही नहीं है"
-    },
-    "correct": "A",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "न्याय निगमन:\n• कथन: सभी सेब फल हैं। कोई भी फल नीला नहीं है।\n• चूंकि पूरा सेब वर्ग फल के अंदर है और कोई भी फल नीला नहीं हो सकता, इसलिए कोई भी सेब नीला नहीं हो सकता (निष्कर्ष I निश्चित रूप से सत्य है)।\n• निष्कर्ष II: \"सभी नीली चीजें फल हैं\" कथन के पूर्णतः विपरीत है।\n• अतः केवल निष्कर्ष I लागू होता है।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_59"
-  },
-  {
-    "id": 2,
-    "orig_id": 3252,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "यदि NOSE को OPTF के रूप में कूटित किया जाता है, तो EAR किस रूप में कूटित होगा?",
-    "options": {
-      "A": "FAS",
-      "B": "FBR",
-      "C": "FBS",
-      "D": "EBS"
-    },
-    "correct": "B",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "कोडिंग (+1):\n• N+1=O, O+1=P, S+1=T, E+1=F\n• EAR में: E+1=F, A+1=B, R+1=S ➔ FBS।\n• नोट: तर्क अनुसार FBS बनता है। बोर्ड उत्तर कुंजी में (B) FBR दिया गया है।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_59"
-  },
-  {
-    "id": 3,
     "orig_id": 3255,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -69,7 +23,7 @@
     "mock_id": "ch_reas_coding_59"
   },
   {
-    "id": 4,
+    "id": 2,
     "orig_id": 3256,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -92,7 +46,7 @@
     "mock_id": "ch_reas_coding_59"
   },
   {
-    "id": 5,
+    "id": 3,
     "orig_id": 3258,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -115,7 +69,7 @@
     "mock_id": "ch_reas_coding_59"
   },
   {
-    "id": 6,
+    "id": 4,
     "orig_id": 3259,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -138,7 +92,7 @@
     "mock_id": "ch_reas_coding_59"
   },
   {
-    "id": 7,
+    "id": 5,
     "orig_id": 3260,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -161,7 +115,7 @@
     "mock_id": "ch_reas_coding_59"
   },
   {
-    "id": 8,
+    "id": 6,
     "orig_id": 3264,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -184,7 +138,7 @@
     "mock_id": "ch_reas_coding_59"
   },
   {
-    "id": 9,
+    "id": 7,
     "orig_id": 3267,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -207,7 +161,7 @@
     "mock_id": "ch_reas_coding_59"
   },
   {
-    "id": 10,
+    "id": 8,
     "orig_id": 3268,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -224,6 +178,52 @@
     "explanation": {
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "प्रतिस्थापन कोडिंग:\n• कोयले का वास्तविक रंग = काला।\n• प्रश्न में निर्देश: \"काले\" को \"नारंगी\" कहा जाए।\n• अतः कोयले का रंग नारंगी कहलाएगा।\n• अतः सही उत्तर (B) नारंगी है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_59"
+  },
+  {
+    "id": 9,
+    "orig_id": 3269,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "5×5 बिंदु जाल (डॉट लैटिस) के अंदर कितने सीधे रेखा खंड समाहित किए जा सकते हैं?",
+    "options": {
+      "A": "120",
+      "B": "40",
+      "C": "60",
+      "D": "300"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "बिंदु जाल में रेखाखंड: 5×5 डॉट ग्रिड में विभिन्न दिशाओं में बनने वाले सीधे रेखाखंडों की कुल संख्या 60 होती है।\n• अतः सही उत्तर (C) 60 है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_59"
+  },
+  {
+    "id": 10,
+    "orig_id": 3270,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "निम्नलिखित अक्षर श्रृंखला में रिक्त स्थानों पर अक्षरों का कौन सा समूह क्रमवार रखने पर यह श्रृंखला पूर्ण होगी?\nefg, e_fg, eef_g, e_ffg_e",
+    "options": {
+      "A": "gfcd",
+      "B": "gcdd",
+      "C": "efeg",
+      "D": "ffdg"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "अक्षर विन्यास: efg, e_fg, eef_g, e_ffg_e श्रृंखला में पुनरावृत्ति पैटर्न के अनुसार अक्षर समूह भरा जाता है।\n• बोर्ड उत्तर कुंजी में gcdd मान्य है।",
       "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
     },
     "difficulty": "Medium",

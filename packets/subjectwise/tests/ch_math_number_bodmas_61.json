@@ -1,121 +1,6 @@
 [
   {
     "id": 1,
-    "orig_id": 4969,
-    "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_number_bodmas",
-    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
-    "question": "एक खो-खो टीम में कुल कितने खिलाड़ी होते हैं (अतिरिक्त खिलाड़ियों सहित)?",
-    "options": {
-      "A": "11",
-      "B": "12",
-      "C": "14",
-      "D": "15"
-    },
-    "correct": "D",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / खो-खो खेल के नियम:\n• खो-खो मैच के लिए एक आधिकारिक टीम में कुल 15 खिलाड़ी नामित होते हैं।\n• 📝 मैच में भागीदारी:\n• मैदान में एक समय में 9 खिलाड़ी खेलते हैं।\n• शेष 3 खिलाड़ी चेज़र (Chasers) के रूप में बैच में आते हैं और 3 अतिरिक्त (Substitutes) होते हैं। कुल = 15 खिलाड़ी।\n• 💡",
-      "exam_tips": "खो-खो भारत का पारंपरिक मैदानी खेल है जिसकी उत्पत्ति महाराष्ट्र में मानी जाती है।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_math_number_bodmas_61"
-  },
-  {
-    "id": 2,
-    "orig_id": 4974,
-    "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_number_bodmas",
-    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
-    "question": "शृंखला को पूर्ण करें:\nHDD, IDD, ?",
-    "options": {
-      "A": "KDD",
-      "B": "JDD",
-      "C": "LDD",
-      "D": "MDD"
-    },
-    "correct": "B",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / वर्णमाला क्रमिक वृद्धि:\n• पहला अक्षर: H (8) → I (9) → J (10) (+1 का क्रम)।\n• दूसरा और तीसरा अक्षर: 'DD' सभी में स्थिर (Constant) है।\n• अतः अगला पद = JDD (विकल्प B)।\n• 💡",
-      "exam_tips": "सरल +1 वर्णमाला पैटर्न है।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_math_number_bodmas_61"
-  },
-  {
-    "id": 3,
-    "orig_id": 4979,
-    "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_number_bodmas",
-    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
-    "question": "दिए गए समीकरण को सही बनाने के लिए कौन-से दो गणितीय चिन्हों को आपस में बदला जाना चाहिए?\n12 ÷ 2 × 6 - 4 + 2 = 16",
-    "options": {
-      "A": "+ और -",
-      "B": "× और ÷",
-      "C": "+ और ×",
-      "D": "और ÷"
-    },
-    "correct": "B",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / चिन्ह प्रतिस्थापन एवं BODMAS जांच:\n• × और ÷ को आपस में बदलने पर:\n• 📝 स्टेप-बाय-स्टेप हल:\n• व्यंजक बनता है: 12 × 2 ÷ 6 - 4 + 2\n• = (12 × 2) ÷ 6 - 4 + 2\n• = 24 ÷ 6 - 4 + 2 = 4 - 4 + 2 = 2.\n• बोर्ड उत्तर कुंजी नोट: बोर्ड ने विकल्प (B) को सही माना है।\n• 💡",
-      "exam_tips": "BODMAS का पालन करते हुए दोनों चिन्हों की अदला-बदली की गई है।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_math_number_bodmas_61"
-  },
-  {
-    "id": 4,
-    "orig_id": 4984,
-    "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_number_bodmas",
-    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
-    "question": "एक व्यक्ति ₹42,000 को A, B और C के बीच 2:3:5 के अनुपात में विभाजित करता है। B का हिस्सा कितना है?",
-    "options": {
-      "A": "8400 Rs",
-      "B": "14000 Rs",
-      "C": "12600 Rs",
-      "D": "21000 Rs"
-    },
-    "correct": "B",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / आनुपातिक विभाजन सूत्र:\n• अनुपाती योग = 2 + 3 + 5 = 10 इकाइयाँ।\n• 1 इकाई = 42,000 / 10 = ₹4,200.\n• 📝 स्टेप-बाय-स्टेप हल:\n• A का हिस्सा = 2 × 4200 = ₹8,400\n• B का हिस्सा = 3 × 4200 = ₹12,600 (मानक गणितीय मान)\n• C का हिस्सा = 5 × 4200 = ₹21,000.\n• बोर्ड उत्तर कुंजी नोट: बोर्ड ने इस सेट में विकल्प (B) ₹14,000 को उत्तर माना है।\n• 💡",
-      "exam_tips": "सटीक गणना से B = ₹12,600 तथा बोर्ड कुंजी में ₹14,000 अंकित है।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_math_number_bodmas_61"
-  },
-  {
-    "id": 5,
-    "orig_id": 4985,
-    "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_number_bodmas",
-    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
-    "question": "A person divides ₹42,000 among A, B, and C in the ratio 2:3:5. What is B's share?",
-    "options": {
-      "A": "8400 Rs",
-      "B": "14000 Rs",
-      "C": "12600 Rs",
-      "D": "21000 Rs"
-    },
-    "correct": "C",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / अनुपात गणना:\n• B का अंश = 3/10 × 42,000 = 3 × 4,200 = ₹12,600.\n• 💡",
-      "exam_tips": "यह शुद्ध गणितीय रूप से 100% सही उत्तर है।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_math_number_bodmas_61"
-  },
-  {
-    "id": 6,
     "orig_id": 5013,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -138,7 +23,7 @@
     "mock_id": "ch_math_number_bodmas_61"
   },
   {
-    "id": 7,
+    "id": 2,
     "orig_id": 5021,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -161,7 +46,7 @@
     "mock_id": "ch_math_number_bodmas_61"
   },
   {
-    "id": 8,
+    "id": 3,
     "orig_id": 5028,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -184,7 +69,7 @@
     "mock_id": "ch_math_number_bodmas_61"
   },
   {
-    "id": 9,
+    "id": 4,
     "orig_id": 5030,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -207,7 +92,7 @@
     "mock_id": "ch_math_number_bodmas_61"
   },
   {
-    "id": 10,
+    "id": 5,
     "orig_id": 5037,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -225,6 +110,121 @@
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "📌 मुख्य तथ्य / श्रेष्ठ योजना (SHRESHTA Scheme):\n• पूर्ण नाम: Scheme for Residential Education for Students in High Schools in Targeted Areas.\n• उद्देश्य: मेधावी अनुसूचित जाति (SC) के छात्र-छात्राओं को देश के सर्वश्रेष्ठ निजी आवासीय सीबीएसई विद्यालयों में कक्षा 9वीं और 11वीं में प्रवेश और निःशुल्क गुणवत्तापूर्ण शिक्षा प्रदान करना।\n• 💡",
       "exam_tips": "छात्रों का चयन राष्ट्रीय परीक्षा एजेंसी (NTA) द्वारा NETS प्रवेश परीक्षा के माध्यम से होता है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_math_number_bodmas_61"
+  },
+  {
+    "id": 6,
+    "orig_id": 5054,
+    "subject_code": "MATH",
+    "subject": "गणित",
+    "topic_id": "math_number_bodmas",
+    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
+    "question": "यदि  = भाग, @ = जोड़, # = घटाना, और % = गुणा, तो निम्नलिखित व्यंजक का मान क्या होगा?\n20 @ 8 % 2  4 # 3 = ?",
+    "options": {
+      "A": "18",
+      "B": "16",
+      "C": "21",
+      "D": "25"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / चिन्ह प्रतिस्थापन एवं BODMAS:\n• व्यंजक: 20 + 8 × 2 ÷ 4 - 3\n• 📝 स्टेप-बाय-स्टेप हल:\n• भाग व गुणा: 8 × (2 ÷ 4) = 8 × 0.5 = 4\n• जोड़ व घटाव: 20 + 4 - 3 = 24 - 3 = 21 (मानक गणितीय मान)।\n• बोर्ड उत्तर कुंजी नोट: बोर्ड कुंजी में विकल्प (B) 16 अंकित था।\n• 💡",
+      "exam_tips": "BODMAS से 21 तथा बोर्ड कुंजी में 16 प्राप्त होता है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_math_number_bodmas_61"
+  },
+  {
+    "id": 7,
+    "orig_id": 5056,
+    "subject_code": "MATH",
+    "subject": "गणित",
+    "topic_id": "math_number_bodmas",
+    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
+    "question": "यदि  = भाग, @ = जोड़, # = घटाना, और % = गुणा, तो व्यंजक का मान:",
+    "options": {
+      "A": "18",
+      "B": "16",
+      "C": "21",
+      "D": "24"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / बोर्ड उत्तर कुंजी:\n• आधिकारिक कुंजी अनुसार विकल्प (B) 16 सही है।\n• 💡",
+      "exam_tips": "प्रतीकात्मक संक्रिया परीक्षण।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_math_number_bodmas_61"
+  },
+  {
+    "id": 8,
+    "orig_id": 5062,
+    "subject_code": "MATH",
+    "subject": "गणित",
+    "topic_id": "math_number_bodmas",
+    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
+    "question": "एक कार 120 किलोमीटर की दूरी 20 किलोमीटर प्रति घंटे की चाल से तय करती है और उसी मार्ग से 30 किलोमीटर प्रति घंटे की चाल से वापस लौटती है। पूरी यात्रा की औसत चाल क्या है?",
+    "options": {
+      "A": "25 किमी/घंटा",
+      "B": "24 किमी/घंटा",
+      "C": "22 किमी/घंटा",
+      "D": "26 किमी/घंटा"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / समान दूरी हेतु औसत चाल सूत्र (हरात्मक माध्य):\n• औसत चाल = (2 × v₁ × v₂) / (v₁ + v₂)\n• 📝 स्टेप-बाय-स्टेप हल:\n• v₁ = 20 किमी/घंटा, v₂ = 30 किमी/घंटा\n• औसत चाल = (2 × 20 × 30) / (20 + 30) = 1200 / 50 = 24 किमी/घंटा।\n• 💡",
+      "exam_tips": "कभी भी दोनों चालों का सामान्य अंकगणितीय औसत (20+30)/2 = 25 न निकालें; सही औसत चाल 24 किमी/घंटा है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_math_number_bodmas_61"
+  },
+  {
+    "id": 9,
+    "orig_id": 5065,
+    "subject_code": "MATH",
+    "subject": "गणित",
+    "topic_id": "math_number_bodmas",
+    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
+    "question": "पते के संभावित शहर की पहचान करें।\nCMC Hospital, Ida Scudder Road,\nTamil Nadu - 632004",
+    "options": {
+      "A": "वेल्लोर",
+      "B": "मदुरै",
+      "C": "सेलम",
+      "D": "तिरुचिरापल्ली"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / पिनकोड एवं संस्थान मिलान:\n• क्रिश्चियन मेडिकल कॉलेज (CMC Hospital) वेल्लोर (Vellore), तमिलनाडु में स्थित प्रसिद्ध चिकित्सा संस्थान है।\n• पिनकोड 632004 वेल्लोर शहर का है।\n• 💡",
+      "exam_tips": "वेल्लोर का सीएमसी अस्पताल विश्व प्रसिद्ध है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_math_number_bodmas_61"
+  },
+  {
+    "id": 10,
+    "orig_id": 5067,
+    "subject_code": "MATH",
+    "subject": "गणित",
+    "topic_id": "math_number_bodmas",
+    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
+    "question": "पते के संभावित शहर की पहचान करें।\nIda Scudder Road, Tamil Nadu - 632004",
+    "options": {
+      "A": "वेल्लोर",
+      "B": "चेन्नई",
+      "C": "कोयंबटूर",
+      "D": "तंजावुर"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / भौगोलिक मिलान:\n• वेल्लोर शहर सही उत्तर है।\n• 💡",
+      "exam_tips": "विकल्प (A) सही उत्तर है।"
     },
     "difficulty": "Medium",
     "mock_id": "ch_math_number_bodmas_61"

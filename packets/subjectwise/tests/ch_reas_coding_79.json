@@ -1,52 +1,6 @@
 [
   {
     "id": 1,
-    "orig_id": 4343,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "शृंखला में अगली संख्या ज्ञात करें:\n2, 6, 12, 20, 30, ?",
-    "options": {
-      "A": "36",
-      "B": "40",
-      "C": "42",
-      "D": "44"
-    },
-    "correct": "C",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य नियम: लगातार सम संख्याओं का अंतर (+4, +6, +8, +10, +12)।\n• 📝 गणना: 30 + 12 = 42।\n• 💡",
-      "exam_tips": "प्रॉनिक संख्याएं (Pronic numbers): n(n+1)।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_79"
-  },
-  {
-    "id": 2,
-    "orig_id": 4354,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "35 लोगों की एक कतार में, रमेश की दााईं ओर से स्थिति 15वीं है। रमेश की बाईं ओर से स्थिति क्या होगी?",
-    "options": {
-      "A": "21वीं",
-      "B": "20वीं",
-      "C": "19वीं",
-      "D": "22वीं"
-    },
-    "correct": "A",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य सूत्र / क्रम व्यवस्था: बायाँ स्थान = कुल व्यक्ति - दायाँ स्थान + 1।\n• 📝 स्टेप-बाय-स्टेप हल:\n• कुल लोग = 35\n• दाएँ से स्थान = 15\n• बाएँ से स्थान = 35 - 15 + 1 = 20 + 1 = 21वीं।\n• 💡",
-      "exam_tips": "व्यक्ति स्वयं दोनों सिरों से गिना जाता है, इसलिए अंत में +1 किया जाता है।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_79"
-  },
-  {
-    "id": 3,
     "orig_id": 4356,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -69,7 +23,7 @@
     "mock_id": "ch_reas_coding_79"
   },
   {
-    "id": 4,
+    "id": 2,
     "orig_id": 4361,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -92,7 +46,7 @@
     "mock_id": "ch_reas_coding_79"
   },
   {
-    "id": 5,
+    "id": 3,
     "orig_id": 4381,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -115,7 +69,7 @@
     "mock_id": "ch_reas_coding_79"
   },
   {
-    "id": 6,
+    "id": 4,
     "orig_id": 4386,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -138,7 +92,7 @@
     "mock_id": "ch_reas_coding_79"
   },
   {
-    "id": 7,
+    "id": 5,
     "orig_id": 4389,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -161,7 +115,7 @@
     "mock_id": "ch_reas_coding_79"
   },
   {
-    "id": 8,
+    "id": 6,
     "orig_id": 4390,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -184,7 +138,7 @@
     "mock_id": "ch_reas_coding_79"
   },
   {
-    "id": 9,
+    "id": 7,
     "orig_id": 4394,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -207,7 +161,7 @@
     "mock_id": "ch_reas_coding_79"
   },
   {
-    "id": 10,
+    "id": 8,
     "orig_id": 4395,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -225,6 +179,52 @@
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "📌 मुख्य नियम / पेशेवर संचार: तथ्यात्मक गलतियों को विनम्रता और सम्मान के साथ प्रामाणिक साक्ष्यों के आधार पर सुधारना चाहिए।\n• 💡",
       "exam_tips": "आक्रामकता के बिना दृढ़ता (Assertiveness without Aggression) सबसे प्रभावी पेशेवर गुण है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_79"
+  },
+  {
+    "id": 9,
+    "orig_id": 4396,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "आप कोई वादा करते हैं, लेकिन आपको एहसास होता है कि आप उसे पूरा नहीं कर सकते। आपको क्या करना चाहिए?",
+    "options": {
+      "A": "देरी क्यों हुई, इस बारे में झूठ बोलना",
+      "B": "उस व्यक्ति से बचना",
+      "C": "कुछ भी नहीं करना",
+      "D": "माफ़ी माँगना और ईमानदारी से समझाना"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य नियम / नैतिक आचरण एवं सत्यनिष्ठा: अपनी सीमाओं को स्वीकार करना, समय रहते खेद प्रकट करना और वास्तविक कारण स्पष्ट करना भरोसे और विश्वसनीयता को बनाए रखता है।\n• 💡",
+      "exam_tips": "पारदर्शिता और ईमानदारी संबंधों की दीर्घकालिक नींव हैं।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_79"
+  },
+  {
+    "id": 10,
+    "orig_id": 4397,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "सभी स्मार्टफोन गैजेट हैं।\nकुछ गैजेट महंगे होते हैं।\nसभी महंगी चीज़ों का बीमा होता है।\nनिष्कर्ष:\nI. कुछ गैजेट्स का बीमा होता है।\nII. कुछ स्मार्टफोन महंगे होते हैं।",
+    "options": {
+      "A": "केवल I अनुसरण करता है",
+      "B": "केवल II अनुसरण करता है",
+      "C": "I और II दोनों अनुसरण करते हैं",
+      "D": "न तो I और न ही II अनुसरण करता है"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य नियम / सिलोगिज्म वेन आरेख:\n• कथन: S ⊆ G, कुछ G, E हैं, और सभी E, I हैं।\n• तार्किक विश्लेषण: जो गैजेट 'महंगे' (E) हैं, वे सभी बीमाकृत (I) हैं, अतः \"कुछ गैजेट्स का बीमा होता है\" (निष्कर्ष I) सत्य प्रतीत होता है।\n• बोर्ड उत्तर कुंजी टिप्पणी: परीक्षा बोर्ड ने आधिकारिक कुंजी में उत्तर (D) न तो I और न ही II माना है (संभवतः न्यूनतम अंतर्विष्टता के आधार पर)।\n• 💡",
+      "exam_tips": "बोर्ड परीक्षा के आधिकारिक उत्तर (D) को ध्यान में रखें।"
     },
     "difficulty": "Medium",
     "mock_id": "ch_reas_coding_79"

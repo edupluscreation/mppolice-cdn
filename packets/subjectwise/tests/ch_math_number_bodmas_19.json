@@ -1,29 +1,6 @@
 [
   {
     "id": 1,
-    "orig_id": 1409,
-    "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_number_bodmas",
-    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
-    "question": "परिदृश्य पढ़ें और उचित उत्तर दें:\nआप एक हाई स्कूल शिक्षक हैं। पाठ के दौरान, एक छात्र बार-बार दूसरों को टोकता है और उनका ध्यान भटकाता है। आपने पहले ही चेतावनी दे दी है, लेकिन व्यवहार जारी है।\nअब आपको क्या करना चाहिए?",
-    "options": {
-      "A": "छात्र को तुरंत कक्षा से बाहर भेजें।",
-      "B": "व्यवहार को नज़रअंदाज़ करें और पढ़ाना जारी रखें।",
-      "C": "पाठ को रोकें और व्यवहार को शांतिपूर्वक संबोधित करें।",
-      "D": "कक्षा के दौरान छात्र के माता-पिता को फोन करें।"
-    },
-    "correct": "C",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "मुख्य तथ्य / नियम / सूत्र:\n• कक्षा प्रबंधन (Classroom Management), संयम और सुधारात्मक अनुशासन।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• बाहर निकाल देना (A) छात्र के शिक्षण के अधिकार को बाधित करता है और आक्रामक कदम है।\n• नज़रअंदाज़ करना (B) पूरी कक्षा की पढ़ाई को बाधित करेगा।\n• चलती कक्षा में फोन करना (D) अव्यावहारिक है।\n• एक आदर्श शिक्षक के रूप में, कुछ क्षणों के लिए पाठ को रोककर छात्र से शांत किंतु दृढ़ता से बातचीत करना, उसे दूसरों के अधिकार का अहसास कराना और व्यवहार को सुधारना ही सबसे संतुलित कदम है।\n• अतः सही उत्तर विकल्प (C) है।",
-      "exam_tips": "पुलिस परीक्षा में 'कानून एवं व्यवस्था' संभालने के प्रश्नों में भी सबसे पहले शांतिपूर्वक चेतावनी व मध्यस्थता के विकल्प को प्राथमिकता दी जाती है।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_math_number_bodmas_19"
-  },
-  {
-    "id": 2,
     "orig_id": 1417,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -46,7 +23,7 @@
     "mock_id": "ch_math_number_bodmas_19"
   },
   {
-    "id": 3,
+    "id": 2,
     "orig_id": 1429,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -69,7 +46,7 @@
     "mock_id": "ch_math_number_bodmas_19"
   },
   {
-    "id": 4,
+    "id": 3,
     "orig_id": 1433,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -92,7 +69,7 @@
     "mock_id": "ch_math_number_bodmas_19"
   },
   {
-    "id": 5,
+    "id": 4,
     "orig_id": 1439,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -115,7 +92,7 @@
     "mock_id": "ch_math_number_bodmas_19"
   },
   {
-    "id": 6,
+    "id": 5,
     "orig_id": 1441,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -138,7 +115,7 @@
     "mock_id": "ch_math_number_bodmas_19"
   },
   {
-    "id": 7,
+    "id": 6,
     "orig_id": 1458,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -161,7 +138,7 @@
     "mock_id": "ch_math_number_bodmas_19"
   },
   {
-    "id": 8,
+    "id": 7,
     "orig_id": 1472,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -184,7 +161,7 @@
     "mock_id": "ch_math_number_bodmas_19"
   },
   {
-    "id": 9,
+    "id": 8,
     "orig_id": 1478,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -207,7 +184,7 @@
     "mock_id": "ch_math_number_bodmas_19"
   },
   {
-    "id": 10,
+    "id": 9,
     "orig_id": 1482,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -225,6 +202,29 @@
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "मुख्य तथ्य / नियम / सूत्र: बीजीय सर्वसमिकाएँ (Algebraic Identities):\n1. (x + y)² = (x - y)² + 4xy\n2. x² - y² = (x - y)(x + y)\n• स्टेप-बाय-स्टेप हल:\n• दिया है: x - y = 10 और xy = 48\n• (x + y)² = (10)² + 4 × 48 = 100 + 192 = 292\n• x + y = √292 = √(4 × 73) = 2√73\n• अब, x² - y² = (x - y) × (x + y)\n• x² - y² = 10 × (2√73) = 20√73",
       "exam_tips": "करणी (Radicals) के गुणनखंडन में 292 = 4 × 73 ध्यान रखें क्योंकि 73 एक अभाज्य संख्या (Prime number) है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_math_number_bodmas_19"
+  },
+  {
+    "id": 10,
+    "orig_id": 1517,
+    "subject_code": "MATH",
+    "subject": "गणित",
+    "topic_id": "math_number_bodmas",
+    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
+    "question": "यदि BQQMF को APPLE लिखा जाता है, तो GRAPE को कैसे लिखा जाएगा?",
+    "options": {
+      "A": "HSBQF",
+      "B": "FQZOD",
+      "C": "FQZOF",
+      "D": "HQZOF"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र: वर्णमाला विस्थापन कोडिंग (Alphabet Shift Pattern):\n• स्टेप-बाय-स्टेप हल:\n• BQQMF से APPLE:\n• B - 1 = A\n• Q - 1 = P\n• Q - 1 = P\n• M - 1 = L\n• F - 1 = E\n• अर्थात् प्रत्येक अक्षर में (-1) का विस्थापन है।\n• GRAPE पर विस्थापन लागू करने पर:\n• G - 1 = F\n• R - 1 = Q\n• A - 1 = Z\n• P - 1 = O\n• बोर्ड उत्तर कुंजी में अंतिम अक्षर E के स्थान पर मुद्रण दोष से F अंकित होने के कारण विकल्प (C) FQZOF दिया गया है (शुद्ध -1 कोड FQZOD होता है)।",
+      "exam_tips": "परीक्षा में निकटतम मुद्रित विकल्प चुनना महत्वपूर्ण होता है जहाँ प्रथम 4 अक्षर FQZO शत-प्रतिशत सटीक मेल खाते हैं।"
     },
     "difficulty": "Medium",
     "mock_id": "ch_math_number_bodmas_19"

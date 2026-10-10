@@ -1,29 +1,6 @@
 [
   {
     "id": 1,
-    "orig_id": 1695,
-    "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_number_bodmas",
-    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
-    "question": "एक कृषि अधिकारी ने 9 खेतों में गेहूं की उपज (क्विंटल/एकड़) दर्ज की: 20, 22, 19, 25, 30, 18, 21, 23, 24। माध्यिका उपज क्या होगी?",
-    "options": {
-      "A": "25",
-      "B": "23",
-      "C": "24",
-      "D": "22"
-    },
-    "correct": "B",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "मुख्य तथ्य / नियम / सूत्र: विषम पदों की माध्यिका = [(n + 1)/2]वाँ पद (आरोही क्रम में)।\n• स्टेप-बाय-स्टेप हल:\n• आरोही क्रम: 18, 19, 20, 21, 22, 23, 24, 25, 30\n• n = 9 पद, मध्य पद (5वाँ पद) = 22 (विकल्प D)\n• बोर्ड कुंजी में 23 अंकित हुआ था; सही गणितीय मान 22 है।",
-      "exam_tips": "माध्यिका निकालने से पूर्व आँकड़ों को आरोही क्रम में लगाना अनिवार्य है।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_math_number_bodmas_22"
-  },
-  {
-    "id": 2,
     "orig_id": 1719,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -46,7 +23,7 @@
     "mock_id": "ch_math_number_bodmas_22"
   },
   {
-    "id": 3,
+    "id": 2,
     "orig_id": 1723,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -69,7 +46,7 @@
     "mock_id": "ch_math_number_bodmas_22"
   },
   {
-    "id": 4,
+    "id": 3,
     "orig_id": 1736,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -92,7 +69,7 @@
     "mock_id": "ch_math_number_bodmas_22"
   },
   {
-    "id": 5,
+    "id": 4,
     "orig_id": 1737,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -115,7 +92,7 @@
     "mock_id": "ch_math_number_bodmas_22"
   },
   {
-    "id": 6,
+    "id": 5,
     "orig_id": 1738,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -138,7 +115,7 @@
     "mock_id": "ch_math_number_bodmas_22"
   },
   {
-    "id": 7,
+    "id": 6,
     "orig_id": 1740,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -161,7 +138,7 @@
     "mock_id": "ch_math_number_bodmas_22"
   },
   {
-    "id": 8,
+    "id": 7,
     "orig_id": 1743,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -184,7 +161,7 @@
     "mock_id": "ch_math_number_bodmas_22"
   },
   {
-    "id": 9,
+    "id": 8,
     "orig_id": 1749,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -207,7 +184,7 @@
     "mock_id": "ch_math_number_bodmas_22"
   },
   {
-    "id": 10,
+    "id": 9,
     "orig_id": 1757,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -225,6 +202,29 @@
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "मुख्य तथ्य / नियम / सूत्र: नीला रंग सबसे अधिक विचलित होता है।",
       "exam_tips": "दोहराया गया प्रश्न; सही उत्तर (B) नीला है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_math_number_bodmas_22"
+  },
+  {
+    "id": 10,
+    "orig_id": 1788,
+    "subject_code": "MATH",
+    "subject": "गणित",
+    "topic_id": "math_number_bodmas",
+    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
+    "question": "एक कार का मूल्य प्रति वर्ष 10% की दर से घटता है। यदि वर्तमान मूल्य 486,000 रुपये है, तो 2 वर्ष पहले उसका मूल्य क्या था?",
+    "options": {
+      "A": "600000 रुपये",
+      "B": "580000 रुपये",
+      "C": "590000 रुपये",
+      "D": "540000 रुपये"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र: मूल्यह्रास सूत्र (Depreciation Formula):\nवर्तमान मूल्य = मूल मूल्य × (1 - R/100)ⁿ\n• स्टेप-बाय-स्टेप हल:\n• माना 2 वर्ष पूर्व मूल्य = P\n• 4,86,000 = P × (1 - 10/100)²\n• 4,86,000 = P × (0.90)² = P × 0.81\n• P = 4,86,000 / 0.81 = ₹6,00,000 (विकल्प A)\n• (नोट: 1 वर्ष पूर्व का मूल्य = 486000 / 0.9 = ₹5,40,000 होता है; 2 वर्ष पूर्व का मूल्य ₹6,00,000 है)।",
+      "exam_tips": "6,00,000 का 10% घटाने पर 5,40,000; फिर 10% घटाने पर 4,86,000 प्राप्त होता है।"
     },
     "difficulty": "Medium",
     "mock_id": "ch_math_number_bodmas_22"

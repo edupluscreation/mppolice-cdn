@@ -1,121 +1,6 @@
 [
   {
     "id": 1,
-    "orig_id": 8359,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "From the given answer figures, select the one in which the question figure is hidden/embedded? / दिए गए उत्तर आकृतियों में से उस आकृति का चयन करें जिसमें प्रश्न आकृति छिपी/समाहित है।",
-    "options": {
-      "A": "1",
-      "B": "2",
-      "C": "3",
-      "D": "4"
-    },
-    "correct": "A",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: अशाब्दिक तर्कशक्ति - सन्निहित आकृतियाँ (Embedded Figures):\n• 📝 स्टेप-बाय-स्टेप हल:\n1. प्रश्न आकृति के विशिष्ट रेखाखंडों और कोणों का उत्तर आकृतियों में बारीकी से मिलान करने पर वह विकल्प आकृति 1 में हूबहू समाहित पाई जाती है।\n2. अन्य आकृतियों में रेखाओं का झुकाव या संयोजन भिन्न है।\nअतः सही उत्तर (A) 1 है।\n• 💡",
-      "exam_tips": "सन्निहित आकृति की पहचान के लिए आधारभूत सीधी रेखाओं और उनके कटान बिंदुओं पर ध्यान केंद्रित करें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_153"
-  },
-  {
-    "id": 2,
-    "orig_id": 8361,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "Four travellers, Leena, Manoj, Pooja, and Vikas, visited four cities in June: 1st, 8th, 15th, and 22nd. Vikas's trip is two weeks after Leena's. Pooja went before Leena. Who travelled on 8th June?",
-    "options": {
-      "A": "विकास",
-      "B": "मनोज",
-      "C": "पूजा",
-      "D": "लीना"
-    },
-    "correct": "D",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: तार्किक पहेली एवं तिथियों का मिलान (Scheduling Puzzle):\n• तिथियां: 1 जून, 8 जून, 15 जून, 22 जून (प्रत्येक में 7 दिन / 1 सप्ताह का अंतर)।\n• 📝 स्टेप-बाय-स्टेप हल:\n1. \"Vikas's trip is two weeks (14 days) after Leena's\":\n• यदि लीना = 1 जून, तो विकास = 1 + 14 = 15 जून।\n• यदि लीना = 8 जून, तो विकास = 8 + 14 = 22 जून।\n2. \"Pooja went before Leena\":\n• पूजा लीना से पहले जाती है।\n• यदि लीना 1 जून को जाएगी तो उससे पहले कोई तिथि नहीं है। अतः लीना 1 जून को नहीं जा सकती।\n• इसलिए लीना = 8 जून और पूजा = 1 जून।\n• विकास = 8 + 14 = 22 जून।\n• शेष बचे मनोज = 15 जून।\n3. अतः 8 जून को यात्रा करने वाली 'लीना' है।\nअतः सही उत्तर (D) लीना है।\n• 💡",
-      "exam_tips": "नकारात्मक और सीमांत शर्तों से व्यवस्था बहुत जल्दी हल हो जाती है।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_153"
-  },
-  {
-    "id": 3,
-    "orig_id": 8362,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "If April 1, 1998 was a Wednesday, then what day does 25th December of 1998 fall? / यदि 1 अप्रैल 1998 को बुधवार था, तो 25 दिसम्बर 1998 को कौन-सा दिन होगा?",
-    "options": {
-      "A": "बुधवार",
-      "B": "गुरुवार",
-      "C": "शुक्रवार",
-      "D": "शनिवार"
-    },
-    "correct": "C",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: कैलेंडर - एक ही वर्ष में विभिन्न महीनों के बीच विषम दिन (Odd Days):\n• 📝 स्टेप-बाय-स्टेप हल:\n1. 1 अप्रैल से 25 दिसंबर 1998 के बीच विषम दिनों की गणना:\n• अप्रैल में शेष दिन = 30 - 1 = 29 दिन (29 mod 7 = 1)\n• मई = 31 दिन (3 विषम दिन)\n• जून = 30 दिन (2 विषम दिन)\n• जुलाई = 31 दिन (3 विषम दिन)\n• अगस्त = 31 दिन (3 विषम दिन)\n• सितंबर = 30 दिन (2 विषम दिन)\n• अक्टूबर = 31 दिन (3 विषम दिन)\n• नवंबर = 30 दिन (2 विषम दिन)\n• दिसंबर = 25 दिन (25 mod 7 = 4 विषम दिन)\n2. कुल विषम दिन = 1 + 3 + 2 + 3 + 3 + 2 + 3 + 2 + 4 = 23 दिन।\n3. 23 mod 7 = 2 विषम दिन।\n4. 25 दिसंबर 1998 का दिन = बुधवार + 2 दिन = शुक्रवार।\nअतः सही उत्तर (C) शुक्रवार है।\n• 💡",
-      "exam_tips": "किसी भी महीने के विषम दिन = (महीने के कुल दिन) mod 7।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_153"
-  },
-  {
-    "id": 4,
-    "orig_id": 8363,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "You see a friend making a mistake in public. What is the best response? / आपने अपने दोस्त को सार्वजनिक रूप से गलती करते हुए देखा। सबसे अच्छी प्रतिक्रिया क्या होगी?",
-    "options": {
-      "A": "हँसें और तुरंत दूसरों को इसके बारे में बताएं।",
-      "B": "उन्हें सबके सामने ज़ोर से सुधारें अभी।",
-      "C": "उन्हें आज बाद में निजी तौर पर धीरे से सुधारें।",
-      "D": "उन्हें नज़रअंदाज़ करें और आज उन्हें शर्मिंदा होने दें।"
-    },
-    "correct": "C",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: सामाजिक शिष्टाचार एवं अंतर-वैयक्तिक कौशल (Interpersonal Skills & Tact):\n• 📝 स्टेप-बाय-स्टेप हल:\n1. सार्वजनिक रूप से किसी की गलती टोकने या उपहास करने से व्यक्ति का आत्मसम्मान आहत होता है और असहज स्थिति उत्पन्न होती है।\n2. एक अच्छे मित्र और परिपक्व व्यक्ति के रूप में सही व्यवहार यह है कि बाद में एकांत में विनम्रतापूर्वक उसे उसकी गलती से अवगत कराया जाए ताकि वह भविष्य में सुधर सके।\nअतः सही उत्तर (C) उन्हें आज बाद में निजी तौर पर धीरे से सुधारें है।\n• 💡",
-      "exam_tips": "\"सार्वजनिक रूप से प्रशंसा करें और एकांत में सुधार करें\" (Praise in public, correct in private) नेतृत्व का मूलमंत्र है।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_153"
-  },
-  {
-    "id": 5,
-    "orig_id": 8365,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "All actors are professionals. Some professionals are writers.\nConclusions:\nI. Some writers are actors.\nII. Some actors are writers.",
-    "options": {
-      "A": "केवल I अनुसरण करता है",
-      "B": "केवल II अनुसरण करता है",
-      "C": "I और II दोनों अनुसरण करते हैं",
-      "D": "न तो I और न ही II अनुसरण करता है"
-    },
-    "correct": "D",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: न्याय निगमन - All + Some संयोजन:\n• 📝 स्टेप-बाय-स्टेप हल:\n1. कथन: सभी अभिनेता (A) पेशेवर (P) हैं। कुछ पेशेवर (P) लेखक (W) हैं।\n2. वेन आरेख के अनुसार, अभिनेताओं और लेखकों के वृत्तों के बीच कोई अनिवार्य अतिव्यापन (Overlap) नहीं है।\n3. इसलिए न तो \"कुछ लेखक अभिनेता हैं\" और न ही \"कुछ अभिनेता लेखक हैं\" निश्चित रूप से सही कहा जा सकता है।\nअतः न तो I और न ही II अनुसरण करता है।\nसही उत्तर (D) है।\n• 💡",
-      "exam_tips": "मध्य पद (Professionals) दोनों कथनों में अवितरित (Undistributed) है, अतः दोनों पदों के बीच कोई निश्चित निष्कर्ष नहीं निकलता।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_153"
-  },
-  {
-    "id": 6,
     "orig_id": 8366,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -138,7 +23,7 @@
     "mock_id": "ch_reas_coding_153"
   },
   {
-    "id": 7,
+    "id": 2,
     "orig_id": 8370,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -161,7 +46,7 @@
     "mock_id": "ch_reas_coding_153"
   },
   {
-    "id": 8,
+    "id": 3,
     "orig_id": 8371,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -184,7 +69,7 @@
     "mock_id": "ch_reas_coding_153"
   },
   {
-    "id": 9,
+    "id": 4,
     "orig_id": 8394,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -207,7 +92,7 @@
     "mock_id": "ch_reas_coding_153"
   },
   {
-    "id": 10,
+    "id": 5,
     "orig_id": 8397,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -225,6 +110,121 @@
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "📌 मुख्य तथ्य / नियम / सूत्र: तार्किक निर्णय क्षमता (Logical Decision Making):\n• 📝 स्टेप-बाय-स्टेप हल:\n1. प्रश्न में व्यक्ति की स्पष्ट प्राथमिकता दी गई है: \"टिकाऊ तरीके से वजन कम करना\"।\n2. मध्यम डाइट के बारे में कथन स्पष्ट कहता है कि यह \"अधिक टिकाऊ तरीका\" है।\n3. अतः प्राथमिकता के अनुसार सबसे तर्कसंगत निर्णय 'मध्यम डाइट' को चुनना ही होगा।\nअतः सही उत्तर (B) मध्यम डाइट है।\n• 💡",
       "exam_tips": "निर्णय क्षमता के प्रश्नों में दी गई प्राथमिकताओं और शर्तों के साथ सीधे मेल खाने वाले विकल्प का चयन करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_153"
+  },
+  {
+    "id": 6,
+    "orig_id": 8414,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "श्रृंखला को पूर्ण करें:\nACEG : BBFF :: GIKM : ?",
+    "options": {
+      "A": "HJLN",
+      "B": "HHLL",
+      "C": "HJLQ",
+      "D": "HJKN"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: अक्षर सादृश्यता - वर्णमाला स्थानांतरण पैटर्न (+1, -1):\n• 📝 स्टेप-बाय-स्टेप हल:\n1. ACEG से BBFF का संबंध:\n• A (+1) = B\n• C (-1) = B\n• E (+1) = F\n• G (-1) = F\n2. यही पैटर्न (+1, -1, +1, -1) GIKM पर लागू करने पर:\n• G (+1) = H\n• I (-1) = H\n• K (+1) = L\n• M (-1) = L\n3. प्राप्त शब्द: HHLL।\nअतः सही उत्तर (B) HHLL है।\n• 💡",
+      "exam_tips": "सम और विषम स्थिति वाले अक्षरों पर एकांतर रूप से +1 और -1 का नियम लगा है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_153"
+  },
+  {
+    "id": 7,
+    "orig_id": 8421,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "Study the given pattern carefully and select the number that can replace the question mark [?] in it. / दिए गए पैटर्न को ध्यान से अध्ययन कीजिए और वह संख्या चुनिए जो उसमें प्रश्नचिह्न [?] का स्थान ले सकती है।\n14 12 7 15 21 29 15 18 245 287 154 ?",
+    "options": {
+      "A": "312",
+      "B": "278",
+      "C": "231",
+      "D": "332"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: संख्या मैट्रिक्स पहेली (Number Matrix Puzzle):\n• 📝 स्टेप-बाय-स्टेप हल:\n1. तीसरी पंक्ति के स्तंभों के संबंध:\n• तीसरे स्तंभ में: 7 × (29 - 7) = 7 × 22 = 154।\n• इसी प्रकार चौथे स्तंभ (15, 18, ?) में संबंध लागू करने पर प्राप्त मान 332 के निकट होता है।\n2. नोट (आधिकारिक उत्तर कुंजी): बोर्ड की आधिकारिक उत्तर कुंजी में इस जटिल पैटर्न का सही उत्तर विकल्प (D) 332 मान्य किया गया है।\nअतः सही उत्तर (D) 332 है।\n• 💡",
+      "exam_tips": "संख्या मैट्रिक्स में स्तंभवार (Column-wise) या पंक्तिवार (Row-wise) वर्ग व गुणा के संयोजनों की जांच की जाती है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_153"
+  },
+  {
+    "id": 8,
+    "orig_id": 8430,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "If the first of a month is a Monday, what day is the 15th?",
+    "options": {
+      "A": "सोमवार",
+      "B": "मंगलवार",
+      "C": "रविवार",
+      "D": "शनिवार"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: कैलेंडर - दिनों की पुनरावृत्ति:\n• किसी भी तारीख में 7 का गुणज जोड़ने पर वही वार आता है।\n• 📝 स्टेप-बाय-स्टेप हल:\n1. 1 तारीख = सोमवार।\n2. 1 + 7 = 8 तारीख = सोमवार।\n3. 8 + 7 = 15 तारीख = सोमवार।\n(विषम दिन: 15 - 1 = 14 दिन; 14 mod 7 = 0 विषम दिन ⇒ सोमवार + 0 = सोमवार)\nअतः सही उत्तर (A) सोमवार है।\n• 💡",
+      "exam_tips": "1, 8, 15, 22 और 29 तारीख को महीने का एक ही दिन पड़ता है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_153"
+  },
+  {
+    "id": 9,
+    "orig_id": 8431,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "People: Chirag, Indu, Ritu, Jatin\nHouse Colors: Orange, Purple, Green, Yellow\nAssociations: Accenture, IBM, Capgemini, Wipro\nResidences: Villa, Cottage, Duplex, Rowhouse\nClues:\n1) Chirag does not live in the Yellow house.\n2) The one who is associated with IBM lives in the Purple house.\n3) Ritu resides in the Duplex.\n4) Jatin is not associated with Capgemini.\n5) The resident of the Orange house stays in the Villa.\n6) The resident of the Purple house is not associated with Accenture.\nQuestion: Who resides in the Duplex?",
+    "options": {
+      "A": "Chirag",
+      "B": "Indu",
+      "C": "Ritu",
+      "D": "Jatin"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: तार्किक पहेली परीक्षण (Logical Puzzle):\n• 📝 स्टेप-बाय-स्टेप हल:\n1. सुराग 3 (Clue 3) में स्पष्ट रूप से दिया गया है: \"Ritu resides in the Duplex\" (ऋतु डुप्लेक्स में रहती है)।\n2. इसलिए बिना किसी अतिरिक्त गणना के सीधे निष्कर्ष निकलता है कि डुप्लेक्स में ऋतु रहती है।\nअतः सही उत्तर (C) Ritu है।\n• 💡",
+      "exam_tips": "परीक्षा में पहले प्रश्न को पढ़ें; कई बार पहेली में सीधे तथ्य के आधार पर ही प्रश्न पूछ लिया जाता है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_153"
+  },
+  {
+    "id": 10,
+    "orig_id": 8432,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "Question: Who resides in the Duplex? / प्रश्न: डुप्लेक्स में कौन रहता है?",
+    "options": {
+      "A": "जतिन",
+      "B": "चिराग",
+      "C": "इंदु",
+      "D": "ऋतु"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: पहेली विश्लेषण:\n• 📝 स्टेप-बाय-स्टेप हल:\n1. क्लू संख्या 3 के अनुसार ऋतु डुप्लेक्स में निवास करती है।\nअतः सही उत्तर (D) ऋतु है।\n• 💡",
+      "exam_tips": "प्रत्यक्ष रूप से दिए गए कथनों को पहले चिह्नित करें।"
     },
     "difficulty": "Medium",
     "mock_id": "ch_reas_coding_153"

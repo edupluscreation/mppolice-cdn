@@ -1,52 +1,6 @@
 [
   {
     "id": 1,
-    "orig_id": 4020,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "यदि SCHOLAR को QZDJFTJ लिखा जाता है, तो ABILITY को कैसे लिखा जाएगा?",
-    "options": {
-      "A": "YEGYCMQ",
-      "B": "YQECGM",
-      "C": "YYCGEQM",
-      "D": "YYEGCMQ"
-    },
-    "correct": "D",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "कोडिंग डिकोडिंग:\n• SCHOLAR ➔ QZDJFTJ के अनुरूप रूपांतरण करने पर ABILITY का कोड YYEGCMQ बनता है।\n• सही विकल्प: (D) YYEGCMQ।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_73"
-  },
-  {
-    "id": 2,
-    "orig_id": 4027,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "यदि शब्द ELECTRIC में सभी स्वर हटा दिए जाएँ, तो बाएँ से तीसरा अक्षर कौन-सा होगा?",
-    "options": {
-      "A": "L",
-      "B": "C",
-      "C": "T",
-      "D": "R"
-    },
-    "correct": "C",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य नियम: दिए गए शब्द में से स्वर (Vowels: A, E, I, O, U) को हटाकर शेष व्यंजनों की स्थिति गिनना।\n• 📝 स्टेप-बाय-स्टेप हल:\n• मूल शब्द: E L E C T R I C (कुल 8 अक्षर)।\n• स्वर हटाने पर: E, E, I हटा दिए गए।\n• शेष व्यंजन: L, C, T, R, C।\n• बाएँ से क्रम:\n• पहला अक्षर = L\n• दूसरा अक्षर = C\n• तीसरा अक्षर = T\n• 💡",
-      "exam_tips": "अक्षरों के क्रम परीक्षण में बाएँ से (Left to Right) और दाएँ से (Right to Left) दिशा का सदैव ध्यान रखें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_73"
-  },
-  {
-    "id": 3,
     "orig_id": 4031,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -69,7 +23,7 @@
     "mock_id": "ch_reas_coding_73"
   },
   {
-    "id": 4,
+    "id": 2,
     "orig_id": 4033,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -92,7 +46,7 @@
     "mock_id": "ch_reas_coding_73"
   },
   {
-    "id": 5,
+    "id": 3,
     "orig_id": 4035,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -115,7 +69,7 @@
     "mock_id": "ch_reas_coding_73"
   },
   {
-    "id": 6,
+    "id": 4,
     "orig_id": 4036,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -138,7 +92,7 @@
     "mock_id": "ch_reas_coding_73"
   },
   {
-    "id": 7,
+    "id": 5,
     "orig_id": 4055,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -161,7 +115,7 @@
     "mock_id": "ch_reas_coding_73"
   },
   {
-    "id": 8,
+    "id": 6,
     "orig_id": 4065,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -184,7 +138,7 @@
     "mock_id": "ch_reas_coding_73"
   },
   {
-    "id": 9,
+    "id": 7,
     "orig_id": 4094,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -207,7 +161,7 @@
     "mock_id": "ch_reas_coding_73"
   },
   {
-    "id": 10,
+    "id": 8,
     "orig_id": 4095,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -225,6 +179,52 @@
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "📌 मुख्य सूत्र: बीजगणितीय सर्वसमिका: xy = [(x + y)² - (x - y)²] / 4।\n• 📝 स्टेप-बाय-स्टेप हल:\n• मान लीजिए संख्याएं x और y हैं।\n• x + y = 80\n• x - y = 20\n• दोनों समीकरण जोड़ने पर: 2x = 100 ⇒ x = 50\n• y = 80 - 50 = 30\n• गुणनफल = x × y = 50 × 30 = 1500।\n• 💡",
       "exam_tips": "जब योग (S) और अंतर (D) दिए हों, तो बड़ी संख्या = (S + D)/2 और छोटी संख्या = (S - D)/2 होती है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_73"
+  },
+  {
+    "id": 9,
+    "orig_id": 4099,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "निम्नलिखित श्रृंखला में अगला अक्षर युग्म क्या होगा?\nAB, CD, EF, GH, IJ, _?",
+    "options": {
+      "A": "KL",
+      "B": "JK",
+      "C": "LM",
+      "D": "MN"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य नियम: वर्णमाला के क्रमिक युग्म (Consecutive Letter Pairs)।\n• 📝 स्टेप-बाय-स्टेप हल:\n• AB (1, 2)\n• CD (3, 4)\n• EF (5, 6)\n• GH (7, 8)\n• IJ (9, 10)\n• अगला युग्म 11 और 12 वां अक्षर होगा = KL।\n• 💡",
+      "exam_tips": "अक्षरों के क्रमांक सीधे +2 से आगे बढ़ रहे हैं।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_73"
+  },
+  {
+    "id": 10,
+    "orig_id": 4102,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "लोग: कृति, उदित, मोना, फैसल\nघर के रंग: बैंगनी, सफेद, हरा, काला\nसंगठन: विप्रो, आईबीएम, एक्सेंचर, कैपजेमिनी\nनिवास स्थान: स्टूडियो, कॉटेज, अपार्टमेंट, बंगला\nसंकेत:\n1. कृति काले घर में नहीं रहती।\n2. जो व्यक्ति आईबीएम से जुड़ा है वह सफेद घर में रहता है।\n3. मोना अपार्टमेंट में रहती है।\n4. फैसल विप्रो से जुड़ा नहीं है।\n5. बैंगनी घर का निवासी स्टूडियो में रहता है।\n6. सफेद घर का निवासी कैपजेमिनी से जुड़ा नहीं है।\nप्रश्न: कॉटेज में कौन रहता है?",
+    "options": {
+      "A": "उदित",
+      "B": "मोना",
+      "C": "कृति",
+      "D": "फैसल"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य नियम / पहेली सारणीयन: दी गई शर्तों के आधार पर व्यक्तियों, घरों और संगठनों का मिलान।\n• 📝 तार्किक विश्लेषण:\n• मोना अपार्टमेंट में रहती है।\n• बैंगनी घर का निवासी स्टूडियो में रहता है।\n• संकेतों के क्रमिक समाधान से कृति का निवास स्थान 'कॉटेज' (Cottage) निर्धारित होता है।\n• 💡",
+      "exam_tips": "तार्किक पहेलियों (Logic Puzzles) को हल करते समय नकारात्मक शर्तों (जैसे 'काले घर में नहीं') को पहले काटकर संभावनाएं सीमित करें।"
     },
     "difficulty": "Medium",
     "mock_id": "ch_reas_coding_73"

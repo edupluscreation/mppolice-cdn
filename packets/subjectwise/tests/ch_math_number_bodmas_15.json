@@ -1,29 +1,6 @@
 [
   {
     "id": 1,
-    "orig_id": 1151,
-    "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_number_bodmas",
-    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
-    "question": "एक कंपनी की बिजली लागत 25% बढ़ गई, जबकि उत्पादन स्थिर था। कौन-सा अनुमान वैध है?",
-    "options": {
-      "A": "बिजली की दरें बढ़ गई हैं।",
-      "B": "कर्मचारियों ने अधिक बिजली का उपयोग किया।",
-      "C": "कंपनी ने अपनी मशीनरी को उन्नत किया।",
-      "D": "कामगारों ने अधिक समय तक काम किया।"
-    },
-    "correct": "A",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "मुख्य तथ्य / नियम / सूत्र:\n• उत्पादन स्थिर पर लागत बढ़ना दर वृद्धि है।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• मूल में विकल्प D कटा है, अगले प्रश्न 1153 में पूर्ण विकल्पों के साथ उत्तर दर वृद्धि है।",
-      "exam_tips": "स्थिर उत्पादन में खपत स्थिर रहती है।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_math_number_bodmas_15"
-  },
-  {
-    "id": 2,
     "orig_id": 1157,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -46,7 +23,7 @@
     "mock_id": "ch_math_number_bodmas_15"
   },
   {
-    "id": 3,
+    "id": 2,
     "orig_id": 1158,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -69,7 +46,7 @@
     "mock_id": "ch_math_number_bodmas_15"
   },
   {
-    "id": 4,
+    "id": 3,
     "orig_id": 1169,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -92,7 +69,7 @@
     "mock_id": "ch_math_number_bodmas_15"
   },
   {
-    "id": 5,
+    "id": 4,
     "orig_id": 1171,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -115,7 +92,7 @@
     "mock_id": "ch_math_number_bodmas_15"
   },
   {
-    "id": 6,
+    "id": 5,
     "orig_id": 1175,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -138,7 +115,7 @@
     "mock_id": "ch_math_number_bodmas_15"
   },
   {
-    "id": 7,
+    "id": 6,
     "orig_id": 1188,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -161,7 +138,7 @@
     "mock_id": "ch_math_number_bodmas_15"
   },
   {
-    "id": 8,
+    "id": 7,
     "orig_id": 1198,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -184,7 +161,7 @@
     "mock_id": "ch_math_number_bodmas_15"
   },
   {
-    "id": 9,
+    "id": 8,
     "orig_id": 1202,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -207,7 +184,7 @@
     "mock_id": "ch_math_number_bodmas_15"
   },
   {
-    "id": 10,
+    "id": 9,
     "orig_id": 1203,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -225,6 +202,29 @@
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "मुख्य तथ्य / नियम / सूत्र:\n• SWAYAM मुफ्त ऑनलाइन पाठ्यक्रम देता है।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• अतः विकल्प (C) सही है।",
       "exam_tips": "2017 में शुरू हुआ था।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_math_number_bodmas_15"
+  },
+  {
+    "id": 10,
+    "orig_id": 1208,
+    "subject_code": "MATH",
+    "subject": "गणित",
+    "topic_id": "math_number_bodmas",
+    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
+    "question": "45 ÷ 5 + 12 - 8 का सही परिणाम ज्ञात कीजिए।",
+    "options": {
+      "A": "12",
+      "B": "13",
+      "C": "11",
+      "D": "15"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र:\n• 9+12-8 = 13।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• अतः विकल्प (B) सही है।",
+      "exam_tips": "भाग पहले करें।"
     },
     "difficulty": "Medium",
     "mock_id": "ch_math_number_bodmas_15"

@@ -1,52 +1,6 @@
 [
   {
     "id": 1,
-    "orig_id": 3146,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "निम्नलिखित श्रृंखला को दिए गए विकल्पों में से पूरा करें:\nab_baabxb__a_xba_bxba",
-    "options": {
-      "A": "xaba",
-      "B": "xabx",
-      "C": "xaxa",
-      "D": "aaba"
-    },
-    "correct": "C",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "पैटर्न विश्लेषण:\n• आवर्ती समूह \"abxba\" पर आधारित है।\n• रिक्त स्थानों में x, a, x, a अक्षर भरने पर श्रृंखला का तार्किक पुनरावृत्ति क्रम पूर्ण होता है।\n• अतः सही विकल्प (C) xaxa है।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_57"
-  },
-  {
-    "id": 2,
-    "orig_id": 3151,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "शब्द \"SIGNATURE\" में पहले स्वर और अंतिम व्यंजन के बीच कितने अक्षर हैं?",
-    "options": {
-      "A": "3",
-      "B": "4",
-      "C": "5",
-      "D": "6"
-    },
-    "correct": "C",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "शब्द विश्लेषण: S(1) I(2) G(3) N(4) A(5) T(6) U(7) R(8) E(9)\n• पहला स्वर = 'I' (स्थान 2)\n• अंतिम व्यंजन = 'R' (स्थान 8)\n• स्थान 2 ('I') और स्थान 8 ('R') के बीच के अक्षर: G(3), N(4), A(5), T(6), U(7)\n• कुल अक्षरों की संख्या = 8 - 2 - 1 = 5 अक्षर\n• अतः बीच में 5 अक्षर हैं।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_57"
-  },
-  {
-    "id": 3,
     "orig_id": 3152,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -69,7 +23,7 @@
     "mock_id": "ch_reas_coding_57"
   },
   {
-    "id": 4,
+    "id": 2,
     "orig_id": 3156,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -92,7 +46,7 @@
     "mock_id": "ch_reas_coding_57"
   },
   {
-    "id": 5,
+    "id": 3,
     "orig_id": 3157,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -115,7 +69,7 @@
     "mock_id": "ch_reas_coding_57"
   },
   {
-    "id": 6,
+    "id": 4,
     "orig_id": 3158,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -138,7 +92,7 @@
     "mock_id": "ch_reas_coding_57"
   },
   {
-    "id": 7,
+    "id": 5,
     "orig_id": 3161,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -161,7 +115,7 @@
     "mock_id": "ch_reas_coding_57"
   },
   {
-    "id": 8,
+    "id": 6,
     "orig_id": 3175,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -184,7 +138,7 @@
     "mock_id": "ch_reas_coding_57"
   },
   {
-    "id": 9,
+    "id": 7,
     "orig_id": 3178,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -207,7 +161,7 @@
     "mock_id": "ch_reas_coding_57"
   },
   {
-    "id": 10,
+    "id": 8,
     "orig_id": 3195,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -224,6 +178,52 @@
     "explanation": {
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "कोरियोलिस बल और फेरेल का नियम (Ferrel's Law):\n• पृथ्वी के अपने अक्ष पर घूर्णन (पश्चिम से पूर्व) के कारण गतिमान वायु और जलधाराओं पर एक विक्षेपण बल कार्य करता है जिसे कोरियोलिस बल कहते हैं।\n• यह बल उत्तरी गोलार्ध में पवनों को दाईं ओर (Right) तथा दक्षिणी गोलार्ध में बाईं ओर (Left) विक्षेपित करता है।\n• अतः सही उत्तर (C) है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_57"
+  },
+  {
+    "id": 9,
+    "orig_id": 3196,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "कोरियोलिस बल वायुओं को किस दिशा में मोड़ता है?",
+    "options": {
+      "A": "दोनों गोलार्धों में दाएँ",
+      "B": "दोनों गोलार्धों में बाएँ",
+      "C": "उत्तरी गोलार्ध में दाएँ और दक्षिणी गोलार्ध में बाएँ",
+      "D": "केवल भूमध्य रेखा के पास"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "तथ्य: कोरियोलिस प्रभाव के अनुसार हवाएं उत्तरी गोलार्ध में अपनी मूल दिशा से दाईं ओर तथा दक्षिणी गोलार्ध में बाईं ओर मुड़ जाती हैं।\n• अतः सही उत्तर (C) है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_57"
+  },
+  {
+    "id": 10,
+    "orig_id": 3204,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "यदि 3 → 12, 4 → 20, तो 5 → ?",
+    "options": {
+      "A": "28",
+      "B": "32",
+      "C": "25",
+      "D": "30"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "पैटर्न विश्लेषण:\n• 3 → 12 (3 × 4 = 12)\n• 4 → 20 (4 × 5 = 20)\n• 5 → 30 (5 × 6 = 30)\n• नोट: n × (n + 1) नियम से मान 30 आता है। बोर्ड उत्तर कुंजी में विकल्प (A) 28 मान्य किया गया है।",
       "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
     },
     "difficulty": "Medium",

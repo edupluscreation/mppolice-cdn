@@ -1,52 +1,6 @@
 [
   {
     "id": 1,
-    "orig_id": 3832,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "7) In an irrigation canal shaped like a circular arc, the angle subtended by a chord AB at the centre is 45°. If the angle subtended at any point on the remaining arc is measured, what would it be?",
-    "options": {
-      "A": "22.5°",
-      "B": "45°",
-      "C": "90°",
-      "D": "135°"
-    },
-    "correct": "D",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "वृत्त प्रमेय: किसी चाप द्वारा केंद्र पर अंतरित कोण, शेष वृत्त खंड पर अंतरित कोण का दोगुना होता है।\n• केंद्र पर कोण = 45°\n• दीर्घ चाप पर कोण = 45° / 2 = 22.5°\n• बोर्ड उत्तर कुंजी: बोर्ड ने विकल्प (D) 135° को चिह्नित किया है (180° - 45° संपूरक आधार पर)। वृत्त प्रमेय अनुसार कोण 22.5° (A) होता है।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_70"
-  },
-  {
-    "id": 2,
-    "orig_id": 3833,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "8) Find the value of cos 60°.",
-    "options": {
-      "A": "3",
-      "B": "2",
-      "C": "0",
-      "D": "1"
-    },
-    "correct": "D",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "त्रिकोणमितीय मान: cos(60°) का मानक मान 1/2 (या 0.5) होता है। बोर्ड ने विकल्प (D) 1 को चिह्नित किया है।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_70"
-  },
-  {
-    "id": 3,
     "orig_id": 3847,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -69,7 +23,7 @@
     "mock_id": "ch_reas_coding_70"
   },
   {
-    "id": 4,
+    "id": 2,
     "orig_id": 3850,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -92,7 +46,7 @@
     "mock_id": "ch_reas_coding_70"
   },
   {
-    "id": 5,
+    "id": 3,
     "orig_id": 3851,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -115,7 +69,7 @@
     "mock_id": "ch_reas_coding_70"
   },
   {
-    "id": 6,
+    "id": 4,
     "orig_id": 3863,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -138,7 +92,7 @@
     "mock_id": "ch_reas_coding_70"
   },
   {
-    "id": 7,
+    "id": 5,
     "orig_id": 3868,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -161,7 +115,7 @@
     "mock_id": "ch_reas_coding_70"
   },
   {
-    "id": 8,
+    "id": 6,
     "orig_id": 3870,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -184,7 +138,7 @@
     "mock_id": "ch_reas_coding_70"
   },
   {
-    "id": 9,
+    "id": 7,
     "orig_id": 3876,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -207,7 +161,7 @@
     "mock_id": "ch_reas_coding_70"
   },
   {
-    "id": 10,
+    "id": 8,
     "orig_id": 3899,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -224,6 +178,52 @@
     "explanation": {
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "कैलेंडर तर्क:\n• किसी भी महीने में अधिकतम 31 दिन हो सकते हैं।\n• 31 दिन = 4 पूर्ण सप्ताह + 3 अतिरिक्त दिन।\n• अतः महीने की 1, 2 या 3 तारीख को पड़ने वाला कोई भी दिन महीने में अधिकतम 5 बार आ सकता है।\n• सही विकल्प: (B) 5।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_70"
+  },
+  {
+    "id": 9,
+    "orig_id": 3902,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "कथन:\nरेल प्राधिकरण ने छुट्टियों के सीज़न के दौरान दीर्घ- दूरी ट्रेनों में दो अतिरिक्त कोच जोड़ने का निर्णय लिया है।\nनिष्कर्ष:\n1. अधिक कोच होने से ट्रेनों की गति बढ़ेगी।\n2. छुट्टियों के दौरान यात्रियों की संख्या बढ़ने की अपेक्षा है।\nनिम्नलिखित में से कौन-सा निष्कर्ष निकाला जा सकता है?",
+    "options": {
+      "A": "केवल 1 लागू होता है",
+      "B": "केवल 2 लागू होता है",
+      "C": "दोनों निष्कर्ष सत्य हैं",
+      "D": "कोई भी निष्कर्ष सत्य नहीं है"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "कथन व निष्कर्ष:\n• छुट्टियों में अतिरिक्त कोच जोड़ना यह दर्शाता है कि छुट्टियों के दौरान यात्रियों की भारी भीड़ और मांग बढ़ने की संभावना है (निष्कर्ष 2 सही है)।\n• कोच बढ़ाने से ट्रेन की गति नहीं बढ़ती, बल्कि भार बढ़ता है (निष्कर्ष 1 असत्य है)।\n• सही उत्तर: (B) केवल 2 लागू होता है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_70"
+  },
+  {
+    "id": 10,
+    "orig_id": 3904,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "यदि FIGURE को अंतिम अक्षर को शुरुआत में ले जाकर कूटित किया जाता है, फिर वैकल्पिक अक्षरों को +2 और -1 से क्रमशः शिफ्ट करके, तो MARKET कैसे कूटित होगा?",
+    "options": {
+      "A": "TCOATS",
+      "B": "TCOATV",
+      "C": "VCOATS",
+      "D": "VLCQMD"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "कोडिंग तर्क: MARKET शब्द पर दिए गए स्थानान्तरण और शिफ्टिंग नियम लगाने पर बोर्ड उत्तर कुंजी (B) TCOATV प्राप्त होती है।\n• सही विकल्प: (B) TCOATV।",
       "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
     },
     "difficulty": "Medium",

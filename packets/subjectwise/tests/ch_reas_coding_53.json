@@ -1,52 +1,6 @@
 [
   {
     "id": 1,
-    "orig_id": 2910,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "निम्नलिखित श्रृंखला को दिए गए विकल्पों में से पूरा करें:\nnopm_opmn__pmno",
-    "options": {
-      "A": "mnop",
-      "B": "nnop",
-      "C": "mnpp",
-      "D": "mnnp"
-    },
-    "correct": "A",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "चक्रीय पैटर्न: रिक्त स्थानों में सही संयोजन विकल्प (A) है।\n• अतः सही उत्तर (A) है।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_53"
-  },
-  {
-    "id": 2,
-    "orig_id": 2911,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "यदि 'ROSE' को '185' के रूप में और 'LION' को '1214' के रूप में कोडित किया गया है, तो 'BEAR' को कैसे कोडित किया जाएगा?",
-    "options": {
-      "A": "218",
-      "B": "251",
-      "C": "281",
-      "D": "271"
-    },
-    "correct": "B",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "कोडिंग तर्क:\n• ROSE = 185 (R=18, E=5)\n• LION = 1214 (L=12, N=14)\n• BEAR के लिए:\n• B = 2, R = 18 या विशिष्ट स्थानीय कूट अनुसार 251।\n• अतः सही उत्तर (B) 251 है।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_53"
-  },
-  {
-    "id": 3,
     "orig_id": 2913,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -69,7 +23,7 @@
     "mock_id": "ch_reas_coding_53"
   },
   {
-    "id": 4,
+    "id": 2,
     "orig_id": 2915,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -92,7 +46,7 @@
     "mock_id": "ch_reas_coding_53"
   },
   {
-    "id": 5,
+    "id": 3,
     "orig_id": 2916,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -108,14 +62,14 @@
     "correct": "A",
     "explanation": {
       "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "कैलेंडर गणना:\n• 3 सितंबर = मंगलवार\n• सितंबर माह में कुल 30 दिन होते हैं $\\rightarrow$ शेष दिन $= 30 - 3 = 27$ दिन\n• 1 अक्टूबर $= 27 + 1 = 28$ दिन बाद।\n• विषम दिन $= 28 \\div 7 = 4$ सप्ताह $+ 0$ विषम दिन।\n• मंगलवार $+ 0$ दिन = मंगलवार (Tuesday)।\n• अतः 1 अक्टूबर को मंगलवार था (विकल्प A सही उत्तर है)।",
+      "solution": "कैलेंडर गणना:\n• 3 सितंबर = मंगलवार\n• सितंबर माह में कुल 30 दिन होते हैं ➔ शेष दिन = 30 - 3 = 27 दिन\n• 1 अक्टूबर = 27 + 1 = 28 दिन बाद।\n• विषम दिन = 28 ÷ 7 = 4 सप्ताह + 0 विषम दिन।\n• मंगलवार + 0 दिन = मंगलवार (Tuesday)।\n• अतः 1 अक्टूबर को मंगलवार था (विकल्प A सही उत्तर है)।",
       "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
     },
     "difficulty": "Medium",
     "mock_id": "ch_reas_coding_53"
   },
   {
-    "id": 6,
+    "id": 4,
     "orig_id": 2923,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -138,7 +92,7 @@
     "mock_id": "ch_reas_coding_53"
   },
   {
-    "id": 7,
+    "id": 5,
     "orig_id": 2928,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -161,7 +115,7 @@
     "mock_id": "ch_reas_coding_53"
   },
   {
-    "id": 8,
+    "id": 6,
     "orig_id": 2929,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -184,7 +138,7 @@
     "mock_id": "ch_reas_coding_53"
   },
   {
-    "id": 9,
+    "id": 7,
     "orig_id": 2931,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -207,7 +161,7 @@
     "mock_id": "ch_reas_coding_53"
   },
   {
-    "id": 10,
+    "id": 8,
     "orig_id": 2932,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -224,6 +178,52 @@
     "explanation": {
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "श्रृंखला पुनरावृत्ति: दी गई श्रृंखला में दिए गए अक्षरों को भरने पर आवर्ती ब्लॉक संतुलित होते हैं।\n• बोर्ड कुंजी के अनुसार सही अक्षर समूह PPTV है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_53"
+  },
+  {
+    "id": 9,
+    "orig_id": 2933,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "निम्नलिखित अक्षर श्रृंखला में रिक्त स्थानों पर अक्षरों का कौन सा समूह क्रमवार रखने पर यह श्रृंखला पूर्ण होगी?\nBCD_E_CD_E_C_DEB",
+    "options": {
+      "A": "EBDBC",
+      "B": "EFFCD",
+      "C": "BCDEF",
+      "D": "DDCCA"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "श्रृंखला प्रारूप: निरंतर अक्षर विन्यास में पैटर्न के अनुसार दिए गए रिक्त स्थानों पर EFFCD समूह उपयुक्त बैठता है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_53"
+  },
+  {
+    "id": 10,
+    "orig_id": 2947,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "10 पुरुष, एक तालाब को 20 दिनों में खोदते हैं। यदि केवल 8 पुरुष उपलब्ध हों तो वही तालाब कितने दिनों में खोदेंगे?",
+    "options": {
+      "A": "22 दिन",
+      "B": "24 दिन",
+      "C": "25 दिन",
+      "D": "20 दिन"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "सूत्र: M₁ × D₁ = M₂ × D₂ (कार्य समान होने पर)\n• मान रखने पर:\n• M₁ = 10 पुरुष, D₁ = 20 दिन\n• M₂ = 8 पुरुष, D₂ = ?\n• 10 × 20 = 8 × D₂\n• 200 = 8 × D₂\n• D₂ = 200 ÷ 8 = 25 दिन\n• अतः 8 पुरुष उस तालाब को 25 दिनों में खोदेंगे।",
+      "solution": "विस्तृत व्याख्या उपलब्ध है।",
       "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
     },
     "difficulty": "Medium",

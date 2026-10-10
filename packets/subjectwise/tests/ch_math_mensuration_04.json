@@ -1,29 +1,6 @@
 [
   {
     "id": 1,
-    "orig_id": 112,
-    "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_mensuration",
-    "topic": "क्षेत्रमिति एवं ज्यामिति (Mensuration & Geometry)",
-    "question": "एक नियमित त्रिभुज जिसका भुजा की लंबाई 10 मीटर है, उसका क्षेत्रफल वर्ग मीटर में कितना होगा?",
-    "options": {
-      "A": "25√3",
-      "B": "24√3",
-      "C": "23√3",
-      "D": "21√3"
-    },
-    "correct": "A",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "समबाहु त्रिभुज (Equilateral Triangle) का क्षेत्रफल सूत्र:\nक्षेत्रफल = (√3 / 4) × a²\nजहाँ 'a' समबाहु त्रिभुज की प्रत्येक भुजा की लंबाई है।\n• गणना (a = 10 मीटर):\n• क्षेत्रफल = (√3 / 4) × 10²\n• = (√3 / 4) × 100\n• 100 को 4 से भाग देने पर 25 आता है:\n= 25√3 वर्ग मीटर\n• निष्कर्ष: सही क्षेत्रफल 25√3 वर्ग मीटर (विकल्प A) है।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_math_mensuration_04"
-  },
-  {
-    "id": 2,
     "orig_id": 176,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -46,7 +23,7 @@
     "mock_id": "ch_math_mensuration_04"
   },
   {
-    "id": 3,
+    "id": 2,
     "orig_id": 180,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -69,7 +46,7 @@
     "mock_id": "ch_math_mensuration_04"
   },
   {
-    "id": 4,
+    "id": 3,
     "orig_id": 189,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -92,7 +69,7 @@
     "mock_id": "ch_math_mensuration_04"
   },
   {
-    "id": 5,
+    "id": 4,
     "orig_id": 190,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -115,7 +92,7 @@
     "mock_id": "ch_math_mensuration_04"
   },
   {
-    "id": 6,
+    "id": 5,
     "orig_id": 209,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -138,7 +115,7 @@
     "mock_id": "ch_math_mensuration_04"
   },
   {
-    "id": 7,
+    "id": 6,
     "orig_id": 210,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -161,7 +138,7 @@
     "mock_id": "ch_math_mensuration_04"
   },
   {
-    "id": 8,
+    "id": 7,
     "orig_id": 211,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -184,7 +161,7 @@
     "mock_id": "ch_math_mensuration_04"
   },
   {
-    "id": 9,
+    "id": 8,
     "orig_id": 212,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -207,7 +184,7 @@
     "mock_id": "ch_math_mensuration_04"
   },
   {
-    "id": 10,
+    "id": 9,
     "orig_id": 213,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -225,6 +202,29 @@
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "मुख्य तथ्य / नियम / सूत्र:\n• पतंग (Kite) एक ऐसा चतुर्भुज है जिसके विकर्ण परस्पर लम्बवत (Perpendicular at 90°) प्रतिच्छेद करते हैं।\n• किसी भी चतुर्भुज में जिसके विकर्ण समकोण पर काटते हों, उसका क्षेत्रफल:\nक्षेत्रफल = ½ × d₁ × d₂\n• स्टेप-बाय-स्टेप गणना:\n1. विकर्ण d₁ = 24 मीटर, विकर्ण d₂ = 32 मीटर\n2. क्षेत्रफल = ½ × 24 × 32\n3. क्षेत्रफल = 12 × 32 = 384 वर्ग मीटर",
       "exam_tips": "समचतुर्भुज (Rhombus) और पतंग (Kite) दोनों के क्षेत्रफल का बुनियादी सूत्र ½ × d₁ × d₂ ही होता है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_math_mensuration_04"
+  },
+  {
+    "id": 10,
+    "orig_id": 265,
+    "subject_code": "MATH",
+    "subject": "गणित",
+    "topic_id": "math_mensuration",
+    "topic": "क्षेत्रमिति एवं ज्यामिति (Mensuration & Geometry)",
+    "question": "आंगनवाड़ी की फ़र्श में उपयोग की गई एक वर्गाकार टाइल की भुजा 6 सेमी है। उसका क्षेत्रफल कितने वर्ग सेंटीमीटर होगा?",
+    "options": {
+      "A": "32",
+      "B": "24",
+      "C": "30",
+      "D": "36"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / वर्ग का क्षेत्रफल सूत्र:\n• वर्ग का क्षेत्रफल = भुजा × भुजा = (भुजा)²\n• स्टेप-बाय-स्टेप गणना:\n1. वर्गाकार टाइल की भुजा (a) = 6 सेमी\n2. क्षेत्रफल = 6² = 6 × 6 = 36 वर्ग सेंटीमीटर (सेमी²)",
+      "exam_tips": "यदि परिमाप पूछा जाता, तो परिमाप = 4 × भुजा = 4 × 6 = 24 सेमी होता।"
     },
     "difficulty": "Medium",
     "mock_id": "ch_math_mensuration_04"

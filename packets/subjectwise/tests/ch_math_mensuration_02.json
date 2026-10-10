@@ -1,29 +1,6 @@
 [
   {
     "id": 1,
-    "orig_id": 3834,
-    "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_mensuration",
-    "topic": "क्षेत्रमिति एवं ज्यामिति (Mensuration & Geometry)",
-    "question": "1) What is the perimeter of a triangle with sides 7 cm, 10 cm, and 5 cm?",
-    "options": {
-      "A": "18 चेनी",
-      "B": "22 चेनी",
-      "C": "25 चेनी",
-      "D": "30 चेनी"
-    },
-    "correct": "D",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "त्रिभुज का परिमाप: तीनों भुजाओं का योग = 7 + 10 + 5 = 22 सेमी। बोर्ड ने विकल्प (D) 30 चिह्नित किया है। वास्तविक मान 22 सेमी (B) है।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_math_mensuration_02"
-  },
-  {
-    "id": 2,
     "orig_id": 4166,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -46,7 +23,7 @@
     "mock_id": "ch_math_mensuration_02"
   },
   {
-    "id": 3,
+    "id": 2,
     "orig_id": 4380,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -69,7 +46,7 @@
     "mock_id": "ch_math_mensuration_02"
   },
   {
-    "id": 4,
+    "id": 3,
     "orig_id": 4453,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -92,7 +69,7 @@
     "mock_id": "ch_math_mensuration_02"
   },
   {
-    "id": 5,
+    "id": 4,
     "orig_id": 7174,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -115,7 +92,7 @@
     "mock_id": "ch_math_mensuration_02"
   },
   {
-    "id": 6,
+    "id": 5,
     "orig_id": 7201,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -138,7 +115,7 @@
     "mock_id": "ch_math_mensuration_02"
   },
   {
-    "id": 7,
+    "id": 6,
     "orig_id": 7219,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -161,7 +138,7 @@
     "mock_id": "ch_math_mensuration_02"
   },
   {
-    "id": 8,
+    "id": 7,
     "orig_id": 7723,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -184,7 +161,7 @@
     "mock_id": "ch_math_mensuration_02"
   },
   {
-    "id": 9,
+    "id": 8,
     "orig_id": 7742,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -207,7 +184,7 @@
     "mock_id": "ch_math_mensuration_02"
   },
   {
-    "id": 10,
+    "id": 9,
     "orig_id": 8669,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -225,6 +202,29 @@
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "📌 मुख्य तथ्य / नियम / सूत्र: दिशा एवं दूरी - पाइथागोरस प्रमेय:\n• कर्ण d = √(लम्ब² + आधार²)\n• 📝 स्टेप-बाय-स्टेप हल:\n1. व्यक्ति प्रारंभिक बिंदु से 6 किमी दक्षिण जाता है।\n2. फिर वह दाएँ मुड़कर 8 किमी पश्चिम जाता है।\n3. प्रारंभिक बिंदु और अंतिम बिंदु के बीच एक समकोण त्रिभुज बनता है:\n• न्यूनतम दूरी = √(6² + 8²) = √(36 + 64) = √100 = 10 किमी।\nअतः सही उत्तर (D) 10 किमी दूरी है।\n• 💡",
       "exam_tips": "6, 8, 10 एक प्रसिद्ध पाइथागोरियन त्रिक (Pythagorean Triplet) है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_math_mensuration_02"
+  },
+  {
+    "id": 10,
+    "orig_id": 8670,
+    "subject_code": "MATH",
+    "subject": "गणित",
+    "topic_id": "math_mensuration",
+    "topic": "क्षेत्रमिति एवं ज्यामिति (Mensuration & Geometry)",
+    "question": "एक आदमी 3 किलोमीटर पूर्व दिशा में चलता है, फिर बाएँ मुड़ता है और 4 किलोमीटर चलता है।\nप्रश्न: उसके प्रारंभिक बिंदु से न्यूनतम दूरी क्या है?",
+    "options": {
+      "A": "5 किमी",
+      "B": "7 किमी",
+      "C": "1 किमी",
+      "D": "12 किमी"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: विस्थापन एवं समकोण त्रिभुज:\n• न्यूनतम दूरी = √(x² + y²)\n• 📝 स्टेप-बाय-स्टेप हल:\n1. व्यक्ति 3 किमी पूर्व चलता है (x = 3)।\n2. फिर बाएँ (उत्तर दिशा) मुड़कर 4 किमी चलता है (y = 4)।\n3. प्रारंभिक बिंदु से न्यूनतम दूरी = √(3² + 4²) = √(9 + 16) = √25 = 5 किमी।\nअतः सही उत्तर (A) 5 किमी है।\n• 💡",
+      "exam_tips": "3, 4, 5 मूल पाइथागोरियन त्रिक है।"
     },
     "difficulty": "Medium",
     "mock_id": "ch_math_mensuration_02"

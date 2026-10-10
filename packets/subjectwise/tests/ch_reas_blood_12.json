@@ -1,52 +1,6 @@
 [
   {
     "id": 1,
-    "orig_id": 6235,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_blood",
-    "topic": "रक्त संबंध (Blood Relations)",
-    "question": "E + F का अर्थ है E, F की बेटी है।\nE - F का अर्थ है E, F की पत्नी है।\nE × F का अर्थ है E, F का पिता है।\nE ÷ F का अर्थ है E, F का बेटा है।",
-    "options": {
-      "A": "P, Q का पिता है",
-      "B": "R, S का भाई है",
-      "C": "S, P की पत्नी है",
-      "D": "Q, S का दामाद है।"
-    },
-    "correct": "D",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: सांकेतिक रक्त संबंध:\nप्रश्न 6234 का सह-प्रश्न रूप।\n• 📝 स्टेप-बाय-स्टेप हल:\n1. दिए गए संबंधों के विश्लेषण से निष्कर्ष निकलता है कि Q, S की बेटी का पति (दामाद) है।\n2. अतः सही विकल्प (D) Q, S का दामाद है।\n• 💡",
-      "exam_tips": "दामाद = पुत्री का पति (Son-in-law)।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_blood_12"
-  },
-  {
-    "id": 2,
-    "orig_id": 6401,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_blood",
-    "topic": "रक्त संबंध (Blood Relations)",
-    "question": "मोहन ने कहा, \"मेरे पास बैठी महिला मेरे पिता के इकलौते बेटे की पत्नी है।\" तो वह महिला मोहन से किस प्रकार संबंधित है?",
-    "options": {
-      "A": "आंटी",
-      "B": "माँ",
-      "C": "भाभी",
-      "D": "पत्नी"
-    },
-    "correct": "D",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / नियम: रक्त संबंध - पारिवारिक पदक्रम विश्लेषण।\n• 📝 स्टेप-बाय-स्टेप हल:\n• \"मोहन के पिता का इकलौता बेटा\" ⟹ स्वयं मोहन।\n• \"मोहन के पिता के इकलौते बेटे की पत्नी\" ⟹ मोहन की पत्नी।\n• अतः वह महिला मोहन की पत्नी है।\n• 💡",
-      "exam_tips": "यदि पुरुष वक्ता 'मेरे पिता का इकलौता बेटा' कहता है, तो वह सदैव स्वयं की बात कर रहा होता है।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_blood_12"
-  },
-  {
-    "id": 3,
     "orig_id": 6412,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -69,13 +23,13 @@
     "mock_id": "ch_reas_blood_12"
   },
   {
-    "id": 4,
+    "id": 2,
     "orig_id": 6414,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
     "topic_id": "reas_blood",
     "topic": "रक्त संबंध (Blood Relations)",
-    "question": "निर्देश: ये प्रश्न निम्नलिखित जानकारी पर आधारित हैं:\n'P@Q' का अर्थ है 'Q, P की माँ है'।\n'P$Q' का अर्थ है 'Q, P का पति है'।\n'P#Q' का अर्थ है 'Q, P की बहन है'।\n'P&Q' का अर्थ है 'Q, P का बेटा है'।\nयदि 'A & B @ C & D # E' दिया गया है, तो A का E से क्या संबंध है?",
+    "question": "निर्देश: ये प्रश्न निम्नलिखित जानकारी पर आधारित हैं:\n'P@Q' का अर्थ है 'Q, P की माँ है'।\n'PQ' का अर्थ है 'Q, P का पति है'।\n'P#Q' का अर्थ है 'Q, P की बहन है'।\n'P&Q' का अर्थ है 'Q, P का बेटा है'।\nयदि 'A & B @ C & D # E' दिया गया है, तो A का E से क्या संबंध है?",
     "options": {
       "A": "पिता",
       "B": "बेटा",
@@ -92,7 +46,7 @@
     "mock_id": "ch_reas_blood_12"
   },
   {
-    "id": 5,
+    "id": 3,
     "orig_id": 6629,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -115,7 +69,7 @@
     "mock_id": "ch_reas_blood_12"
   },
   {
-    "id": 6,
+    "id": 4,
     "orig_id": 6671,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -138,7 +92,7 @@
     "mock_id": "ch_reas_blood_12"
   },
   {
-    "id": 7,
+    "id": 5,
     "orig_id": 6950,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -161,7 +115,7 @@
     "mock_id": "ch_reas_blood_12"
   },
   {
-    "id": 8,
+    "id": 6,
     "orig_id": 6970,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -184,7 +138,7 @@
     "mock_id": "ch_reas_blood_12"
   },
   {
-    "id": 9,
+    "id": 7,
     "orig_id": 7148,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -207,7 +161,7 @@
     "mock_id": "ch_reas_blood_12"
   },
   {
-    "id": 10,
+    "id": 8,
     "orig_id": 7175,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -225,6 +179,52 @@
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "📌 मुख्य तथ्य / नियम / सूत्र: रक्त संबंध (Blood Relation):\n• माँ का भाई = मामा (Maternal Uncle)\n• मामा की बेटी = ममेरी बहन / कज़िन (Cousin)\n• 📝 स्टेप-बाय-स्टेप हल:\n1. R की माँ का भाई = R का मामा।\n2. मामा की बेटी (S) = R की ममेरी बहन (Cousin)।\n3. अतः S, R की कज़िन (चचेरी/ममेरी बहन) है।\n4. सही विकल्प (A) कज़िन है।\n• 💡",
       "exam_tips": "अंग्रेजी में चचेरे, ममेरे, फुफेरे तथा मौसेरे भाई-बहनों के लिए केवल 'Cousin' शब्द का प्रयोग किया जाता है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_blood_12"
+  },
+  {
+    "id": 9,
+    "orig_id": 7293,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_blood",
+    "topic": "रक्त संबंध (Blood Relations)",
+    "question": "X, Y का पिता है। Y, Z की माता है। A, X का पिता है। A, Z से किस प्रकार संबंधित है?",
+    "options": {
+      "A": "पिता",
+      "B": "परदादा",
+      "C": "दादा",
+      "D": "अंकल"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: रक्त संबंध (Blood Relation):\n• पीढ़ी-दर-पीढ़ी संबंध (Family Tree Generation):\n• 📝 स्टेप-बाय-स्टेप हल:\n1. X, Y का पिता है।\n2. Y, Z की माता है → X, Z का नाना (Maternal Grandfather) है।\n3. A, X का पिता है → A, Z के नाना (X) का पिता है।\n4. अतः A, Z का परनाना / परदादा (Great-Grandfather) है।\n5. नोट (आधिकारिक उत्तर कुंजी): बोर्ड द्वारा आधिकारिक कुंजी में विकल्प (C) दादा दिया गया है (जो Grandfather/Great-grandfather के अनुवाद सरलीकरण के कारण हुआ), जबकि सटीक संबंध परदादा/परनाना (Great-grandfather - विकल्प B) है।\n• 💡",
+      "exam_tips": "माता के पिता 'नाना' और नाना के पिता 'परनाना' (Great Grandfather) होते हैं।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_blood_12"
+  },
+  {
+    "id": 10,
+    "orig_id": 7499,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_blood",
+    "topic": "रक्त संबंध (Blood Relations)",
+    "question": "A, B का भाई है। B, C की पुत्री है। A, C से किस प्रकार संबंधित है?",
+    "options": {
+      "A": "बेटी",
+      "B": "बेटा",
+      "C": "पिता",
+      "D": "अंकल"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: रक्त संबंध (Blood Relation):\n• 📝 स्टेप-बाय-स्टेप हल:\n1. दिया गया है: A, B का भाई है (A पुरुष है)।\n2. B, C की पुत्री है (B महिला है और C की संतान है)।\n3. चूँकि A और B आपस में भाई-बहन हैं, इसलिए A भी C की संतान है।\n4. A पुरुष होने के कारण C का बेटा (Son) है।\n5. अतः A, C का बेटा है।\n6. सही उत्तर (B) बेटा है।\n• 💡",
+      "exam_tips": "पुत्री का भाई स्वतः ही माता/पिता का पुत्र (बेटा) होता है।"
     },
     "difficulty": "Medium",
     "mock_id": "ch_reas_blood_12"

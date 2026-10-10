@@ -1,52 +1,6 @@
 [
   {
     "id": 1,
-    "orig_id": 3196,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "कोरियोलिस बल वायुओं को किस दिशा में मोड़ता है?",
-    "options": {
-      "A": "दोनों गोलार्धों में दाएँ",
-      "B": "दोनों गोलार्धों में बाएँ",
-      "C": "उत्तरी गोलार्ध में दाएँ और दक्षिणी गोलार्ध में बाएँ",
-      "D": "केवल भूमध्य रेखा के पास"
-    },
-    "correct": "C",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "तथ्य: कोरियोलिस प्रभाव के अनुसार हवाएं उत्तरी गोलार्ध में अपनी मूल दिशा से दाईं ओर तथा दक्षिणी गोलार्ध में बाईं ओर मुड़ जाती हैं।\n• अतः सही उत्तर (C) है।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_58"
-  },
-  {
-    "id": 2,
-    "orig_id": 3204,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "यदि 3 → 12, 4 → 20, तो 5 → ?",
-    "options": {
-      "A": "28",
-      "B": "32",
-      "C": "25",
-      "D": "30"
-    },
-    "correct": "A",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "पैटर्न विश्लेषण:\n• 3 → 12 (3 × 4 = 12)\n• 4 → 20 (4 × 5 = 20)\n• 5 → 30 (5 × 6 = 30)\n• नोट: n × (n + 1) नियम से मान 30 आता है। बोर्ड उत्तर कुंजी में विकल्प (A) 28 मान्य किया गया है।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_58"
-  },
-  {
-    "id": 3,
     "orig_id": 3206,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -69,7 +23,7 @@
     "mock_id": "ch_reas_coding_58"
   },
   {
-    "id": 4,
+    "id": 2,
     "orig_id": 3209,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -92,7 +46,7 @@
     "mock_id": "ch_reas_coding_58"
   },
   {
-    "id": 5,
+    "id": 3,
     "orig_id": 3212,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -115,7 +69,7 @@
     "mock_id": "ch_reas_coding_58"
   },
   {
-    "id": 6,
+    "id": 4,
     "orig_id": 3213,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -138,7 +92,7 @@
     "mock_id": "ch_reas_coding_58"
   },
   {
-    "id": 7,
+    "id": 5,
     "orig_id": 3214,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -161,7 +115,7 @@
     "mock_id": "ch_reas_coding_58"
   },
   {
-    "id": 8,
+    "id": 6,
     "orig_id": 3218,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -184,7 +138,7 @@
     "mock_id": "ch_reas_coding_58"
   },
   {
-    "id": 9,
+    "id": 7,
     "orig_id": 3219,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -207,7 +161,7 @@
     "mock_id": "ch_reas_coding_58"
   },
   {
-    "id": 10,
+    "id": 8,
     "orig_id": 3221,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -224,6 +178,52 @@
     "explanation": {
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "प्रत्यक्ष अक्षर कोडिंग:\n• G=4, A=6, R=8, D=1, E=3, N=5, S=7\n• शब्द \"RANGE\" के अक्षर:\n• R = 8, A = 6, N = 5, G = 4, E = 3 ➔ 86543\n• नोट: सीधा कोड 86543 बनता है। बोर्ड कुंजी में विकल्प (C) 43586 मान्य किया गया है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_58"
+  },
+  {
+    "id": 9,
+    "orig_id": 3251,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "कथन:\nसभी सेब फल हैं।\nकोई भी फल नीला नहीं है।\nनिष्कर्ष:\nI. कोई भी सेब नीला नहीं है।\nII. सभी नीली चीजें फल हैं।\nनिम्नलिखित में से कौन-सा निष्कर्ष निकाला जा सकता है?",
+    "options": {
+      "A": "केवल I लागू होता है",
+      "B": "केवल II लागू होता है",
+      "C": "दोनों I और II लागू होते हैं",
+      "D": "कोई भी निष्कर्ष सही नहीं है"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "न्याय निगमन:\n• कथन: सभी सेब फल हैं। कोई भी फल नीला नहीं है।\n• चूंकि पूरा सेब वर्ग फल के अंदर है और कोई भी फल नीला नहीं हो सकता, इसलिए कोई भी सेब नीला नहीं हो सकता (निष्कर्ष I निश्चित रूप से सत्य है)।\n• निष्कर्ष II: \"सभी नीली चीजें फल हैं\" कथन के पूर्णतः विपरीत है।\n• अतः केवल निष्कर्ष I लागू होता है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_58"
+  },
+  {
+    "id": 10,
+    "orig_id": 3252,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "यदि NOSE को OPTF के रूप में कूटित किया जाता है, तो EAR किस रूप में कूटित होगा?",
+    "options": {
+      "A": "FAS",
+      "B": "FBR",
+      "C": "FBS",
+      "D": "EBS"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "कोडिंग (+1):\n• N+1=O, O+1=P, S+1=T, E+1=F\n• EAR में: E+1=F, A+1=B, R+1=S ➔ FBS।\n• नोट: तर्क अनुसार FBS बनता है। बोर्ड उत्तर कुंजी में (B) FBR दिया गया है।",
       "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
     },
     "difficulty": "Medium",

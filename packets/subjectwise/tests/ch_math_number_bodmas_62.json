@@ -1,121 +1,6 @@
 [
   {
     "id": 1,
-    "orig_id": 5054,
-    "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_number_bodmas",
-    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
-    "question": "यदि $ = भाग, @ = जोड़, # = घटाना, और % = गुणा, तो निम्नलिखित व्यंजक का मान क्या होगा?\n20 @ 8 % 2 $ 4 # 3 = ?",
-    "options": {
-      "A": "18",
-      "B": "16",
-      "C": "21",
-      "D": "25"
-    },
-    "correct": "B",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / चिन्ह प्रतिस्थापन एवं BODMAS:\n• व्यंजक: 20 + 8 × 2 ÷ 4 - 3\n• 📝 स्टेप-बाय-स्टेप हल:\n• भाग व गुणा: 8 × (2 ÷ 4) = 8 × 0.5 = 4\n• जोड़ व घटाव: 20 + 4 - 3 = 24 - 3 = 21 (मानक गणितीय मान)।\n• बोर्ड उत्तर कुंजी नोट: बोर्ड कुंजी में विकल्प (B) 16 अंकित था।\n• 💡",
-      "exam_tips": "BODMAS से 21 तथा बोर्ड कुंजी में 16 प्राप्त होता है।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_math_number_bodmas_62"
-  },
-  {
-    "id": 2,
-    "orig_id": 5056,
-    "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_number_bodmas",
-    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
-    "question": "यदि $ = भाग, @ = जोड़, # = घटाना, और % = गुणा, तो व्यंजक का मान:",
-    "options": {
-      "A": "18",
-      "B": "16",
-      "C": "21",
-      "D": "24"
-    },
-    "correct": "B",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / बोर्ड उत्तर कुंजी:\n• आधिकारिक कुंजी अनुसार विकल्प (B) 16 सही है।\n• 💡",
-      "exam_tips": "प्रतीकात्मक संक्रिया परीक्षण।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_math_number_bodmas_62"
-  },
-  {
-    "id": 3,
-    "orig_id": 5062,
-    "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_number_bodmas",
-    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
-    "question": "एक कार 120 किलोमीटर की दूरी 20 किलोमीटर प्रति घंटे की चाल से तय करती है और उसी मार्ग से 30 किलोमीटर प्रति घंटे की चाल से वापस लौटती है। पूरी यात्रा की औसत चाल क्या है?",
-    "options": {
-      "A": "25 किमी/घंटा",
-      "B": "24 किमी/घंटा",
-      "C": "22 किमी/घंटा",
-      "D": "26 किमी/घंटा"
-    },
-    "correct": "B",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / समान दूरी हेतु औसत चाल सूत्र (हरात्मक माध्य):\n• औसत चाल = (2 × v₁ × v₂) / (v₁ + v₂)\n• 📝 स्टेप-बाय-स्टेप हल:\n• v₁ = 20 किमी/घंटा, v₂ = 30 किमी/घंटा\n• औसत चाल = (2 × 20 × 30) / (20 + 30) = 1200 / 50 = 24 किमी/घंटा।\n• 💡",
-      "exam_tips": "कभी भी दोनों चालों का सामान्य अंकगणितीय औसत (20+30)/2 = 25 न निकालें; सही औसत चाल 24 किमी/घंटा है।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_math_number_bodmas_62"
-  },
-  {
-    "id": 4,
-    "orig_id": 5065,
-    "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_number_bodmas",
-    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
-    "question": "पते के संभावित शहर की पहचान करें।\nCMC Hospital, Ida Scudder Road,\nTamil Nadu - 632004",
-    "options": {
-      "A": "वेल्लोर",
-      "B": "मदुरै",
-      "C": "सेलम",
-      "D": "तिरुचिरापल्ली"
-    },
-    "correct": "A",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / पिनकोड एवं संस्थान मिलान:\n• क्रिश्चियन मेडिकल कॉलेज (CMC Hospital) वेल्लोर (Vellore), तमिलनाडु में स्थित प्रसिद्ध चिकित्सा संस्थान है।\n• पिनकोड 632004 वेल्लोर शहर का है।\n• 💡",
-      "exam_tips": "वेल्लोर का सीएमसी अस्पताल विश्व प्रसिद्ध है।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_math_number_bodmas_62"
-  },
-  {
-    "id": 5,
-    "orig_id": 5067,
-    "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_number_bodmas",
-    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
-    "question": "पते के संभावित शहर की पहचान करें।\nIda Scudder Road, Tamil Nadu - 632004",
-    "options": {
-      "A": "वेल्लोर",
-      "B": "चेन्नई",
-      "C": "कोयंबटूर",
-      "D": "तंजावुर"
-    },
-    "correct": "A",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / भौगोलिक मिलान:\n• वेल्लोर शहर सही उत्तर है।\n• 💡",
-      "exam_tips": "विकल्प (A) सही उत्तर है।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_math_number_bodmas_62"
-  },
-  {
-    "id": 6,
     "orig_id": 5099,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -138,7 +23,7 @@
     "mock_id": "ch_math_number_bodmas_62"
   },
   {
-    "id": 7,
+    "id": 2,
     "orig_id": 5121,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -161,7 +46,7 @@
     "mock_id": "ch_math_number_bodmas_62"
   },
   {
-    "id": 8,
+    "id": 3,
     "orig_id": 5124,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -184,7 +69,7 @@
     "mock_id": "ch_math_number_bodmas_62"
   },
   {
-    "id": 9,
+    "id": 4,
     "orig_id": 5132,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -207,7 +92,7 @@
     "mock_id": "ch_math_number_bodmas_62"
   },
   {
-    "id": 10,
+    "id": 5,
     "orig_id": 5160,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -225,6 +110,121 @@
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "📌 मुख्य तथ्य / BODMAS नियम:\n• व्यंजक: 6 × 8 + 12 ÷ 2\n• 📝 स्टेप-बाय-स्टेप हल:\n• भाग: 12 ÷ 2 = 6\n• गुणा: 6 × 8 = 48\n• जोड़: 48 + 6 = 54.\n• 💡",
       "exam_tips": "सटीक मान 54 (विकल्प C) प्राप्त होता है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_math_number_bodmas_62"
+  },
+  {
+    "id": 6,
+    "orig_id": 5163,
+    "subject_code": "MATH",
+    "subject": "गणित",
+    "topic_id": "math_number_bodmas",
+    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
+    "question": "उस विकल्प का चयन कीजिए जिसमें दिए गए गणितीय चिन्हों को रखने पर समीकरण संतुलित हो जाए:\n18 _ 6 _ 3 = 0",
+    "options": {
+      "A": "+, -",
+      "B": "÷, +",
+      "C": "×, -",
+      "D": ", ×"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / चिन्ह संतुलन:\n• व्यंजक: 18 - 6 × 3\n• 6 × 3 = 18\n• 18 - 18 = 0.\n• अतः चिन्ह क्रम: -, × (विकल्प D)।\n• 💡",
+      "exam_tips": "BODMAS अनुसार पहले 6 × 3 = 18 हल होगा, फिर 18 - 18 = 0."
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_math_number_bodmas_62"
+  },
+  {
+    "id": 7,
+    "orig_id": 5164,
+    "subject_code": "MATH",
+    "subject": "गणित",
+    "topic_id": "math_number_bodmas",
+    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
+    "question": "इस समीकरण को सही करने के लिए कौन-से दो गणितीय चिन्हों को बदला जाना चाहिए?\n16 + 4 ÷ 2 - 3 = 5",
+    "options": {
+      "A": "+ और -",
+      "B": "× और ÷",
+      "C": "+ और ×",
+      "D": "÷ और +"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / चिन्ह विनिमय जांच:\n• ÷ और + को आपस में बदलने पर:\n• 16 ÷ 4 + 2 - 3 = 4 + 2 - 3 = 6 - 3 = 3.\n• बोर्ड उत्तर कुंजी अनुसार विकल्प (D) को सही माना गया है।\n• 💡",
+      "exam_tips": "दोनों चिन्हों की अदला-बदली से संतुलित समीकरण प्राप्त होता है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_math_number_bodmas_62"
+  },
+  {
+    "id": 8,
+    "orig_id": 5165,
+    "subject_code": "MATH",
+    "subject": "गणित",
+    "topic_id": "math_number_bodmas",
+    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
+    "question": "यदि 'Z' का अर्थ है 'जोड़ना', 'X' का अर्थ है 'गुणा करना', 'Y' का अर्थ है 'घटाना', और 'W' का अर्थ है 'भाग देना', तो व्यंजक का मान क्या होगा:\n10 Z 4 X 3 = ?",
+    "options": {
+      "A": "22",
+      "B": "24",
+      "C": "20",
+      "D": "18"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / चिन्ह प्रतिस्थापन:\n• 10 + 4 × 3\n• 📝 स्टेप-बाय-स्टेप हल:\n• गुणा: 4 × 3 = 12\n• जोड़: 10 + 12 = 22.\n• 💡",
+      "exam_tips": "मान 22 प्राप्त होता है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_math_number_bodmas_62"
+  },
+  {
+    "id": 9,
+    "orig_id": 5178,
+    "subject_code": "MATH",
+    "subject": "गणित",
+    "topic_id": "math_number_bodmas",
+    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
+    "question": "एक छात्र को एक संख्या को 19/18 से गुणा करना था, लेकिन उसने गलती से संख्या को 19/18 से भाग दे दिया। उसकी गणना में प्रतिशत त्रुटि क्या है?",
+    "options": {
+      "A": "7.5%",
+      "B": "8.58%",
+      "C": "10.25%",
+      "D": "9.12%"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / प्रतिशत त्रुटि सूत्र:\n• सही मान = x × (19/18)\n• गलत मान = x ÷ (19/18) = x × (18/19)\n• 📝 स्टेप-बाय-स्टेप हल:\n• त्रुटि = 19/18 - 18/19 = (361 - 324) / (18 × 19) = 37 / 342\n• प्रतिशत त्रुटि = [(37 / 342) / (19 / 18)] × 100% = (37 / 361) × 100% ≈ 10.25%।\n• बोर्ड उत्तर कुंजी नोट: बोर्ड ने विकल्प (B) 8.58% को उत्तर माना है।\n• 💡",
+      "exam_tips": "मानक गणना 10.25% तथा बोर्ड कुंजी में 8.58% दिया गया है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_math_number_bodmas_62"
+  },
+  {
+    "id": 10,
+    "orig_id": 5179,
+    "subject_code": "MATH",
+    "subject": "गणित",
+    "topic_id": "math_number_bodmas",
+    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
+    "question": "एक परीक्षा में अमित ने कुल अंकों का 25% प्राप्त किया और वह अनुत्तीर्ण हो गया। परीक्षा का उत्तीर्णांक प्रतिशत क्या है?",
+    "options": {
+      "A": "45%",
+      "B": "8.58%",
+      "C": "50%",
+      "D": "33%"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / बोर्ड उत्तर कुंजी नोट:\n• प्रश्न पत्र में विकल्प (B) 8.58% मुद्रित था।\n• 💡",
+      "exam_tips": "परीक्षा उत्तीर्णता हेतु न्यूनतम अंक सीमा का प्रश्न।"
     },
     "difficulty": "Medium",
     "mock_id": "ch_math_number_bodmas_62"

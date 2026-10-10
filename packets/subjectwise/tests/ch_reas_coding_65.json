@@ -1,52 +1,6 @@
 [
   {
     "id": 1,
-    "orig_id": 3579,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "एक कथन दिया गया है, जिसके बाद दो निष्कर्ष दिए गए हैं। दिए गए कथन के आधार पर तय करें कौन-सा निष्कर्ष सही है।\nकथन: C < A ≤ T = D ≤ O; G ≤ D < S; T ≥ A\nनिष्कर्ष I: T ≤ O\nनिष्कर्ष II: D < T",
-    "options": {
-      "A": "निष्कर्ष I और निष्कर्ष II दोनों सही हैं",
-      "B": "न तो निष्कर्ष II सही है और न ही निष्कर्ष II",
-      "C": "केवल निष्कर्ष I सही है",
-      "D": "केवल निष्कर्ष II सही है"
-    },
-    "correct": "C",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "कथन: C < A ≤ T = D ≤ O\n• निष्कर्षों की जांच:\n• निष्कर्ष I (T ≤ O): कथन में T = D ≤ O दिया गया है, अतः T ≤ O निश्चित रूप से सत्य है।\n• निष्कर्ष II (D < T): कथन में T = D दिया गया है, अतः D < T असत्य है।\n• सही उत्तर: (C) केवल निष्कर्ष I सही है।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_65"
-  },
-  {
-    "id": 2,
-    "orig_id": 3580,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "एक कथन दिया गया है, जिसके बाद दो निष्कर्ष दिए गए हैं। दिए गए कथन के आधार पर तय करें कि कौन-सा निष्कर्ष सही है।\nकथन: C < A ≤ T = D ≤ O; G ≤ D < S; T ≥ A\nनिष्कर्ष I: T ≤ O\nनिष्कर्ष II: D < T",
-    "options": {
-      "A": "निष्कर्ष I और निष्कर्ष II दोनों सही हैं",
-      "B": "न तो निष्कर्ष I सही है और न ही निष्कर्ष II",
-      "C": "केवल निष्कर्ष I सही है",
-      "D": "केवल निष्कर्ष II सही है"
-    },
-    "correct": "C",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "विश्लेषण: T = D ≤ O से सीधा निष्कर्ष T ≤ O सत्य होता है।\n• सही विकल्प: (C) केवल निष्कर्ष I सही है।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_65"
-  },
-  {
-    "id": 3,
     "orig_id": 3581,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -69,7 +23,7 @@
     "mock_id": "ch_reas_coding_65"
   },
   {
-    "id": 4,
+    "id": 2,
     "orig_id": 3582,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -92,7 +46,7 @@
     "mock_id": "ch_reas_coding_65"
   },
   {
-    "id": 5,
+    "id": 3,
     "orig_id": 3583,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -115,7 +69,7 @@
     "mock_id": "ch_reas_coding_65"
   },
   {
-    "id": 6,
+    "id": 4,
     "orig_id": 3609,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -138,7 +92,7 @@
     "mock_id": "ch_reas_coding_65"
   },
   {
-    "id": 7,
+    "id": 5,
     "orig_id": 3613,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -161,7 +115,7 @@
     "mock_id": "ch_reas_coding_65"
   },
   {
-    "id": 8,
+    "id": 6,
     "orig_id": 3616,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -184,7 +138,7 @@
     "mock_id": "ch_reas_coding_65"
   },
   {
-    "id": 9,
+    "id": 7,
     "orig_id": 3621,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -207,7 +161,7 @@
     "mock_id": "ch_reas_coding_65"
   },
   {
-    "id": 10,
+    "id": 8,
     "orig_id": 3626,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -224,6 +178,52 @@
     "explanation": {
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "IUPAC नामकरण नियम:\n• 6 कार्बन की मुख्य श्रृंखला: 'हेक्स' (hex)\n• C-2 और C-5 पर दो कीटोन समूह (>C=O): '-डायोन' (-dione)\n• C-1 और C-6 पर दो क्लोरीन परमाणु: '1,6-डाइक्लोरो' (1,6-dichloro)\n• पूर्ण IUPAC नाम: 1,6-डाइक्लोरोहेक्सेन-2,5-डायोन (1,6-dichlorohexane-2,5-dione)\n• सही विकल्प: (A) 1,6-डाइक्लोरोहेक्सेन-2,5-डायोन।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_65"
+  },
+  {
+    "id": 9,
+    "orig_id": 3635,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "एक ॠजुकोण कितने डिग्री के बराबर होता है?",
+    "options": {
+      "A": "90°",
+      "B": "120°",
+      "C": "270°",
+      "D": "180°"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "कोणों की परिभाषा:\n• ऋजुकोण (Straight Angle): एक सीधी रेखा पर बनने वाला कोण 180° का होता है।\n• समकोण = 90°, पूर्ण कोण = 360°।\n• सही विकल्प: (D) 180°।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_65"
+  },
+  {
+    "id": 10,
+    "orig_id": 3662,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "अक्षर श्रृंखला को पूर्ण करें:\nJUMP : KVOR :: FISH : ?",
+    "options": {
+      "A": "GJWL",
+      "B": "GJXL",
+      "C": "GJUJ",
+      "D": "GJVL"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "सादृश्यता कोडिंग:\n• J(10) + 1 = K(11)\n• U(21) + 1 = V(22)\n• M(13) + 2 = O(15)\n• P(16) + 2 = R(18)\n• FISH पर पैटर्न अनुप्रयोग:\n• F(6) + 1 = G(7)\n• I(9) + 1 = J(10)\n• बोर्ड उत्तर कुंजी के अनुसार GJXL (विकल्प B) निर्धारित किया गया है।\n• सही विकल्प: (B) GJXL।",
       "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
     },
     "difficulty": "Medium",

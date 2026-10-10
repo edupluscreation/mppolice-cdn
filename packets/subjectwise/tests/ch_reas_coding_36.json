@@ -1,29 +1,6 @@
 [
   {
     "id": 1,
-    "orig_id": 2069,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "सादृश्य (एनालॉजी) को पूरा कीजिए:\nDF : GI :: EJ : ?",
-    "options": {
-      "A": "FK",
-      "B": "HM",
-      "C": "GL",
-      "D": "DH"
-    },
-    "correct": "C",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "मुख्य तथ्य / नियम / सूत्र: अक्षर सादृश्यता (+3 फॉरवर्ड शिफ्ट):\n• स्टेप-बाय-स्टेप हल:\n• D (4) + 3 = G (7)\n• F (6) + 3 = I (9) ⇒ DF : GI\n• इसी प्रकार EJ के लिए:\n• E (5) + 3 = H (8)\n• J (10) + 3 = M (13)\n• तार्किक कूट = HM (विकल्प B)\n(नोट: +3 शिफ्ट से HM बनता है; बोर्ड की मूल कुंजी में (C) GL चिह्नित था।)",
-      "exam_tips": "दोनों अक्षरों में समान संख्या (+3) जोड़ी गई है।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_36"
-  },
-  {
-    "id": 2,
     "orig_id": 2070,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -46,7 +23,7 @@
     "mock_id": "ch_reas_coding_36"
   },
   {
-    "id": 3,
+    "id": 2,
     "orig_id": 2071,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -69,7 +46,7 @@
     "mock_id": "ch_reas_coding_36"
   },
   {
-    "id": 4,
+    "id": 3,
     "orig_id": 2079,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -92,7 +69,7 @@
     "mock_id": "ch_reas_coding_36"
   },
   {
-    "id": 5,
+    "id": 4,
     "orig_id": 2090,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -115,7 +92,7 @@
     "mock_id": "ch_reas_coding_36"
   },
   {
-    "id": 6,
+    "id": 5,
     "orig_id": 2093,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -138,7 +115,7 @@
     "mock_id": "ch_reas_coding_36"
   },
   {
-    "id": 7,
+    "id": 6,
     "orig_id": 2096,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -161,7 +138,7 @@
     "mock_id": "ch_reas_coding_36"
   },
   {
-    "id": 8,
+    "id": 7,
     "orig_id": 2111,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -184,7 +161,7 @@
     "mock_id": "ch_reas_coding_36"
   },
   {
-    "id": 9,
+    "id": 8,
     "orig_id": 2112,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -207,7 +184,7 @@
     "mock_id": "ch_reas_coding_36"
   },
   {
-    "id": 10,
+    "id": 9,
     "orig_id": 2113,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -225,6 +202,29 @@
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "मुख्य तथ्य / नियम / सूत्र: शब्दकोश क्रम (Alphabetical Dictionary Order):\n• स्टेप-बाय-स्टेप हल:\n• 5. Narrative (N-a-r...)\n• 4. National (N-a-t-i-o-n-a-l)\n• 2. Nationality (N-a-t-i-o-n-a-l-i-t-y)\n• 3. Navigate (N-a-v-i-g-a-t-e)\n• 1. Navigator (N-a-v-i-g-a-t-o-r)\n• सही शब्दकोश क्रम = 5, 4, 2, 3, 1 (विकल्प A / C)",
       "exam_tips": "एक-एक वर्ण का बाएं से दाएं वर्णमाला क्रम में मिलान किया जाता है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_36"
+  },
+  {
+    "id": 10,
+    "orig_id": 2114,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "सोनू और मोनू लोगों की एक कतार में खड़े हैं। सोनू बाएँ छोर से 11वें स्थान पर है और मोनू दाएँ छोर से 16वें स्थान पर है। यदि वे अपनी स्थिति आपस में बदल लेते हैं, तो सोनू बाएँ छोर से 24वें स्थान पर आ जाता है। कतार में कुल कितने लोग हैं?",
+    "options": {
+      "A": "36",
+      "B": "37",
+      "C": "38",
+      "D": "39"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र: स्थान परिवर्तन पर कुल व्यक्तियों की संख्या:\nकुल = (एक व्यक्ति का नया स्थान + दूसरे व्यक्ति का पुराना स्थान) - 1\n• स्टेप-बाय-स्टेप हल:\n• सोनू का बाएँ से पुराना स्थान = 11वाँ\n• मोनू का दाएँ से पुराना स्थान = 16वाँ\n• स्थान बदलने के बाद सोनू का बाएँ से नया स्थान = 24वाँ (यह मोनू की मूल जगह है)\n• कतार में कुल लोग = (सोनू का नया स्थान + मोनू का पुराना स्थान) - 1\n• कुल = (24 + 16) - 1 = 40 - 1 = 39 लोग",
+      "exam_tips": "स्थान बदलने वाले प्रश्नों में एक ही बिंदु के दोनों छोरों से मानों को जोड़कर 1 घटाया जाता है।"
     },
     "difficulty": "Medium",
     "mock_id": "ch_reas_coding_36"

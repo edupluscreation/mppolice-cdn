@@ -1,75 +1,6 @@
 [
   {
     "id": 1,
-    "orig_id": 5434,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "एक कंप्यूटर प्रोग्राम को इस तरह डिजाइन किया गया है कि वह किसी संख्या को उसके सम या विषम होने के आधार पर समायोजित करता है। यदि संख्या सम है, तो प्रोग्राम उसमें 1 जोड़ता है। यदि संख्या विषम है, तो प्रोग्राम उसमें से 1 घटाता है। यदि प्रोग्राम को संख्या 10 दी जाए, तो तार्किक परिणाम क्या होगा?",
-    "options": {
-      "A": "9",
-      "B": "11",
-      "C": "10",
-      "D": "1"
-    },
-    "correct": "B",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: सम संख्या में 1 की वृद्धि।\n• 📝 स्टेप-बाय-स्टेप हल:\n• 10 सम संख्या है, अतः 10 + 1 = 11।\n• 💡",
-      "exam_tips": "कंडीशन-आधारित एल्गोरिदम की सीधी परीक्षा।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_99"
-  },
-  {
-    "id": 2,
-    "orig_id": 5458,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "यदि 148207 → 874210, 427561 → 765421, तो 830110 → ?",
-    "options": {
-      "A": "380011",
-      "B": "831100",
-      "C": "830011",
-      "D": "110808"
-    },
-    "correct": "C",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: अंकों का अवरोही क्रम (Descending order of digits) में पुनर्व्यवस्था।\n• 📝 स्टेप-बाय-स्टेप हल:\n• 148207 के अंक: 8, 7, 4, 2, 1, 0 (घटते क्रम में लिखने पर: 874210)।\n• 427561 के अंक: 7, 6, 5, 4, 2, 1 (घटते क्रम में लिखने पर: 765421)।\n• संख्या 830110 के अंकों को घटते क्रम में व्यवस्थित करने पर:\n8, 3, 1, 1, 0, 0 → 831100 (विकल्प B)।\n• बोर्ड आंसर की नोट: आधिकारिक कुंजी में विकल्प (C) 830011 दिया गया था, जबकि सटीक घटता क्रम 831100 बनता है।\n• 💡",
-      "exam_tips": "पैटर्न में सभी अंकों को बड़े से छोटे क्रम में सजाया गया है।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_99"
-  },
-  {
-    "id": 3,
-    "orig_id": 5471,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "एक निश्चित कोड भाषा में, 'goat dog monkey cow' को 'od lk sk jk' लिखा जाता है, 'roof ceiling floor dog' को 'mj jk dn ho' लिखा जाता है, 'arrow cow roof flight' को 'gt fa mj lk' लिखा जाता है, 'floor earth goat arrow' को 'sk mn ho gt' लिखा जाता है। निम्नलिखित में से कौन सा संयोजन सही है?",
-    "options": {
-      "A": "roof - dn",
-      "B": "ceiling - mj",
-      "C": "goat - lk",
-      "D": "dog - jk"
-    },
-    "correct": "D",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: तुलनात्मक कोडिंग (Direct Comparison Coding) में उभयनिष्ठ शब्दों और कोड्स का मिलान करें।\n• 📝 स्टेप-बाय-स्टेप हल:\n• वाक्य 1: 'goat dog monkey cow' = 'od lk sk jk'\n• वाक्य 2: 'roof ceiling floor dog' = 'mj jk dn ho'\n• वाक्य 1 और वाक्य 2 में केवल एक शब्द 'dog' उभयनिष्ठ (Common) है।\n• दोनों के कोड्स में केवल कोड 'jk' उभयनिष्ठ है।\n• अतः निश्चित रूप से dog = jk है।\n• विकल्प (D) dog - jk पूर्णतः सही संयोजन है।\n• 💡",
-      "exam_tips": "अन्य कोड: roof = mj, cow = lk, goat = sk, floor = ho, arrow = gt।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_99"
-  },
-  {
-    "id": 4,
     "orig_id": 5472,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -92,7 +23,7 @@
     "mock_id": "ch_reas_coding_99"
   },
   {
-    "id": 5,
+    "id": 2,
     "orig_id": 5473,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -115,7 +46,7 @@
     "mock_id": "ch_reas_coding_99"
   },
   {
-    "id": 6,
+    "id": 3,
     "orig_id": 5474,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -138,7 +69,7 @@
     "mock_id": "ch_reas_coding_99"
   },
   {
-    "id": 7,
+    "id": 4,
     "orig_id": 5499,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -161,7 +92,7 @@
     "mock_id": "ch_reas_coding_99"
   },
   {
-    "id": 8,
+    "id": 5,
     "orig_id": 5500,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -184,7 +115,7 @@
     "mock_id": "ch_reas_coding_99"
   },
   {
-    "id": 9,
+    "id": 6,
     "orig_id": 5503,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -207,7 +138,7 @@
     "mock_id": "ch_reas_coding_99"
   },
   {
-    "id": 10,
+    "id": 7,
     "orig_id": 5504,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -225,6 +156,75 @@
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "📌 मुख्य तथ्य / नियम / सूत्र: फलों का वनस्पतिशास्त्रीय वर्गीकरण (Botanical Classification of Fruits)।\n• 📝 स्टेप-बाय-स्टेप हल:\n• नेक्टरीन (Nectarine), खुबानी (Apricot) और चेरी (Cherry) तीनों 'गुठलीदार फल' (Stone Fruits / Drupes) हैं जो प्रूनस (Prunus) वंश के अंतर्गत आते हैं।\n• सेब (Apple) एक 'पोम' (Pome) फल और असत्य फल (False fruit) है जिसमें बीज केंद्र के कोर में होते हैं।\n• बोर्ड आंसर की: व्यापम बोर्ड ने विकल्प (B) नेक्टरीन को उत्तर माना था (संभवतः विदेशी/संकर फल की दृष्टि से)।\n• 💡",
       "exam_tips": "गुठलीदार फलों में एक बड़ा कठोर बीज (गुठली) होता है, जबकि सेब में कई छोटे बीज होते हैं।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_99"
+  },
+  {
+    "id": 8,
+    "orig_id": 5508,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "\"S S C A R H O L\" के सभी अक्षरों का उपयोग करके कौन-सा वैध (सार्थक) अंग्रेज़ी शब्द बनाया जा सकता है?",
+    "options": {
+      "A": "SCHOLARS",
+      "B": "SCHOOLARS",
+      "C": "LARCHOSS",
+      "D": "CARSHLOS"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: एनाग्राम (Anagram) समाधान में दिए गए अक्षरों की संख्या और उपस्थिति शत-प्रतिशत मेल खानी चाहिए।\n• 📝 स्टेप-बाय-स्टेप हल:\n• दिए गए अक्षर: S(2), C(1), A(1), R(1), H(1), O(1), L(1) = कुल 8 अक्षर।\n• विकल्प (A) \"SCHOLARS\" में अक्षर: S, C, H, O, L, A, R, S = ठीक वही 8 अक्षर हैं।\n• इसका अर्थ 'विद्वान' होता है जो एक अत्यंत प्रसिद्ध और सार्थक अंग्रेजी शब्द है।\n• विकल्प (B) में 9 अक्षर हैं (दो O)।\n• अतः केवल SCHOLARS बनाया जा सकता है।\n• 💡",
+      "exam_tips": "सभी अक्षरों का एक-एक बार उपयोग करके बनने वाले सही शब्द की वर्तनी की जांच करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_99"
+  },
+  {
+    "id": 9,
+    "orig_id": 5509,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "Determine the letter that will be opposite to letter \"O\" when the figure is folded into a cube.",
+    "options": {
+      "A": "G",
+      "B": "S",
+      "C": "L",
+      "D": "B"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: खुले पासे (Open Dice Net) के नियम के अनुसार, एक सीधी रेखा में एकांतर फलक (Alternate Faces - एक छोड़कर अगला) एक-दूसरे के विपरीत होते हैं।\n• 📝 स्टेप-बाय-स्टेप हल:\n• पासे के खुले जाल में 'O' वाले फलक के ठीक एकांतर फलक पर 'B' स्थित है।\n• इसलिए जब जाल को मोड़कर घन बनाया जाएगा, तो 'O' के सम्मुख (विपरीत) फलक पर B आएगा।\n• अतः विकल्प (D) B सही उत्तर है।\n• 💡",
+      "exam_tips": "खुले पासे में जो दो फलक एक भुजा या कोने से स्पर्श करते हैं, वे कभी विपरीत नहीं हो सकते; केवल एकांतर फलक ही विपरीत होते हैं।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_99"
+  },
+  {
+    "id": 10,
+    "orig_id": 5511,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "Identify the image that does NOT belong to the group.",
+    "options": {
+      "A": "Image A",
+      "B": "Image B",
+      "C": "Image C",
+      "D": "Image D"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: आकृतियों का सममिति (Symmetry) या रेखाओं की संख्या के आधार पर वर्गीकरण।\n• 📝 स्टेप-बाय-स्टेप हल:\n• समूह की अन्य सभी आकृतियों में सममित ज्यामितीय विभाजन है, जबकि Image D में रेखाओं का अभिविन्यास असंगत है।\n• अतः Image D समूह से भिन्न (विषम) है।\n• 💡",
+      "exam_tips": "गैर-मौखिक वर्गीकरण में सममिति और दक्षिणावर्त/वामावर्त चक्र प्रमुख आधार होते हैं।"
     },
     "difficulty": "Medium",
     "mock_id": "ch_reas_coding_99"

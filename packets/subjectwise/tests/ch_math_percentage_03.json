@@ -1,29 +1,6 @@
 [
   {
     "id": 1,
-    "orig_id": 4509,
-    "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_percentage",
-    "topic": "प्रतिशत (Percentage)",
-    "question": "\"पेट्रोल की कीमत में 8% की वृद्धि होती है। यदि पुरानी कीमत 80 रुपए प्रति लीटर थी, तो नई कीमत क्या होगी?\"",
-    "options": {
-      "A": "Rs 87.60",
-      "B": "Rs 86.40",
-      "C": "Rs 85.40",
-      "D": "Rs 88.00"
-    },
-    "correct": "B",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / प्रतिशत वृद्धि सूत्र:\n• नई कीमत = पुरानी कीमत × (1 + वृद्धि % / 100)\n• 📝 स्टेप-बाय-स्टेप हल:\n• पुरानी कीमत = ₹80\n• वृद्धि = 80 का 8% = (80 × 8) / 100 = 640 / 100 = ₹6.40\n• नई कीमत = 80 + 6.40 = ₹86.40 प्रति लीटर।\n• 💡",
-      "exam_tips": "80 × 1.08 = 86.40 सीधे गुणा करके तुरंत उत्तर प्राप्त किया जा सकता है।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_math_percentage_03"
-  },
-  {
-    "id": 2,
     "orig_id": 4949,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -46,7 +23,7 @@
     "mock_id": "ch_math_percentage_03"
   },
   {
-    "id": 3,
+    "id": 2,
     "orig_id": 5032,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -69,7 +46,7 @@
     "mock_id": "ch_math_percentage_03"
   },
   {
-    "id": 4,
+    "id": 3,
     "orig_id": 5807,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -92,7 +69,7 @@
     "mock_id": "ch_math_percentage_03"
   },
   {
-    "id": 5,
+    "id": 4,
     "orig_id": 5851,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -115,7 +92,7 @@
     "mock_id": "ch_math_percentage_03"
   },
   {
-    "id": 6,
+    "id": 5,
     "orig_id": 5931,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -138,7 +115,7 @@
     "mock_id": "ch_math_percentage_03"
   },
   {
-    "id": 7,
+    "id": 6,
     "orig_id": 6147,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -161,7 +138,7 @@
     "mock_id": "ch_math_percentage_03"
   },
   {
-    "id": 8,
+    "id": 7,
     "orig_id": 6532,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -184,7 +161,7 @@
     "mock_id": "ch_math_percentage_03"
   },
   {
-    "id": 9,
+    "id": 8,
     "orig_id": 6691,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -207,7 +184,7 @@
     "mock_id": "ch_math_percentage_03"
   },
   {
-    "id": 10,
+    "id": 9,
     "orig_id": 6992,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -225,6 +202,29 @@
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "📌 मुख्य तथ्य / नियम / सूत्र: प्रतिशत वृद्धि = [(नया मान - प्रारंभिक मान) / प्रारंभिक मान] × 100।\n• 📝 स्टेप-बाय-स्टेप हल:\n1. प्रारंभिक वेतन = 12,000 रुपये।\n2. नया वेतन = 13,200 रुपये।\n3. वेतन में कुल वृद्धि = 13,200 - 12,000 = 1,200 रुपये।\n4. वृद्धि प्रतिशत = (1,200 / 12,000) × 100 = 1,200 / 120 = 10%।\n• 💡",
       "exam_tips": "1,200 रुपये, 12,000 रुपये का ठीक 1/10 भाग है, और 1/10 का प्रतिशत मान 10% होता है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_math_percentage_03"
+  },
+  {
+    "id": 10,
+    "orig_id": 7359,
+    "subject_code": "MATH",
+    "subject": "गणित",
+    "topic_id": "math_percentage",
+    "topic": "प्रतिशत (Percentage)",
+    "question": "एक बाइक की कीमत ₹50,000 से घटकर ₹45,000 हो जाती है। प्रतिशत कमी क्या है?",
+    "options": {
+      "A": "5%",
+      "B": "8%",
+      "C": "9%",
+      "D": "10%"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: प्रतिशत कमी (Percentage Decrease):\n• प्रतिशत कमी = (कमी / मूल मान) × 100\n• 📝 स्टेप-बाय-स्टेप हल:\n1. मूल कीमत = ₹50,000।\n2. नई कीमत = ₹45,000।\n3. कीमत में कमी = 50,000 - 45,000 = ₹5,000।\n4. प्रतिशत कमी = (5,000 / 50,000) × 100\n• = (1 / 10) × 100 = 10%।\n5. अतः कीमत में 10% की कमी हुई है।\n6. सही उत्तर (D) 10% है।\n• 💡",
+      "exam_tips": "50,000 का 10% सीधे 5,000 होता है; 50,000 - 5,000 = 45,000।"
     },
     "difficulty": "Medium",
     "mock_id": "ch_math_percentage_03"

@@ -1,144 +1,6 @@
 [
   {
     "id": 1,
-    "orig_id": 8462,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "यदि STORM को RSNQL लिखा जाता है, तो SHINE को किस प्रकार लिखा जाएगा?",
-    "options": {
-      "A": "RGHMD",
-      "B": "RGHND",
-      "C": "RGHMF",
-      "D": "RGIMD"
-    },
-    "correct": "B",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: कोडिंग-डिकोडिंग - अक्षर विस्थापन (-1):\n• 📝 स्टेप-बाय-स्टेप हल:\n1. STORM → RSNQL:\n• S - 1 = R\n• T - 1 = S\n• O - 1 = N\n• R - 1 = Q\n• M - 1 = L\n2. SHINE पर नियम लागू करने पर:\n• S - 1 = R\n• H - 1 = G\n• I - 1 = H\n• E - 1 = D\n• शुद्ध -1 से RGHMD बनता है।\n3. नोट (आधिकारिक उत्तर कुंजी): बोर्ड की उत्तर कुंजी में विकल्प (B) RGHND मान्य किया गया है (जिसमें चौथे अक्षर N को अपरिवर्तित रखा गया)।\nअतः सही उत्तर (B) RGHND है।\n• 💡",
-      "exam_tips": "विकल्पों के आधार पर बोर्ड कुंजी की प्रवृत्ति को पहचानें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_155"
-  },
-  {
-    "id": 2,
-    "orig_id": 8468,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "Select the next figure in the sequence from Image Y based on the figures in Image X.",
-    "options": {
-      "A": "",
-      "B": "",
-      "C": "",
-      "D": ""
-    },
-    "correct": "A",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: चित्रात्मक श्रृंखला (Figure Series):\n• 📝 स्टेप-बाय-स्टेप हल:\n1. तत्वों के क्रमिक घूर्णन और स्थिति परिवर्तन के अनुसार अगला पद विकल्प 'A' की आकृति है।\nअतः सही उत्तर (A) (A) है।\n• 💡",
-      "exam_tips": "श्रृंखला में प्रत्येक घटक के व्यक्तिगत संचलन को ट्रैक करें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_155"
-  },
-  {
-    "id": 3,
-    "orig_id": 8469,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "If the third day of a month is Monday, which of the following will be the fifth day from 21st of that month?",
-    "options": {
-      "A": "मंगलवार",
-      "B": "सोमवार",
-      "C": "बुधवार",
-      "D": "गुरुवार"
-    },
-    "correct": "A",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: कैलेंडर परीक्षण एवं भाषा की व्याख्या:\n• 📝 स्टेप-बाय-स्टेप हल:\n1. 3 तारीख = सोमवार।\n2. 3 + 7 = 10 तारीख = सोमवार; 17 तारीख = सोमवार; 24 तारीख = सोमवार।\n3. 21वीं तारीख = शुक्रवार (24 - 3)।\n4. \"21वीं तारीख से पांचवां दिन\": यदि 21 + 4 = 25वीं तारीख गिनी जाए, तो 24 = सोमवार ⇒ 25 = मंगलवार।\n5. नोट (आधिकारिक उत्तर कुंजी): बोर्ड की आधिकारिक उत्तर कुंजी में विकल्प (A) मंगलवार मान्य किया गया है।\nअतः सही उत्तर (A) मंगलवार है।\n• 💡",
-      "exam_tips": "Q8471 में 21 + 5 = 26 तारीख मानकर बुधवार (C) उत्तर माना गया है।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_155"
-  },
-  {
-    "id": 4,
-    "orig_id": 8471,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "If the third day of a month is Monday, which of the following will be the fifth day from 21st of that month? / यदि किसी महीने का तीसरा दिन सोमवार है, तो निम्नलिखित में से कौन-सा उस महीने की 21वीं तारीख से पांचवां दिन होगा?",
-    "options": {
-      "A": "मंगलवार",
-      "B": "सोमवार",
-      "C": "बुधवार",
-      "D": "गुरुवार"
-    },
-    "correct": "C",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: कैलेंडर गणना:\n• 📝 स्टेप-बाय-स्टेप हल:\n1. 3 तारीख = सोमवार।\n2. 21वीं तारीख के 5 दिन बाद की तिथि = 21 + 5 = 26 तारीख।\n3. विषम दिन = (26 - 3) = 23 दिन; 23 mod 7 = 2 दिन।\n4. 26 तारीख = सोमवार + 2 दिन = बुधवार।\nअतः सही उत्तर (C) बुधवार है।\n• 💡",
-      "exam_tips": "24 तारीख सोमवार है, अतः 25 मंगलवार और 26 बुधवार होगा।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_155"
-  },
-  {
-    "id": 5,
-    "orig_id": 8473,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "As a researcher in a government lab, you get an offer to sell your data privately. What should you do? / एक सरकारी लैब में शोधकर्ता के तौर पर, आपको अपना डेटा निजी तौर पर बेचने का प्रस्ताव मिलता है। आपको क्या करना चाहिए?",
-    "options": {
-      "A": "बेचें और इसे गुप्त रखें",
-      "B": "प्रस्ताव को अस्वीकार करें और इसकी रिपोर्ट करें",
-      "C": "बेहतर कीमत पर बातचीत करें",
-      "D": "इसे केवल करीबी दोस्तों के साथ साझा करें"
-    },
-    "correct": "B",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: व्यावसायिक नैतिकता एवं आधिकारिक गोपनीयता (Official Ethics & Confidentiality):\n• 📝 स्टेप-बाय-स्टेप हल:\n1. सरकारी शोध डेटा सार्वजनिक संपत्ति और राष्ट्रीय धरोहर होता है। उसे निजी तौर पर बेचना गैरकानूनी, अनैतिक और देशद्रोह जैसा अपराध है।\n2. सत्यनिष्ठ कर्मचारी का कर्तव्य है कि ऐसे अवैध प्रस्ताव को तुरंत ठुकराए और अपने उच्चाधिकारियों व सुरक्षा एजेंसियों को इसकी तत्काल रिपोर्ट करे।\nअतः सही उत्तर (B) प्रस्ताव को अस्वीकार करें और इसकी रिपोर्ट करें है।\n• 💡",
-      "exam_tips": "सरकारी सेवा में सत्यनिष्ठा और नियमों का पालन सर्वोच्च प्राथमिकता है।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_155"
-  },
-  {
-    "id": 6,
-    "orig_id": 8475,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "All games are entertainment. All entertainment is fun.\nConclusions:\nI. All games are fun.\nII. Some fun is entertainment.",
-    "options": {
-      "A": "केवल I अनुसरण करता है",
-      "B": "केवल II अनुसरण करता है",
-      "C": "I और II दोनों अनुसरण करते हैं",
-      "D": "न तो I और न ही II अनुसरण करता है"
-    },
-    "correct": "C",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: न्याय निगमन (Syllogism) - All + All संयोजन:\n• यदि सभी A, B हैं तथा सभी B, C हैं, तो सभी A, C हैं।\n• 📝 स्टेप-बाय-स्टेप हल:\n1. पहला निष्कर्ष: चूँकि सभी खेल (Games) मनोरंजन (Entertainment) हैं और सभी मनोरंजन मज़ा (Fun) हैं, इसलिए सभी खेल मज़ा हैं (निष्कर्ष I पूर्णतः सत्य है)।\n2. दूसरा निष्कर्ष: यदि सभी मनोरंजन मज़ा हैं, तो इसका विलोम \"कुछ मज़ा मनोरंजन है\" (Some fun is entertainment) भी अनिवार्य रूप से सत्य होता है (निष्कर्ष II सत्य है)।\n3. अतः दोनों निष्कर्ष I और II अनुसरण करते हैं।\nसही उत्तर (C) है।\n• 💡",
-      "exam_tips": "सार्वभौमिक सकारात्मक कथन (All A is B) का आंशिक रूपांतरण (Some B is A) हमेशा सत्य होता है।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_155"
-  },
-  {
-    "id": 7,
     "orig_id": 8476,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -161,7 +23,7 @@
     "mock_id": "ch_reas_coding_155"
   },
   {
-    "id": 8,
+    "id": 2,
     "orig_id": 8477,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -184,7 +46,7 @@
     "mock_id": "ch_reas_coding_155"
   },
   {
-    "id": 9,
+    "id": 3,
     "orig_id": 8480,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -207,7 +69,7 @@
     "mock_id": "ch_reas_coding_155"
   },
   {
-    "id": 10,
+    "id": 4,
     "orig_id": 8482,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -225,6 +87,144 @@
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "📌 मुख्य तथ्य / नियम / सूत्र: पहेली सुराग सत्यापन (Clue Analysis):\n• 📝 स्टेप-बाय-स्टेप हल:\n1. यह प्रश्न पिछले प्रश्न के सुरागों से संबंधित है।\n2. बोर्ड की आधिकारिक उत्तर कुंजी में विकल्प (C) को मान्य उत्तर के रूप में चिह्नित किया गया है।\nअतः सही उत्तर (C) है।\n• 💡",
       "exam_tips": "सुरागों का सही क्रम पहेली के समाधान की नींव होता है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_155"
+  },
+  {
+    "id": 5,
+    "orig_id": 8528,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "यदि 1 → 1, 3 → 2, 5 → 5, 7 → 13, तो 9 → ?",
+    "options": {
+      "A": "32",
+      "B": "33",
+      "C": "34",
+      "D": "35"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: संख्या रूपांतरण श्रृंखला एवं बोर्ड कुंजी विश्लेषण:\n• 📝 स्टेप-बाय-स्टेप हल:\n1. इनपुट संख्याएं विषम हैं: 1, 3, 5, 7, 9 (क्रमशः पद 1, 2, 3, 4, 5)।\n2. आउटपुट मान: 1, 2, 5, 13, ?\n• 1 × 2 + 0 = 2\n• 2 × 2 + 1 = 5\n• 5 × 2 + 3 = 13\n• 13 × 2 + 7 = 33 (जहाँ जोड़ा जाने वाला पद 0, 1, 3, 7 के अंतर पैटर्न पर है)।\n3. नोट (आधिकारिक उत्तर कुंजी): बोर्ड की आधिकारिक उत्तर कुंजी में विकल्प (B) 33 मान्य किया गया है।\nअतः सही उत्तर (B) 33 है।\n• 💡",
+      "exam_tips": "Q8529 में यही प्रश्न विकल्प (C) 34 के रूप में भी मान्य किया गया है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_155"
+  },
+  {
+    "id": 6,
+    "orig_id": 8531,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "एक कोड में, 234D355 का अर्थ है अक्षर के बाद के अंक = अक्षर से पहले के अंक + 121. यदि अक्षर से पहले अंक 310 है तो कोड क्या है?",
+    "options": {
+      "A": "310D431",
+      "B": "310E431",
+      "C": "310C431",
+      "D": "311D432"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: गणितीय कोडिंग नियम:\n• कोड प्रारूप: [पूर्व अंक][अक्षर][पूर्व अंक + 121]\n• 📝 स्टेप-बाय-स्टेप हल:\n1. उदाहरण में: 234 + 121 = 355 ⇒ कोड बनता है 234D355।\n2. दिया गया पूर्व अंक = 310।\n3. अक्षर के बाद का अंक = 310 + 121 = 431।\n4. अतः अभीष्ट कोड = 310D431 होगा।\nसही उत्तर (A) 310D431 है।\n• 💡",
+      "exam_tips": "दिए गए नियम का सीधे अनुपालन करके उत्तर निकाला जा सकता है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_155"
+  },
+  {
+    "id": 7,
+    "orig_id": 8533,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "During a brainstorming session, you actively encourage quieter team members to share their ideas, ensure everyone gets a chance to speak, and build upon others' suggestions to foster a sense of collective ownership. This demonstrates strong: / एक विचार-मंथन सत्र के दौरान, आप कम बोलने वाले टीम सदस्यों को सक्रिय रूप से अपने विचार साझा करने के लिए प्रोत्साहित करते हैं, यह सुनिश्चित करते हैं कि सभी को बोलने का अवसर मिले, और दूसरों के सुझावों पर आगे काम करते हैं ताकि सामूहिक स्वामित्व की भावना विकसित हो। यह किस गुण को दर्शाता है?",
+    "options": {
+      "A": "सार्वजनिक भाषण कला",
+      "B": "मोलभाव कौशल",
+      "C": "विवाद प्रबंधन",
+      "D": "सहयोग भावना"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: टीम प्रबंधन एवं सहयोगात्मक नेतृत्व (Collaboration & Inclusive Teamwork):\n• 📝 स्टेप-बाय-स्टेप हल:\n1. सभी सदस्यों को शामिल करना, संकोची साथियों की आवाज सुनना और सामूहिक स्वामित्व की भावना विकसित करना एक उच्चस्तरीय 'सहयोग भावना' (Spirit of Collaboration) और समावेशी नेतृत्व का प्रत्यक्ष प्रमाण है।\n2. यह केवल व्यक्तिगत भाषण या विवाद निपटान नहीं बल्कि पूरी टीम को एकजुट कर काम करने का कौशल है।\nअतः सही उत्तर (D) सहयोग भावना है।\n• 💡",
+      "exam_tips": "पुलिस और प्रशासनिक नेतृत्व में सामूहिक टीम वर्क सफलता की कुंजी है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_155"
+  },
+  {
+    "id": 8,
+    "orig_id": 8534,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "दिए गए कथन और निष्कर्षों को ध्यानपूर्वक पढ़ें। तय करें कि दिए गए निष्कर्षों में से कौन-सा/कौन-से निष्कर्ष निश्चित रूप से सही हैं।\nकथन: P = Q ≥ S > T = R ≥ U > V\nनिष्कर्ष I: Q ≥ U\nनिष्कर्ष II: T = U",
+    "options": {
+      "A": "निष्कर्ष I और निष्कर्ष II दोनों सही हैं।",
+      "B": "निष्कर्ष I और निष्कर्ष II दोनों गलत हैं।",
+      "C": "केवल निष्कर्ष I सही है।",
+      "D": "केवल निष्कर्ष II सही है।"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: असमानता परीक्षण (Mathematical Inequalities):\n• 📝 स्टेप-बाय-स्टेप हल:\n1. संबंध: Q ≥ S > T = R ≥ U।\n2. Q से U की ओर जाने पर चिन्ह '≥' और '>' दोनों आते हैं, अतः शुद्ध संबंध Q > U बनता है।\n3. T से U की ओर: T = R ≥ U, अतः T ≥ U बनता है (केवल T = U निश्चित नहीं)।\n4. नोट (आधिकारिक उत्तर कुंजी): बोर्ड की आधिकारिक उत्तर कुंजी में विकल्प (C) केवल निष्कर्ष I सही है को मान्य किया गया है।\nअतः सही उत्तर (C) केवल निष्कर्ष I सही है।\n• 💡",
+      "exam_tips": "यदि श्रृंखला में एक भी सख्त चिन्ह (>) आ जाए तो अंतिम संबंध '>' ही होता है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_155"
+  },
+  {
+    "id": 9,
+    "orig_id": 8545,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "एक निश्चित कोड भाषा में, 'goat dog monkey cow' को 'od lk sk jk' लिखा जाता है, 'roof ceiling floor dog' को 'mj jk dn ho' लिखा जाता है, 'arrow cow roof flight' को 'gt fa mj lk' लिखा जाता है, 'floor earth goat arrow' को 'sk mn ho gt' लिखा जाता है। उस भाषा में \"arrow\" का कोड क्या है?",
+    "options": {
+      "A": "mj",
+      "B": "sk",
+      "C": "jk",
+      "D": "gt"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: शब्द-कूट मिलान (Common Word Elimination):\n• 📝 स्टेप-बाय-स्टेप हल:\n1. वाक्य 3: 'arrow cow roof flight' = [gt, fa, mj, lk]\n2. वाक्य 4: 'floor earth goat arrow' = [sk, mn, ho, gt]\n3. दोनों वाक्यों में केवल एक ही शब्द उभयनिष्ठ (Common) है: \"arrow\"।\n4. दोनों के कोड में केवल एक ही कोड उभयनिष्ठ है: \"gt\"।\n5. अतः \"arrow\" का कोड \"gt\" है।\nसही उत्तर (D) gt है।\n• 💡",
+      "exam_tips": "दो वाक्यों में एकल उभयनिष्ठ शब्द सीधे उसका कूट निर्धारित कर देता है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_155"
+  },
+  {
+    "id": 10,
+    "orig_id": 8546,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "एक निश्चित कोड भाषा में,\n'goat dog monkey cow' को 'od lk sk jk' लिखा जाता है,\n'roof ceiling floor dog' को 'mj jk dn ho' लिखा जाता,\n'arrow cow roof flight' को 'gt fa mj lk' लिखा जाता है,\n'floor earth goat arrow' को 'sk mn ho gt' लिखा जाता है\nउस भाषा में \"arrow\" का कोड क्या है?",
+    "options": {
+      "A": "mj",
+      "B": "sk",
+      "C": "jk",
+      "D": "gt"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: कोडिंग-डिकोडिंग:\n• 📝 स्टेप-बाय-स्टेप हल:\n1. तीसरे और चौथे वाक्य की तुलना करने पर 'arrow' का कोड 'gt' प्राप्त होता है।\nअतः सही उत्तर (D) gt है।\n• 💡",
+      "exam_tips": "अन्य शब्दों के कोड: roof = mj, cow = lk, dog = jk।"
     },
     "difficulty": "Medium",
     "mock_id": "ch_reas_coding_155"

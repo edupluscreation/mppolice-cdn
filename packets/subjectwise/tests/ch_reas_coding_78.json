@@ -1,52 +1,6 @@
 [
   {
     "id": 1,
-    "orig_id": 4300,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "एक रस्सी, एक गोलाकार कुएँ पर जीवा की तरह लगी हुई है और केंद्र पर 100° का कोण बनाती है। परिधि पर कोण क्या होगा?",
-    "options": {
-      "A": "50°",
-      "B": "40°",
-      "C": "60°",
-      "D": "90°"
-    },
-    "correct": "A",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य प्रमेय / केंद्र और परिधि पर कोण संबंध: किसी चाप (या जीवा) द्वारा वृत्त के केंद्र पर अंतरित कोण, उसी चाप द्वारा वृत्त के शेष भाग (परिधि) के किसी बिंदु पर अंतरित कोण का दोगुना होता है।\n• 📝 स्टेप-बाय-स्टेप हल:\n• केंद्र पर कोण θ = 100°\n• परिधि पर कोण = θ / 2 = 100° / 2 = 50°।\n• 💡",
-      "exam_tips": "एक ही वृत्तखंड में बने कोण आपस में बराबर होते हैं।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_78"
-  },
-  {
-    "id": 2,
-    "orig_id": 4306,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "एक थैले में 5 लाल, 7 हरे, और 8 नीली गेंदें हैं। यदि एक गेंद यादृच्छिक रूप से निकाली जाती है, तो उसके नीली नहीं होने की प्रायिकता क्या होगी?",
-    "options": {
-      "A": "3/5",
-      "B": "2/5",
-      "C": "1/4",
-      "D": "7/20"
-    },
-    "correct": "A",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य सूत्र: प्रायिकता P(E) = अनुकूल परिणाम / कुल परिणाम।\n• 📝 स्टेप-बाय-स्टेप हल:\n• कुल गेंदें = 5 (लाल) + 7 (हरे) + 8 (नीली) = 20 गेंदें।\n• गेंद नीली नहीं होने के अनुकूल परिणाम = लाल + हरे = 5 + 7 = 12 गेंदें।\n• प्रायिकता = 12 / 20 = 3 / 5 (या 0.60)।\n• 💡",
-      "exam_tips": "P(नीली नहीं) = 1 - P(नीली) = 1 - 8/20 = 1 - 2/5 = 3/5।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_78"
-  },
-  {
-    "id": 3,
     "orig_id": 4329,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -69,7 +23,7 @@
     "mock_id": "ch_reas_coding_78"
   },
   {
-    "id": 4,
+    "id": 2,
     "orig_id": 4335,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -92,7 +46,7 @@
     "mock_id": "ch_reas_coding_78"
   },
   {
-    "id": 5,
+    "id": 3,
     "orig_id": 4336,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -115,7 +69,7 @@
     "mock_id": "ch_reas_coding_78"
   },
   {
-    "id": 6,
+    "id": 4,
     "orig_id": 4337,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -138,7 +92,7 @@
     "mock_id": "ch_reas_coding_78"
   },
   {
-    "id": 7,
+    "id": 5,
     "orig_id": 4339,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -161,7 +115,7 @@
     "mock_id": "ch_reas_coding_78"
   },
   {
-    "id": 8,
+    "id": 6,
     "orig_id": 4340,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -184,7 +138,7 @@
     "mock_id": "ch_reas_coding_78"
   },
   {
-    "id": 9,
+    "id": 7,
     "orig_id": 4341,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -207,7 +161,7 @@
     "mock_id": "ch_reas_coding_78"
   },
   {
-    "id": 10,
+    "id": 8,
     "orig_id": 4342,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -225,6 +179,52 @@
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "📌 मुख्य सूत्र / क्रमिक गुणनफल n(n + 1):\n• 📝 स्टेप-बाय-स्टेप हल:\n• 1 × 2 = 2\n• 2 × 3 = 6\n• 3 × 4 = 12\n• 4 × 5 = 20\n• 5 × 6 = 30\n• 6 × 7 = 42\n• वैकल्पिक अंतर विधि: +4, +6, +8, +10, +12 ⇒ 30 + 12 = 42।\n• 💡",
       "exam_tips": "n² + n श्रृंखला: 1²+1, 2²+2, 3²+3, 4²+4, 5²+5, 6²+6 = 36 + 6 = 42।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_78"
+  },
+  {
+    "id": 9,
+    "orig_id": 4343,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "शृंखला में अगली संख्या ज्ञात करें:\n2, 6, 12, 20, 30, ?",
+    "options": {
+      "A": "36",
+      "B": "40",
+      "C": "42",
+      "D": "44"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य नियम: लगातार सम संख्याओं का अंतर (+4, +6, +8, +10, +12)।\n• 📝 गणना: 30 + 12 = 42।\n• 💡",
+      "exam_tips": "प्रॉनिक संख्याएं (Pronic numbers): n(n+1)।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_78"
+  },
+  {
+    "id": 10,
+    "orig_id": 4354,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "35 लोगों की एक कतार में, रमेश की दााईं ओर से स्थिति 15वीं है। रमेश की बाईं ओर से स्थिति क्या होगी?",
+    "options": {
+      "A": "21वीं",
+      "B": "20वीं",
+      "C": "19वीं",
+      "D": "22वीं"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य सूत्र / क्रम व्यवस्था: बायाँ स्थान = कुल व्यक्ति - दायाँ स्थान + 1।\n• 📝 स्टेप-बाय-स्टेप हल:\n• कुल लोग = 35\n• दाएँ से स्थान = 15\n• बाएँ से स्थान = 35 - 15 + 1 = 20 + 1 = 21वीं।\n• 💡",
+      "exam_tips": "व्यक्ति स्वयं दोनों सिरों से गिना जाता है, इसलिए अंत में +1 किया जाता है।"
     },
     "difficulty": "Medium",
     "mock_id": "ch_reas_coding_78"

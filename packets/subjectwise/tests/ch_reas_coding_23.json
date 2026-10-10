@@ -1,29 +1,6 @@
 [
   {
     "id": 1,
-    "orig_id": 1305,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "sin 0° का मान ज्ञात कीजिए।",
-    "options": {
-      "A": "2",
-      "B": "1",
-      "C": "0",
-      "D": "2"
-    },
-    "correct": "C",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "मुख्य तथ्य / नियम / सूत्र:\n• 0° पर लंबाई शून्य होती है, इसलिए sin 0° = 0।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• sin 0° = 0, sin 30° = 1/2, sin 90° = 1 याद रखें।\n• अतः विकल्प (C) सही है।",
-      "exam_tips": "cos 0° = 1 होता है।\n• मान सारणी 0°, 30°, 45°, 60°, 90° की याद करें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_23"
-  },
-  {
-    "id": 2,
     "orig_id": 1317,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -46,7 +23,7 @@
     "mock_id": "ch_reas_coding_23"
   },
   {
-    "id": 3,
+    "id": 2,
     "orig_id": 1318,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -69,7 +46,7 @@
     "mock_id": "ch_reas_coding_23"
   },
   {
-    "id": 4,
+    "id": 3,
     "orig_id": 1319,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -92,7 +69,7 @@
     "mock_id": "ch_reas_coding_23"
   },
   {
-    "id": 5,
+    "id": 4,
     "orig_id": 1320,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -115,7 +92,7 @@
     "mock_id": "ch_reas_coding_23"
   },
   {
-    "id": 6,
+    "id": 5,
     "orig_id": 1346,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -138,7 +115,7 @@
     "mock_id": "ch_reas_coding_23"
   },
   {
-    "id": 7,
+    "id": 6,
     "orig_id": 1359,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -161,7 +138,7 @@
     "mock_id": "ch_reas_coding_23"
   },
   {
-    "id": 8,
+    "id": 7,
     "orig_id": 1387,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -184,7 +161,7 @@
     "mock_id": "ch_reas_coding_23"
   },
   {
-    "id": 9,
+    "id": 8,
     "orig_id": 1388,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -207,7 +184,7 @@
     "mock_id": "ch_reas_coding_23"
   },
   {
-    "id": 10,
+    "id": 9,
     "orig_id": 1389,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -225,6 +202,29 @@
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "मुख्य तथ्य / नियम / सूत्र:\n• न्यायवाक्य (Syllogism): वेन आरेख (Venn Diagram) विश्लेषण।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• कथन 1: 'कुछ लड़के छात्र हैं' (लड़के और छात्र के वृत्त में उभयनिष्ठ/Common भाग है)।\n• कथन 2: 'सभी छात्र खिलाड़ी हैं' (छात्र का पूरा वृत्त खिलाड़ी के वृत्त के अंदर समाहित है)।\n• निष्कर्ष I का परीक्षण: जो लड़के 'छात्र' हैं, वे स्वतः 'खिलाड़ी' के वृत्त के अंदर भी आ गए। अतः 'कुछ लड़के खिलाड़ी हैं' पूर्णतः सत्य और मान्य है।\n• निष्कर्ष II का परीक्षण: खिलाड़ी का केवल वही भाग लड़के हैं जो छात्र हैं; सभी खिलाड़ी लड़के हैं ऐसा कहीं नहीं कहा गया। अतः यह अमान्य है।\n• इसलिए केवल निष्कर्ष I लागू होता है (विकल्प A)।",
       "exam_tips": "Some A are B + All B are C ⇒ Some A are C (सार्वभौमिक सत्य निष्कर्ष)।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_23"
+  },
+  {
+    "id": 10,
+    "orig_id": 1390,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "एक विशेष कूट में, ROSE को SPTF के रूप में लिखा जाता है, तो WORD किस रूप में कूटित होगा:",
+    "options": {
+      "A": "XPQD",
+      "B": "XPRE",
+      "C": "XPRF",
+      "D": "XPSE"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र:\n• अक्षरों में +1 की क्रमिक वृद्धि:\n• स्टेप-बाय-स्टेप हल / विवरण:\n• ROSE → SPTF:\n• R + 1 = S\n• O + 1 = P\n• S + 1 = T\n• E + 1 = F\n• WORD के अक्षरों में +1 करने पर:\n• W + 1 = X\n• O + 1 = P\n• R + 1 = S\n• D + 1 = E\n• वास्तविक शुद्ध कोड XPSE (विकल्प D) बनता है।\n• परीक्षा बोर्ड ने कुंजी में (C) XPRF अंकित किया था (R के स्थान पर R और D के स्थान पर F की मुद्रण विसंगति के कारण), परंतु सही कोडिंग सिद्धांत XPSE है।",
+      "exam_tips": "फॉरवर्ड शिफ्ट (+1) कोडिंग का सबसे बुनियादी और आसान प्रकार है।"
     },
     "difficulty": "Medium",
     "mock_id": "ch_reas_coding_23"

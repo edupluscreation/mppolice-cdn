@@ -1,29 +1,6 @@
 [
   {
     "id": 1,
-    "orig_id": 1208,
-    "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_number_bodmas",
-    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
-    "question": "45 ÷ 5 + 12 - 8 का सही परिणाम ज्ञात कीजिए।",
-    "options": {
-      "A": "12",
-      "B": "13",
-      "C": "11",
-      "D": "15"
-    },
-    "correct": "B",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "मुख्य तथ्य / नियम / सूत्र:\n• 9+12-8 = 13।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• अतः विकल्प (B) सही है।",
-      "exam_tips": "भाग पहले करें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_math_number_bodmas_16"
-  },
-  {
-    "id": 2,
     "orig_id": 1209,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -46,7 +23,7 @@
     "mock_id": "ch_math_number_bodmas_16"
   },
   {
-    "id": 3,
+    "id": 2,
     "orig_id": 1216,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -69,7 +46,7 @@
     "mock_id": "ch_math_number_bodmas_16"
   },
   {
-    "id": 4,
+    "id": 3,
     "orig_id": 1218,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -92,7 +69,7 @@
     "mock_id": "ch_math_number_bodmas_16"
   },
   {
-    "id": 5,
+    "id": 4,
     "orig_id": 1223,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -115,7 +92,7 @@
     "mock_id": "ch_math_number_bodmas_16"
   },
   {
-    "id": 6,
+    "id": 5,
     "orig_id": 1257,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -138,7 +115,7 @@
     "mock_id": "ch_math_number_bodmas_16"
   },
   {
-    "id": 7,
+    "id": 6,
     "orig_id": 1262,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -161,7 +138,7 @@
     "mock_id": "ch_math_number_bodmas_16"
   },
   {
-    "id": 8,
+    "id": 7,
     "orig_id": 1264,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -184,7 +161,7 @@
     "mock_id": "ch_math_number_bodmas_16"
   },
   {
-    "id": 9,
+    "id": 8,
     "orig_id": 1266,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -207,7 +184,7 @@
     "mock_id": "ch_math_number_bodmas_16"
   },
   {
-    "id": 10,
+    "id": 9,
     "orig_id": 1267,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -225,6 +202,29 @@
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "मुख्य तथ्य / नियम / सूत्र:\n• सराहना और सुधार EI है।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• अतः विकल्प (D) सही है।",
       "exam_tips": "शांत सदस्यों को प्रोत्साहित करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_math_number_bodmas_16"
+  },
+  {
+    "id": 10,
+    "orig_id": 1268,
+    "subject_code": "MATH",
+    "subject": "गणित",
+    "topic_id": "math_number_bodmas",
+    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
+    "question": "एक क्रॉस-टीम मीटिंग के दौरान एक व्यक्ति दूसरे की बातों की अत्यधिक आलोचना करता है। टीम लीड के रूप में चर्चा को सकारात्मक बनाए रखने का सबसे अच्छा तरीका क्या होगा?",
+    "options": {
+      "A": "बहस को बिना रोक-टोक जारी रखें",
+      "B": "रचनात्मक सुझाव मांगें और ध्यान पुनः केंद्रित करें",
+      "C": "नकारात्मक व्यक्ति की सार्वजनिक रूप से आलोचना करें",
+      "D": "बैठक तुरंत समाप्त करें"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र:\n• रचनात्मकता से ध्यान बदलता है।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• अतः विकल्प (B) सही है।",
+      "exam_tips": "सकारात्मक नेतृत्व दिखाएं।"
     },
     "difficulty": "Medium",
     "mock_id": "ch_math_number_bodmas_16"

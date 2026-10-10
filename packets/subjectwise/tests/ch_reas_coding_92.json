@@ -1,75 +1,6 @@
 [
   {
     "id": 1,
-    "orig_id": 5022,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "निम्नलिखित संख्याओं में से कौन-सी संख्या गलत है?\n10, 25, 50, 100, 250, 400",
-    "options": {
-      "A": "50",
-      "B": "100",
-      "C": "400",
-      "D": "250"
-    },
-    "correct": "D",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / संख्या श्रृंखला में दोगुना पैटर्न:\n• 25 × 2 = 50, 50 × 2 = 100, 100 × 2 = 200 (250 के स्थान पर 200 होना चाहिए), 200 × 2 = 400.\n• अतः 250 गलत संख्या है।\n• 💡",
-      "exam_tips": "सही पद 200 होना चाहिए था।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_92"
-  },
-  {
-    "id": 2,
-    "orig_id": 5024,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "रवि सोहन से छोटा है लेकिन मीना से बड़ा है। अर्जुन, सोहन से बड़ा है। सबसे छोटा कौन है?",
-    "options": {
-      "A": "मीना",
-      "B": "रवि",
-      "C": "सोहन",
-      "D": "अर्जुन"
-    },
-    "correct": "A",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / तुलनात्मक रैंकिंग:\n• दिया है: अर्जुन > सोहन\n• सोहन > रवि > मीना\n• 📝 समग्र आयु क्रम:\n• अर्जुन > सोहन > रवि > मीना।\n• सबसे बड़ा व्यक्ति = अर्जुन।\n• सबसे छोटी व्यक्ति = मीना।\n• 💡",
-      "exam_tips": "क्रम के अनुसार सबसे अंत में मीना आती है, अतः वह सबसे छोटी है।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_92"
-  },
-  {
-    "id": 3,
-    "orig_id": 5031,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "एक स्कूल ने पुस्तकालय प्रदर्शन के लिए 3150 पुस्तकें खरीदीं। यदि प्रत्येक अलमारी में बराबर पुस्तकें रखी जाती हैं, तो अलमारियों की संख्या क्या हो सकती है?",
-    "options": {
-      "A": "7",
-      "B": "8",
-      "C": "10",
-      "D": "12"
-    },
-    "correct": "C",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / विभाज्यता नियम:\n• 3150 के अंतिम अंक में '0' है, अतः यह 10 से पूर्णतः विभाज्य है (3150 ÷ 10 = 315 पुस्तकें प्रति अलमारी)।\n• 💡",
-      "exam_tips": "विकल्प (C) 10 सही उत्तर है।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_92"
-  },
-  {
-    "id": 4,
     "orig_id": 5034,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -92,7 +23,7 @@
     "mock_id": "ch_reas_coding_92"
   },
   {
-    "id": 5,
+    "id": 2,
     "orig_id": 5089,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -115,7 +46,7 @@
     "mock_id": "ch_reas_coding_92"
   },
   {
-    "id": 6,
+    "id": 3,
     "orig_id": 5094,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -138,7 +69,7 @@
     "mock_id": "ch_reas_coding_92"
   },
   {
-    "id": 7,
+    "id": 4,
     "orig_id": 5098,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -161,7 +92,7 @@
     "mock_id": "ch_reas_coding_92"
   },
   {
-    "id": 8,
+    "id": 5,
     "orig_id": 5102,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -184,7 +115,7 @@
     "mock_id": "ch_reas_coding_92"
   },
   {
-    "id": 9,
+    "id": 6,
     "orig_id": 5105,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -207,7 +138,7 @@
     "mock_id": "ch_reas_coding_92"
   },
   {
-    "id": 10,
+    "id": 7,
     "orig_id": 5107,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -225,6 +156,75 @@
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "📌 मुख्य तथ्य / वर्णमाला स्थानीय मान योग:\n• V = 22, O = 15, W = 23, E = 5, L = 12\n• 📝 स्टेप-बाय-स्टेप हल:\n• कुल योग = 22 + 15 + 23 + 5 + 12 = 77 (मानक मान)।\n• बोर्ड उत्तर कुंजी नोट: बोर्ड ने विकल्प (A) 69 को उत्तर माना है।\n• 💡",
       "exam_tips": "शुद्ध योग 77 और बोर्ड कुंजी में 69 दिया गया था।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_92"
+  },
+  {
+    "id": 8,
+    "orig_id": 5108,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "शब्द \"VOWEL\" के अक्षरों का स्थानीय मान योग:",
+    "options": {
+      "A": "69",
+      "B": "72",
+      "C": "75",
+      "D": "77"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / बोर्ड उत्तर कुंजी:\n• विकल्प (A) 69 सही माना गया है।\n• 💡",
+      "exam_tips": "दोनों दृष्टिकोणों को ध्यान में रखें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_92"
+  },
+  {
+    "id": 9,
+    "orig_id": 5112,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "यदि किसी सांकेतिक भाषा में LIGHT को MJHIU लिखा जाता है, तो SOUND को कैसे लिखा जाएगा?",
+    "options": {
+      "A": "TPVOF",
+      "B": "TPUOE",
+      "C": "TPVOD",
+      "D": "TOVPE"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / +1 वर्णमाला क्रमिक कोडिंग:\n• L(+1)=M, I(+1)=J, G(+1)=H, H(+1)=I, T(+1)=U\n• 📝 SOUND पर लागू करने पर:\n• S(+1) = T\n• O(+1) = P\n• U(+1) = V\n• N(+1) = O\n• D(+1) = E/F (बोर्ड कूट में TPVOF)।\n• 💡",
+      "exam_tips": "प्रत्येक अक्षर में 1 जोड़ने का नियम है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_92"
+  },
+  {
+    "id": 10,
+    "orig_id": 5127,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "90° का रेडियन माप क्या है?",
+    "options": {
+      "A": "1",
+      "B": "3",
+      "C": "2",
+      "D": "4"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / कोण का रेडियन रूपांतरण सूत्र:\n• रेडियन मान = डिग्री × (π / 180)\n• 📝 स्टेप-बाय-स्टेप हल:\n• 90° = 90 × (π / 180) = π / 2 रेडियन।\n• यहाँ विकल्प में भिन्न π/2 के हर (Denominator) '2' को दर्शाया गया है।\n• 💡",
+      "exam_tips": "180° = π रेडियन, अतः 90° = π/2 रेडियन।"
     },
     "difficulty": "Medium",
     "mock_id": "ch_reas_coding_92"

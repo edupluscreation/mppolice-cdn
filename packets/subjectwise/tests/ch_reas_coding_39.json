@@ -1,29 +1,6 @@
 [
   {
     "id": 1,
-    "orig_id": 2206,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "समुद्र तल पर FIFA द्वारा अनुमोदित मैच बॉल के लिए आवश्यक दबाव सीमा क्या है?",
-    "options": {
-      "A": "0.4-0.6 atm",
-      "B": "0.5-1.0 atm",
-      "C": "0.6-1.1 atm",
-      "D": "0.7-1.2 atm"
-    },
-    "correct": "C",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "मुख्य तथ्य / नियम / सूत्र: फीफा फुटबॉल विनिर्देश मानक (FIFA Football Rules):\n• स्टेप-बाय-स्टेप हल:\n• समुद्र तल पर अंतर्राष्ट्रीय फुटबॉल महासंघ (FIFA) द्वारा स्वीकृत आधिकारिक मैच फुटबॉल के अंदर वायु का दबाव 0.6 से 1.1 वायुमंडल (0.6 - 1.1 atm) अर्थात 600 - 1100 ग्राम/वर्ग सेमी (8.5 - 15.6 psi) होना अनिवार्य है।",
-      "exam_tips": "मैच बॉल की परिधि 68-70 सेमी और वजन 410-450 ग्राम होना चाहिए।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_39"
-  },
-  {
-    "id": 2,
     "orig_id": 2222,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -46,7 +23,7 @@
     "mock_id": "ch_reas_coding_39"
   },
   {
-    "id": 3,
+    "id": 2,
     "orig_id": 2223,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -69,7 +46,7 @@
     "mock_id": "ch_reas_coding_39"
   },
   {
-    "id": 4,
+    "id": 3,
     "orig_id": 2226,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -92,7 +69,7 @@
     "mock_id": "ch_reas_coding_39"
   },
   {
-    "id": 5,
+    "id": 4,
     "orig_id": 2227,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -115,7 +92,7 @@
     "mock_id": "ch_reas_coding_39"
   },
   {
-    "id": 6,
+    "id": 5,
     "orig_id": 2229,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -138,7 +115,7 @@
     "mock_id": "ch_reas_coding_39"
   },
   {
-    "id": 7,
+    "id": 6,
     "orig_id": 2239,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -161,7 +138,7 @@
     "mock_id": "ch_reas_coding_39"
   },
   {
-    "id": 8,
+    "id": 7,
     "orig_id": 2264,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -184,7 +161,7 @@
     "mock_id": "ch_reas_coding_39"
   },
   {
-    "id": 9,
+    "id": 8,
     "orig_id": 2270,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -207,7 +184,7 @@
     "mock_id": "ch_reas_coding_39"
   },
   {
-    "id": 10,
+    "id": 9,
     "orig_id": 2271,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -225,6 +202,29 @@
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "मुख्य तथ्य / नियम / सूत्र: राजनीतिक पद वर्गीकरण:\n• स्टेप-बाय-स्टेप हल:\n• नरेंद्र मोदी (प्रधानमंत्री/पूर्व सीएम), अरविंद केजरीवाल (मुख्यमंत्री), राहुल गांधी (सांसद) और अमित शाह (गृह मंत्री) में पदों के आधार पर वर्गीकरण किया गया है।\n• बोर्ड कुंजी में अमित शाह / राहुल गांधी को चिह्नित किया गया।",
       "exam_tips": "संवैधानिक पदों की तुलना से वर्गीकरण होता है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_39"
+  },
+  {
+    "id": 10,
+    "orig_id": 2274,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "निर्देश: निम्नलिखित वस्तुओं को देखें और सही विकल्प चुनें।\nफावड़ा, पोलआर्म्स्, कुल्हाड़ियाँ, कटार",
+    "options": {
+      "A": "फावड़ा",
+      "B": "पोलआर्म्स्",
+      "C": "पिस्तौल",
+      "D": "कटारें"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र: हथियारों का वर्गीकरण (Melee Weapons vs Firearm):\n• स्टेप-बाय-स्टेप हल:\n• फावड़ा, पोलआर्म्स (लंबी लाठी वाले भाले), कुल्हाड़ियाँ और कटारें प्राचीन/पारंपरिक धारदार या भारी प्रहारक हथियार व औजार हैं।\n• जबकि पिस्तौल (Pistol) आधुनिक बारूदी आग्नेयास्त्र (Firearm) है।\n• अतः पिस्तौल अन्य सभी से सर्वथा भिन्न है।",
+      "exam_tips": "धारदार हथियार बनाम आग्नेयास्त्र का वर्गीकरण।"
     },
     "difficulty": "Medium",
     "mock_id": "ch_reas_coding_39"

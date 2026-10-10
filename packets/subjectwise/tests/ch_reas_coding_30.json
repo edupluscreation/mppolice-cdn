@@ -1,29 +1,6 @@
 [
   {
     "id": 1,
-    "orig_id": 1701,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "दिए गए कथनों और निष्कर्षों को ध्यानपूर्वक पढ़िए। यह मानते हुए कि कथनों में दी गई जानकारी सत्य है, भले ही वह ज्ञात तथ्यों से अलग प्रतीत होती हो, निर्णय कीजिए कि दिए गए निष्कर्षों में से कौन-सा/से निष्कर्ष कथनों का तार्किक रूप से अनुसरण करता/करते हैं।\nकथन:\nI. सभी Z, Y हैं।\nII. कुछ Y, A हैं।\nनिष्कर्ष:\nI. कुछ A, Z नहीं हैं।\nII. कुछ Y, Z नहीं हैं।\nIII. कुछ Z, Y हैं।",
-    "options": {
-      "A": "निष्कर्ष II और III दोनों अनुसरण करते हैं",
-      "B": "निष्कर्ष I और III दोनों अनुसरण करते हैं",
-      "C": "केवल निष्कर्ष III अनुसरण करता है",
-      "D": "सभी निष्कर्ष अनुसरण करते हैं"
-    },
-    "correct": "C",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "मुख्य तथ्य / नियम / सूत्र: न्याय निगमन (Syllogism Conversion Rules):\n• विश्लेषण:\n• कथन \"सभी Z, Y हैं\" (All Z are Y) से निश्चित रूप से \"कुछ Z, Y हैं\" (Some Z are Y) वैध रूप से निकलता है।\n• A और Z के बीच कोई प्रत्यक्ष संबंध नहीं दिया गया है, अतः नकारात्मक निष्कर्ष निश्चित नहीं है।\n• अतः केवल निष्कर्ष III सत्य है।",
-      "exam_tips": "'सभी' वाले कथन से 'कुछ' वाला निष्कर्ष सदैव सत्य होता है।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_30"
-  },
-  {
-    "id": 2,
     "orig_id": 1704,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -46,7 +23,7 @@
     "mock_id": "ch_reas_coding_30"
   },
   {
-    "id": 3,
+    "id": 2,
     "orig_id": 1724,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -69,7 +46,7 @@
     "mock_id": "ch_reas_coding_30"
   },
   {
-    "id": 4,
+    "id": 3,
     "orig_id": 1726,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -92,7 +69,7 @@
     "mock_id": "ch_reas_coding_30"
   },
   {
-    "id": 5,
+    "id": 4,
     "orig_id": 1727,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -115,7 +92,7 @@
     "mock_id": "ch_reas_coding_30"
   },
   {
-    "id": 6,
+    "id": 5,
     "orig_id": 1728,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -138,7 +115,7 @@
     "mock_id": "ch_reas_coding_30"
   },
   {
-    "id": 7,
+    "id": 6,
     "orig_id": 1731,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -161,7 +138,7 @@
     "mock_id": "ch_reas_coding_30"
   },
   {
-    "id": 8,
+    "id": 7,
     "orig_id": 1744,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -184,7 +161,7 @@
     "mock_id": "ch_reas_coding_30"
   },
   {
-    "id": 9,
+    "id": 8,
     "orig_id": 1747,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -207,7 +184,7 @@
     "mock_id": "ch_reas_coding_30"
   },
   {
-    "id": 10,
+    "id": 9,
     "orig_id": 1748,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -225,6 +202,29 @@
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "मुख्य तथ्य / नियम / सूत्र: रैंकिंग और आयु तुलना पहेली:\n• स्टेप-बाय-स्टेप हल:\n• R केवल 3 से बड़ा है ⇒ R दूसरे स्थान पर है (T > R > _ > _ > _)।\n• P, R से छोटा है और Q से बड़ा है (R > P > Q)।\n• S, P से छोटा है लेकिन सबसे छोटा नहीं है ⇒ Q सबसे छोटा है।\n• पूर्ण क्रम: T > R > P > S > Q\n• अतः सबसे छोटा व्यक्ति Q है।",
       "exam_tips": "दी गई शर्तों के आधार पर 1 से 5 तक के स्थान निर्धारित करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_30"
+  },
+  {
+    "id": 10,
+    "orig_id": 1777,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "सप्ताह के दिनों की गणना में '0' या '7' से हमेशा कौन-सा दिन दर्शाया जाता है?",
+    "options": {
+      "A": "सोमवार",
+      "B": "बुधवार",
+      "C": "शनिवार",
+      "D": "रविवार"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र: कैलेंडर में दिनों के मानक कोड:\n• 0 या 7 = रविवार (Sunday)\n• 1 = सोमवार (Monday)\n• 2 = मंगलवार (Tuesday)\n• 3 = बुधवार (Wednesday)\n• 4 = गुरुवार (Thursday)\n• 5 = शुक्रवार (Friday)\n• 6 = शनिवार (Saturday)",
+      "exam_tips": "जब विषम दिनों की संख्या 0 बचती है, तो वह दिन रविवार होता है।"
     },
     "difficulty": "Medium",
     "mock_id": "ch_reas_coding_30"

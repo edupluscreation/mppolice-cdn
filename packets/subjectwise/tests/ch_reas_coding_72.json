@@ -1,52 +1,6 @@
 [
   {
     "id": 1,
-    "orig_id": 3940,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "π रेडियन का डिग्री माप क्या है?",
-    "options": {
-      "A": "360°",
-      "B": "90°",
-      "C": "180°",
-      "D": "45°"
-    },
-    "correct": "C",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "रेडियन और डिग्री संबंध: π रेडियन = 180°\n• (1 रेडियन = 180°/π ≈ 57.3° तथा 2π रेडियन = 360°)\n• सही विकल्प: (C) 180°।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_72"
-  },
-  {
-    "id": 2,
-    "orig_id": 3950,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "एक लड़की हर सुबह 5 किलोमीटर प्रति घंटे की स्थिर चाल से दौड़ती है। वह 2 घंटे में कितनी दूरी तय करेगी?",
-    "options": {
-      "A": "8 किमी",
-      "B": "9 किमी",
-      "C": "12 किमी",
-      "D": "10 किमी"
-    },
-    "correct": "D",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "गणना: दूरी = 5 × 2 = 10 किमी।\n• सही विकल्प: (D) 10 किमी।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_72"
-  },
-  {
-    "id": 3,
     "orig_id": 3970,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -69,7 +23,7 @@
     "mock_id": "ch_reas_coding_72"
   },
   {
-    "id": 4,
+    "id": 2,
     "orig_id": 3971,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -92,7 +46,7 @@
     "mock_id": "ch_reas_coding_72"
   },
   {
-    "id": 5,
+    "id": 3,
     "orig_id": 3972,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -115,7 +69,7 @@
     "mock_id": "ch_reas_coding_72"
   },
   {
-    "id": 6,
+    "id": 4,
     "orig_id": 3975,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -138,7 +92,7 @@
     "mock_id": "ch_reas_coding_72"
   },
   {
-    "id": 7,
+    "id": 5,
     "orig_id": 3978,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -161,7 +115,7 @@
     "mock_id": "ch_reas_coding_72"
   },
   {
-    "id": 8,
+    "id": 6,
     "orig_id": 3985,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -184,7 +138,7 @@
     "mock_id": "ch_reas_coding_72"
   },
   {
-    "id": 9,
+    "id": 7,
     "orig_id": 3986,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -207,7 +161,7 @@
     "mock_id": "ch_reas_coding_72"
   },
   {
-    "id": 10,
+    "id": 8,
     "orig_id": 4002,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -225,6 +179,52 @@
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "कम्यूटेटर का कार्य: डीसी जनरेटर में स्प्लिट रिंग कम्यूटेटर कुंडली में उत्पन्न प्रत्यावर्ती धारा (AC) की दिशा को बदलकर बाह्य परिपथ में एकदिशीय धारा (DC) बनाए रखता है।\n• सही विकल्प: (B) धारा की दिशा को उलटना।",
       "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_72"
+  },
+  {
+    "id": 9,
+    "orig_id": 4020,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "यदि SCHOLAR को QZDJFTJ लिखा जाता है, तो ABILITY को कैसे लिखा जाएगा?",
+    "options": {
+      "A": "YEGYCMQ",
+      "B": "YQECGM",
+      "C": "YYCGEQM",
+      "D": "YYEGCMQ"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "कोडिंग डिकोडिंग:\n• SCHOLAR ➔ QZDJFTJ के अनुरूप रूपांतरण करने पर ABILITY का कोड YYEGCMQ बनता है।\n• सही विकल्प: (D) YYEGCMQ।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_72"
+  },
+  {
+    "id": 10,
+    "orig_id": 4027,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "यदि शब्द ELECTRIC में सभी स्वर हटा दिए जाएँ, तो बाएँ से तीसरा अक्षर कौन-सा होगा?",
+    "options": {
+      "A": "L",
+      "B": "C",
+      "C": "T",
+      "D": "R"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य नियम: दिए गए शब्द में से स्वर (Vowels: A, E, I, O, U) को हटाकर शेष व्यंजनों की स्थिति गिनना।\n• 📝 स्टेप-बाय-स्टेप हल:\n• मूल शब्द: E L E C T R I C (कुल 8 अक्षर)।\n• स्वर हटाने पर: E, E, I हटा दिए गए।\n• शेष व्यंजन: L, C, T, R, C।\n• बाएँ से क्रम:\n• पहला अक्षर = L\n• दूसरा अक्षर = C\n• तीसरा अक्षर = T\n• 💡",
+      "exam_tips": "अक्षरों के क्रम परीक्षण में बाएँ से (Left to Right) और दाएँ से (Right to Left) दिशा का सदैव ध्यान रखें।"
     },
     "difficulty": "Medium",
     "mock_id": "ch_reas_coding_72"

@@ -1,75 +1,6 @@
 [
   {
     "id": 1,
-    "orig_id": 5002,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "यदि उत्तर-पश्चिम दिशा 'दक्षिण' बन जाती है, तो 'पूर्व' दिशा क्या बन जाएगी?",
-    "options": {
-      "A": "उत्तर",
-      "B": "पश्चिम",
-      "C": "उत्तर-पश्चिम",
-      "D": "दक्षिण-पश्चिम"
-    },
-    "correct": "A",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / दिशा चक्र घूर्णन:\n• उत्तर-पश्चिम (315°) से दक्षिण (180°) = 135° वामावर्त (Anti-clockwise)।\n• 📝 पूर्व का घूर्णन:\n• पूर्व (90°) को 135° वामावर्त घुमाने पर उत्तर-पश्चिम (315°) बनता है।\n• बोर्ड उत्तर कुंजी नोट: बोर्ड द्वारा विकल्प (A) उत्तर को उत्तर माना गया है।\n• 💡",
-      "exam_tips": "दिशा घूर्णन में सभी दिशाएं एक समान कोण से घूमती हैं।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_91"
-  },
-  {
-    "id": 2,
-    "orig_id": 5004,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "निम्नलिखित श्रृंखला में विषम संख्या कौन-सी है?\n10, 14, 16, 18, 21, 24, 26",
-    "options": {
-      "A": "21",
-      "B": "14",
-      "C": "26",
-      "D": "18"
-    },
-    "correct": "C",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / सम और विषम संख्या वर्गीकरण:\n• श्रृंखला में 21 एकमात्र विषम (Odd) संख्या है और शेष सभी सम (Even) हैं।\n• बोर्ड उत्तर कुंजी नोट: बोर्ड द्वारा विकल्प (C) 26 को उत्तर माना गया है।\n• 💡",
-      "exam_tips": "गणितीय रूप से 21 विषम संख्या है, बोर्ड कुंजी में 26 दिया गया था।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_91"
-  },
-  {
-    "id": 3,
-    "orig_id": 5006,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "यदि 'TRAIN' को 'VTCKP' के रूप में कोडित किया गया है, तो उसी कोड में 'WAGON' को कैसे लिखा जाएगा?",
-    "options": {
-      "A": "YCIOQ",
-      "B": "YDWFU",
-      "C": "YCIPO",
-      "D": "XBHPO"
-    },
-    "correct": "B",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / +2 वर्णमाला विस्थापन पैटर्न:\n• T(+2) = V, R(+2) = T, A(+2) = C, I(+2) = K, N(+2) = P\n• 📝 WAGON पर लागू करने पर:\n• W(+2) = Y\n• A(+2) = C (बोर्ड कूट में D)\n• G(+2) = I (बोर्ड कूट में W)\n• O(+2) = Q (बोर्ड कूट में F)\n• N(+2) = P (बोर्ड कूट में U)\n• बोर्ड उत्तर कुंजी अनुसार = YDWFU (विकल्प B)।\n• 💡",
-      "exam_tips": "बोर्ड उत्तर कुंजी में (B) को सही माना गया है।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_91"
-  },
-  {
-    "id": 4,
     "orig_id": 5007,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -92,7 +23,7 @@
     "mock_id": "ch_reas_coding_91"
   },
   {
-    "id": 5,
+    "id": 2,
     "orig_id": 5009,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -115,7 +46,7 @@
     "mock_id": "ch_reas_coding_91"
   },
   {
-    "id": 6,
+    "id": 3,
     "orig_id": 5015,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -138,7 +69,7 @@
     "mock_id": "ch_reas_coding_91"
   },
   {
-    "id": 7,
+    "id": 4,
     "orig_id": 5017,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -161,7 +92,7 @@
     "mock_id": "ch_reas_coding_91"
   },
   {
-    "id": 8,
+    "id": 5,
     "orig_id": 5018,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -184,7 +115,7 @@
     "mock_id": "ch_reas_coding_91"
   },
   {
-    "id": 9,
+    "id": 6,
     "orig_id": 5019,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -207,7 +138,7 @@
     "mock_id": "ch_reas_coding_91"
   },
   {
-    "id": 10,
+    "id": 7,
     "orig_id": 5020,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -225,6 +156,75 @@
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "📌 मुख्य तथ्य / नागरिक कर्तव्य एवं सुरक्षा:\n• सबसे पहले और तत्काल उपाय माता-पिता को बच्चे की सुरक्षा संबंधी लापरवाही से शांतिपूर्वक अवगत कराना है।\n• 💡",
       "exam_tips": "प्राथमिक स्तर पर संवाद से समाधान निकालना सर्वोत्तम नागरिक व्यवहार है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_91"
+  },
+  {
+    "id": 8,
+    "orig_id": 5022,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "निम्नलिखित संख्याओं में से कौन-सी संख्या गलत है?\n10, 25, 50, 100, 250, 400",
+    "options": {
+      "A": "50",
+      "B": "100",
+      "C": "400",
+      "D": "250"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / संख्या श्रृंखला में दोगुना पैटर्न:\n• 25 × 2 = 50, 50 × 2 = 100, 100 × 2 = 200 (250 के स्थान पर 200 होना चाहिए), 200 × 2 = 400.\n• अतः 250 गलत संख्या है।\n• 💡",
+      "exam_tips": "सही पद 200 होना चाहिए था।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_91"
+  },
+  {
+    "id": 9,
+    "orig_id": 5024,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "रवि सोहन से छोटा है लेकिन मीना से बड़ा है। अर्जुन, सोहन से बड़ा है। सबसे छोटा कौन है?",
+    "options": {
+      "A": "मीना",
+      "B": "रवि",
+      "C": "सोहन",
+      "D": "अर्जुन"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / तुलनात्मक रैंकिंग:\n• दिया है: अर्जुन > सोहन\n• सोहन > रवि > मीना\n• 📝 समग्र आयु क्रम:\n• अर्जुन > सोहन > रवि > मीना।\n• सबसे बड़ा व्यक्ति = अर्जुन।\n• सबसे छोटी व्यक्ति = मीना।\n• 💡",
+      "exam_tips": "क्रम के अनुसार सबसे अंत में मीना आती है, अतः वह सबसे छोटी है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_91"
+  },
+  {
+    "id": 10,
+    "orig_id": 5031,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "एक स्कूल ने पुस्तकालय प्रदर्शन के लिए 3150 पुस्तकें खरीदीं। यदि प्रत्येक अलमारी में बराबर पुस्तकें रखी जाती हैं, तो अलमारियों की संख्या क्या हो सकती है?",
+    "options": {
+      "A": "7",
+      "B": "8",
+      "C": "10",
+      "D": "12"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / विभाज्यता नियम:\n• 3150 के अंतिम अंक में '0' है, अतः यह 10 से पूर्णतः विभाज्य है (3150 ÷ 10 = 315 पुस्तकें प्रति अलमारी)।\n• 💡",
+      "exam_tips": "विकल्प (C) 10 सही उत्तर है।"
     },
     "difficulty": "Medium",
     "mock_id": "ch_reas_coding_91"

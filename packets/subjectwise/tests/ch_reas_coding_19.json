@@ -70,29 +70,6 @@
   },
   {
     "id": 4,
-    "orig_id": 1132,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "50 छात्रों की कक्षा में, राजेश नीचे से 39वें स्थान पर है। तो ऊपर से उसकी स्थिति क्या होगी?",
-    "options": {
-      "A": "11वाँ",
-      "B": "13वाँ",
-      "C": "12वाँ\n• उत्तर: (C) 12वाँ\n• > 💡 व्याख्या (Explanation):\n> • मुख्य तथ्य / नियम / सूत्र:\n>   • ऊपर से = कुल - नीचे से + 1 = 12।\n> • स्टेप-बाय-स्टेप हल / विवरण:\n>   • मूल में विकल्प D कटा है, अगले प्रश्न 1134 में पूर्ण विकल्पों के साथ उत्तर 12वाँ है।\n> • परीक्षा उपयोगी बिंदु:\n>   • +1 करना न भूलें।\n•",
-      "D": ""
-    },
-    "correct": "C",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "मुख्य तथ्य / नियम / सूत्र:\n• ऊपर से = कुल - नीचे से + 1 = 12।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• मूल में विकल्प D कटा है, अगले प्रश्न 1134 में पूर्ण विकल्पों के साथ उत्तर 12वाँ है।",
-      "exam_tips": "+1 करना न भूलें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_19"
-  },
-  {
-    "id": 5,
     "orig_id": 1135,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -115,7 +92,7 @@
     "mock_id": "ch_reas_coding_19"
   },
   {
-    "id": 6,
+    "id": 5,
     "orig_id": 1140,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -138,7 +115,7 @@
     "mock_id": "ch_reas_coding_19"
   },
   {
-    "id": 7,
+    "id": 6,
     "orig_id": 1146,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -161,7 +138,7 @@
     "mock_id": "ch_reas_coding_19"
   },
   {
-    "id": 8,
+    "id": 7,
     "orig_id": 1148,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -184,7 +161,7 @@
     "mock_id": "ch_reas_coding_19"
   },
   {
-    "id": 9,
+    "id": 8,
     "orig_id": 1149,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -207,7 +184,7 @@
     "mock_id": "ch_reas_coding_19"
   },
   {
-    "id": 10,
+    "id": 9,
     "orig_id": 1150,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -225,6 +202,29 @@
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "मुख्य तथ्य / नियम / सूत्र:\n• अधूरे कार्य प्रबंधन की कमी दर्शाते हैं।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• अतः विकल्प (B) सही है।",
       "exam_tips": "नकारात्मक चरित्र अनुमान से बचें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_19"
+  },
+  {
+    "id": 10,
+    "orig_id": 1155,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "दिए गए संख्याओं के समुच्चय (सेट) में से वह संख्या चुनिए जो अन्य से भिन्न है।\n49, 63, 77, 84, 89, 98",
+    "options": {
+      "A": "63",
+      "B": "77",
+      "C": "84",
+      "D": "89"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र:\n• 7 से विभाज्यता देखें।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• 89 को छोड़कर सभी 7 से विभाजित हैं।\n• अतः विकल्प (D) सही है।",
+      "exam_tips": "अभाज्य और भाज्य का अंतर देखें।"
     },
     "difficulty": "Medium",
     "mock_id": "ch_reas_coding_19"

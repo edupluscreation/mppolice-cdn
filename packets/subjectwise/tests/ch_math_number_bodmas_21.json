@@ -1,29 +1,6 @@
 [
   {
     "id": 1,
-    "orig_id": 1605,
-    "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_number_bodmas",
-    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
-    "question": "यदि कपड़े का एक टुकड़ा 8 मीटर लंबा है और उसमें से 2.5 मीटर काट लिया जाए, तो कितना कपड़ा बचता है?",
-    "options": {
-      "A": "5.0 मीटर",
-      "B": "5.5 मीटर",
-      "C": "6.0 मीटर",
-      "D": "6.5 मीटर"
-    },
-    "correct": "B",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "मुख्य तथ्य / नियम / सूत्र: दशमलव घटाव का प्राथमिक नियम:\n• स्टेप-बाय-स्टेप हल:\n• कपड़े की कुल लंबाई = 8.0 मीटर\n• काटा गया हिस्सा = 2.5 मीटर\n• शेष कपड़ा = 8.0 - 2.5\n• 8.0 - 2.5 = 5.5 मीटर",
-      "exam_tips": "दशमलव संख्याओं को घटाते समय दशमलव बिंदु के स्थान को लंबवत संरेखित करें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_math_number_bodmas_21"
-  },
-  {
-    "id": 2,
     "orig_id": 1606,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -46,7 +23,7 @@
     "mock_id": "ch_math_number_bodmas_21"
   },
   {
-    "id": 3,
+    "id": 2,
     "orig_id": 1608,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -69,7 +46,7 @@
     "mock_id": "ch_math_number_bodmas_21"
   },
   {
-    "id": 4,
+    "id": 3,
     "orig_id": 1609,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -92,7 +69,7 @@
     "mock_id": "ch_math_number_bodmas_21"
   },
   {
-    "id": 5,
+    "id": 4,
     "orig_id": 1610,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -115,7 +92,7 @@
     "mock_id": "ch_math_number_bodmas_21"
   },
   {
-    "id": 6,
+    "id": 5,
     "orig_id": 1612,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -138,7 +115,7 @@
     "mock_id": "ch_math_number_bodmas_21"
   },
   {
-    "id": 7,
+    "id": 6,
     "orig_id": 1651,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -161,7 +138,7 @@
     "mock_id": "ch_math_number_bodmas_21"
   },
   {
-    "id": 8,
+    "id": 7,
     "orig_id": 1661,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -184,7 +161,7 @@
     "mock_id": "ch_math_number_bodmas_21"
   },
   {
-    "id": 9,
+    "id": 8,
     "orig_id": 1670,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -207,7 +184,7 @@
     "mock_id": "ch_math_number_bodmas_21"
   },
   {
-    "id": 10,
+    "id": 9,
     "orig_id": 1685,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -225,6 +202,29 @@
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "मुख्य तथ्य / नियम / सूत्र: अपूर्ण प्रभाविता (Incomplete Dominance - कार्ल कॉरेन्स, 1903):\n• विवरण:\n• जब दो युग्मविकल्पी (Alleles) में से कोई भी एक दूसरे पर पूर्णतः प्रभावी (Dominant) नहीं होता, तो विषमयुग्मजी अवस्था में दोनों का एक मध्यवर्ती लक्षण (Intermediate phenotype) प्रकट होता है।\n• उदाहरण: Mirabilis jalapa (4 o'clock plant) में लाल फूल (RR) और सफेद फूल (rr) के संकरण से गुलाबी फूल (Rr) उत्पन्न होते हैं।",
       "exam_tips": "अपूर्ण प्रभाविता में F₂ पीढ़ी का लक्षणप्ररूपी और जीनप्ररूपी दोनों अनुपात समान 1 : 2 : 1 होता है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_math_number_bodmas_21"
+  },
+  {
+    "id": 10,
+    "orig_id": 1695,
+    "subject_code": "MATH",
+    "subject": "गणित",
+    "topic_id": "math_number_bodmas",
+    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
+    "question": "एक कृषि अधिकारी ने 9 खेतों में गेहूं की उपज (क्विंटल/एकड़) दर्ज की: 20, 22, 19, 25, 30, 18, 21, 23, 24। माध्यिका उपज क्या होगी?",
+    "options": {
+      "A": "25",
+      "B": "23",
+      "C": "24",
+      "D": "22"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र: विषम पदों की माध्यिका = [(n + 1)/2]वाँ पद (आरोही क्रम में)।\n• स्टेप-बाय-स्टेप हल:\n• आरोही क्रम: 18, 19, 20, 21, 22, 23, 24, 25, 30\n• n = 9 पद, मध्य पद (5वाँ पद) = 22 (विकल्प D)\n• बोर्ड कुंजी में 23 अंकित हुआ था; सही गणितीय मान 22 है।",
+      "exam_tips": "माध्यिका निकालने से पूर्व आँकड़ों को आरोही क्रम में लगाना अनिवार्य है।"
     },
     "difficulty": "Medium",
     "mock_id": "ch_math_number_bodmas_21"

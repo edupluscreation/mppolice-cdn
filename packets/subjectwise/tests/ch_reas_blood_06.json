@@ -1,29 +1,6 @@
 [
   {
     "id": 1,
-    "orig_id": 2365,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_blood",
-    "topic": "रक्त संबंध (Blood Relations)",
-    "question": "X, Y की बहन है। Z, Y की माँ है। W, Z का पिता है। तो X, W से किस प्रकार संबंधित है?",
-    "options": {
-      "A": "बेटी",
-      "B": "पोती",
-      "C": "बहन",
-      "D": "माँ"
-    },
-    "correct": "B",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "पारिवारिक संबंध विश्लेषण:\n• $X, Y$ की बहन है $\\rightarrow X$ महिला (पुत्री/बहन) है।\n• $Z, Y$ की माँ है $\\rightarrow Z, X$ की भी माँ है।\n• $W, Z$ का पिता है $\\rightarrow W, Z$ का पिता है (यानी $X$ की माँ का पिता = नाना)।\n• इसलिए, $X$ का $W$ से संबंध: $X, W$ की नातिन / पोती (Granddaughter) है।\n• अतः सही उत्तर (B) नातिन / पोती है।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_blood_06"
-  },
-  {
-    "id": 2,
     "orig_id": 2423,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -46,7 +23,7 @@
     "mock_id": "ch_reas_blood_06"
   },
   {
-    "id": 3,
+    "id": 2,
     "orig_id": 2654,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -69,7 +46,7 @@
     "mock_id": "ch_reas_blood_06"
   },
   {
-    "id": 4,
+    "id": 3,
     "orig_id": 2655,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -92,7 +69,7 @@
     "mock_id": "ch_reas_blood_06"
   },
   {
-    "id": 5,
+    "id": 4,
     "orig_id": 2656,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -108,14 +85,14 @@
     "correct": "B",
     "explanation": {
       "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "संबंध विश्लेषण:\n• A, B की माँ है; B, C की बहन है $\\rightarrow$ A, C की भी माँ है।\n• E, C का पिता है $\\rightarrow$ E और A पति-पत्नी हैं।\n• इसलिए, E, B का भी पिता (Father) है।\n• अतः सही उत्तर (B) पिता है।",
+      "solution": "संबंध विश्लेषण:\n• A, B की माँ है; B, C की बहन है ➔ A, C की भी माँ है।\n• E, C का पिता है ➔ E और A पति-पत्नी हैं।\n• इसलिए, E, B का भी पिता (Father) है।\n• अतः सही उत्तर (B) पिता है।",
       "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
     },
     "difficulty": "Medium",
     "mock_id": "ch_reas_blood_06"
   },
   {
-    "id": 6,
+    "id": 5,
     "orig_id": 2788,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -131,14 +108,14 @@
     "correct": "D",
     "explanation": {
       "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "रक्त संबंध विश्लेषण:\n• Q की माँ का पति = Q का पिता।\n• Q का पिता P का इकलौता पुत्र है $\\rightarrow$ P, Q के पिता का पिता (अर्थात दादा) है।\n• इसलिए Q, P का पोता या पोती (Grandchild) है।\n• अतः सही उत्तर (D) पोता/पोती है।",
+      "solution": "रक्त संबंध विश्लेषण:\n• Q की माँ का पति = Q का पिता।\n• Q का पिता P का इकलौता पुत्र है ➔ P, Q के पिता का पिता (अर्थात दादा) है।\n• इसलिए Q, P का पोता या पोती (Grandchild) है।\n• अतः सही उत्तर (D) पोता/पोती है।",
       "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
     },
     "difficulty": "Medium",
     "mock_id": "ch_reas_blood_06"
   },
   {
-    "id": 7,
+    "id": 6,
     "orig_id": 2903,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -161,7 +138,7 @@
     "mock_id": "ch_reas_blood_06"
   },
   {
-    "id": 8,
+    "id": 7,
     "orig_id": 3032,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -184,7 +161,7 @@
     "mock_id": "ch_reas_blood_06"
   },
   {
-    "id": 9,
+    "id": 8,
     "orig_id": 3035,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -207,7 +184,7 @@
     "mock_id": "ch_reas_blood_06"
   },
   {
-    "id": 10,
+    "id": 9,
     "orig_id": 3143,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -224,6 +201,29 @@
     "explanation": {
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "रक्त संबंध विश्लेषण:\n• सोनिया, सुनील की बहन है।\n• अरुण, सोनिया का बेटा है ➔ अरुण, सुनील का भांजा है।\n• राजीव, अरुण का भाई है ➔ राजीव भी सोनिया का बेटा है।\n• अतः राजीव, सुनील की बहन का बेटा है, यानी राजीव, सुनील का भांजा (Nephew) है।\n• सही उत्तर (D) नेफ्यू है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_blood_06"
+  },
+  {
+    "id": 10,
+    "orig_id": 3144,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_blood",
+    "topic": "रक्त संबंध (Blood Relations)",
+    "question": "एक आदमी की ओर इशारा करते हुए, A कहता है, \"वह मेरे भाई की माँ की बेटी का पति है।\" वह आदमी A से किस प्रकार संबंधित है?",
+    "options": {
+      "A": "अंकल",
+      "B": "कजिन",
+      "C": "ब्रदर-इन-लॉ",
+      "D": "पिता"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "संबंध श्रृंखला:\n• \"मेरे भाई की माँ\" = A की माँ।\n• \"माँ की बेटी\" = A की बहन।\n• \"बहन का पति\" = A का जीजा / बहनोई (Brother-in-law)।\n• अतः वह आदमी A का ब्रदर-इन-लॉ है।",
       "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
     },
     "difficulty": "Medium",

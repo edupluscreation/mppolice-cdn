@@ -1,52 +1,6 @@
 [
   {
     "id": 1,
-    "orig_id": 8229,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_blood",
-    "topic": "रक्त संबंध (Blood Relations)",
-    "question": "A, B का पिता है, और B, C का भाई है। C, A से किस प्रकार संबंधित है?",
-    "options": {
-      "A": "अंकल",
-      "B": "पुत्र या पुत्री",
-      "C": "पिता",
-      "D": "भाई"
-    },
-    "correct": "B",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: रक्त संबंध (Blood Relations) - लिंग निर्धारण की अनिश्चितता।\n• 📝 स्टेप-बाय-स्टेप हल:\n1. A, B का पिता है (A = पिता, पुरुष)।\n2. B, C का भाई है (B = पुत्र, पुरुष)।\n3. चूँकि B और C सहोदर (भाई-बहन) हैं, अतः C भी A की संतान है।\n4. प्रश्न में C का लिंग स्पष्ट नहीं किया गया है (C पुरुष भी हो सकता है और महिला भी)।\n5. इसलिए C, A का पुत्र या पुत्री में से कोई एक होगा।\nअतः सही उत्तर (B) पुत्र या पुत्री है।\n• 💡",
-      "exam_tips": "जब तक किसी व्यक्ति का लिंग निर्धारित न हो, तब तक निश्चित रूप से पुत्र या पुत्री नहीं कहा जा सकता।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_blood_15"
-  },
-  {
-    "id": 2,
-    "orig_id": 8251,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_blood",
-    "topic": "रक्त संबंध (Blood Relations)",
-    "question": "A, B का भाई है। B, C की बहन है। D, C की माँ है। तो D, A से किस प्रकार संबंधित है?",
-    "options": {
-      "A": "माँ",
-      "B": "आंटी",
-      "C": "बहन",
-      "D": "भतीजी"
-    },
-    "correct": "A",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: रक्त संबंध (Blood Relations):\n• 📝 स्टेप-बाय-स्टेप हल:\n1. A, B का भाई है।\n2. B, C की बहन है।\n3. अतः A, B और C तीनों सगे भाई-बहन हैं।\n4. D, C की माँ है, इसलिए D, A और B की भी माँ होगी।\n5. D, A की 'माँ' है।\nअतः सही उत्तर (A) माँ है।\n• 💡",
-      "exam_tips": "सहोदरों के माता-पिता समान होते हैं।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_blood_15"
-  },
-  {
-    "id": 3,
     "orig_id": 8367,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -69,7 +23,7 @@
     "mock_id": "ch_reas_blood_15"
   },
   {
-    "id": 4,
+    "id": 2,
     "orig_id": 8369,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -92,7 +46,7 @@
     "mock_id": "ch_reas_blood_15"
   },
   {
-    "id": 5,
+    "id": 3,
     "orig_id": 8455,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -115,7 +69,7 @@
     "mock_id": "ch_reas_blood_15"
   },
   {
-    "id": 6,
+    "id": 4,
     "orig_id": 8456,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -138,7 +92,7 @@
     "mock_id": "ch_reas_blood_15"
   },
   {
-    "id": 7,
+    "id": 5,
     "orig_id": 8459,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -161,7 +115,7 @@
     "mock_id": "ch_reas_blood_15"
   },
   {
-    "id": 8,
+    "id": 6,
     "orig_id": 8460,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -184,7 +138,7 @@
     "mock_id": "ch_reas_blood_15"
   },
   {
-    "id": 9,
+    "id": 7,
     "orig_id": 8478,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -207,7 +161,7 @@
     "mock_id": "ch_reas_blood_15"
   },
   {
-    "id": 10,
+    "id": 8,
     "orig_id": 8568,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -225,6 +179,52 @@
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "📌 मुख्य तथ्य / नियम / सूत्र: रक्त संबंध (Blood Relations):\n• 📝 स्टेप-बाय-स्टेप हल:\n1. \"मेरी माँ का इकलौता बेटा\": रोहित स्वयं (क्योंकि रोहित पुरुष है और अपनी माँ का इकलौता बेटा है)।\n2. \"इकलौते बेटे की बेटी\" = रोहित की बेटी।\n3. अतः वह लड़की रोहित की 'बेटी' (Daughter) है।\nसही उत्तर (B) रोहित की बेटी है।\n• 💡",
       "exam_tips": "'माँ का इकलौता बेटा' वक्ता स्वयं होता है जब वक्ता पुरुष हो।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_blood_15"
+  },
+  {
+    "id": 9,
+    "orig_id": 8569,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_blood",
+    "topic": "रक्त संबंध (Blood Relations)",
+    "question": "If A is the father of B, but B is NOT the son of A, then how is B related to A? / यदि A, B का पिता है, लेकिन B, A का पुत्र नहीं है, तो B, A से किस प्रकार संबंधित है?",
+    "options": {
+      "A": "बहन",
+      "B": "माँ",
+      "C": "कज़िन",
+      "D": "बेटी"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: पारिवारिक संबंध एवं लिंग परीक्षण:\n• 📝 स्टेप-बाय-स्टेप हल:\n1. A, B का पिता है, जिसका अर्थ है कि B, A की संतान (Child) है।\n2. किसी पिता की संतान या तो पुत्र (बेटा) हो सकती है या पुत्री (बेटी)।\n3. प्रश्न में स्पष्ट दिया है कि B पुत्र नहीं है, तो B निश्चित रूप से 'बेटी' (पुत्री) होगी।\nअतः सही उत्तर (D) बेटी है।\n• 💡",
+      "exam_tips": "यह एक प्रसिद्ध तार्किक पहेली है जो सीधे द्वि-आधारी लिंग संबंध पर आधारित है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_blood_15"
+  },
+  {
+    "id": 10,
+    "orig_id": 8570,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_blood",
+    "topic": "रक्त संबंध (Blood Relations)",
+    "question": "If Ravi is the son of Meena, and Meena is the daughter of Alok, how is Alok related to Ravi? / यदि रवि, मीना का बेटा है, और मीना, आलोक की बेटी है, तो आलोक का रवि से क्या संबंध है?",
+    "options": {
+      "A": "पिता",
+      "B": "अंकल",
+      "C": "दादा",
+      "D": "कज़िन"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: दो पीढ़ियों का रक्त संबंध (Grandparent-Grandchild):\n• 📝 स्टेप-बाय-स्टेप हल:\n1. रवि, मीना का बेटा है।\n2. मीना, आलोक की बेटी है ⇒ आलोक, रवि की माँ का पिता है।\n3. माँ का पिता 'नाना' (Maternal Grandfather) कहलाता है।\n4. विकल्पों में 'दादा/नाना' के लिए विकल्प (C) दादा दिया गया है।\nअतः सही उत्तर (C) दादा है।\n• 💡",
+      "exam_tips": "अंग्रेज़ी में Grandfather शब्द दादा और नाना दोनों के लिए प्रयुक्त होता है।"
     },
     "difficulty": "Medium",
     "mock_id": "ch_reas_blood_15"

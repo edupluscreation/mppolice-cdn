@@ -1,29 +1,6 @@
 [
   {
     "id": 1,
-    "orig_id": 3144,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_blood",
-    "topic": "रक्त संबंध (Blood Relations)",
-    "question": "एक आदमी की ओर इशारा करते हुए, A कहता है, \"वह मेरे भाई की माँ की बेटी का पति है।\" वह आदमी A से किस प्रकार संबंधित है?",
-    "options": {
-      "A": "अंकल",
-      "B": "कजिन",
-      "C": "ब्रदर-इन-लॉ",
-      "D": "पिता"
-    },
-    "correct": "C",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "संबंध श्रृंखला:\n• \"मेरे भाई की माँ\" = A की माँ।\n• \"माँ की बेटी\" = A की बहन।\n• \"बहन का पति\" = A का जीजा / बहनोई (Brother-in-law)।\n• अतः वह आदमी A का ब्रदर-इन-लॉ है।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_blood_07"
-  },
-  {
-    "id": 2,
     "orig_id": 3241,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -46,7 +23,7 @@
     "mock_id": "ch_reas_blood_07"
   },
   {
-    "id": 3,
+    "id": 2,
     "orig_id": 3243,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -69,7 +46,7 @@
     "mock_id": "ch_reas_blood_07"
   },
   {
-    "id": 4,
+    "id": 3,
     "orig_id": 3244,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -92,7 +69,7 @@
     "mock_id": "ch_reas_blood_07"
   },
   {
-    "id": 5,
+    "id": 4,
     "orig_id": 3265,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -115,7 +92,7 @@
     "mock_id": "ch_reas_blood_07"
   },
   {
-    "id": 6,
+    "id": 5,
     "orig_id": 3370,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -138,7 +115,7 @@
     "mock_id": "ch_reas_blood_07"
   },
   {
-    "id": 7,
+    "id": 6,
     "orig_id": 3371,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -161,7 +138,7 @@
     "mock_id": "ch_reas_blood_07"
   },
   {
-    "id": 8,
+    "id": 7,
     "orig_id": 3372,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -184,7 +161,7 @@
     "mock_id": "ch_reas_blood_07"
   },
   {
-    "id": 9,
+    "id": 8,
     "orig_id": 3375,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -207,7 +184,7 @@
     "mock_id": "ch_reas_blood_07"
   },
   {
-    "id": 10,
+    "id": 9,
     "orig_id": 3491,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -225,6 +202,29 @@
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "रक्त संबंध विश्लेषण:\n• बोलने वाले व्यक्ति का कथन: \"मेरे कोई भाई या बहन नहीं हैं\" (अर्थात वह अपने माता-पिता का इकलौता पुत्र है)।\n• \"मेरे पिता का बेटा\" = व्यक्ति स्वयं।\n• कथन रूपांतरण: \"उस आदमी का पिता मैं स्वयं हूँ।\"\n• निष्कर्ष: यदि फोटो वाले आदमी का पिता वह स्वयं है, तो फोटो उसके बेटे (Son) की है।",
       "exam_tips": "'इकलौते' शब्द पर विशेष ध्यान दें; भाई-बहन न होने पर 'पिता का बेटा' स्वयं वक्ता ही होता है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_blood_07"
+  },
+  {
+    "id": 10,
+    "orig_id": 3620,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_blood",
+    "topic": "रक्त संबंध (Blood Relations)",
+    "question": "महिलाओं में से एक ने एक तस्वीर में एक पुरुष की ओर इशारा करते हुए कहा, \"उसके भाई का पिता मेरे दादा का इकलौता बेटा है।\" तो उस महिला का उस तस्वीर वाले पुरुष से क्या संबंध है?",
+    "options": {
+      "A": "बहन",
+      "B": "माँ",
+      "C": "बेटी",
+      "D": "आंटी"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "रक्त संबंध:\n• पुरुष के भाई का पिता = पुरुष का पिता।\n• महिला के दादा का इकलौता बेटा = महिला का पिता।\n• दोनों का पिता एक ही व्यक्ति है।\n• अतः वह महिला उस तस्वीर वाले पुरुष की बहन (Sister) है।\n• सही विकल्प: (A) बहन।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
     },
     "difficulty": "Medium",
     "mock_id": "ch_reas_blood_07"

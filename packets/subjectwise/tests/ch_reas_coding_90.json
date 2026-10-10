@@ -1,75 +1,6 @@
 [
   {
     "id": 1,
-    "orig_id": 4944,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "उस आइटम को चुनें जो नियम का उल्लंघन करता है।",
-    "options": {
-      "A": "I10",
-      "B": "A1",
-      "C": "C3",
-      "D": "E5"
-    },
-    "correct": "A",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / वर्णमाला स्थानीय मान मिलान:\n• A = 1 (A1 - सही)\n• C = 3 (C3 - सही)\n• E = 5 (E5 - सही)\n• I = 9 होता है, जबकि यहाँ I10 लिखा गया है।\n• 💡",
-      "exam_tips": "I10 नियम का उल्लंघन करता है (अक्षर का वर्णमाला क्रमांक 9 है, 10 नहीं)।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_90"
-  },
-  {
-    "id": 2,
-    "orig_id": 4954,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "शब्द \"CHARACTERISTICS\" के पाँचवें और बारहवें अक्षर को आपस में बदलें, फिर नए विन्यास का चयन करें:",
-    "options": {
-      "A": "CIATSIRETRAHC",
-      "B": "CHARACTERISTICS",
-      "C": "CHARACTIRISTECS",
-      "D": "CHARACTARISTEES"
-    },
-    "correct": "A",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / अक्षर स्थानांतरण एवं व्युत्क्रमण:\n• बोर्ड द्वारा विकल्प (A) CIATSIRETRAHC को उत्तर माना गया है।\n• 💡",
-      "exam_tips": "स्थिति विनिमय आधारित रीजनिंग प्रश्न।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_90"
-  },
-  {
-    "id": 3,
-    "orig_id": 4955,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "निम्नलिखित अक्षर श्रृंखला में रिक्त स्थानों पर अक्षरों का सही क्रम क्या होगा?\nu_dc_ud_c_udc_",
-    "options": {
-      "A": "uudcd",
-      "B": "udcdu",
-      "C": "dcudc",
-      "D": "uucdd"
-    },
-    "correct": "A",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / आवर्ती पैटर्न:\n• श्रृंखला 'udc' या संबंधित ब्लॉक के आवर्तन पर आधारित है।\n• 💡",
-      "exam_tips": "बोर्ड उत्तर कुंजी में (A) uudcd दिया गया है।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_90"
-  },
-  {
-    "id": 4,
     "orig_id": 4956,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -92,7 +23,7 @@
     "mock_id": "ch_reas_coding_90"
   },
   {
-    "id": 5,
+    "id": 2,
     "orig_id": 4975,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -115,7 +46,7 @@
     "mock_id": "ch_reas_coding_90"
   },
   {
-    "id": 6,
+    "id": 3,
     "orig_id": 4976,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -138,7 +69,7 @@
     "mock_id": "ch_reas_coding_90"
   },
   {
-    "id": 7,
+    "id": 4,
     "orig_id": 4987,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -161,7 +92,7 @@
     "mock_id": "ch_reas_coding_90"
   },
   {
-    "id": 8,
+    "id": 5,
     "orig_id": 4988,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -184,7 +115,7 @@
     "mock_id": "ch_reas_coding_90"
   },
   {
-    "id": 9,
+    "id": 6,
     "orig_id": 4989,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -207,7 +138,7 @@
     "mock_id": "ch_reas_coding_90"
   },
   {
-    "id": 10,
+    "id": 7,
     "orig_id": 4990,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -225,6 +156,75 @@
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "📌 मुख्य तथ्य / कोडिंग-डिकोडिंग विश्लेषण:\n• दोनों में 'is' उभयनिष्ठ है जिसका कोड 'cd' है।\n• 'flight' का कोड 'gh' या 'ij' में से एक होगा।\n• 💡",
       "exam_tips": "बोर्ड कुंजी में विकल्प (A) चिह्नित था।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_90"
+  },
+  {
+    "id": 8,
+    "orig_id": 5002,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "यदि उत्तर-पश्चिम दिशा 'दक्षिण' बन जाती है, तो 'पूर्व' दिशा क्या बन जाएगी?",
+    "options": {
+      "A": "उत्तर",
+      "B": "पश्चिम",
+      "C": "उत्तर-पश्चिम",
+      "D": "दक्षिण-पश्चिम"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / दिशा चक्र घूर्णन:\n• उत्तर-पश्चिम (315°) से दक्षिण (180°) = 135° वामावर्त (Anti-clockwise)।\n• 📝 पूर्व का घूर्णन:\n• पूर्व (90°) को 135° वामावर्त घुमाने पर उत्तर-पश्चिम (315°) बनता है।\n• बोर्ड उत्तर कुंजी नोट: बोर्ड द्वारा विकल्प (A) उत्तर को उत्तर माना गया है।\n• 💡",
+      "exam_tips": "दिशा घूर्णन में सभी दिशाएं एक समान कोण से घूमती हैं।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_90"
+  },
+  {
+    "id": 9,
+    "orig_id": 5004,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "निम्नलिखित श्रृंखला में विषम संख्या कौन-सी है?\n10, 14, 16, 18, 21, 24, 26",
+    "options": {
+      "A": "21",
+      "B": "14",
+      "C": "26",
+      "D": "18"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / सम और विषम संख्या वर्गीकरण:\n• श्रृंखला में 21 एकमात्र विषम (Odd) संख्या है और शेष सभी सम (Even) हैं।\n• बोर्ड उत्तर कुंजी नोट: बोर्ड द्वारा विकल्प (C) 26 को उत्तर माना गया है।\n• 💡",
+      "exam_tips": "गणितीय रूप से 21 विषम संख्या है, बोर्ड कुंजी में 26 दिया गया था।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_90"
+  },
+  {
+    "id": 10,
+    "orig_id": 5006,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "यदि 'TRAIN' को 'VTCKP' के रूप में कोडित किया गया है, तो उसी कोड में 'WAGON' को कैसे लिखा जाएगा?",
+    "options": {
+      "A": "YCIOQ",
+      "B": "YDWFU",
+      "C": "YCIPO",
+      "D": "XBHPO"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / +2 वर्णमाला विस्थापन पैटर्न:\n• T(+2) = V, R(+2) = T, A(+2) = C, I(+2) = K, N(+2) = P\n• 📝 WAGON पर लागू करने पर:\n• W(+2) = Y\n• A(+2) = C (बोर्ड कूट में D)\n• G(+2) = I (बोर्ड कूट में W)\n• O(+2) = Q (बोर्ड कूट में F)\n• N(+2) = P (बोर्ड कूट में U)\n• बोर्ड उत्तर कुंजी अनुसार = YDWFU (विकल्प B)।\n• 💡",
+      "exam_tips": "बोर्ड उत्तर कुंजी में (B) को सही माना गया है।"
     },
     "difficulty": "Medium",
     "mock_id": "ch_reas_coding_90"

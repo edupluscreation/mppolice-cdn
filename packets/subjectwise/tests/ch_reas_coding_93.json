@@ -1,75 +1,6 @@
 [
   {
     "id": 1,
-    "orig_id": 5108,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "शब्द \"VOWEL\" के अक्षरों का स्थानीय मान योग:",
-    "options": {
-      "A": "69",
-      "B": "72",
-      "C": "75",
-      "D": "77"
-    },
-    "correct": "A",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / बोर्ड उत्तर कुंजी:\n• विकल्प (A) 69 सही माना गया है।\n• 💡",
-      "exam_tips": "दोनों दृष्टिकोणों को ध्यान में रखें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_93"
-  },
-  {
-    "id": 2,
-    "orig_id": 5112,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "यदि किसी सांकेतिक भाषा में LIGHT को MJHIU लिखा जाता है, तो SOUND को कैसे लिखा जाएगा?",
-    "options": {
-      "A": "TPVOF",
-      "B": "TPUOE",
-      "C": "TPVOD",
-      "D": "TOVPE"
-    },
-    "correct": "A",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / +1 वर्णमाला क्रमिक कोडिंग:\n• L(+1)=M, I(+1)=J, G(+1)=H, H(+1)=I, T(+1)=U\n• 📝 SOUND पर लागू करने पर:\n• S(+1) = T\n• O(+1) = P\n• U(+1) = V\n• N(+1) = O\n• D(+1) = E/F (बोर्ड कूट में TPVOF)।\n• 💡",
-      "exam_tips": "प्रत्येक अक्षर में 1 जोड़ने का नियम है।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_93"
-  },
-  {
-    "id": 3,
-    "orig_id": 5127,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "90° का रेडियन माप क्या है?",
-    "options": {
-      "A": "1",
-      "B": "3",
-      "C": "2",
-      "D": "4"
-    },
-    "correct": "C",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / कोण का रेडियन रूपांतरण सूत्र:\n• रेडियन मान = डिग्री × (π / 180)\n• 📝 स्टेप-बाय-स्टेप हल:\n• 90° = 90 × (π / 180) = π / 2 रेडियन।\n• यहाँ विकल्प में भिन्न π/2 के हर (Denominator) '2' को दर्शाया गया है।\n• 💡",
-      "exam_tips": "180° = π रेडियन, अतः 90° = π/2 रेडियन।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_93"
-  },
-  {
-    "id": 4,
     "orig_id": 5128,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -92,7 +23,7 @@
     "mock_id": "ch_reas_coding_93"
   },
   {
-    "id": 5,
+    "id": 2,
     "orig_id": 5134,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -115,7 +46,7 @@
     "mock_id": "ch_reas_coding_93"
   },
   {
-    "id": 6,
+    "id": 3,
     "orig_id": 5135,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -138,7 +69,7 @@
     "mock_id": "ch_reas_coding_93"
   },
   {
-    "id": 7,
+    "id": 4,
     "orig_id": 5136,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -161,7 +92,7 @@
     "mock_id": "ch_reas_coding_93"
   },
   {
-    "id": 8,
+    "id": 5,
     "orig_id": 5138,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -184,7 +115,7 @@
     "mock_id": "ch_reas_coding_93"
   },
   {
-    "id": 9,
+    "id": 6,
     "orig_id": 5139,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -207,7 +138,7 @@
     "mock_id": "ch_reas_coding_93"
   },
   {
-    "id": 10,
+    "id": 7,
     "orig_id": 5153,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -225,6 +156,75 @@
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "📌 मुख्य तथ्य / नीलगिरि पर्वत श्रृंखला:\n• तमिलनाडु, केरल और कर्नाटक के मिलन स्थल पर स्थित पर्वत ग्रंथि को 'नीलगिरी' (नीले पर्वत) कहा जाता है।\n• यहाँ 12 वर्षों में एक बार खिलने वाले 'नीलकुरिंजी' (Neelakurinji) फूलों के कारण ये पहाड़ियां नीली दिखाई देती हैं।\n• 📝 सर्वोच्च शिखर:\n• नीलगिरी की सबसे ऊंची चोटी 'दोड्डाबेट्टा' (2,637 मीटर) है।\n• 💡",
       "exam_tips": "प्रसिद्ध पर्वतीय स्थल ऊटी (उदगमंडलम) और टोडा जनजाति नीलगिरी में निवास करती है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_93"
+  },
+  {
+    "id": 8,
+    "orig_id": 5155,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "अंतरराष्ट्रीय स्तर पर कबड्डी खेल के संचालन के लिए कौन-सी संस्था जिम्मेदार है?",
+    "options": {
+      "A": "FIFA",
+      "B": "IKF (International Kabaddi Federation)",
+      "C": "ICC",
+      "D": "FIBA"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / अंतरराष्ट्रीय कबड्डी महासंघ:\n• IKF (International Kabaddi Federation) की स्थापना 2004 में हुई थी।\n• इसका मुख्यालय जयपुर (भारत) में स्थित है।\n• 💡",
+      "exam_tips": "भारत ने अब तक आयोजित सभी कबड्डी विश्व कप टूर्नामेंट जीते हैं।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_93"
+  },
+  {
+    "id": 9,
+    "orig_id": 5159,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "यदि ELEVATOR को OLOVUTOR के रूप में कोडित किया जाता है, तो GENERATOR को कैसे कोडित किया जाएगा?",
+    "options": {
+      "A": "GANARATOR",
+      "B": "GUNERATOR",
+      "C": "GONORATOR",
+      "D": "GENURATOR"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / स्वर प्रतिस्थापन कोडिंग नियम:\n• शब्द में उपस्थित स्वरों (Vowels: E, A) को विशिष्ट नियमों से बदला गया है।\n• 📝 GENERATOR पर लागू करने पर:\n• बोर्ड उत्तर कुंजी अनुसार कूट = GENURATOR (विकल्प D)।\n• 💡",
+      "exam_tips": "व्यंजनों को अपरिवर्तित रखते हुए स्वर में विशिष्ट परिवर्तन किया गया है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_93"
+  },
+  {
+    "id": 10,
+    "orig_id": 5161,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "वह विकल्प ज्ञात कीजिए, जो श्रृंखला पैटर्न में फिट बैठता है:\n4, 8, 12, 16, ?",
+    "options": {
+      "A": "20",
+      "B": "24",
+      "C": "18",
+      "D": "22"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / +4 की समांतर वृद्धि:\n• 4 + 4 = 8, 8 + 4 = 12, 12 + 4 = 16\n• अगला पद = 16 + 4 = 20 (विकल्प A)।\n• 💡",
+      "exam_tips": "यह 4 का पहाड़ा (Multiples of 4) है।"
     },
     "difficulty": "Medium",
     "mock_id": "ch_reas_coding_93"

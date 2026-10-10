@@ -1,29 +1,6 @@
 [
   {
     "id": 1,
-    "orig_id": 1777,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "सप्ताह के दिनों की गणना में '0' या '7' से हमेशा कौन-सा दिन दर्शाया जाता है?",
-    "options": {
-      "A": "सोमवार",
-      "B": "बुधवार",
-      "C": "शनिवार",
-      "D": "रविवार"
-    },
-    "correct": "D",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "मुख्य तथ्य / नियम / सूत्र: कैलेंडर में दिनों के मानक कोड:\n• 0 या 7 = रविवार (Sunday)\n• 1 = सोमवार (Monday)\n• 2 = मंगलवार (Tuesday)\n• 3 = बुधवार (Wednesday)\n• 4 = गुरुवार (Thursday)\n• 5 = शुक्रवार (Friday)\n• 6 = शनिवार (Saturday)",
-      "exam_tips": "जब विषम दिनों की संख्या 0 बचती है, तो वह दिन रविवार होता है।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_31"
-  },
-  {
-    "id": 2,
     "orig_id": 1780,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -46,7 +23,7 @@
     "mock_id": "ch_reas_coding_31"
   },
   {
-    "id": 3,
+    "id": 2,
     "orig_id": 1781,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -69,7 +46,7 @@
     "mock_id": "ch_reas_coding_31"
   },
   {
-    "id": 4,
+    "id": 3,
     "orig_id": 1782,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -92,7 +69,7 @@
     "mock_id": "ch_reas_coding_31"
   },
   {
-    "id": 5,
+    "id": 4,
     "orig_id": 1785,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -115,7 +92,7 @@
     "mock_id": "ch_reas_coding_31"
   },
   {
-    "id": 6,
+    "id": 5,
     "orig_id": 1786,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -138,7 +115,7 @@
     "mock_id": "ch_reas_coding_31"
   },
   {
-    "id": 7,
+    "id": 6,
     "orig_id": 1791,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -161,7 +138,7 @@
     "mock_id": "ch_reas_coding_31"
   },
   {
-    "id": 8,
+    "id": 7,
     "orig_id": 1792,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -184,7 +161,7 @@
     "mock_id": "ch_reas_coding_31"
   },
   {
-    "id": 9,
+    "id": 8,
     "orig_id": 1797,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -207,7 +184,7 @@
     "mock_id": "ch_reas_coding_31"
   },
   {
-    "id": 10,
+    "id": 9,
     "orig_id": 1801,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -225,6 +202,29 @@
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "मुख्य तथ्य / नियम / सूत्र: उभयनिष्ठ पद कोडिंग (Common Word Elimination):\n• स्टेप-बाय-स्टेप हल:\n• वाक्य 1: \"951\" = \"birds are flying\"\n• वाक्य 2: \"713\" = \"flying is fun\"\n• दोनों वाक्यों में केवल एक शब्द उभयनिष्ठ (Common) है: \"flying\"\n• दोनों कोड में केवल एक अंक उभयनिष्ठ है: '1'\n• अतः \"flying\" का कोड 1 होगा।",
       "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_31"
+  },
+  {
+    "id": 10,
+    "orig_id": 1804,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "pH स्केल की सीमा क्या होगी?",
+    "options": {
+      "A": "0 से 14",
+      "B": "0 से 7",
+      "C": "14 से 14",
+      "D": "14 से 10"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र: मानक pH स्केल 0 से 14 तक होता है।",
+      "exam_tips": "दोहराया गया प्रश्न; सही उत्तर (A) 0 से 14 है।"
     },
     "difficulty": "Medium",
     "mock_id": "ch_reas_coding_31"

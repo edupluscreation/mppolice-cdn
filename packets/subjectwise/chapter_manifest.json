@@ -3,7 +3,7 @@
     {
       "topicId": "gk_culture",
       "topicName": "कला, संस्कृति, मेले एवं खेल (Art, Culture & Sports)",
-      "totalQuestions": 138,
+      "totalQuestions": 135,
       "totalTests": 14,
       "testPrefix": "ch_gk_culture",
       "tests": [
@@ -126,7 +126,7 @@
     {
       "topicId": "gk_geography",
       "topicName": "भारत एवं विश्व का भूगोल (Geography)",
-      "totalQuestions": 50,
+      "totalQuestions": 48,
       "totalTests": 5,
       "testPrefix": "ch_gk_geography",
       "tests": [
@@ -160,7 +160,7 @@
     {
       "topicId": "gk_history",
       "topicName": "भारतीय इतिहास (History)",
-      "totalQuestions": 123,
+      "totalQuestions": 122,
       "totalTests": 13,
       "testPrefix": "ch_gk_history",
       "tests": [
@@ -234,8 +234,8 @@
     {
       "topicId": "gk_mpgk",
       "topicName": "मध्य प्रदेश सामान्य ज्ञान (MP GK)",
-      "totalQuestions": 996,
-      "totalTests": 100,
+      "totalQuestions": 983,
+      "totalTests": 99,
       "testPrefix": "ch_gk_mpgk",
       "tests": [
         {
@@ -732,18 +732,13 @@
           "testId": "ch_gk_mpgk_99",
           "testTitle": "मध्य प्रदेश सामान्य ज्ञान (MP GK) • अभ्यास टेस्ट #99",
           "questionCount": 10
-        },
-        {
-          "testId": "ch_gk_mpgk_100",
-          "testTitle": "मध्य प्रदेश सामान्य ज्ञान (MP GK) • अभ्यास टेस्ट #100",
-          "questionCount": 10
         }
       ]
     },
     {
       "topicId": "gk_polity",
       "topicName": "भारतीय राजव्यवस्था एवं संविधान (Polity)",
-      "totalQuestions": 178,
+      "totalQuestions": 177,
       "totalTests": 18,
       "testPrefix": "ch_gk_polity",
       "tests": [
@@ -933,7 +928,7 @@
     {
       "topicId": "reas_blood",
       "topicName": "रक्त संबंध (Blood Relations)",
-      "totalQuestions": 156,
+      "totalQuestions": 154,
       "totalTests": 16,
       "testPrefix": "ch_reas_blood",
       "tests": [
@@ -1076,8 +1071,8 @@
     {
       "topicId": "reas_coding",
       "topicName": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-      "totalQuestions": 1621,
-      "totalTests": 163,
+      "totalQuestions": 1615,
+      "totalTests": 162,
       "testPrefix": "ch_reas_coding",
       "tests": [
         {
@@ -1889,11 +1884,6 @@
           "testId": "ch_reas_coding_162",
           "testTitle": "कोडिंग-डिकोडिंग (Coding-Decoding) • अभ्यास टेस्ट #162",
           "questionCount": 10
-        },
-        {
-          "testId": "ch_reas_coding_163",
-          "testTitle": "कोडिंग-डिकोडिंग (Coding-Decoding) • अभ्यास टेस्ट #163",
-          "questionCount": 10
         }
       ]
     },
@@ -2228,8 +2218,8 @@
     {
       "topicId": "math_mensuration",
       "topicName": "क्षेत्रमिति एवं ज्यामिति (Mensuration & Geometry)",
-      "totalQuestions": 241,
-      "totalTests": 25,
+      "totalQuestions": 239,
+      "totalTests": 24,
       "testPrefix": "ch_math_mensuration",
       "tests": [
         {
@@ -2351,19 +2341,14 @@
           "testId": "ch_math_mensuration_24",
           "testTitle": "क्षेत्रमिति एवं ज्यामिति (Mensuration & Geometry) • अभ्यास टेस्ट #24",
           "questionCount": 10
-        },
-        {
-          "testId": "ch_math_mensuration_25",
-          "testTitle": "क्षेत्रमिति एवं ज्यामिति (Mensuration & Geometry) • अभ्यास टेस्ट #25",
-          "questionCount": 10
         }
       ]
     },
     {
       "topicId": "math_number_bodmas",
       "topicName": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
-      "totalQuestions": 1046,
-      "totalTests": 105,
+      "totalQuestions": 1039,
+      "totalTests": 104,
       "testPrefix": "ch_math_number_bodmas",
       "tests": [
         {
@@ -2885,18 +2870,13 @@
           "testId": "ch_math_number_bodmas_104",
           "testTitle": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS) • अभ्यास टेस्ट #104",
           "questionCount": 10
-        },
-        {
-          "testId": "ch_math_number_bodmas_105",
-          "testTitle": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS) • अभ्यास टेस्ट #105",
-          "questionCount": 10
         }
       ]
     },
     {
       "topicId": "math_percentage",
       "topicName": "प्रतिशत (Percentage)",
-      "totalQuestions": 40,
+      "totalQuestions": 39,
       "totalTests": 4,
       "testPrefix": "ch_math_percentage",
       "tests": [
@@ -3113,7 +3093,7 @@
     {
       "topicId": "sci_anatomy",
       "topicName": "मानव शरीर क्रिया विज्ञान (Anatomy & Physiology)",
-      "totalQuestions": 160,
+      "totalQuestions": 158,
       "totalTests": 16,
       "testPrefix": "ch_sci_anatomy",
       "tests": [
@@ -3202,7 +3182,7 @@
     {
       "topicId": "sci_botany",
       "topicName": "पादप विज्ञान एवं आनुवंशिकी (Botany & Genetics)",
-      "totalQuestions": 74,
+      "totalQuestions": 73,
       "totalTests": 8,
       "testPrefix": "ch_sci_botany",
       "tests": [
@@ -3251,8 +3231,8 @@
     {
       "topicId": "sci_chemistry",
       "topicName": "रसायन विज्ञान (Chemistry)",
-      "totalQuestions": 362,
-      "totalTests": 37,
+      "totalQuestions": 360,
+      "totalTests": 36,
       "testPrefix": "ch_sci_chemistry",
       "tests": [
         {
@@ -3434,11 +3414,6 @@
           "testId": "ch_sci_chemistry_36",
           "testTitle": "रसायन विज्ञान (Chemistry) • अभ्यास टेस्ट #36",
           "questionCount": 10
-        },
-        {
-          "testId": "ch_sci_chemistry_37",
-          "testTitle": "रसायन विज्ञान (Chemistry) • अभ्यास टेस्ट #37",
-          "questionCount": 10
         }
       ]
     },
@@ -3479,7 +3454,7 @@
     {
       "topicId": "sci_health",
       "topicName": "रोग, स्वास्थ्य एवं पोषण (Diseases & Nutrition)",
-      "totalQuestions": 39,
+      "totalQuestions": 38,
       "totalTests": 4,
       "testPrefix": "ch_sci_health",
       "tests": [
@@ -3508,8 +3483,8 @@
     {
       "topicId": "sci_physics",
       "topicName": "भौतिक विज्ञान (Physics)",
-      "totalQuestions": 561,
-      "totalTests": 57,
+      "totalQuestions": 557,
+      "totalTests": 56,
       "testPrefix": "ch_sci_physics",
       "tests": [
         {
@@ -3790,11 +3765,6 @@
         {
           "testId": "ch_sci_physics_56",
           "testTitle": "भौतिक विज्ञान (Physics) • अभ्यास टेस्ट #56",
-          "questionCount": 10
-        },
-        {
-          "testId": "ch_sci_physics_57",
-          "testTitle": "भौतिक विज्ञान (Physics) • अभ्यास टेस्ट #57",
           "questionCount": 10
         }
       ]

@@ -1,75 +1,6 @@
 [
   {
     "id": 1,
-    "orig_id": 5268,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "1952 से 1956 के कार्यकाल के दौरान विंध्य प्रदेश विधानसभा के कुल सदस्यों (MLAs) की संख्या क्या थी?",
-    "options": {
-      "A": "48",
-      "B": "60",
-      "C": "170",
-      "D": "230"
-    },
-    "correct": "C",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / विंध्य प्रदेश (पार्ट-सी राज्य, राजधानी रीवा):\n• 1952 के प्रथम आम चुनाव में विंध्य प्रदेश विधानसभा का गठन हुआ।\n• बोर्ड उत्तर कुंजी नोट: बोर्ड ने इस प्रश्न में विकल्प (C) 170 को उत्तर के रूप में चिह्नित किया है।\n• 💡",
-      "exam_tips": "पंडित शंभूनाथ शुक्ल विंध्य प्रदेश के मुख्यमंत्री थे।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_96"
-  },
-  {
-    "id": 2,
-    "orig_id": 5277,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "If 1st January 2023 was a Sunday, how many Sundays are there in the first quarter (Jan-Mar) of 2023?",
-    "options": {
-      "A": "13",
-      "B": "12",
-      "C": "11",
-      "D": "10"
-    },
-    "correct": "B",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: प्रथम तिमाही (First Quarter) में जनवरी (31 दिन), फरवरी (28 दिन - 2023 साधारण वर्ष है), और मार्च (31 दिन) शामिल होते हैं।\n• 📝 स्टेप-बाय-स्टेप हल:\n• जनवरी (31 दिन): 1, 8, 15, 22, 29 जनवरी = 5 रविवार।\n• फरवरी (28 दिन): 1 फरवरी बुधवार होगा, रविवार = 5, 12, 19, 26 फरवरी = 4 रविवार।\n• मार्च (31 दिन): 1 मार्च बुधवार होगा, रविवार = 5, 12, 19, 26 मार्च = 4 रविवार।\n• कुल रविवार = 5 + 4 + 4 = 13 रविवार।\n• बोर्ड कुंजी नोट: व्यापम की आधिकारिक कुंजी में उत्तर (B) 12 दिया गया था, जबकि सटीक कैलेंडर गणना के अनुसार कुल 13 रविवार होते हैं।\n• 💡",
-      "exam_tips": "किसी माह की 1, 2, या 3 तारीख को आने वाले दिन 31 दिनों वाले माह में 5 बार आते हैं।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_96"
-  },
-  {
-    "id": 3,
-    "orig_id": 5278,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "In the given figure, the circle represents children, the triangle represents singers, and the square represents girls. Which portion represents girl children who are NOT singers?",
-    "options": {
-      "A": "B",
-      "B": "C",
-      "C": "D",
-      "D": "A"
-    },
-    "correct": "D",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: वेन आरेख में अभीष्ट क्षेत्र वह होगा जो 'बच्चों' (वृत्त) और 'लड़कियों' (वर्ग) दोनों के उभयनिष्ठ क्षेत्र में हो, लेकिन 'गायकों' (त्रिभुज) के क्षेत्र से बाहर हो।\n• 📝 स्टेप-बाय-स्टेप हल:\n• वृत्त ∩ वर्ग (Girl Children) = क्षेत्र जो दोनों में साझा है।\n• त्रिभुज को हटाने पर (NOT singers) केवल अक्षर A बचता है।\n• 💡",
-      "exam_tips": "वेन आरेख के प्रश्नों में 'NOT' (नहीं) शब्द पर विशेष ध्यान देना चाहिए, जिससे उस संबंधित आकृति के सभी भागों को सीधे बाहर कर दिया जाता है।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_96"
-  },
-  {
-    "id": 4,
     "orig_id": 5281,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -92,7 +23,7 @@
     "mock_id": "ch_reas_coding_96"
   },
   {
-    "id": 5,
+    "id": 2,
     "orig_id": 5282,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -115,7 +46,7 @@
     "mock_id": "ch_reas_coding_96"
   },
   {
-    "id": 6,
+    "id": 3,
     "orig_id": 5283,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -138,7 +69,7 @@
     "mock_id": "ch_reas_coding_96"
   },
   {
-    "id": 7,
+    "id": 4,
     "orig_id": 5285,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -161,7 +92,7 @@
     "mock_id": "ch_reas_coding_96"
   },
   {
-    "id": 8,
+    "id": 5,
     "orig_id": 5286,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -184,7 +115,7 @@
     "mock_id": "ch_reas_coding_96"
   },
   {
-    "id": 9,
+    "id": 6,
     "orig_id": 5287,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -207,7 +138,7 @@
     "mock_id": "ch_reas_coding_96"
   },
   {
-    "id": 10,
+    "id": 7,
     "orig_id": 5288,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -225,6 +156,75 @@
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "📌 मुख्य तथ्य / नियम / सूत्र: रैंकिंग और क्रम व्यवस्था (Order & Ranking) में ऊपर से नीचे का क्रम व्यवस्थित करें।\n• 📝 स्टेप-बाय-स्टेप हल:\n• \"हिस्ट्री, साइंस के ऊपर पर मैथ्स के नीचे है\": Maths > History > Science\n• \"इंग्लिश, मैथ्स के ऊपर है\": English > Maths\n• \"जियोग्राफी, साइंस के नीचे है\": Science > Geography\n• पूरा क्रम ऊपर से नीचे: English > Maths > History > Science > Geography\n• अतः सबसे ऊपर रखी पुस्तक इंग्लिश है।\n• 💡",
       "exam_tips": "सबसे नीचे की पुस्तक पूछी जाए तो वह जियोग्राफी होगी।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_96"
+  },
+  {
+    "id": 8,
+    "orig_id": 5291,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "निम्नलिखित प्रश्न में, उस शब्द का चयन करें जिसे दिए गए शब्द के अक्षरों का उपयोग करके बनाया जा सकता है।\nAwesome",
+    "options": {
+      "A": "Come",
+      "B": "Seat",
+      "C": "Ease",
+      "D": "Came"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: शब्द निर्माण में केवल मूल शब्द में उपस्थित अक्षरों और उनकी आवृत्ति का ही उपयोग किया जा सकता है।\n• 📝 स्टेप-बाय-स्टेप हल:\n• मूल शब्द \"Awesome\" में अक्षर हैं: A(1), W(1), E(2), S(1), O(1), M(1)।\n• विकल्प (A) Come: 'C' अनुपस्थित है।\n• विकल्प (B) Seat: 'T' अनुपस्थित है।\n• विकल्प (C) Ease: E, A, S, E - सभी अक्षर Awesome में उपलब्ध हैं (E दो बार मौजूद है)।\n• विकल्प (D) Came: 'C' अनुपस्थित है।\n• अतः केवल Ease बनाया जा सकता है।\n• 💡",
+      "exam_tips": "अक्षरों की संख्या (count) का ध्यान रखना आवश्यक है; Awesome में दो E हैं, इसलिए Ease बन सकता है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_96"
+  },
+  {
+    "id": 9,
+    "orig_id": 5293,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "नीचे दिए गए अक्षरों को व्यवस्थित करने पर एक निम्न उपयुक्त (अर्थपूर्ण) शब्द बनता है:\nA V S E B O R I N T O\nबने हुए शब्द में बाएँ से अक्षर R की स्थिति क्या होगी?",
+    "options": {
+      "A": "7",
+      "B": "6",
+      "C": "5",
+      "D": "8"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: दिए गए अव्यवस्थित अक्षरों (A, V, S, E, B, O, R, I, N, T, O) से सार्थक अंग्रेजी शब्द बनता है: OBSERVATION (11 अक्षर)।\n• 📝 स्टेप-बाय-स्टेप हल:\n• O(1) - B(2) - S(3) - E(4) - R(5) - V(6) - A(7) - T(8) - I(9) - O(10) - N(11)\n• बाएँ से R की वास्तविक स्थिति 5वीं (5th) है।\n• बोर्ड आंसर की नोट: आधिकारिक कुंजी में उत्तर (A) 7 दिया गया है (संभवतः यदि शब्द को CONVERSATION मान लिया गया हो या दाएं से गिना गया हो)। मानक शब्द OBSERVATION में R का स्थान 5 है।\n• 💡",
+      "exam_tips": "एनाग्राम हल करते समय कुल अक्षरों की संख्या और स्वर-व्यंजन के संयोजन पर ध्यान दें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_96"
+  },
+  {
+    "id": 10,
+    "orig_id": 5316,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "52 कार्डों की एक मानक ताश की गड्डी से एक कार्ड निकाला जाता है। एक लाल कार्ड निकालने की प्रायिकता क्या होगी?",
+    "options": {
+      "A": "3",
+      "B": "13",
+      "C": "26",
+      "D": "2"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: प्रायिकता P(E) = अनुकूल परिणामों की संख्या ÷ कुल परिणामों की संख्या।\n• 📝 स्टेप-बाय-स्टेप हल:\n• 52 पत्तों की ताश की गड्डी में कुल लाल पत्ते = 26 (13 पान + 13 ईंट)।\n• कुल पत्ते = 52।\n• लाल पत्ता निकालने की मानक प्रायिकता = 26/52 = 1/2 = 0.5।\n• व्यापम कुंजी नोट: विकल्पों में भिन्न के बजाय हर (Denominator) या विषम संकेतन दिया गया है, जिसमें 1/2 के लिए बोर्ड ने उत्तर (D) 2 माना है।\n• 💡",
+      "exam_tips": "ताश की गड्डी में 26 काले (13 हुकुम + 13 चिड़ी) और 26 लाल पत्ते होते हैं।"
     },
     "difficulty": "Medium",
     "mock_id": "ch_reas_coding_96"

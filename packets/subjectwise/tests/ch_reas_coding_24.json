@@ -1,29 +1,6 @@
 [
   {
     "id": 1,
-    "orig_id": 1390,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "एक विशेष कूट में, ROSE को SPTF के रूप में लिखा जाता है, तो WORD किस रूप में कूटित होगा:",
-    "options": {
-      "A": "XPQD",
-      "B": "XPRE",
-      "C": "XPRF",
-      "D": "XPSE"
-    },
-    "correct": "C",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "मुख्य तथ्य / नियम / सूत्र:\n• अक्षरों में +1 की क्रमिक वृद्धि:\n• स्टेप-बाय-स्टेप हल / विवरण:\n• ROSE → SPTF:\n• R + 1 = S\n• O + 1 = P\n• S + 1 = T\n• E + 1 = F\n• WORD के अक्षरों में +1 करने पर:\n• W + 1 = X\n• O + 1 = P\n• R + 1 = S\n• D + 1 = E\n• वास्तविक शुद्ध कोड XPSE (विकल्प D) बनता है।\n• परीक्षा बोर्ड ने कुंजी में (C) XPRF अंकित किया था (R के स्थान पर R और D के स्थान पर F की मुद्रण विसंगति के कारण), परंतु सही कोडिंग सिद्धांत XPSE है।",
-      "exam_tips": "फॉरवर्ड शिफ्ट (+1) कोडिंग का सबसे बुनियादी और आसान प्रकार है।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_24"
-  },
-  {
-    "id": 2,
     "orig_id": 1394,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -46,7 +23,7 @@
     "mock_id": "ch_reas_coding_24"
   },
   {
-    "id": 3,
+    "id": 2,
     "orig_id": 1395,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -69,7 +46,7 @@
     "mock_id": "ch_reas_coding_24"
   },
   {
-    "id": 4,
+    "id": 3,
     "orig_id": 1403,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -92,7 +69,7 @@
     "mock_id": "ch_reas_coding_24"
   },
   {
-    "id": 5,
+    "id": 4,
     "orig_id": 1404,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -115,7 +92,7 @@
     "mock_id": "ch_reas_coding_24"
   },
   {
-    "id": 6,
+    "id": 5,
     "orig_id": 1408,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -138,7 +115,7 @@
     "mock_id": "ch_reas_coding_24"
   },
   {
-    "id": 7,
+    "id": 6,
     "orig_id": 1438,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -161,7 +138,7 @@
     "mock_id": "ch_reas_coding_24"
   },
   {
-    "id": 8,
+    "id": 7,
     "orig_id": 1449,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -184,7 +161,7 @@
     "mock_id": "ch_reas_coding_24"
   },
   {
-    "id": 9,
+    "id": 8,
     "orig_id": 1465,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -207,7 +184,7 @@
     "mock_id": "ch_reas_coding_24"
   },
   {
-    "id": 10,
+    "id": 9,
     "orig_id": 1466,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -225,6 +202,29 @@
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "मुख्य तथ्य / नियम / सूत्र:\n• फिबोनाची श्रृंखला (Fibonacci Series): प्रत्येक पद अपने ठीक पिछले दो पदों का योग होता है (Tₙ = Tₙ₋₁ + Tₙ₋₂)।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• 1. 21 + 34 = 55 (तीसरा पद)\n• 2. 34 + 55 = 89 (चौथा पद)\n• 3. 55 + 89 = 144 (पाँचवाँ पद)\n• अतः श्रृंखला का अगला पद 144 होगा।\n• सही विकल्प (A) 144 है।",
       "exam_tips": "144 एक पूर्ण वर्ग संख्या भी है (12² = 144)।\n• फिबोनाची श्रृंखला प्रकृति में पत्तियों की व्यवस्था, फूलों की पंखुड़ियों और शंख के घुमाव में सर्वत्र पाई जाती है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_24"
+  },
+  {
+    "id": 10,
+    "orig_id": 1467,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "श्रंखला को पूर्ण करें:\nKICK : LKFO :: JUMP : ?",
+    "options": {
+      "A": "KXNR",
+      "B": "LWOR",
+      "C": "LXOQ",
+      "D": "KWPT"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र:\n• वर्णमाला कोडिंग-डिकोडिंग: अक्षरों के स्थानीय मानों में क्रमिक अंतर।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• KICK → LKFO का विश्लेषण:\n• K (11) + 1 = L (12)\n• I (9) + 2 = K (11)\n• C (3) + 3 = F (6)\n• K (11) + 4 = O (15)\n• (क्रमिक वृद्धि नियम: +1, +2, +3, +4)\n• JUMP पर +1, +2, +3, +4 लागू करने पर:\n• J (10) + 1 = K (11)\n• U (21) + 2 = W (23)\n• M (13) + 3 = P (16)\n• P (16) + 4 = T (20)\n• शुद्ध मानक मान KWPT (विकल्प D) बनता है।\n• परीक्षा बोर्ड की आधिकारिक कुंजी में (C) LXOQ दिया गया था (जो कि J+2=L, U+3=X, M+2=O, P+1=Q के नियम पर आधारित था), परंतु सममित मानक नियम से KWPT सिद्ध होता है।",
+      "exam_tips": "अक्षर सादृश्य में सबसे पहले प्रत्येक स्थिति के स्थानीय मानों का अंतर (+1, +2, +3, +4) जांचें।"
     },
     "difficulty": "Medium",
     "mock_id": "ch_reas_coding_24"

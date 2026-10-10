@@ -1,29 +1,6 @@
 [
   {
     "id": 1,
-    "orig_id": 45,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_blood",
-    "topic": "रक्त संबंध (Blood Relations)",
-    "question": "एक पुरुष की ओर इशारा करते हुए अर्जुन ने कहा, \"वह मेरी माँ की बेटी का पिता है\"। वह पुरुष अर्जुन से किस रिश्ते में है?",
-    "options": {
-      "A": "अर्जुन का भाई",
-      "B": "अर्जुन के अंकल",
-      "C": "अर्जुन के पिता",
-      "D": "अर्जुन का कजिन"
-    },
-    "correct": "C",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "चरणबद्ध विश्लेषण:\n1. \"मेरी माँ की बेटी\" = अर्जुन की सगी बहन।\n2. \"बहन का पिता\" = जो बहन का पिता होगा, वह अर्जुन का भी पिता होगा।\n3. अतः वह पुरुष अर्जुन के पिता (Father) हैं।\n• निष्कर्ष: सही विकल्प (C) अर्जुन के पिता है।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_blood_03"
-  },
-  {
-    "id": 2,
     "orig_id": 46,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -46,7 +23,7 @@
     "mock_id": "ch_reas_blood_03"
   },
   {
-    "id": 3,
+    "id": 2,
     "orig_id": 114,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -69,7 +46,7 @@
     "mock_id": "ch_reas_blood_03"
   },
   {
-    "id": 4,
+    "id": 3,
     "orig_id": 157,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -92,7 +69,7 @@
     "mock_id": "ch_reas_blood_03"
   },
   {
-    "id": 5,
+    "id": 4,
     "orig_id": 234,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -115,7 +92,7 @@
     "mock_id": "ch_reas_blood_03"
   },
   {
-    "id": 6,
+    "id": 5,
     "orig_id": 296,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -138,7 +115,7 @@
     "mock_id": "ch_reas_blood_03"
   },
   {
-    "id": 7,
+    "id": 6,
     "orig_id": 297,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -161,7 +138,7 @@
     "mock_id": "ch_reas_blood_03"
   },
   {
-    "id": 8,
+    "id": 7,
     "orig_id": 715,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -184,7 +161,7 @@
     "mock_id": "ch_reas_blood_03"
   },
   {
-    "id": 9,
+    "id": 8,
     "orig_id": 986,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -207,7 +184,7 @@
     "mock_id": "ch_reas_blood_03"
   },
   {
-    "id": 10,
+    "id": 9,
     "orig_id": 1116,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -225,6 +202,29 @@
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "मुख्य तथ्य / नियम / सूत्र:\n• पत्नी का भाई = साला, उसकी बेटी = नीस।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• अतः विकल्प (B) सही है।",
       "exam_tips": "साला-साली के बच्चे नीस-नेफ्यू हैं।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_blood_03"
+  },
+  {
+    "id": 10,
+    "orig_id": 1154,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_blood",
+    "topic": "रक्त संबंध (Blood Relations)",
+    "question": "A, B का भाई है। C, D का पिता है। D, B की बहन है। तो A, C से किस प्रकार संबंधित है?",
+    "options": {
+      "A": "बेटा",
+      "B": "पिता",
+      "C": "नाती / पोता",
+      "D": "दादा"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र:\n• A, B, D भाई-बहन हैं, C पिता है।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• अतः A, C का बेटा है, विकल्प (A) सही है।",
+      "exam_tips": "तीनों को एक पीढ़ी में रखें।"
     },
     "difficulty": "Medium",
     "mock_id": "ch_reas_blood_03"

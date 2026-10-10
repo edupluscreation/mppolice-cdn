@@ -1,167 +1,6 @@
 [
   {
     "id": 1,
-    "orig_id": 8080,
-    "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_number_bodmas",
-    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
-    "question": "यदि A = 1, B = 2, ..., Z = 26 है, तो C + D = ?",
-    "options": {
-      "A": "7",
-      "B": "8",
-      "C": "6",
-      "D": "9"
-    },
-    "correct": "A",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: वर्णमाला स्थिति मान योग:\n• वर्णक्रम अनुसार: C = 3, D = 4\n• 📝 स्टेप-बाय-स्टेप हल:\n1. C का वर्णमाला मान = 3\n2. D का वर्णमाला मान = 4\n3. C + D = 3 + 4 = 7\nअतः सही उत्तर (A) 7 है।\n• 💡",
-      "exam_tips": "अंग्रेजी वर्णमाला में प्रत्येक अक्षर का स्थान मान कंठस्थ रखें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_math_number_bodmas_98"
-  },
-  {
-    "id": 2,
-    "orig_id": 8089,
-    "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_number_bodmas",
-    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
-    "question": "निम्नलिखित में से कौन-सा विकल्प सबसे बड़ा परिणाम देता है?",
-    "options": {
-      "A": "6 + 4 × 2",
-      "B": "(6 + 4) × 2",
-      "C": "6 × 4 + 2",
-      "D": "6 + 4 + 2"
-    },
-    "correct": "B",
-    "explanation": {
-      "formula": "प्रासंगिक नियम व सूत्र",
-      "solution": "विस्तृत हल उपलब्ध है।",
-      "exam_tips": "महत्वपूर्ण परीक्षा बिंदु"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_math_number_bodmas_98"
-  },
-  {
-    "id": 3,
-    "orig_id": 8093,
-    "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_number_bodmas",
-    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
-    "question": "एक छात्र ने 400 में से 280 अंक प्राप्त किए। उसे कितने प्रतिशत अंक मिले?",
-    "options": {
-      "A": "70%",
-      "B": "68%",
-      "C": "65%",
-      "D": "72%"
-    },
-    "correct": "A",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: प्राप्तांक प्रतिशत:\n• प्रतिशत = (प्राप्तांक / कुल पूर्णांक) × 100\n• 📝 स्टेप-बाय-स्टेप हल:\n1. प्राप्तांक = 280, पूर्णांक = 400\n2. प्रतिशत = (280 / 400) × 100 = 280 / 4 = 70%\nअतः सही उत्तर (A) 70% है।\n• 💡",
-      "exam_tips": "400 में से 280 का अर्थ 28 ÷ 4 = 7 अर्थात 70% है।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_math_number_bodmas_98"
-  },
-  {
-    "id": 4,
-    "orig_id": 8098,
-    "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_number_bodmas",
-    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
-    "question": "एक खुद्रा विक्रेता किसी वस्तु पर दो क्रमिक छूट 25% और फिर 25% देता है। यदि उस वस्तु का लागत मूल्य 3,000 है और विक्रेता उसे बेचने के बाद लागत मूल्य पर 20% का लाभ कमाता है, तो उस वस्तु का मूल सूची मूल्य क्या है?",
-    "options": {
-      "A": "6440 Rs",
-      "B": "7400 Rs",
-      "C": "6400 Rs",
-      "D": "5400 Rs"
-    },
-    "correct": "C",
-    "explanation": {
-      "formula": "प्रासंगिक नियम व सूत्र",
-      "solution": "विस्तृत हल उपलब्ध है।",
-      "exam_tips": "महत्वपूर्ण परीक्षा बिंदु"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_math_number_bodmas_98"
-  },
-  {
-    "id": 5,
-    "orig_id": 8132,
-    "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_number_bodmas",
-    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
-    "question": "यदि % का अर्थ है घटाना, # का अर्थ है गुणा करना, @ का अर्थ है जोड़ना, और  का अर्थ है भाग देना, तो 40 % 18 # 2 @ 6  3 का मूल्य क्या होगा?",
-    "options": {
-      "A": "4",
-      "B": "6",
-      "C": "8",
-      "D": "12"
-    },
-    "correct": "B",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: गणितीय संक्रियाएं एवं BODMAS नियम:\n• % = -, # = ×, @ = +, • = ÷\n• 📝 स्टेप-बाय-स्टेप हल:\n1. व्यंजक: 40 - 18 × 2 + 6 ÷ 3\n2. भाग संक्रिया: 6 ÷ 3 = 2\n3. गुणा संक्रिया: 18 × 2 = 36\n4. नया व्यंजक: 40 - 36 + 2\n5. जोड़ एवं घटाव: 4 + 2 = 6\nअतः सही उत्तर (B) 6 है।\n• 💡",
-      "exam_tips": "BODMAS क्रम: पहले भाग, फिर गुणा, फिर जोड़, फिर घटाव।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_math_number_bodmas_98"
-  },
-  {
-    "id": 6,
-    "orig_id": 8136,
-    "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_number_bodmas",
-    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
-    "question": "तनाव के दौरान शांत रहने वाले व्यक्ति में संभवतः कौन-सा भावनात्मक गुण होता है?",
-    "options": {
-      "A": "कमज़ोरी",
-      "B": "चिंता की कमी",
-      "C": "टालमटोल",
-      "D": "आत्म-नियंत्रण"
-    },
-    "correct": "D",
-    "explanation": {
-      "formula": "प्रासंगिक नियम व सूत्र",
-      "solution": "विस्तृत हल उपलब्ध है।",
-      "exam_tips": "महत्वपूर्ण परीक्षा बिंदु"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_math_number_bodmas_98"
-  },
-  {
-    "id": 7,
-    "orig_id": 8144,
-    "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_number_bodmas",
-    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
-    "question": "कौन-सा तीन-अक्षरों का समूह आरोही क्रम (बढ़ते क्रम) का पालन नहीं करता है?\nABC, BCD, CDE, DFE, EFG",
-    "options": {
-      "A": "DFE",
-      "B": "CDE",
-      "C": "BCD",
-      "D": "ABC"
-    },
-    "correct": "A",
-    "explanation": {
-      "formula": "प्रासंगिक नियम व सूत्र",
-      "solution": "विस्तृत हल उपलब्ध है।",
-      "exam_tips": "महत्वपूर्ण परीक्षा बिंदु"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_math_number_bodmas_98"
-  },
-  {
-    "id": 8,
     "orig_id": 8147,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -184,7 +23,7 @@
     "mock_id": "ch_math_number_bodmas_98"
   },
   {
-    "id": 9,
+    "id": 2,
     "orig_id": 8164,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -207,7 +46,7 @@
     "mock_id": "ch_math_number_bodmas_98"
   },
   {
-    "id": 10,
+    "id": 3,
     "orig_id": 8167,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -225,6 +64,167 @@
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "📌 मुख्य तथ्य / नियम / सूत्र: प्रतिशत समीकरण हल:\n• x × (P / 100) = मान ⇒ x = (मान × 100) / P\n• 📝 स्टेप-बाय-स्टेप हल:\n1. x × (30 / 100) = 180\n2. x = (180 × 100) ÷ 30\n3. x = 6 × 100 = 600\nअतः सही उत्तर (D) 600 है।\n• 💡",
       "exam_tips": "180 ÷ 0.3 = 600 सीधे प्राप्त होता है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_math_number_bodmas_98"
+  },
+  {
+    "id": 4,
+    "orig_id": 8168,
+    "subject_code": "MATH",
+    "subject": "गणित",
+    "topic_id": "math_number_bodmas",
+    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
+    "question": "एक शहर की बस 120 किलोमीटर की अंतर-शहर यात्रा 4 घंटे में पूरी करती है। उसकी औसत चाल क्या है?",
+    "options": {
+      "A": "h / 25 किमी/घंटा",
+      "B": "h / 30 किमी/घंटा",
+      "C": "h / 35 किमी/घंटा",
+      "D": "h / 40 किमी/घंटा"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: औसत चाल = कुल दूरी / कुल समय\n• 📝 स्टेप-बाय-स्टेप हल:\n1. कुल दूरी = 120 किमी\n2. कुल समय = 4 घंटे\n3. औसत चाल = 120 ÷ 4 = 30 किमी/घंटा\n4. विकल्प (B) में 30 किमी/घंटा दिया गया है।\nअतः सही उत्तर (B) h / 30 किमी/घंटा है।\n• 💡",
+      "exam_tips": "120/4 = 30 किमी/घंटा सीधी गणना है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_math_number_bodmas_98"
+  },
+  {
+    "id": 5,
+    "orig_id": 8177,
+    "subject_code": "MATH",
+    "subject": "गणित",
+    "topic_id": "math_number_bodmas",
+    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
+    "question": "कौन-सा तटीय मैदान लैगुन और बैकवाटर के निर्माण के लिए प्रसिद्ध है?",
+    "options": {
+      "A": "पूर्वी तटीय मैदान",
+      "B": "पश्चिमी तटीय मैदान",
+      "C": "गुजरात तट",
+      "D": "ओडिशा तट"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: भारत की तटीय स्थलाकृतियाँ:\n• पश्चिमी तटीय मैदान का दक्षिणी भाग (मालाबार तट, केरल) लैगून और कयाल (बैकवाटर) के लिए प्रसिद्ध है।\n• 📝 स्टेप-बाय-स्टेप हल:\n1. पश्चिमी तटीय मैदान में समुद्र के जल के अवरुद्ध होने से अनेक खारे पानी की झीलें (लैगून) बनती हैं, जिन्हें केरल में 'कयाल' (Kayal / Backwaters) कहा जाता है।\n2. वेम्बनाड झील (भारत की सबसे लंबी झील) और अष्टमुडी झील इसके प्रमुख उदाहरण हैं।\n3. यहाँ प्रतिवर्ष प्रसिद्ध नौका दौड़ (नेहरू ट्रॉफी बोट रेस / वल्लमकली) आयोजित की जाती है।\nअतः सही उत्तर (B) पश्चिमी तटीय मैदान है।\n• 💡",
+      "exam_tips": "ओडिशा तट पर भारत की सबसे बड़ी खारे पानी की लैगून झील चिल्का झील स्थित है, किंतु व्यापक बैकवाटर नेटवर्क पश्चिमी तट की विशेषता है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_math_number_bodmas_98"
+  },
+  {
+    "id": 6,
+    "orig_id": 8189,
+    "subject_code": "MATH",
+    "subject": "गणित",
+    "topic_id": "math_number_bodmas",
+    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
+    "question": "दिए गए व्यंजक (एक्सप्रेशन) का सही परिणाम क्या है?\n{(250 ÷ 5) - 18} × 4 + 32 = ?",
+    "options": {
+      "A": "160",
+      "B": "164",
+      "C": "156",
+      "D": "172"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: BODMAS संक्रिया नियम:\n• कोष्ठक के अंदर: भाग → घटाव; फिर गुणा → जोड़।\n• 📝 स्टेप-बाय-स्टेप हल:\n1. सबसे भीतरी भाग: 250 ÷ 5 = 50\n2. कोष्ठक का घटाव: 50 - 18 = 32\n3. गुणा संक्रिया: 32 × 4 = 128\n4. अंतिम जोड़: 128 + 32 = 160\nअतः सही उत्तर (A) 160 है।\n• 💡",
+      "exam_tips": "32 × 4 = 128 + 32 = 160 चरणबद्ध हल करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_math_number_bodmas_98"
+  },
+  {
+    "id": 7,
+    "orig_id": 8190,
+    "subject_code": "MATH",
+    "subject": "गणित",
+    "topic_id": "math_number_bodmas",
+    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
+    "question": "[(96-64)÷8+5]×[81÷9+7] का मान ज्ञात करें।",
+    "options": {
+      "A": "96",
+      "B": "144",
+      "C": "84",
+      "D": "80"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: कोष्ठक आधारित सरलीकरण:\n• 📝 स्टेप-बाय-स्टेप हल:\n1. पहला कोष्ठक [(96 - 64) ÷ 8 + 5]:\n• 96 - 64 = 32\n• 32 ÷ 8 = 4\n• 4 + 5 = 9\n2. दूसरा कोष्ठक [81 ÷ 9 + 7]:\n• 81 ÷ 9 = 9\n• 9 + 7 = 16\n3. दोनों कोष्ठकों का गुणनफल:\n• 9 × 16 = 144\nअतः सही उत्तर (B) 144 है।\n• 💡",
+      "exam_tips": "16 × 9 = 144 सीधा पहाड़ा है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_math_number_bodmas_98"
+  },
+  {
+    "id": 8,
+    "orig_id": 8193,
+    "subject_code": "MATH",
+    "subject": "गणित",
+    "topic_id": "math_number_bodmas",
+    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
+    "question": "यदि 3(x - 2) = 2(x + 5), तो x ज्ञात कीजिए।",
+    "options": {
+      "A": "16",
+      "B": "16",
+      "C": "2",
+      "D": "4"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: रैखिक समीकरण का हल:\n• 📝 स्टेप-बाय-स्टेप हल:\n1. दिया गया समीकरण: 3(x - 2) = 2(x + 5)\n2. कोष्ठक खोलने पर: 3x - 6 = 2x + 10\n3. पक्षांतरण करने पर: 3x - 2x = 10 + 6\n4. x = 16\nअतः सही उत्तर (A) 16 है।\n• 💡",
+      "exam_tips": "जांच: 3(16 - 2) = 3 × 14 = 42; 2(16 + 5) = 2 × 21 = 42 (सत्यापित)।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_math_number_bodmas_98"
+  },
+  {
+    "id": 9,
+    "orig_id": 8200,
+    "subject_code": "MATH",
+    "subject": "गणित",
+    "topic_id": "math_number_bodmas",
+    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
+    "question": "यदि x - y = 5 और (x³ - y³) ÷ (x - y) = 91, तो x × y का मान क्या होगा?",
+    "options": {
+      "A": "22",
+      "B": "24",
+      "C": "20",
+      "D": "26"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: बीजगणितीय सर्वसमिका:\n• (x³ - y³) = (x - y)(x² + xy + y²)\n• x² + y² = (x - y)² + 2xy\n• 📝 स्टेप-बाय-स्टेप हल:\n1. (x³ - y³) ÷ (x - y) = x² + xy + y² = 91\n2. हम जानते हैं: x² + xy + y² = (x - y)² + 3xy\n3. मान रखने पर: (5)² + 3xy = 91\n4. 25 + 3xy = 91\n5. 3xy = 91 - 25 = 66\n6. xy = 66 ÷ 3 = 22\nअतः सही उत्तर (A) 22 है।\n• 💡",
+      "exam_tips": "सर्वसमिका x² + xy + y² = (x - y)² + 3xy सीधे याद रखें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_math_number_bodmas_98"
+  },
+  {
+    "id": 10,
+    "orig_id": 8210,
+    "subject_code": "MATH",
+    "subject": "गणित",
+    "topic_id": "math_number_bodmas",
+    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
+    "question": "एक निश्चित कोड भाषा में,\n'crow dog monkey bull' को 'od lk sk jk' के रूप में कोड किया गया है\n'building donkey floor dog' को 'mj jk dn ho' के रूप में कोड किया गया है\n'arrow bull building plane' को 'gt fa mj lk' के रूप में कोड किया गया है\n'floor surface crow arrow' को 'sk mn ho gt' के रूप में कोड किया गया है।\nतो शब्द “bull” के लिए उस भाषा में कौन-सा कोड उपयोग किया गया है?",
+    "options": {
+      "A": "mj",
+      "B": "lk",
+      "C": "dn",
+      "D": "gt"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: उभयनिष्ठ कूट शब्द विश्लेषण:\n• 📝 स्टेप-बाय-स्टेप हल:\n1. वाक्य 1: 'crow dog monkey bull' = 'od lk sk jk'\n2. वाक्य 3: 'arrow bull building plane' = 'gt fa mj lk'\n3. वाक्य 1 और 3 में केवल एक शब्द कॉमन है: 'bull'\n4. दोनों के कोड्स में केवल एक कोड कॉमन है: 'lk'\n5. अतः शब्द 'bull' का कोड 'lk' है।\nअतः सही उत्तर (B) lk है।\n• 💡",
+      "exam_tips": "केवल लक्षित शब्द वाले दोनों वाक्यों की तुलना करने से तुरंत उत्तर मिल जाता है।"
     },
     "difficulty": "Medium",
     "mock_id": "ch_math_number_bodmas_98"

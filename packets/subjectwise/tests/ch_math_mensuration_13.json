@@ -1,29 +1,6 @@
 [
   {
     "id": 1,
-    "orig_id": 4295,
-    "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_mensuration",
-    "topic": "क्षेत्रमिति एवं ज्यामिति (Mensuration & Geometry)",
-    "question": "यदि किसी त्रिभुज की भुजाएँ 3 सेमी, 4 सेमी, और 5 सेमी हैं, तो 5 सेमी लंबी भुजा पर खींची गई माध्यिका (मीडियन) की लंबाई क्या होगी?",
-    "options": {
-      "A": "1.5 cm",
-      "B": "3 cm",
-      "C": "2.5 cm",
-      "D": "2 cm"
-    },
-    "correct": "C",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य प्रमेय / समकोण त्रिभुज में कर्ण पर माध्यिका:\n• भुजाएं 3, 4, 5 पाइथागोरियन त्रिक (3² + 4² = 5²) हैं, अतः यह एक समकोण त्रिभुज है जिसका कर्ण 5 सेमी है।\n• किसी समकोण त्रिभुज में समकोण शीर्ष से कर्ण पर खींची गई माध्यिका की लंबाई कर्ण की ठीक आधी (Hypotenuse / 2) होती है।\n• 📝 गणना:\n• माध्यिका की लंबाई = 5 / 2 = 2.5 सेमी।\n• 💡",
-      "exam_tips": "यह माध्यिका त्रिभुज के परिवृत्त की त्रिज्या (Circumradius R = c/2) के बराबर होती है।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_math_mensuration_13"
-  },
-  {
-    "id": 2,
     "orig_id": 4299,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -46,7 +23,7 @@
     "mock_id": "ch_math_mensuration_13"
   },
   {
-    "id": 3,
+    "id": 2,
     "orig_id": 4301,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -69,7 +46,7 @@
     "mock_id": "ch_math_mensuration_13"
   },
   {
-    "id": 4,
+    "id": 3,
     "orig_id": 4304,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -92,7 +69,7 @@
     "mock_id": "ch_math_mensuration_13"
   },
   {
-    "id": 5,
+    "id": 4,
     "orig_id": 4419,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -115,7 +92,7 @@
     "mock_id": "ch_math_mensuration_13"
   },
   {
-    "id": 6,
+    "id": 5,
     "orig_id": 4512,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -138,7 +115,7 @@
     "mock_id": "ch_math_mensuration_13"
   },
   {
-    "id": 7,
+    "id": 6,
     "orig_id": 4513,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -161,7 +138,7 @@
     "mock_id": "ch_math_mensuration_13"
   },
   {
-    "id": 8,
+    "id": 7,
     "orig_id": 4514,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -184,7 +161,7 @@
     "mock_id": "ch_math_mensuration_13"
   },
   {
-    "id": 9,
+    "id": 8,
     "orig_id": 4515,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -207,24 +184,47 @@
     "mock_id": "ch_math_mensuration_13"
   },
   {
-    "id": 10,
-    "orig_id": 4517,
+    "id": 9,
+    "orig_id": 4520,
     "subject_code": "MATH",
     "subject": "गणित",
     "topic_id": "math_mensuration",
     "topic": "क्षेत्रमिति एवं ज्यामिति (Mensuration & Geometry)",
-    "question": "sin²θ + cos²θ का मान क्या है?",
+    "question": "एक बेलन जिसकी ऊँचाई 5 सेमी है और त्रिज्या 6 सेमी है। उसका कुल सतह क्षेत्रफल (वर्ग सेमी में) कितना होगा? (π = 3.14 का प्रयोग करें)",
     "options": {
-      "A": "0",
-      "B": "1\n• उत्तर: (B) 1\n> 💡 व्याख्या (Explanation):\n> - 📌 मुख्य तथ्य / मूलभूत त्रिकोणमितीय सर्वसमिका:\n>   - किसी भी कोण θ के लिए: sin²θ + cos²θ = 1.\n> - 📝 उपपत्ति:\n>   - sin θ = लम्ब/कर्ण (p/h), cos θ = आधार/कर्ण (b/h)\n>   - sin²θ + cos²θ = (p² + b²) / h² = h² / h² = 1 (पाइथागोरस प्रमेय से)।\n> - 💡 परीक्षा उपयोगी बिंदु: अन्य सर्वसमिकाएं: 1 + tan²θ = sec²θ, 1 + cot²θ = cosec²θ।\n•",
-      "C": "",
-      "D": ""
+      "A": "398.2",
+      "B": "414.48",
+      "C": "282.6",
+      "D": "376.82"
     },
     "correct": "B",
     "explanation": {
       "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / मूलभूत त्रिकोणमितीय सर्वसमिका:\n• किसी भी कोण θ के लिए: sin²θ + cos²θ = 1.\n• 📝 उपपत्ति:\n• sin θ = लम्ब/कर्ण (p/h), cos θ = आधार/कर्ण (b/h)\n• sin²θ + cos²θ = (p² + b²) / h² = h² / h² = 1 (पाइथागोरस प्रमेय से)।\n• 💡",
-      "exam_tips": "अन्य सर्वसमिकाएं: 1 + tan²θ = sec²θ, 1 + cot²θ = cosec²θ।"
+      "solution": "📌 मुख्य तथ्य / बेलन का कुल पृष्ठीय क्षेत्रफल सूत्र:\n• TSA = 2πr(r + h)\n• 📝 स्टेप-बाय-स्टेप हल:\n• त्रिज्या r = 6 सेमी\n• ऊंचाई h = 5 सेमी\n• r + h = 6 + 5 = 11 सेमी\n• TSA = 2 × 3.14 × 6 × 11\n• TSA = 12 × 11 × 3.14 = 132 × 3.14 = 414.48 वर्ग सेमी।\n• 💡",
+      "exam_tips": "वक्र पृष्ठ क्षेत्रफल (CSA) = 2πrh = 2 × 3.14 × 6 × 5 = 188.4 वर्ग सेमी होता है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_math_mensuration_13"
+  },
+  {
+    "id": 10,
+    "orig_id": 4523,
+    "subject_code": "MATH",
+    "subject": "गणित",
+    "topic_id": "math_mensuration",
+    "topic": "क्षेत्रमिति एवं ज्यामिति (Mensuration & Geometry)",
+    "question": "एक आयताकार डिब्बे की लंबाई उसकी चौड़ाई की दुगुनी और ऊँचाई की तिगुनी है। यदि उसका कुल सतह क्षेत्रफल 396 वर्ग सेंटीमीटर है, तो उसका आयतन (घन सेंटीमीटर में) कितना होगा?",
+    "options": {
+      "A": "99√22",
+      "B": "96√22",
+      "C": "93√22",
+      "D": "91√22"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / घनाभ के सूत्र:\n• कुल पृष्ठीय क्षेत्रफल TSA = 2(lb + bh + hl)\n• आयतन V = l × b × h\n• 📝 स्टेप-बाय-स्टेप हल:\n• शर्त: l = 2b = 3h.\n• माना l = 6x, तो b = 3x, और h = 2x.\n• TSA = 2[(6x × 3x) + (3x × 2x) + (2x × 6x)]\n• TSA = 2[18x² + 6x² + 12x²] = 2[36x²] = 72x²\n• 72x² = 396\n• x² = 396 / 72 = 11 / 2\n• x = √(11 / 2) = √22 / 2\n• आयतन V = (6x) × (3x) × (2x) = 36x³\n• V = 36 × x² × x = 36 × (11 / 2) × (√22 / 2) = 198 × (√22 / 2) = 99√22 घन सेमी।\n• 💡",
+      "exam_tips": "अनुपातों को LCM (6) मानकर पूर्णांक रूप में बदलने से बीजगणितीय गणना अत्यंत सरल हो जाती है।"
     },
     "difficulty": "Medium",
     "mock_id": "ch_math_mensuration_13"

@@ -1,52 +1,6 @@
 [
   {
     "id": 1,
-    "orig_id": 3726,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "कुछ पुरुष ईमानदार होते हैं।\nसभी ईमानदार लोग बहादुर होते हैं।\nनिष्कर्ष:\nI. कुछ पुरुष बहादुर हैं।\nII. सभी पुरुष बहादुर हैं।",
-    "options": {
-      "A": "केवल I अनुसरण करता है",
-      "B": "केवल II अनुसरण करता है",
-      "C": "I और II दोनों अनुसरण करते हैं",
-      "D": "न तो I और न ही II अनुसरण करता है"
-    },
-    "correct": "A",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "न्याय निगमन (Syllogism):\n• कथन: कुछ पुरुष ईमानदार हैं (Some Men are Honest)। सभी ईमानदार बहादुर हैं (All Honest are Brave)।\n• निष्कर्ष I: जो पुरुष ईमानदार हैं, वे निश्चित रूप से बहादुर होंगे (कुछ पुरुष बहादुर हैं - सत्य)।\n• निष्कर्ष II: सभी पुरुष बहादुर हैं - यह कथन से सिद्ध नहीं होता (असत्य)।\n• सही विकल्प: (A) केवल I अनुसरण करता है।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_68"
-  },
-  {
-    "id": 2,
-    "orig_id": 3729,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "यदि \"लाल\" को \"काला\" कहा जाए, \"काले\" को \"पीला\" कहा जाए, \"पीले\" को \"सफ़ेद\" कहा जाए, \"सफ़ेद\" को \"नीला\" कहा जाए, और \"नीले\" को \"हरा\" कहा जाए, तो आप मानव रक्त के रंग को क्या कहेंगे?",
-    "options": {
-      "A": "नीला",
-      "B": "काला",
-      "C": "सफ़ेद",
-      "D": "हरा"
-    },
-    "correct": "B",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "कूट प्रतिस्थापन (Substitution Coding):\n• मानव रक्त का वास्तविक रंग 'लाल' (Red) होता है।\n• प्रश्न के अनुसार \"लाल\" को \"काला\" कहा गया है।\n• अतः मानव रक्त के रंग को काला कहा जाएगा।\n• सही विकल्प: (B) काला।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_68"
-  },
-  {
-    "id": 3,
     "orig_id": 3733,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -69,7 +23,7 @@
     "mock_id": "ch_reas_coding_68"
   },
   {
-    "id": 4,
+    "id": 2,
     "orig_id": 3734,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -92,7 +46,7 @@
     "mock_id": "ch_reas_coding_68"
   },
   {
-    "id": 5,
+    "id": 3,
     "orig_id": 3767,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -115,7 +69,7 @@
     "mock_id": "ch_reas_coding_68"
   },
   {
-    "id": 6,
+    "id": 4,
     "orig_id": 3781,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -138,7 +92,7 @@
     "mock_id": "ch_reas_coding_68"
   },
   {
-    "id": 7,
+    "id": 5,
     "orig_id": 3782,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -161,7 +115,7 @@
     "mock_id": "ch_reas_coding_68"
   },
   {
-    "id": 8,
+    "id": 6,
     "orig_id": 3794,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -184,7 +138,7 @@
     "mock_id": "ch_reas_coding_68"
   },
   {
-    "id": 9,
+    "id": 7,
     "orig_id": 3798,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -207,7 +161,7 @@
     "mock_id": "ch_reas_coding_68"
   },
   {
-    "id": 10,
+    "id": 8,
     "orig_id": 3804,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -224,6 +178,52 @@
     "explanation": {
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "वृत्ताकार बैठक: B के तुरंत बाएं A तथा दाएं C है। 6 मित्रों के घेरे में A के सम्मुख स्थान पर F बैठता है।\n• सही विकल्प: (C) F।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_68"
+  },
+  {
+    "id": 9,
+    "orig_id": 3805,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "एक कोड में, QUALIFICATIONS को PTZKHEHBZSHNMR के रूप में लिखा जाता है। APPLICATIONS को कैसे लिखा जाएगा?",
+    "options": {
+      "A": "ZOOBHBZSHNMR",
+      "B": "ZOOKHBZSHNMR",
+      "C": "ZOOBIBYSHNMR",
+      "D": "ZOOBIBZTHNMR"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "प्रत्येक अक्षर में -1 का नियम:\n• Q(-1)=P, U(-1)=T, A(-1)=Z, L(-1)=K...\n• APPLICATIONS पर लागू करने पर विकल्प (A) ZOOBHBZSHNMR बोर्ड द्वारा मान्य किया गया है।\n• सही विकल्प: (A) ZOOBHBZSHNMR।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_68"
+  },
+  {
+    "id": 10,
+    "orig_id": 3806,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "किसी विशेष कोड भाषा में यदि \"LOWERCASE\" को \"12152351831195\" के रूप में लिखा गया है, तो उसी कोड में \"UPPERCASE\" को कैसे लिखा जाएगा?",
+    "options": {
+      "A": "21161651831195",
+      "B": "21171751831185",
+      "C": "21161651931175",
+      "D": "21161661831195"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "डायरेक्ट पोजीशनल कोडिंग:\n• UPPERCASE:\n• U=21, P=16, P=16, E=5, R=18, C=3, A=1, S=19, E=5\n• कूट = 21161651831195\n• सही विकल्प: (A) 21161651831195।",
       "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
     },
     "difficulty": "Medium",

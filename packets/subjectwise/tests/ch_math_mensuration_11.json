@@ -1,29 +1,6 @@
 [
   {
     "id": 1,
-    "orig_id": 3182,
-    "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_mensuration",
-    "topic": "क्षेत्रमिति एवं ज्यामिति (Mensuration & Geometry)",
-    "question": "एक छात्र ने एक ग्रह का मॉडल 7 सेमी त्रिज्या वाली गोला के रूप में बनाया। इस मॉडल का आयतन (घन सेमी में) कितना होगा?",
-    "options": {
-      "A": "1432.22",
-      "B": "1450.55",
-      "C": "1437.33",
-      "D": "1500"
-    },
-    "correct": "C",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "गोले का आयतन सूत्र: V = (4/3) × π × r³\n• गणना:\n• r = 7 सेमी\n• V = (4/3) × (22/7) × (7)³\n• = (4/3) × 22 × 49 = (4/3) × 1078 = 4312 ÷ 3 = 1437.33 सेमी³\n• अतः मॉडल का आयतन 1437.33 घन सेमी होगा।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_math_mensuration_11"
-  },
-  {
-    "id": 2,
     "orig_id": 3183,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -46,7 +23,7 @@
     "mock_id": "ch_math_mensuration_11"
   },
   {
-    "id": 3,
+    "id": 2,
     "orig_id": 3290,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -69,7 +46,7 @@
     "mock_id": "ch_math_mensuration_11"
   },
   {
-    "id": 4,
+    "id": 3,
     "orig_id": 3297,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -92,7 +69,7 @@
     "mock_id": "ch_math_mensuration_11"
   },
   {
-    "id": 5,
+    "id": 4,
     "orig_id": 3415,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -115,7 +92,7 @@
     "mock_id": "ch_math_mensuration_11"
   },
   {
-    "id": 6,
+    "id": 5,
     "orig_id": 3421,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -138,7 +115,7 @@
     "mock_id": "ch_math_mensuration_11"
   },
   {
-    "id": 7,
+    "id": 6,
     "orig_id": 3423,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -161,7 +138,7 @@
     "mock_id": "ch_math_mensuration_11"
   },
   {
-    "id": 8,
+    "id": 7,
     "orig_id": 3525,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -184,7 +161,7 @@
     "mock_id": "ch_math_mensuration_11"
   },
   {
-    "id": 9,
+    "id": 8,
     "orig_id": 3536,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -207,7 +184,7 @@
     "mock_id": "ch_math_mensuration_11"
   },
   {
-    "id": 10,
+    "id": 9,
     "orig_id": 3537,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -224,6 +201,29 @@
     "explanation": {
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "घन रूपांतरण: मूल आयतन का 85% उपयोग किया जाता है। बोर्ड उत्तर कुंजी में (C) 21 को मान्य किया गया है।\n• सही विकल्प: (C) 21।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_math_mensuration_11"
+  },
+  {
+    "id": 10,
+    "orig_id": 3637,
+    "subject_code": "MATH",
+    "subject": "गणित",
+    "topic_id": "math_mensuration",
+    "topic": "क्षेत्रमिति एवं ज्यामिति (Mensuration & Geometry)",
+    "question": "एक गोलाकार गैस होल्डर का व्यास 14 मीटर है। उसकी त्रिज्या कितनी होगी?",
+    "options": {
+      "A": "7 मीटर",
+      "B": "14 मीटर",
+      "C": "3.5 मीटर",
+      "D": "28 मीटर"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मूल सूत्र: त्रिज्या (r) = व्यास (d) / 2\n• गणना: r = 14 / 2 = 7 मीटर\n• सही विकल्प: (A) 7 मीटर।",
       "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
     },
     "difficulty": "Medium",

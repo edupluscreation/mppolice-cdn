@@ -1,52 +1,6 @@
 [
   {
     "id": 1,
-    "orig_id": 8569,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_blood",
-    "topic": "रक्त संबंध (Blood Relations)",
-    "question": "If A is the father of B, but B is NOT the son of A, then how is B related to A? / यदि A, B का पिता है, लेकिन B, A का पुत्र नहीं है, तो B, A से किस प्रकार संबंधित है?",
-    "options": {
-      "A": "बहन",
-      "B": "माँ",
-      "C": "कज़िन",
-      "D": "बेटी"
-    },
-    "correct": "D",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: पारिवारिक संबंध एवं लिंग परीक्षण:\n• 📝 स्टेप-बाय-स्टेप हल:\n1. A, B का पिता है, जिसका अर्थ है कि B, A की संतान (Child) है।\n2. किसी पिता की संतान या तो पुत्र (बेटा) हो सकती है या पुत्री (बेटी)।\n3. प्रश्न में स्पष्ट दिया है कि B पुत्र नहीं है, तो B निश्चित रूप से 'बेटी' (पुत्री) होगी।\nअतः सही उत्तर (D) बेटी है।\n• 💡",
-      "exam_tips": "यह एक प्रसिद्ध तार्किक पहेली है जो सीधे द्वि-आधारी लिंग संबंध पर आधारित है।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_blood_16"
-  },
-  {
-    "id": 2,
-    "orig_id": 8570,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_blood",
-    "topic": "रक्त संबंध (Blood Relations)",
-    "question": "If Ravi is the son of Meena, and Meena is the daughter of Alok, how is Alok related to Ravi? / यदि रवि, मीना का बेटा है, और मीना, आलोक की बेटी है, तो आलोक का रवि से क्या संबंध है?",
-    "options": {
-      "A": "पिता",
-      "B": "अंकल",
-      "C": "दादा",
-      "D": "कज़िन"
-    },
-    "correct": "C",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: दो पीढ़ियों का रक्त संबंध (Grandparent-Grandchild):\n• 📝 स्टेप-बाय-स्टेप हल:\n1. रवि, मीना का बेटा है।\n2. मीना, आलोक की बेटी है ⇒ आलोक, रवि की माँ का पिता है।\n3. माँ का पिता 'नाना' (Maternal Grandfather) कहलाता है।\n4. विकल्पों में 'दादा/नाना' के लिए विकल्प (C) दादा दिया गया है।\nअतः सही उत्तर (C) दादा है।\n• 💡",
-      "exam_tips": "अंग्रेज़ी में Grandfather शब्द दादा और नाना दोनों के लिए प्रयुक्त होता है।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_blood_16"
-  },
-  {
-    "id": 3,
     "orig_id": 8584,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -69,7 +23,7 @@
     "mock_id": "ch_reas_blood_16"
   },
   {
-    "id": 4,
+    "id": 2,
     "orig_id": 8687,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -92,7 +46,7 @@
     "mock_id": "ch_reas_blood_16"
   },
   {
-    "id": 5,
+    "id": 3,
     "orig_id": 8778,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -115,7 +69,7 @@
     "mock_id": "ch_reas_blood_16"
   },
   {
-    "id": 6,
+    "id": 4,
     "orig_id": 8780,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -138,7 +92,7 @@
     "mock_id": "ch_reas_blood_16"
   },
   {
-    "id": 7,
+    "id": 5,
     "orig_id": 720,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -161,7 +115,7 @@
     "mock_id": "ch_reas_blood_16"
   },
   {
-    "id": 8,
+    "id": 6,
     "orig_id": 850,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -184,7 +138,7 @@
     "mock_id": "ch_reas_blood_16"
   },
   {
-    "id": 9,
+    "id": 7,
     "orig_id": 884,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -207,7 +161,7 @@
     "mock_id": "ch_reas_blood_16"
   },
   {
-    "id": 10,
+    "id": 8,
     "orig_id": 988,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -225,6 +179,52 @@
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "मुख्य तथ्य / नियम / सूत्र:\n• दादा के बेटे = पिता, पिता के पुत्र = भाई या स्वयं।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• आधिकारिक कुंजी के अनुसार उत्तर बेटा, विकल्प (A) है।\n• शुद्ध तर्क से भाई बनता है, परीक्षा में कुंजी को अंतिम मानें।",
       "exam_tips": "इकलौता शब्द संबंध पक्का करता है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_blood_16"
+  },
+  {
+    "id": 9,
+    "orig_id": 1250,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_blood",
+    "topic": "रक्त संबंध (Blood Relations)",
+    "question": "एक महिला की ओर इशारा करते हुए रितु ने कहा, \"वह मेरे भाई के पिता की पत्नी है।\" वह महिला रितु से किस रिश्ते में है?",
+    "options": {
+      "A": "रितु की कजिन",
+      "B": "रितु की आंटी",
+      "C": "रितु की बहन",
+      "D": "रितु की माता"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र:\n• भाई के पिता = स्वयं के पिता, उनकी पत्नी = माता।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• अतः विकल्प (D) सही है।",
+      "exam_tips": "पिता की पत्नी माता होती है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_blood_16"
+  },
+  {
+    "id": 10,
+    "orig_id": 1251,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_blood",
+    "topic": "रक्त संबंध (Blood Relations)",
+    "question": "एक महिला की ओर इशारा करते हुए रितू ने कहा, \"वह मेरे भाई के पिता की पत्नी है\"। वह महिला रितू से किस रिश्ते में है?",
+    "options": {
+      "A": "रितू की कजिन",
+      "B": "रितू की आंटी",
+      "C": "रितू की बहन",
+      "D": "रितू की माता"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र:\n• भाई के पिता = स्वयं के पिता, उनकी पत्नी = माता।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• अतः विकल्प (D) सही है।",
+      "exam_tips": "पिता की पत्नी माता होती है।"
     },
     "difficulty": "Medium",
     "mock_id": "ch_reas_blood_16"

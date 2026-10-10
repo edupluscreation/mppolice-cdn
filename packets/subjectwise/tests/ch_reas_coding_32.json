@@ -1,29 +1,6 @@
 [
   {
     "id": 1,
-    "orig_id": 1804,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "pH स्केल की सीमा क्या होगी?",
-    "options": {
-      "A": "0 से 14",
-      "B": "0 से 7",
-      "C": "14 से 14",
-      "D": "14 से 10"
-    },
-    "correct": "A",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "मुख्य तथ्य / नियम / सूत्र: मानक pH स्केल 0 से 14 तक होता है।",
-      "exam_tips": "दोहराया गया प्रश्न; सही उत्तर (A) 0 से 14 है।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_32"
-  },
-  {
-    "id": 2,
     "orig_id": 1821,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -46,7 +23,7 @@
     "mock_id": "ch_reas_coding_32"
   },
   {
-    "id": 3,
+    "id": 2,
     "orig_id": 1824,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -69,7 +46,7 @@
     "mock_id": "ch_reas_coding_32"
   },
   {
-    "id": 4,
+    "id": 3,
     "orig_id": 1835,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -92,7 +69,7 @@
     "mock_id": "ch_reas_coding_32"
   },
   {
-    "id": 5,
+    "id": 4,
     "orig_id": 1854,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -115,7 +92,7 @@
     "mock_id": "ch_reas_coding_32"
   },
   {
-    "id": 6,
+    "id": 5,
     "orig_id": 1855,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -138,7 +115,7 @@
     "mock_id": "ch_reas_coding_32"
   },
   {
-    "id": 7,
+    "id": 6,
     "orig_id": 1856,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -161,7 +138,7 @@
     "mock_id": "ch_reas_coding_32"
   },
   {
-    "id": 8,
+    "id": 7,
     "orig_id": 1862,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -184,7 +161,7 @@
     "mock_id": "ch_reas_coding_32"
   },
   {
-    "id": 9,
+    "id": 8,
     "orig_id": 1870,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -207,7 +184,7 @@
     "mock_id": "ch_reas_coding_32"
   },
   {
-    "id": 10,
+    "id": 9,
     "orig_id": 1873,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -225,6 +202,29 @@
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "मुख्य तथ्य / नियम / सूत्र: नीचे से स्थान = कुल छात्र - ऊपर से स्थान + 1\n• स्टेप-बाय-स्टेप हल:\n• नीचे से स्थान = 45 - 13 + 1\n• = 32 + 1 = 33वाँ स्थान",
       "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_32"
+  },
+  {
+    "id": 10,
+    "orig_id": 1893,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "नगरपालिका प्राधिकरण ने शहर में कचरा प्रबंधन सेवाओं में सुधार के लिए संपत्ति कर दरें 15% बढ़ा दी हैं।\n1. उच्च कर राजस्व कचरा प्रबंधन सेवाओं में सुधार करेगा।\n2. संपत्ति मालिक बढ़े हुए दरों से खुश होंगे।\nनिम्नलिखित में से कौन-सा निष्कर्ष निकाला जा सकता है?",
+    "options": {
+      "A": "केवल 1 लागू होता है",
+      "B": "केवल 2 लागू होता है",
+      "C": "दोनों निष्कर्ष सत्य हैं",
+      "D": "कोई भी निष्कर्ष सत्य नहीं है"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र: कथन और निष्कर्ष (Statement & Conclusion) का तार्किक नियम:\n• स्टेप-बाय-स्टेप हल:\n• कथन में स्पष्ट कहा गया है कि प्राधिकरण ने कचरा प्रबंधन सेवाओं में सुधार हेतु कर बढ़ाया है, अतः निष्कर्ष 1 सीधे तौर पर तर्कसंगत है कि उच्च राजस्व सेवाओं में सुधार करेगा।\n• निष्कर्ष 2 (मालिक खुश होंगे) कथन से सिद्ध नहीं होता क्योंकि कर वृद्धि से लोग प्रायः असंतुष्ट होते हैं।\n• अतः केवल निष्कर्ष 1 लागू होता है।",
+      "exam_tips": "निष्कर्ष वही मान्य होता है जो कथन की परिधि के अंदर सीधे तार्किक रूप से निहित हो।"
     },
     "difficulty": "Medium",
     "mock_id": "ch_reas_coding_32"

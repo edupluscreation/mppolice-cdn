@@ -1,29 +1,6 @@
 [
   {
     "id": 1,
-    "orig_id": 754,
-    "subject_code": "SCIENCE",
-    "subject": "सामान्य विज्ञान",
-    "topic_id": "sci_chemistry",
-    "topic": "रसायन विज्ञान (Chemistry)",
-    "question": "पोटैश एलम का जलीय विलयन कैसा होता है?",
-    "options": {
-      "A": "उदासीन",
-      "B": "थोड़ा क्षारीय",
-      "C": "अम्लीय",
-      "D": "अत्यधिक क्षारीय"
-    },
-    "correct": "C",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "मुख्य तथ्य / नियम / सूत्र:\n• पोटैश एलम K₂SO₄.Al₂(SO₄)₃.24H₂O एक द्विक लवण है।\n• Al³⁺ जल अपघटन से H⁺ देता है, विलयन अम्लीय होता है।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• प्रबल अम्ल + दुर्बल क्षार के लवण अम्लीय होते हैं।\n• अतः विकल्प (C) सही है।",
-      "exam_tips": "फिटकरी से पानी साफ होता है, रक्तस्राव रोकता है।\n• pH 7 से कम अम्लीय होता है।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_sci_chemistry_17"
-  },
-  {
-    "id": 2,
     "orig_id": 758,
     "subject_code": "SCIENCE",
     "subject": "सामान्य विज्ञान",
@@ -46,7 +23,7 @@
     "mock_id": "ch_sci_chemistry_17"
   },
   {
-    "id": 3,
+    "id": 2,
     "orig_id": 767,
     "subject_code": "SCIENCE",
     "subject": "सामान्य विज्ञान",
@@ -69,7 +46,7 @@
     "mock_id": "ch_sci_chemistry_17"
   },
   {
-    "id": 4,
+    "id": 3,
     "orig_id": 891,
     "subject_code": "SCIENCE",
     "subject": "सामान्य विज्ञान",
@@ -92,7 +69,7 @@
     "mock_id": "ch_sci_chemistry_17"
   },
   {
-    "id": 5,
+    "id": 4,
     "orig_id": 898,
     "subject_code": "SCIENCE",
     "subject": "सामान्य विज्ञान",
@@ -115,7 +92,7 @@
     "mock_id": "ch_sci_chemistry_17"
   },
   {
-    "id": 6,
+    "id": 5,
     "orig_id": 1025,
     "subject_code": "SCIENCE",
     "subject": "सामान्य विज्ञान",
@@ -138,7 +115,7 @@
     "mock_id": "ch_sci_chemistry_17"
   },
   {
-    "id": 7,
+    "id": 6,
     "orig_id": 1029,
     "subject_code": "SCIENCE",
     "subject": "सामान्य विज्ञान",
@@ -161,7 +138,7 @@
     "mock_id": "ch_sci_chemistry_17"
   },
   {
-    "id": 8,
+    "id": 7,
     "orig_id": 1035,
     "subject_code": "SCIENCE",
     "subject": "सामान्य विज्ञान",
@@ -184,7 +161,7 @@
     "mock_id": "ch_sci_chemistry_17"
   },
   {
-    "id": 9,
+    "id": 8,
     "orig_id": 1159,
     "subject_code": "SCIENCE",
     "subject": "सामान्य विज्ञान",
@@ -207,7 +184,7 @@
     "mock_id": "ch_sci_chemistry_17"
   },
   {
-    "id": 10,
+    "id": 9,
     "orig_id": 1167,
     "subject_code": "SCIENCE",
     "subject": "सामान्य विज्ञान",
@@ -225,6 +202,29 @@
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "मुख्य तथ्य / नियम / सूत्र:\n• वायवीय श्वसन में 38 ATP मिलते हैं।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• अतः विकल्प (C) सही है।",
       "exam_tips": "अवायवीय में 2 ATP मिलते हैं।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_sci_chemistry_17"
+  },
+  {
+    "id": 10,
+    "orig_id": 1287,
+    "subject_code": "SCIENCE",
+    "subject": "सामान्य विज्ञान",
+    "topic_id": "sci_chemistry",
+    "topic": "रसायन विज्ञान (Chemistry)",
+    "question": "दूध को अधिक समय तक सुरक्षित रखने के लिए दूधवाला क्या करता है?",
+    "options": {
+      "A": "ताजे दूध में बहुत थोड़ी मात्रा में बेकिंग सोडा मिलाता है",
+      "B": "ताजे दूध में बहुत थोड़ी मात्रा में लैक्टिक अम्ल मिलाता है",
+      "C": "ताजे दूध में बहुत थोड़ी मात्रा में पानी मिलाता है",
+      "D": "ताजे दूध में बहुत थोड़ी मात्रा में सिरका मिलाता है"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र:\n• दूध में लैक्टिक अम्ल बनने से वह फटता है।\n• बेकिंग सोडा (क्षार) इस अम्ल को उदासीन कर pH बढ़ाता है।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• अम्ल (B), पानी (C) या सिरका (D) मिलाने से दूध और जल्दी फटेगा।\n• थोड़ा बेकिंग सोडा खट्टापन रोकता है, अतः विकल्प (A) सही है।",
+      "exam_tips": "बेकिंग सोडा = सोडियम बाइकार्बोनेट (NaHCO₃)।\n• pH बढ़ने से जीवाणु वृद्धि धीमी होती है।"
     },
     "difficulty": "Medium",
     "mock_id": "ch_sci_chemistry_17"

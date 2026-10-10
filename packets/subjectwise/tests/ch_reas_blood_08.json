@@ -1,29 +1,6 @@
 [
   {
     "id": 1,
-    "orig_id": 3620,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_blood",
-    "topic": "रक्त संबंध (Blood Relations)",
-    "question": "महिलाओं में से एक ने एक तस्वीर में एक पुरुष की ओर इशारा करते हुए कहा, \"उसके भाई का पिता मेरे दादा का इकलौता बेटा है।\" तो उस महिला का उस तस्वीर वाले पुरुष से क्या संबंध है?",
-    "options": {
-      "A": "बहन",
-      "B": "माँ",
-      "C": "बेटी",
-      "D": "आंटी"
-    },
-    "correct": "A",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "रक्त संबंध:\n• पुरुष के भाई का पिता = पुरुष का पिता।\n• महिला के दादा का इकलौता बेटा = महिला का पिता।\n• दोनों का पिता एक ही व्यक्ति है।\n• अतः वह महिला उस तस्वीर वाले पुरुष की बहन (Sister) है।\n• सही विकल्प: (A) बहन।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_blood_08"
-  },
-  {
-    "id": 2,
     "orig_id": 3706,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -46,7 +23,7 @@
     "mock_id": "ch_reas_blood_08"
   },
   {
-    "id": 3,
+    "id": 2,
     "orig_id": 3799,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -69,7 +46,7 @@
     "mock_id": "ch_reas_blood_08"
   },
   {
-    "id": 4,
+    "id": 3,
     "orig_id": 3818,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -92,7 +69,7 @@
     "mock_id": "ch_reas_blood_08"
   },
   {
-    "id": 5,
+    "id": 4,
     "orig_id": 3894,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -115,7 +92,7 @@
     "mock_id": "ch_reas_blood_08"
   },
   {
-    "id": 6,
+    "id": 5,
     "orig_id": 3895,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -138,7 +115,7 @@
     "mock_id": "ch_reas_blood_08"
   },
   {
-    "id": 7,
+    "id": 6,
     "orig_id": 3919,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -161,7 +138,7 @@
     "mock_id": "ch_reas_blood_08"
   },
   {
-    "id": 8,
+    "id": 7,
     "orig_id": 3920,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -184,30 +161,7 @@
     "mock_id": "ch_reas_blood_08"
   },
   {
-    "id": 9,
-    "orig_id": 3921,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_blood",
-    "topic": "रक्त संबंध (Blood Relations)",
-    "question": "एक पुरुष की ओर इशारा करते हुए एक महिला ने कहा, \"वह मेरी माँ के भाई का बेटा है।\" तो वह पुरुष उस महिला से किस प्रकार संबंधित है?",
-    "options": {
-      "A": "भाई",
-      "B": "अंकल\n• > 💡 व्याख्या (Explanation):\n> - संबंध निर्धारण: महिला की माँ का भाई = मामा; मामा का बेटा = कजिन (Cousin / ममेरा भाई)।\n> - सही विकल्प: (D) कजिन / (A)।\n•",
-      "C": "",
-      "D": "कजिन / (A)।\n•"
-    },
-    "correct": "A",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "संबंध निर्धारण: महिला की माँ का भाई = मामा; मामा का बेटा = कजिन (Cousin / ममेरा भाई)।\n• सही विकल्प: (D) कजिन / (A)।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_blood_08"
-  },
-  {
-    "id": 10,
+    "id": 8,
     "orig_id": 4015,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -225,6 +179,52 @@
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "रक्त संबंध: \"उसकी माँ मेरे पिता की पत्नी है\" ⇒ महिला की माँ = पुरुष की माँ। अतः वह महिला उस पुरुष की बहन (Sister/Sibling) है। बोर्ड ने विकल्प (B) बेटी चिह्नित किया है।",
       "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_blood_08"
+  },
+  {
+    "id": 9,
+    "orig_id": 4018,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_blood",
+    "topic": "रक्त संबंध (Blood Relations)",
+    "question": "राज ने अमन से कहा, \"तुम्हारी माँ के पति की बहन मेरी पत्नी है।\" तो अमन का राज से क्या संबंध है?",
+    "options": {
+      "A": "साला",
+      "B": "बेटा",
+      "C": "नेफ्यू",
+      "D": "कज़िन"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "पारिवारिक संबंध:\n• अमन की माँ के पति = अमन के पिता।\n• पिता की बहन = अमन की बुआ।\n• बुआ का पति = राज (फूफा)।\n• अतः अमन राज का भतीजा (Nephew / नेफ्यू) है।\n• सही विकल्प: (C) नेफ्यू।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_blood_08"
+  },
+  {
+    "id": 10,
+    "orig_id": 4034,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_blood",
+    "topic": "रक्त संबंध (Blood Relations)",
+    "question": "A, B और C का पिता है। B, A का बेटा है। C, A की बेटी है। D, B की बहन है। तो D, C से किस प्रकार संबंधित है?",
+    "options": {
+      "A": "बहन",
+      "B": "भाई",
+      "C": "पिता",
+      "D": "बेटा"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य नियम: रक्त संबंध (Blood Relations) में एक ही पिता की संतानों के मध्य संबंध।\n• 📝 स्टेप-बाय-स्टेप हल:\n• A पिता है B और C का।\n• B (बेटा/पुरुष) तथा C (बेटी/महिला) दोनों A की संतानें हैं।\n• D, B की बहन है ⇒ D भी A की ही संतान (बेटी/महिला) है।\n• अतः D, C की भी बहन है।\n• 💡",
+      "exam_tips": "समान माता-पिता की बेटियां आपस में बहनें (Sisters) होती हैं।"
     },
     "difficulty": "Medium",
     "mock_id": "ch_reas_blood_08"

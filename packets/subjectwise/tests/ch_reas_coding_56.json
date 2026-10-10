@@ -1,52 +1,6 @@
 [
   {
     "id": 1,
-    "orig_id": 3073,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "हैदराबाद में, एक व्यक्ति 10√3 मीटर की दूरी से 30° के कोण पर एक मोबाइल टावर के शीर्ष को देखता है। टावर की ऊँचाई क्या है?",
-    "options": {
-      "A": "30 m",
-      "B": "10 m",
-      "C": "20 m",
-      "D": "5 m"
-    },
-    "correct": "B",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "त्रिकोणमिति सूत्र: tan(θ) = ऊँचाई (h) ÷ आधार दूरी (d)\n• गणना:\n• θ = 30°, d = 10√3 मीटर\n• tan(30°) = 1 / √3\n• 1 / √3 = h ÷ (10√3)\n• h = (10√3) ÷ √3 = 10 मीटर\n• अतः मोबाइल टावर की ऊँचाई 10 मीटर है।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_56"
-  },
-  {
-    "id": 2,
-    "orig_id": 3104,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "निम्नलिखित प्रश्न में, वह विकल्प ज्ञात कीजिए जो प्रश्नवाचक चिह्न के स्थान पर आएगा।\nAD : GI :: LP : ?",
-    "options": {
-      "A": "QS",
-      "B": "QU",
-      "C": "RU",
-      "D": "RX"
-    },
-    "correct": "B",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "अक्षर अंतराल:\n• AD ➔ A(1), D(4) [अंतर +3]\n• GI ➔ G(7), I(9)\n• LP ➔ L(12), P(16)\n• सादृश्यता के आधार पर अगला पद QU (Q=17, U=21) उपयुक्त बैठता है।\n• अतः सही विकल्प (B) QU है।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_56"
-  },
-  {
-    "id": 3,
     "orig_id": 3105,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -69,7 +23,7 @@
     "mock_id": "ch_reas_coding_56"
   },
   {
-    "id": 4,
+    "id": 2,
     "orig_id": 3108,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -92,7 +46,7 @@
     "mock_id": "ch_reas_coding_56"
   },
   {
-    "id": 5,
+    "id": 3,
     "orig_id": 3111,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -115,7 +69,7 @@
     "mock_id": "ch_reas_coding_56"
   },
   {
-    "id": 6,
+    "id": 4,
     "orig_id": 3115,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -138,7 +92,7 @@
     "mock_id": "ch_reas_coding_56"
   },
   {
-    "id": 7,
+    "id": 5,
     "orig_id": 3118,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -161,7 +115,7 @@
     "mock_id": "ch_reas_coding_56"
   },
   {
-    "id": 8,
+    "id": 6,
     "orig_id": 3120,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -184,7 +138,7 @@
     "mock_id": "ch_reas_coding_56"
   },
   {
-    "id": 9,
+    "id": 7,
     "orig_id": 3122,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -207,7 +161,7 @@
     "mock_id": "ch_reas_coding_56"
   },
   {
-    "id": 10,
+    "id": 8,
     "orig_id": 3145,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -224,6 +178,52 @@
     "explanation": {
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "बैठक व्यवस्था:\n• चार दोस्त (P, Q, R, S) एक रेखा में हैं।\n• छोर पर P और S हैं: क्रम P, _, _, S अथवा S, _, _, P।\n• बीच के दो स्थानों पर Q और R बैठेंगे: (P, Q, R, S) या (P, R, Q, S)।\n• दोनों ही स्थितियों में Q के ठीक बगल में R अवश्य बैठेगा।\n• अतः Q के पास R बैठा है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_56"
+  },
+  {
+    "id": 9,
+    "orig_id": 3146,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "निम्नलिखित श्रृंखला को दिए गए विकल्पों में से पूरा करें:\nab_baabxb__a_xba_bxba",
+    "options": {
+      "A": "xaba",
+      "B": "xabx",
+      "C": "xaxa",
+      "D": "aaba"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "पैटर्न विश्लेषण:\n• आवर्ती समूह \"abxba\" पर आधारित है।\n• रिक्त स्थानों में x, a, x, a अक्षर भरने पर श्रृंखला का तार्किक पुनरावृत्ति क्रम पूर्ण होता है।\n• अतः सही विकल्प (C) xaxa है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_56"
+  },
+  {
+    "id": 10,
+    "orig_id": 3151,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "शब्द \"SIGNATURE\" में पहले स्वर और अंतिम व्यंजन के बीच कितने अक्षर हैं?",
+    "options": {
+      "A": "3",
+      "B": "4",
+      "C": "5",
+      "D": "6"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "शब्द विश्लेषण: S(1) I(2) G(3) N(4) A(5) T(6) U(7) R(8) E(9)\n• पहला स्वर = 'I' (स्थान 2)\n• अंतिम व्यंजन = 'R' (स्थान 8)\n• स्थान 2 ('I') और स्थान 8 ('R') के बीच के अक्षर: G(3), N(4), A(5), T(6), U(7)\n• कुल अक्षरों की संख्या = 8 - 2 - 1 = 5 अक्षर\n• अतः बीच में 5 अक्षर हैं।",
       "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
     },
     "difficulty": "Medium",

@@ -1,29 +1,6 @@
 [
   {
     "id": 1,
-    "orig_id": 1955,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "एकाधिकारत्मक प्रतिस्पर्धा में, दीर्घकाल में निम्नलिखित में से कौन-सा कथन सत्य होता है?",
-    "options": {
-      "A": "मूल्य सीमांत लागत के बराबर होता है।",
-      "B": "फर्म, न्यूनतम औसत लागत पर कार्य करती हैं।",
-      "C": "फर्म, असामान्य लाभ अर्जित करती हैं।",
-      "D": "फर्म, केवल सामान्य लाभ अर्जित करती हैं।"
-    },
-    "correct": "D",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "मुख्य तथ्य / नियम / सूत्र: एकाधिकारात्मक प्रतिस्पर्धा (Monopolistic Competition - Long Run Equilibrium):\n• स्टेप-बाय-स्टेप हल:\n• एकाधिकारात्मक बाजार में फर्मों के स्वतंत्र प्रवेश और निकास (Free Entry and Exit) के कारण दीर्घकाल में कोई भी फर्म असामान्य लाभ अर्जित नहीं कर सकती।\n• नए प्रतिद्वंद्वियों के प्रवेश से मांग वक्र नीचे खिसकता है, जिससे दीर्घकाल में सभी फर्में केवल सामान्य लाभ (Normal Profit) ही अर्जित करती हैं (P = AC)।",
-      "exam_tips": "इसमें उत्पाद विभेदीकरण (Product Differentiation) और गैर-मूल्य प्रतिस्पर्धा मुख्य लक्षण होते हैं।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_34"
-  },
-  {
-    "id": 2,
     "orig_id": 1965,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -46,7 +23,7 @@
     "mock_id": "ch_reas_coding_34"
   },
   {
-    "id": 3,
+    "id": 2,
     "orig_id": 1970,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -69,7 +46,7 @@
     "mock_id": "ch_reas_coding_34"
   },
   {
-    "id": 4,
+    "id": 3,
     "orig_id": 1971,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -92,7 +69,7 @@
     "mock_id": "ch_reas_coding_34"
   },
   {
-    "id": 5,
+    "id": 4,
     "orig_id": 1972,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -115,7 +92,7 @@
     "mock_id": "ch_reas_coding_34"
   },
   {
-    "id": 6,
+    "id": 5,
     "orig_id": 1982,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -138,7 +115,7 @@
     "mock_id": "ch_reas_coding_34"
   },
   {
-    "id": 7,
+    "id": 6,
     "orig_id": 1985,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -161,7 +138,7 @@
     "mock_id": "ch_reas_coding_34"
   },
   {
-    "id": 8,
+    "id": 7,
     "orig_id": 1987,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -184,7 +161,7 @@
     "mock_id": "ch_reas_coding_34"
   },
   {
-    "id": 9,
+    "id": 8,
     "orig_id": 2013,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -207,7 +184,7 @@
     "mock_id": "ch_reas_coding_34"
   },
   {
-    "id": 10,
+    "id": 9,
     "orig_id": 2014,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -225,6 +202,29 @@
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "मुख्य तथ्य / नियम / सूत्र: वर्गीकरण (Odd One Out - Geography):\n• स्टेप-बाय-स्टेप हल:\n• भारत, चीन और ब्राज़ील संप्रभु स्वतंत्र देश (Countries) हैं।\n• जबकि टोक्यो जापान देश की राजधानी / शहर (Capital City) है, कोई देश नहीं।\n• अतः टोक्यो अन्य तीनों से सर्वथा भिन्न है।",
       "exam_tips": "देश बनाम राजधानी शहर का मूलभूत वर्गीकरण।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_34"
+  },
+  {
+    "id": 10,
+    "orig_id": 2015,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "यदि FRIEND को FDNIRE बना दिया जाए तो TICKET को कैसे लिखा जाएगा?",
+    "options": {
+      "A": "TETKIC",
+      "B": "TKETIC",
+      "C": "TEKTIC",
+      "D": "TTECIK"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र: वर्ण पुनर्व्यवस्था कूट (Letter Position Permutation):\n• स्टेप-बाय-स्टेप हल:\n• FRIEND (1 2 3 4 5 6) → FDNIRE:\n• 1वाँ F यथावत पहले स्थान पर।\n• 6वाँ D दूसरे स्थान पर।\n• 5वाँ N तीसरे स्थान पर।\n• 3वाँ I चौथे स्थान पर।\n• 2वाँ R पाँचवें स्थान पर।\n• 4वाँ E छठे स्थान पर।\n• TICKET (1 2 3 4 5 6) पर यही क्रम (1, 6, 5, 4, 2, 3 या 1, 6, 5, 3, 2, 4) लगाने पर 'TTECIK' या 'TEKTIC' स्वरूप बनता है।",
+      "exam_tips": "मूल शब्द के प्रत्येक अक्षर की स्थिति संख्या लिखकर कूट के साथ मिलान किया जाता है।"
     },
     "difficulty": "Medium",
     "mock_id": "ch_reas_coding_34"

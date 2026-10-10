@@ -1,29 +1,6 @@
 [
   {
     "id": 1,
-    "orig_id": 2008,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_blood",
-    "topic": "रक्त संबंध (Blood Relations)",
-    "question": "राहुल कहता है, \"वह मेरे पिता के इकलौते बेटे की बेटी है।\" वह महिला राहुल से किस प्रकार संबंधित है?",
-    "options": {
-      "A": "बेटी",
-      "B": "बहन",
-      "C": "नीस",
-      "D": "कजिन"
-    },
-    "correct": "A",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "मुख्य तथ्य / नियम / सूत्र: रक्त संबंध (Blood Relation Direct Deduction):\n• स्टेप-बाय-स्टेप हल:\n• \"मेरे पिता का इकलौता बेटा\" = राहुल स्वयं (क्योंकि राहुल पुरुष व वक्ता है)।\n• \"उसकी बेटी\" = राहुल की बेटी।\n• अतः वह महिला राहुल की बेटी (Daughter) है।",
-      "exam_tips": "'पिता का इकलौता पुत्र' हमेशा स्वयं वक्ता होता है यदि वक्ता पुरुष हो।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_blood_05"
-  },
-  {
-    "id": 2,
     "orig_id": 2010,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -46,7 +23,7 @@
     "mock_id": "ch_reas_blood_05"
   },
   {
-    "id": 3,
+    "id": 2,
     "orig_id": 2135,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -69,7 +46,7 @@
     "mock_id": "ch_reas_blood_05"
   },
   {
-    "id": 4,
+    "id": 3,
     "orig_id": 2162,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -92,7 +69,7 @@
     "mock_id": "ch_reas_blood_05"
   },
   {
-    "id": 5,
+    "id": 4,
     "orig_id": 2163,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -115,7 +92,7 @@
     "mock_id": "ch_reas_blood_05"
   },
   {
-    "id": 6,
+    "id": 5,
     "orig_id": 2262,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -138,7 +115,7 @@
     "mock_id": "ch_reas_blood_05"
   },
   {
-    "id": 7,
+    "id": 6,
     "orig_id": 2266,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -161,7 +138,7 @@
     "mock_id": "ch_reas_blood_05"
   },
   {
-    "id": 8,
+    "id": 7,
     "orig_id": 2283,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -184,7 +161,7 @@
     "mock_id": "ch_reas_blood_05"
   },
   {
-    "id": 9,
+    "id": 8,
     "orig_id": 2285,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -207,7 +184,7 @@
     "mock_id": "ch_reas_blood_05"
   },
   {
-    "id": 10,
+    "id": 9,
     "orig_id": 2288,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -225,6 +202,29 @@
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "मुख्य तथ्य / नियम / सूत्र: कोडेड रक्त संबंध विश्लेषण:\n• स्टेप-बाय-स्टेप हल:\n• व्यंजक: R # C % V & X\n• C % V का अर्थ: V, C का पिता है (या C, V का पिता है)।\n• V & X का अर्थ: X, V की बहन है।\n• कोड परिभाषाओं के अस्पष्ट संयोजन के कारण बोर्ड ने (D) आँकड़े अपर्याप्त हैं को मान्य किया।",
       "exam_tips": "संबंधों के प्रतीकों का स्पष्ट पठन आवश्यक है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_blood_05"
+  },
+  {
+    "id": 10,
+    "orig_id": 2365,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_blood",
+    "topic": "रक्त संबंध (Blood Relations)",
+    "question": "X, Y की बहन है। Z, Y की माँ है। W, Z का पिता है। तो X, W से किस प्रकार संबंधित है?",
+    "options": {
+      "A": "बेटी",
+      "B": "पोती",
+      "C": "बहन",
+      "D": "माँ"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "पारिवारिक संबंध विश्लेषण:\n• X, Y की बहन है ➔ X महिला (पुत्री/बहन) है।\n• Z, Y की माँ है ➔ Z, X की भी माँ है।\n• W, Z का पिता है ➔ W, Z का पिता है (यानी X की माँ का पिता = नाना)।\n• इसलिए, X का W से संबंध: X, W की नातिन / पोती (Granddaughter) है।\n• अतः सही उत्तर (B) नातिन / पोती है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
     },
     "difficulty": "Medium",
     "mock_id": "ch_reas_blood_05"

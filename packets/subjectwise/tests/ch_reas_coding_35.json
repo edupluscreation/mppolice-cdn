@@ -1,29 +1,6 @@
 [
   {
     "id": 1,
-    "orig_id": 2015,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "यदि FRIEND को FDNIRE बना दिया जाए तो TICKET को कैसे लिखा जाएगा?",
-    "options": {
-      "A": "TETKIC",
-      "B": "TKETIC",
-      "C": "TEKTIC",
-      "D": "TTECIK"
-    },
-    "correct": "D",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "मुख्य तथ्य / नियम / सूत्र: वर्ण पुनर्व्यवस्था कूट (Letter Position Permutation):\n• स्टेप-बाय-स्टेप हल:\n• FRIEND (1 2 3 4 5 6) → FDNIRE:\n• 1वाँ F यथावत पहले स्थान पर।\n• 6वाँ D दूसरे स्थान पर।\n• 5वाँ N तीसरे स्थान पर।\n• 3वाँ I चौथे स्थान पर।\n• 2वाँ R पाँचवें स्थान पर।\n• 4वाँ E छठे स्थान पर।\n• TICKET (1 2 3 4 5 6) पर यही क्रम (1, 6, 5, 4, 2, 3 या 1, 6, 5, 3, 2, 4) लगाने पर 'TTECIK' या 'TEKTIC' स्वरूप बनता है।",
-      "exam_tips": "मूल शब्द के प्रत्येक अक्षर की स्थिति संख्या लिखकर कूट के साथ मिलान किया जाता है।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_35"
-  },
-  {
-    "id": 2,
     "orig_id": 2017,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -46,7 +23,7 @@
     "mock_id": "ch_reas_coding_35"
   },
   {
-    "id": 3,
+    "id": 2,
     "orig_id": 2018,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -69,7 +46,7 @@
     "mock_id": "ch_reas_coding_35"
   },
   {
-    "id": 4,
+    "id": 3,
     "orig_id": 2021,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -92,7 +69,7 @@
     "mock_id": "ch_reas_coding_35"
   },
   {
-    "id": 5,
+    "id": 4,
     "orig_id": 2022,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -115,7 +92,7 @@
     "mock_id": "ch_reas_coding_35"
   },
   {
-    "id": 6,
+    "id": 5,
     "orig_id": 2027,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -138,7 +115,7 @@
     "mock_id": "ch_reas_coding_35"
   },
   {
-    "id": 7,
+    "id": 6,
     "orig_id": 2033,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -161,7 +138,7 @@
     "mock_id": "ch_reas_coding_35"
   },
   {
-    "id": 8,
+    "id": 7,
     "orig_id": 2034,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -184,7 +161,7 @@
     "mock_id": "ch_reas_coding_35"
   },
   {
-    "id": 9,
+    "id": 8,
     "orig_id": 2036,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -207,7 +184,7 @@
     "mock_id": "ch_reas_coding_35"
   },
   {
-    "id": 10,
+    "id": 9,
     "orig_id": 2067,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -225,6 +202,29 @@
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "मुख्य तथ्य / नियम / सूत्र: वर्णमाला प्रतिस्थापन और उलटा पठन (Reversing Word):\n• स्टेप-बाय-स्टेप हल:\n• मूल शब्द: E N V I R O N M E N T (कुल 11 अक्षर)\n• 2रा अक्षर = N, 7वाँ अक्षर = N (दोनों अक्षर समान हैं, अतः बदलने पर भी शब्द ENVIRONMENT ही रहेगा)।\n• अब इसे अंत से शुरुआत की ओर (उलटा) पढ़ने पर:\n• T N E M N O R I V N E\n• बोर्ड की अधिकृत उत्तर कुंजी में विकल्प (A) TNEMNORIVEN मान्य किया गया है।",
       "exam_tips": "अक्षरों की स्थिति सावधानी से गिनकर अंत से शुरुआत की ओर क्रमबद्ध लिखा जाता है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_35"
+  },
+  {
+    "id": 10,
+    "orig_id": 2069,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "सादृश्य (एनालॉजी) को पूरा कीजिए:\nDF : GI :: EJ : ?",
+    "options": {
+      "A": "FK",
+      "B": "HM",
+      "C": "GL",
+      "D": "DH"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र: अक्षर सादृश्यता (+3 फॉरवर्ड शिफ्ट):\n• स्टेप-बाय-स्टेप हल:\n• D (4) + 3 = G (7)\n• F (6) + 3 = I (9) ⇒ DF : GI\n• इसी प्रकार EJ के लिए:\n• E (5) + 3 = H (8)\n• J (10) + 3 = M (13)\n• तार्किक कूट = HM (विकल्प B)\n(नोट: +3 शिफ्ट से HM बनता है; बोर्ड की मूल कुंजी में (C) GL चिह्नित था।)",
+      "exam_tips": "दोनों अक्षरों में समान संख्या (+3) जोड़ी गई है।"
     },
     "difficulty": "Medium",
     "mock_id": "ch_reas_coding_35"
