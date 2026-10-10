@@ -1,29 +1,6 @@
 [
   {
     "id": 1,
-    "orig_id": 5862,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_analogy",
-    "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
-    "question": "उस संख्या को ज्ञात कीजिए, जो तीसरी संख्या से वही संबंध रखती है जैसा कि दूसरी संख्या पहली संख्या से रखती है।\n12: 153 :: 13: ?",
-    "options": {
-      "A": "175",
-      "B": "194",
-      "C": "180",
-      "D": "178"
-    },
-    "correct": "C",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: संख्या सादृश्यता (Number Analogy Pattern):\nवर्ग और विषम संख्याओं के जोड़ का नियम।\n• 📝 स्टेप-बाय-स्टेप हल:\n1. प्रथम युग्म 12 और 153:\n12² = 144\n144 + 9 = 153\n2. द्वितीय युग्म 13 और ?:\n13² = 169\nक्रमिक विषम संख्या जोड़ने पर: 169 + 11 = 180\n3. अतः संबंधित संख्या 180 है।\n4. सही विकल्प (C) 180 है।\n• 💡",
-      "exam_tips": "n² + (2n - 15) पैटर्न: 12² + 9 = 153; 13² + 11 = 180."
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_analogy_10"
-  },
-  {
-    "id": 2,
     "orig_id": 5897,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -46,7 +23,7 @@
     "mock_id": "ch_reas_analogy_10"
   },
   {
-    "id": 3,
+    "id": 2,
     "orig_id": 5902,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -69,7 +46,7 @@
     "mock_id": "ch_reas_analogy_10"
   },
   {
-    "id": 4,
+    "id": 3,
     "orig_id": 5903,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -92,7 +69,7 @@
     "mock_id": "ch_reas_analogy_10"
   },
   {
-    "id": 5,
+    "id": 4,
     "orig_id": 5989,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -115,7 +92,7 @@
     "mock_id": "ch_reas_analogy_10"
   },
   {
-    "id": 6,
+    "id": 5,
     "orig_id": 6034,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -138,7 +115,7 @@
     "mock_id": "ch_reas_analogy_10"
   },
   {
-    "id": 7,
+    "id": 6,
     "orig_id": 6278,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -161,7 +138,7 @@
     "mock_id": "ch_reas_analogy_10"
   },
   {
-    "id": 8,
+    "id": 7,
     "orig_id": 6279,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -184,7 +161,7 @@
     "mock_id": "ch_reas_analogy_10"
   },
   {
-    "id": 9,
+    "id": 8,
     "orig_id": 6324,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -207,7 +184,7 @@
     "mock_id": "ch_reas_analogy_10"
   },
   {
-    "id": 10,
+    "id": 9,
     "orig_id": 6371,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -225,6 +202,29 @@
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "📌 मुख्य तथ्य / नियम: संख्या सादृश्यता (Number Analogy)।\n• 📝 स्टेप-बाय-स्टेप हल:\n• 12 और 63 का संबंध: 12 × 5 + 3 = 63\n• उसी प्रकार: 10 × 5 - 3 = 47\n• वैकल्पिक विधि: 12 × 6 - 9 = 63; 10 × 5 - 3 = 47\n• या: 12² / 2 - 9 = 72 - 9 = 63; 10² / 2 - 3 = 50 - 3 = 47\n• अतः सही उत्तर 47 है।\n• 💡",
       "exam_tips": "सादृश्यता में यदि सीधा गुणन नियम न मिले तो वर्ग और घटाव के पैटर्न की जांच करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_analogy_10"
+  },
+  {
+    "id": 10,
+    "orig_id": 6374,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_analogy",
+    "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
+    "question": "संबंध को ज्ञात करें और सादृश्य (एनालॉजी) को पूर्ण करें।\n5 : 21 :: 7 : 43 :: 9 : ?",
+    "options": {
+      "A": "73",
+      "B": "78",
+      "C": "70",
+      "D": "81"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम: संख्या सादृश्यता पैटर्न: x : [x² - (x - 1)]।\n• 📝 स्टेप-बाय-स्टेप हल:\n• 5 : 21 ⟹ 5² - 4 = 25 - 4 = 21 (या 5 × 4 + 1 = 21)\n• 7 : 43 ⟹ 7² - 6 = 49 - 6 = 43 (या 7 × 6 + 1 = 43)\n• 9 : ? ⟹ 9² - 8 = 81 - 8 = 73 (या 9 × 8 + 1 = 73)\n• मानक गणितीय पैटर्न के अनुसार उत्तर 73 (विकल्प A) होना चाहिए।\n• व्यापम उत्तर कुंजी विश्लेषण: बोर्ड कुंजी ने तीसरी संख्या 9 का सीधा वर्ग मानकर विकल्प (D) 81 को सही माना, जिसमें उसने घटाव के क्रम को नजरअंदाज कर दिया।\n• 💡",
+      "exam_tips": "x × (x - 1) + 1 का पैटर्न प्रतियोगी परीक्षाओं की सादृश्यता में बहुतायत से पूछा जाता है।"
     },
     "difficulty": "Medium",
     "mock_id": "ch_reas_analogy_10"

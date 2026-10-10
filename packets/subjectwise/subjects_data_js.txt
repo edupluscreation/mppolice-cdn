@@ -1,10 +1,10 @@
 const SUBJECTS_DATA = {
     'GK': {
         name: 'सामान्य ज्ञान एवं MP GK',
-        meta: '6 मुख्य अध्याय • 156 कुल टेस्ट्स',
+        meta: '6 मुख्य अध्याय • 155 कुल टेस्ट्स',
         topics: [
             { name: 'कला, संस्कृति, मेले एवं खेल (Art, Culture & Sports)', testsCount: 14, sub: 'प्रमुख मेले, लोकनृत्य, पुरस्कार, संगीत, खेल परिदृश्य', testPrefix: 'ch_gk_culture' },
-            { name: 'भारतीय अर्थव्यवस्था (Economy)', testsCount: 7, sub: 'भारतीय अर्थव्यवस्था, बजट, बैंकिंग, योजनाएं', testPrefix: 'ch_gk_economy' },
+            { name: 'भारतीय अर्थव्यवस्था (Economy)', testsCount: 6, sub: 'भारतीय अर्थव्यवस्था, बजट, बैंकिंग, योजनाएं', testPrefix: 'ch_gk_economy' },
             { name: 'भारत एवं विश्व का भूगोल (Geography)', testsCount: 5, sub: 'पर्वत, खनिज, नदियां, जलवायु, राष्ट्रीय उद्यान', testPrefix: 'ch_gk_geography' },
             { name: 'भारतीय इतिहास (History)', testsCount: 13, sub: 'प्राचीन, मध्यकालीन एवं आधुनिक भारत का इतिहास', testPrefix: 'ch_gk_history' },
             { name: 'मध्य प्रदेश सामान्य ज्ञान (MP GK)', testsCount: 99, sub: '55 जिले, नदियां, किले, अभयारण्य, जनजातियां, एमपी इतिहास', testPrefix: 'ch_gk_mpgk' },
@@ -13,12 +13,12 @@ const SUBJECTS_DATA = {
     },
     'REASONING': {
         name: 'तार्किक ज्ञान (रीजनिंग)',
-        meta: '11 मुख्य अध्याय • 238 कुल टेस्ट्स',
+        meta: '11 मुख्य अध्याय • 236 कुल टेस्ट्स',
         topics: [
             { name: 'सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)', testsCount: 16, sub: 'विषम चुनना, संबंध समानता, वर्गीकरण', testPrefix: 'ch_reas_analogy' },
             { name: 'रक्त संबंध (Blood Relations)', testsCount: 16, sub: 'पारिवारिक रिश्ते, सांकेतिक व पहेली संबंध', testPrefix: 'ch_reas_blood' },
             { name: 'घड़ी एवं कैलेंडर (Clock & Calendar)', testsCount: 9, sub: 'सुइयों के कोण, दर्पण समय, विषम दिन, लीप वर्ष', testPrefix: 'ch_reas_clock_calendar' },
-            { name: 'कोडिंग-डिकोडिंग (Coding-Decoding)', testsCount: 162, sub: 'अक्षर विस्थापन, प्रतिस्थापन, संख्या व प्रतीकात्मक कोडिंग', testPrefix: 'ch_reas_coding' },
+            { name: 'कोडिंग-डिकोडिंग (Coding-Decoding)', testsCount: 160, sub: 'अक्षर विस्थापन, प्रतिस्थापन, संख्या व प्रतीकात्मक कोडिंग', testPrefix: 'ch_reas_coding' },
             { name: 'तार्किक विश्लेषण एवं निर्णय क्षमता (Critical Reasoning)', testsCount: 4, sub: 'कथन-पूर्वधारणा, कार्यवाही, कारण और प्रभाव', testPrefix: 'ch_reas_critical' },
             { name: 'दिशा और दूरी परीक्षण (Direction & Distance)', testsCount: 8, sub: 'प्रारंभिक बिंदु से दिशा, न्यूनतम दूरी, पाइथागोरस', testPrefix: 'ch_reas_direction' },
             { name: 'अशाब्दिक तर्क एवं प्रतिबिंब (Non-Verbal & Mirror Image)', testsCount: 1, sub: 'दर्पण व जल प्रतिबिंब, आकृति श्रृंखला', testPrefix: 'ch_reas_nonverbal' },
@@ -30,29 +30,29 @@ const SUBJECTS_DATA = {
     },
     'MATH': {
         name: 'गणित (सरल अंकगणित)',
-        meta: '9 मुख्य अध्याय • 176 कुल टेस्ट्स',
+        meta: '9 मुख्य अध्याय • 173 कुल टेस्ट्स',
         topics: [
             { name: 'औसत एवं आयु संबंधी प्रश्न (Average & Ages)', testsCount: 7, sub: 'समांतर माध्य, आयु अनुपात, समूह औसत', testPrefix: 'ch_math_average_age' },
             { name: 'साधारण एवं चक्रवृद्धि ब्याज (Simple & Compound Interest)', testsCount: 7, sub: 'साधारण एवं चक्रवृद्धि ब्याज, मिश्रधन, दर', testPrefix: 'ch_math_interest' },
             { name: 'क्षेत्रमिति एवं ज्यामिति (Mensuration & Geometry)', testsCount: 24, sub: 'क्षेत्रफल, परिमाप, आयतन, 2D/3D ज्यामिति', testPrefix: 'ch_math_mensuration' },
-            { name: 'संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)', testsCount: 104, sub: 'BODMAS, अभाज्य संख्या, इकाई अंक, ल.स.-म.स.', testPrefix: 'ch_math_number_bodmas' },
+            { name: 'संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)', testsCount: 102, sub: 'BODMAS, अभाज्य संख्या, इकाई अंक, ल.स.-म.स.', testPrefix: 'ch_math_number_bodmas' },
             { name: 'प्रतिशत (Percentage)', testsCount: 4, sub: 'प्रतिशत वृद्धि-कमी, चुनाव, परीक्षा प्रश्न', testPrefix: 'ch_math_percentage' },
             { name: 'लाभ-हानि एवं बट्टा (Profit, Loss & Discount)', testsCount: 16, sub: 'क्रय-विक्रय मूल्य, लाभ-हानि, समतुल्य बट्टा', testPrefix: 'ch_math_profit_loss' },
             { name: 'अनुपात, समानुपात एवं मिश्रण (Ratio & Proportion)', testsCount: 10, sub: 'अनुपात, समानुपात, दूध-पानी मिश्रण, साझेदारी', testPrefix: 'ch_math_ratio_mix' },
-            { name: 'चाल, दूरी, समय एवं रेलगाड़ी (Speed, Distance & Time)', testsCount: 3, sub: 'औसत चाल, रेलगाड़ी, सापेक्ष चाल, दूरी-समय', testPrefix: 'ch_math_speed_distance' },
+            { name: 'चाल, दूरी, समय एवं रेलगाड़ी (Speed, Distance & Time)', testsCount: 2, sub: 'औसत चाल, रेलगाड़ी, सापेक्ष चाल, दूरी-समय', testPrefix: 'ch_math_speed_distance' },
             { name: 'समय और कार्य (Time & Work)', testsCount: 1, sub: 'कार्यक्षमता, नल व टंकी, मजदूरी', testPrefix: 'ch_math_time_work' },
         ]
     },
     'SCIENCE': {
         name: 'सामान्य विज्ञान',
-        meta: '6 मुख्य अध्याय • 125 कुल टेस्ट्स',
+        meta: '6 मुख्य अध्याय • 124 कुल टेस्ट्स',
         topics: [
             { name: 'मानव शरीर क्रिया विज्ञान (Anatomy & Physiology)', testsCount: 16, sub: 'पाचन, रक्त परिसंचरण, श्वसन तंत्र, मानव कंकाल', testPrefix: 'ch_sci_anatomy' },
             { name: 'पादप विज्ञान एवं आनुवंशिकी (Botany & Genetics)', testsCount: 8, sub: 'प्रकाश संश्लेषण, पादप हार्मोन, आनुवंशिकी', testPrefix: 'ch_sci_botany' },
             { name: 'रसायन विज्ञान (Chemistry)', testsCount: 36, sub: 'आवर्त सारणी, अम्ल-क्षार-लवण, धातुएं, रासायनिक सूत्र', testPrefix: 'ch_sci_chemistry' },
             { name: 'पर्यावरण एवं पारिस्थितिकी (Ecology & Environment)', testsCount: 5, sub: 'पारिस्थितिक तंत्र, प्रदूषण, ओजोन, संरक्षण', testPrefix: 'ch_sci_environment' },
             { name: 'रोग, स्वास्थ्य एवं पोषण (Diseases & Nutrition)', testsCount: 4, sub: 'विटामिन, संक्रामक रोग, टीके, पोषण', testPrefix: 'ch_sci_health' },
-            { name: 'भौतिक विज्ञान (Physics)', testsCount: 56, sub: 'न्यूटन के नियम, प्रकाश, ध्वनि, विद्युत, कार्य-ऊर्जा', testPrefix: 'ch_sci_physics' },
+            { name: 'भौतिक विज्ञान (Physics)', testsCount: 55, sub: 'न्यूटन के नियम, प्रकाश, ध्वनि, विद्युत, कार्य-ऊर्जा', testPrefix: 'ch_sci_physics' },
         ]
     },
 };

@@ -139,29 +139,6 @@
   },
   {
     "id": 7,
-    "orig_id": 8085,
-    "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_profit_loss",
-    "topic": "लाभ-हानि एवं बट्टा (Profit, Loss & Discount)",
-    "question": "If a shirt costs rupees 200 and is sold at a profit of rupee 50, what is the selling price?",
-    "options": {
-      "A": "240 ₹पये",
-      "B": "250 ₹पये",
-      "C": "260 ₹पये",
-      "D": "250 ₹पये"
-    },
-    "correct": "C",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: विक्रय मूल्य सूत्र:\n• विक्रय मूल्य (SP) = क्रय मूल्य (CP) + लाभ (Profit)\n• 📝 स्टेप-बाय-स्टेप हल:\n1. क्रय मूल्य (CP) = ₹200\n2. लाभ = ₹50\n3. वास्तविक विक्रय मूल्य = 200 + 50 = ₹250 (विकल्प B/D)\n4. नोट (आधिकारिक उत्तर कुंजी): आधिकारिक उत्तर कुंजी में (C) 260 ₹पये को सही माना गया है, जबकि सही गणितीय मान ₹250 है।\nअतः सही उत्तर (C) 260 ₹पये है।\n• 💡",
-      "exam_tips": "बुनियादी लाभ-हानि में SP = CP + Profit सीधा नियम है।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_math_profit_loss_13"
-  },
-  {
-    "id": 8,
     "orig_id": 8087,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -184,7 +161,7 @@
     "mock_id": "ch_math_profit_loss_13"
   },
   {
-    "id": 9,
+    "id": 8,
     "orig_id": 8094,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -207,7 +184,7 @@
     "mock_id": "ch_math_profit_loss_13"
   },
   {
-    "id": 10,
+    "id": 9,
     "orig_id": 8095,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -225,6 +202,29 @@
       "formula": "प्रासंगिक नियम व सूत्र",
       "solution": "विस्तृत हल उपलब्ध है।",
       "exam_tips": "महत्वपूर्ण परीक्षा बिंदु"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_math_profit_loss_13"
+  },
+  {
+    "id": 10,
+    "orig_id": 8096,
+    "subject_code": "MATH",
+    "subject": "गणित",
+    "topic_id": "math_profit_loss",
+    "topic": "लाभ-हानि एवं बट्टा (Profit, Loss & Discount)",
+    "question": "एक मोबाइल का अंकित मूल्य 10,000 है। एक ग्राहक को क्रमशः 20% और 10% की दो छूट दी जाती हैं। प्राप्त कुल छूट कितनी है?",
+    "options": {
+      "A": "3000 Rs",
+      "B": "2800 Rs",
+      "C": "2700 Rs",
+      "D": "2500 Rs"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: समतुल्य छूट प्रतिशत:\n• D = [d1 + d2 - (d1 × d2 / 100)]%\n• 📝 स्टेप-बाय-स्टेप हल:\n1. एकल समतुल्य छूट % = 20 + 10 - (20 × 10 / 100) = 30 - 2 = 28%\n2. अंकित मूल्य = ₹10,000\n3. कुल छूट = 10,000 × 28% = ₹2,800\nअतः सही उत्तर (B) 2800 Rs है।\n• 💡",
+      "exam_tips": "20% छूट के बाद मूल्य ₹8,000, फिर 8,000 का 10% = ₹800; कुल छूट = 2000 + 800 = ₹2,800।"
     },
     "difficulty": "Medium",
     "mock_id": "ch_math_profit_loss_13"

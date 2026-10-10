@@ -1,29 +1,6 @@
 [
   {
     "id": 1,
-    "orig_id": 2690,
-    "subject_code": "SCIENCE",
-    "subject": "सामान्य विज्ञान",
-    "topic_id": "sci_chemistry",
-    "topic": "रसायन विज्ञान (Chemistry)",
-    "question": "मानव रक्त का सामान्य pH क्या होता है?",
-    "options": {
-      "A": "अत्यधिक क्षारीय",
-      "B": "थोड़ा क्षारीय",
-      "C": "थोड़ा अम्लीय",
-      "D": "अत्यधिक अम्लीय"
-    },
-    "correct": "B",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "रक्त का pH: मानव रक्त का सामान्य pH मान लगभग 7.4 (7.35 - 7.45) होता है।\n• अतः सही उत्तर (B) है।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_sci_chemistry_05"
-  },
-  {
-    "id": 2,
     "orig_id": 3057,
     "subject_code": "SCIENCE",
     "subject": "सामान्य विज्ञान",
@@ -46,7 +23,7 @@
     "mock_id": "ch_sci_chemistry_05"
   },
   {
-    "id": 3,
+    "id": 2,
     "orig_id": 3103,
     "subject_code": "SCIENCE",
     "subject": "सामान्य विज्ञान",
@@ -69,7 +46,7 @@
     "mock_id": "ch_sci_chemistry_05"
   },
   {
-    "id": 4,
+    "id": 3,
     "orig_id": 3275,
     "subject_code": "SCIENCE",
     "subject": "सामान्य विज्ञान",
@@ -92,7 +69,7 @@
     "mock_id": "ch_sci_chemistry_05"
   },
   {
-    "id": 5,
+    "id": 4,
     "orig_id": 3279,
     "subject_code": "SCIENCE",
     "subject": "सामान्य विज्ञान",
@@ -115,7 +92,7 @@
     "mock_id": "ch_sci_chemistry_05"
   },
   {
-    "id": 6,
+    "id": 5,
     "orig_id": 3325,
     "subject_code": "SCIENCE",
     "subject": "सामान्य विज्ञान",
@@ -138,7 +115,7 @@
     "mock_id": "ch_sci_chemistry_05"
   },
   {
-    "id": 7,
+    "id": 6,
     "orig_id": 3401,
     "subject_code": "SCIENCE",
     "subject": "सामान्य विज्ञान",
@@ -161,7 +138,7 @@
     "mock_id": "ch_sci_chemistry_05"
   },
   {
-    "id": 8,
+    "id": 7,
     "orig_id": 3403,
     "subject_code": "SCIENCE",
     "subject": "सामान्य विज्ञान",
@@ -184,7 +161,7 @@
     "mock_id": "ch_sci_chemistry_05"
   },
   {
-    "id": 9,
+    "id": 8,
     "orig_id": 3481,
     "subject_code": "SCIENCE",
     "subject": "सामान्य विज्ञान",
@@ -207,7 +184,7 @@
     "mock_id": "ch_sci_chemistry_05"
   },
   {
-    "id": 10,
+    "id": 9,
     "orig_id": 3520,
     "subject_code": "SCIENCE",
     "subject": "सामान्य विज्ञान",
@@ -225,6 +202,29 @@
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "रासायनिक समीकरण संतुलन:\n• 2KO₂ + 2H₂O → 2KOH + H₂O₂ + O₂\n• इस अभिक्रिया में पोटैशियम सुपरऑक्साइड (KO₂) का रससमीकरणमितीय गुणांक (Stoichiometric coefficient) 2 है।\n• सही विकल्प: (C) 2।",
       "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_sci_chemistry_05"
+  },
+  {
+    "id": 10,
+    "orig_id": 3521,
+    "subject_code": "SCIENCE",
+    "subject": "सामान्य विज्ञान",
+    "topic_id": "sci_chemistry",
+    "topic": "रसायन विज्ञान (Chemistry)",
+    "question": "चीनी बर्तन के संपर्क में सिल्वर ब्रोमाइड को छोड़ने पर उसके सफेद पड़ने के लिए उत्तरदायी रासायनिक अभिक्रिया के प्रकार की पहचान करें।",
+    "options": {
+      "A": "हवा में मौजूद O₂ के साथ संयोजन अभिक्रिया।",
+      "B": "द्वि अपघटन अभिक्रिया।",
+      "C": "विस्थापन अभिक्रिया।",
+      "D": "अपघटन अभिक्रिया"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "प्रकाश अपघटन (Photolytic Decomposition):\n• 2AgBr (ठोस, हल्का पीला) --(प्रकाश)--> 2Ag (ठोस, भूरा/धूसर) + Br₂ (गैस)\n• सूर्य के प्रकाश में सिल्वर ब्रोमाइड वियोजित होकर सिल्वर धातु में परिवर्तित हो जाता है, जो एक अपघटन (Decomposition) अभिक्रिया है।",
+      "exam_tips": "इस अभिक्रिया का उपयोग ब्लैक एंड व्हाइट फोटोग्राफी में किया जाता था।\n• सही विकल्प: (D) अपघटन अभिक्रिया।"
     },
     "difficulty": "Medium",
     "mock_id": "ch_sci_chemistry_05"

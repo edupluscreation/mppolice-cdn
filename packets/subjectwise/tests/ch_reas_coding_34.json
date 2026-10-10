@@ -1,75 +1,6 @@
 [
   {
     "id": 1,
-    "orig_id": 1965,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "कौन-सा अन्य से भिन्न है?\n38, 57, 76, 95, 118",
-    "options": {
-      "A": "118",
-      "B": "57",
-      "C": "76",
-      "D": "38"
-    },
-    "correct": "A",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "मुख्य तथ्य / नियम / सूत्र: विषम पद ज्ञात करना (Number Classification):\n• स्टेप-बाय-स्टेप हल:\n• दी गई शृंखला: 38, 57, 76, 95, 118\n• 38 = 19 × 2\n• 57 = 19 × 3\n• 76 = 19 × 4\n• 95 = 19 × 5\n• 114 = 19 × 6 (यहाँ 118 दिया गया है, जो 19 से विभाज्य नहीं है)\n• अतः 118 अन्य सभी से भिन्न और विषम है।",
-      "exam_tips": "सभी संख्याएँ 19 के गुणज हैं, केवल 118 को छोड़कर।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_34"
-  },
-  {
-    "id": 2,
-    "orig_id": 1970,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "दिया गया:\n1984 → B J I E\n2763 → C H G D\n3597 के लिए कोड क्या?",
-    "options": {
-      "A": "DJFH",
-      "B": "DFJH",
-      "C": "DFHJ",
-      "D": "DHFJ"
-    },
-    "correct": "D",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "मुख्य तथ्य / नियम / सूत्र: अंक से वर्ण रूपांतरण (+1 शिफ्ट):\n• स्टेप-बाय-स्टेप हल:\n• 1984:\n• 1 + 1 = 2 (B)\n• 9 + 1 = 10 (J)\n• 8 + 1 = 9 (I)\n• 4 + 1 = 5 (E) → B J I E\n• 2763:\n• 2+1=3 (C), 7+1=8 (H), 6+1=7 (G), 3+1=4 (D) → C H G D\n• इसी प्रकार 3597 के लिए:\n• 3 + 1 = 4 (D)\n• 5 + 1 = 6 (F)\n• 9 + 1 = 10 (J)\n• 7 + 1 = 8 (H)\n• सही कूट = D F J H",
-      "exam_tips": "प्रत्येक अंक में +1 जोड़कर उसके संगत अंग्रेजी वर्णमाला का अक्षर लिखा गया है।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_34"
-  },
-  {
-    "id": 3,
-    "orig_id": 1971,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "दिया गया:\n1984 -> B J I E\n2763 -> C H G D\n3597 के लिए कोड क्या है?",
-    "options": {
-      "A": "DJFH",
-      "B": "DFJH",
-      "C": "DFHJ",
-      "D": "DHFJ"
-    },
-    "correct": "C",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "मुख्य तथ्य / नियम / सूत्र: संख्या कोडिंग (+1 वर्ण नियम):\n• स्टेप-बाय-स्टेप हल:\n• 3 (+1) = D, 5 (+1) = F, 9 (+1) = J, 7 (+1) = H\n• अभीष्ट कोड = DFJH",
-      "exam_tips": "दोहराया गया प्रश्न; सही उत्तर DFJH है।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_34"
-  },
-  {
-    "id": 4,
     "orig_id": 1972,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -92,7 +23,7 @@
     "mock_id": "ch_reas_coding_34"
   },
   {
-    "id": 5,
+    "id": 2,
     "orig_id": 1982,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -115,7 +46,7 @@
     "mock_id": "ch_reas_coding_34"
   },
   {
-    "id": 6,
+    "id": 3,
     "orig_id": 1985,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -138,7 +69,7 @@
     "mock_id": "ch_reas_coding_34"
   },
   {
-    "id": 7,
+    "id": 4,
     "orig_id": 1987,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -161,7 +92,7 @@
     "mock_id": "ch_reas_coding_34"
   },
   {
-    "id": 8,
+    "id": 5,
     "orig_id": 2013,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -184,7 +115,7 @@
     "mock_id": "ch_reas_coding_34"
   },
   {
-    "id": 9,
+    "id": 6,
     "orig_id": 2014,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -207,7 +138,7 @@
     "mock_id": "ch_reas_coding_34"
   },
   {
-    "id": 10,
+    "id": 7,
     "orig_id": 2015,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -225,6 +156,75 @@
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "मुख्य तथ्य / नियम / सूत्र: वर्ण पुनर्व्यवस्था कूट (Letter Position Permutation):\n• स्टेप-बाय-स्टेप हल:\n• FRIEND (1 2 3 4 5 6) → FDNIRE:\n• 1वाँ F यथावत पहले स्थान पर।\n• 6वाँ D दूसरे स्थान पर।\n• 5वाँ N तीसरे स्थान पर।\n• 3वाँ I चौथे स्थान पर।\n• 2वाँ R पाँचवें स्थान पर।\n• 4वाँ E छठे स्थान पर।\n• TICKET (1 2 3 4 5 6) पर यही क्रम (1, 6, 5, 4, 2, 3 या 1, 6, 5, 3, 2, 4) लगाने पर 'TTECIK' या 'TEKTIC' स्वरूप बनता है।",
       "exam_tips": "मूल शब्द के प्रत्येक अक्षर की स्थिति संख्या लिखकर कूट के साथ मिलान किया जाता है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_34"
+  },
+  {
+    "id": 8,
+    "orig_id": 2017,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "एक विशेष कोड में \"GAME\" को \"ICOG\" लिखा गया है। उसी कोड में \"PLAY\" को कैसे लिखा जाएगा?",
+    "options": {
+      "A": "RNCA",
+      "B": "RNDC",
+      "C": "RNDA",
+      "D": "RODC"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र: वर्णमाला फॉरवर्ड शिफ्ट (+2 कोडिंग):\n• स्टेप-बाय-स्टेप हल:\n• GAME → ICOG:\n• G (7) + 2 = I (9)\n• A (1) + 2 = C (3)\n• M (13) + 2 = O (15)\n• E (5) + 2 = G (7)\n• PLAY पर समान नियम लागू करने पर:\n• P (16) + 2 = R\n• L (12) + 2 = N\n• A (1) + 2 = C\n• Y (25) + 2 = A\n• वास्तविक कूट = RNCA (विकल्प A)\n(नोट: +2 शिफ्ट से RNCA बनता है; बोर्ड की मूल कुंजी में (C) RNDA मुद्रित हुआ था।)",
+      "exam_tips": "Y (25) में 2 जोड़ने पर चक्रीय वर्णमाला में A (1) आता है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_34"
+  },
+  {
+    "id": 9,
+    "orig_id": 2018,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "किसी विशेष कोड में 'HILTON' को 'I H T L N O' के रूप में लिखा गया है। उसी कोड में 'BILLION' को कैसे लिखा जाएगा?",
+    "options": {
+      "A": "IBLLION",
+      "B": "IBOILLN",
+      "C": "IBLLOIN",
+      "D": "IBLOILN"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र: युग्म उलटाव कोडिंग (Pair Inversion Coding):\n• स्टेप-बाय-स्टेप हल:\n• HILTON (दो-दो के जोड़े):\n• H I → I H\n• L T → T L\n• O N → N O\n• BILLION (7 अक्षर):\n• B I → I B\n• L L → L L\n• I O → O I\n• N → N (अंतिम अक्षर यथावत या अंत में उलटाव)\n• अतः कूट = IBLLOIN (विकल्प C) / IBLOILN (विकल्प D)।",
+      "exam_tips": "अक्षरों को दो-दो के समूहों में विभाजित कर उनके स्थान परस्पर बदले जाते हैं।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_34"
+  },
+  {
+    "id": 10,
+    "orig_id": 2021,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "\"M I T C O M E E T\" अक्षरों को पुनः व्यवस्थित करके एक वैध (सार्थक) अंग्रेज़ी शब्द बनाइए।",
+    "options": {
+      "A": "EMOTICEM",
+      "B": "COMMITEE",
+      "C": "COMMITTEE",
+      "D": "COMITTEE"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र: अंग्रेज़ी वर्तनी पुनर्गठन (Anagram Jumble):\n• स्टेप-बाय-स्टेप हल:\n• दिए गए अक्षर: M, I, T, C, O, M, E, E, T\n• अक्षरों की गिनती: C (1), O (1), M (2), I (1), T (2), E (2)\n• इन्हें मिलाकर बनने वाला शुद्ध सार्थक अंग्रेज़ी शब्द = COMMITTEE (समिति)\n• वर्तनी: C-O-M-M-I-T-T-E-E",
+      "exam_tips": "Committee शब्द में double M, double T और double E का प्रयोग होता है।"
     },
     "difficulty": "Medium",
     "mock_id": "ch_reas_coding_34"

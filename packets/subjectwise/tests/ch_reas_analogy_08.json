@@ -1,29 +1,6 @@
 [
   {
     "id": 1,
-    "orig_id": 5012,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_analogy",
-    "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
-    "question": "निर्देश: दिए गए विकल्पों में से संबंधित शब्द चुनें:\nप्रकाश : अंधकार :: शांति : ?",
-    "options": {
-      "A": "युद्ध",
-      "B": "कोलाहल",
-      "C": "भय",
-      "D": "ध्वनि"
-    },
-    "correct": "D",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / विलोम शब्द सादृश्यता:\n• प्रकाश का विलोम अंधकार है। शांति (नीरवता) का विलोम ध्वनि/कोलाहल होता है।\n• बोर्ड उत्तर कुंजी अनुसार विकल्प (D) ध्वनि सही है।\n• 💡",
-      "exam_tips": "विकल्प (D) सही उत्तर है।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_analogy_08"
-  },
-  {
-    "id": 2,
     "orig_id": 5101,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -46,7 +23,7 @@
     "mock_id": "ch_reas_analogy_08"
   },
   {
-    "id": 3,
+    "id": 2,
     "orig_id": 5225,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -69,7 +46,7 @@
     "mock_id": "ch_reas_analogy_08"
   },
   {
-    "id": 4,
+    "id": 3,
     "orig_id": 5320,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -92,7 +69,7 @@
     "mock_id": "ch_reas_analogy_08"
   },
   {
-    "id": 5,
+    "id": 4,
     "orig_id": 5430,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -115,7 +92,7 @@
     "mock_id": "ch_reas_analogy_08"
   },
   {
-    "id": 6,
+    "id": 5,
     "orig_id": 5505,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -138,7 +115,7 @@
     "mock_id": "ch_reas_analogy_08"
   },
   {
-    "id": 7,
+    "id": 6,
     "orig_id": 5506,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -161,7 +138,7 @@
     "mock_id": "ch_reas_analogy_08"
   },
   {
-    "id": 8,
+    "id": 7,
     "orig_id": 5539,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -184,7 +161,7 @@
     "mock_id": "ch_reas_analogy_08"
   },
   {
-    "id": 9,
+    "id": 8,
     "orig_id": 5542,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -207,7 +184,7 @@
     "mock_id": "ch_reas_analogy_08"
   },
   {
-    "id": 10,
+    "id": 9,
     "orig_id": 5543,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -225,6 +202,29 @@
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "📌 मुख्य तथ्य / नियम / सूत्र: भारतीय खिलाड़ी और उनका गृह राज्य (Sports Personality & Home State)।\n• 📝 स्टेप-बाय-स्टेप हल:\n• कपिल देव हरियाणा से संबंधित हैं (उन्हें 'हरियाणा हरिकेन' कहा जाता है)।\n• छह बार की विश्व मुक्केबाजी चैंपियन और ओलंपिक कांस्य पदक विजेता एम.सी. मैरी कॉम भारत के उत्तर-पूर्वी राज्य मणिपुर की निवासी हैं।\n• अतः मैरी कॉम का संबंध मणिपुर से है।\n• 💡",
       "exam_tips": "मैरी कॉम की आत्मकथा का नाम 'Unbreakable' है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_analogy_08"
+  },
+  {
+    "id": 10,
+    "orig_id": 5544,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_analogy",
+    "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
+    "question": "निर्देश: दिए गए विकल्पों में से संबंधित शब्द का चयन करें।\nकपिल देव : हरियाणा :: मैरी कॉम : ?",
+    "options": {
+      "A": "नागालैंड",
+      "B": "सिक्किम",
+      "C": "मणिपुर",
+      "D": "मिजोरम"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: खिलाड़ी और संबंधित राज्य।\n• 📝 स्टेप-बाय-स्टेप हल:\n• मैरी कॉम मणिपुर राज्य की प्रसिद्ध मुक्केबाज हैं।\n• 💡",
+      "exam_tips": "मणिपुर को भारत का 'स्पोर्ट्स हब' भी कहा जाता है।"
     },
     "difficulty": "Medium",
     "mock_id": "ch_reas_analogy_08"

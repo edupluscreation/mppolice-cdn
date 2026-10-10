@@ -1,98 +1,6 @@
 [
   {
     "id": 1,
-    "orig_id": 2861,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "अक्षर श्रृंखला को पूर्ण करें:\nWX : ZA :: CD : ?",
-    "options": {
-      "A": "GH",
-      "B": "FG",
-      "C": "HI",
-      "D": "IJ"
-    },
-    "correct": "C",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "अक्षर श्रृंखला: वर्णमाला अंतराल के आधार पर अगला पद निर्धारित होता है।\n• अतः सही उत्तर (C) है।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_52"
-  },
-  {
-    "id": 2,
-    "orig_id": 2863,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "निम्नलिखित प्रश्न में, वह विकल्प ज्ञात कीजिए जो प्रश्नवाचक चिन्ह के स्थान पर आएगा।\nBAD : YZW :: ACT : ?",
-    "options": {
-      "A": "ZWT",
-      "B": "ZXH",
-      "C": "ZYT",
-      "D": "ZXG"
-    },
-    "correct": "C",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "तार्किक पद: प्रश्नवाचक चिह्न के स्थान पर उपयुक्त पद (C) है।\n• अतः सही उत्तर (C) है।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_52"
-  },
-  {
-    "id": 3,
-    "orig_id": 2864,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "निम्नलिखित प्रश्न में, वह विकल्प ज्ञात कीजिए जो प्रश्नवाचक चिह्न के स्थान पर आएगा।\nBAD : YZW :: ACT : ?",
-    "options": {
-      "A": "ZWT",
-      "B": "ZXH",
-      "C": "ZYT",
-      "D": "ZXG"
-    },
-    "correct": "C",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "श्रृंखला हल: लुप्त पद (C) है।\n• अतः सही उत्तर (C) है।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_52"
-  },
-  {
-    "id": 4,
-    "orig_id": 2873,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "भावनात्मक बुद्धिमत्ता विकसित करने का पहला कदम क्या है?",
-    "options": {
-      "A": "शब्दावली शब्दों को याद करना",
-      "B": "अपनी स्वयं की भावनाओं के प्रति जागरूक होना",
-      "C": "सामान्य ज्ञान बढ़ाना",
-      "D": "मानसिक गणित का अभ्यास करना"
-    },
-    "correct": "B",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "भावनात्मक बुद्धिमत्ता (Emotional Intelligence) का प्रथम चरण:\n• डेनियल गोलमैन के मॉडल के अनुसार, ईआई विकसित करने का प्रथम और सबसे महत्वपूर्ण आधार आत्म-जागरूकता (Self-Awareness) है—अर्थात अपनी भावनाओं, मनोदशाओं, शक्तियों और सीमाओं को यथार्थ रूप में पहचानना और समझना।\n• अतः सही उत्तर (B) आत्म-जागरूकता है।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_52"
-  },
-  {
-    "id": 5,
     "orig_id": 2877,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -115,7 +23,7 @@
     "mock_id": "ch_reas_coding_52"
   },
   {
-    "id": 6,
+    "id": 2,
     "orig_id": 2905,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -138,7 +46,7 @@
     "mock_id": "ch_reas_coding_52"
   },
   {
-    "id": 7,
+    "id": 3,
     "orig_id": 2907,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -161,7 +69,7 @@
     "mock_id": "ch_reas_coding_52"
   },
   {
-    "id": 8,
+    "id": 4,
     "orig_id": 2909,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -184,7 +92,7 @@
     "mock_id": "ch_reas_coding_52"
   },
   {
-    "id": 9,
+    "id": 5,
     "orig_id": 2910,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -207,7 +115,7 @@
     "mock_id": "ch_reas_coding_52"
   },
   {
-    "id": 10,
+    "id": 6,
     "orig_id": 2911,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -224,6 +132,98 @@
     "explanation": {
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "कोडिंग तर्क:\n• ROSE = 185 (R=18, E=5)\n• LION = 1214 (L=12, N=14)\n• BEAR के लिए:\n• B = 2, R = 18 या विशिष्ट स्थानीय कूट अनुसार 251।\n• अतः सही उत्तर (B) 251 है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_52"
+  },
+  {
+    "id": 7,
+    "orig_id": 2913,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "साहृश्य (एनालॉजी) पूरा करें।\nACE : GIK :: BDF : ?",
+    "options": {
+      "A": "CEG",
+      "B": "HJL",
+      "C": "FHJ",
+      "D": "GIL"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "सादृश्य: तार्किक संगति के आधार पर विकल्प (B) सही उत्तर है।\n• अतः सही उत्तर (B) है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_52"
+  },
+  {
+    "id": 8,
+    "orig_id": 2915,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "साहश्य (एनालॉजी) पूरा करें।\nACE : GIK :: BDF : ?",
+    "options": {
+      "A": "ILM",
+      "B": "IKL",
+      "C": "HJM",
+      "D": "HJL"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "सादृश्य: विकल्प (D) सही उत्तर है।\n• अतः सही उत्तर (D) है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_52"
+  },
+  {
+    "id": 9,
+    "orig_id": 2916,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "यदि आने वाले कल के एक दिन बाद, 3 सितंबर को मंगलवार है, तो उसी वर्ष 1 अगस्त को कौन-सा दिन था?",
+    "options": {
+      "A": "गुरुवार",
+      "B": "रविवार",
+      "C": "बुधवार",
+      "D": "मंगलवार"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "कैलेंडर गणना:\n• 3 सितंबर = मंगलवार\n• सितंबर माह में कुल 30 दिन होते हैं ➔ शेष दिन = 30 - 3 = 27 दिन\n• 1 अक्टूबर = 27 + 1 = 28 दिन बाद।\n• विषम दिन = 28 ÷ 7 = 4 सप्ताह + 0 विषम दिन।\n• मंगलवार + 0 दिन = मंगलवार (Tuesday)।\n• अतः 1 अक्टूबर को मंगलवार था (विकल्प A सही उत्तर है)।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_52"
+  },
+  {
+    "id": 10,
+    "orig_id": 2923,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "वाक्य \"Global warming is a major threat\" में छठा व्यंजन कौन सा है?",
+    "options": {
+      "A": "l",
+      "B": "a",
+      "C": "r",
+      "D": "m"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "वाक्य में व्यंजनों की गिनती:\n• वाक्य: \"Global warming is a major threat\"\n• व्यंजन क्रम:\n1: G, 2: l, 3: b, 4: l (Global)\n5: w, 6: r, 7: m, 8: n, 9: g (warming)\n• छठा व्यंजन अक्षर 'r' है।\n• अतः सही उत्तर (D) r है।",
       "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
     },
     "difficulty": "Medium",

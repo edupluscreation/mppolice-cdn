@@ -1,52 +1,6 @@
 [
   {
     "id": 1,
-    "orig_id": 1072,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "प्रश्न चिन्ह के स्थान पर क्या आयेगा?\n4, 8, 10, 14, 16, 20, 22, ?",
-    "options": {
-      "A": "26",
-      "B": "24",
-      "C": "28",
-      "D": "29"
-    },
-    "correct": "B",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "मुख्य तथ्य / नियम / सूत्र:\n• +4, +2 का वैकल्पिक नियम है।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• 4+4 = 8, +2 = 10, +4 = 14, +2 = 16, +4 = 20, +2 = 22।\n• आधिकारिक कुंजी के अनुसार अगला 24, विकल्प (B) है।\n• नोट: शुद्ध क्रम से +4 लेकर 26 बनता है, परीक्षा में कुंजी को अंतिम मानें।",
-      "exam_tips": "दोहरे अंतर में दोनों क्रम लिखें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_18"
-  },
-  {
-    "id": 2,
-    "orig_id": 1075,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "श्रृंखला को पूरा कीजिए:\n1, 9, 65, 457, ?",
-    "options": {
-      "A": "4258",
-      "B": "3125",
-      "C": "3201",
-      "D": "5289"
-    },
-    "correct": "C",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "मुख्य तथ्य / नियम / सूत्र:\n• नियम ×7+2 है।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• 1×7+2 = 9, 9×7+2 = 65, 65×7+2 = 457, 457×7+2 = 3201।\n• अतः विकल्प (C) सही है।",
-      "exam_tips": "बड़ी वृद्धि में गुणा नियम देखें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_18"
-  },
-  {
-    "id": 3,
     "orig_id": 1081,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -69,7 +23,7 @@
     "mock_id": "ch_reas_coding_18"
   },
   {
-    "id": 4,
+    "id": 2,
     "orig_id": 1086,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -92,7 +46,7 @@
     "mock_id": "ch_reas_coding_18"
   },
   {
-    "id": 5,
+    "id": 3,
     "orig_id": 1087,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -115,7 +69,7 @@
     "mock_id": "ch_reas_coding_18"
   },
   {
-    "id": 6,
+    "id": 4,
     "orig_id": 1089,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -138,7 +92,7 @@
     "mock_id": "ch_reas_coding_18"
   },
   {
-    "id": 7,
+    "id": 5,
     "orig_id": 1090,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -161,7 +115,7 @@
     "mock_id": "ch_reas_coding_18"
   },
   {
-    "id": 8,
+    "id": 6,
     "orig_id": 1099,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -184,7 +138,7 @@
     "mock_id": "ch_reas_coding_18"
   },
   {
-    "id": 9,
+    "id": 7,
     "orig_id": 1119,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -207,7 +161,7 @@
     "mock_id": "ch_reas_coding_18"
   },
   {
-    "id": 10,
+    "id": 8,
     "orig_id": 1120,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -225,6 +179,52 @@
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "मुख्य तथ्य / नियम / सूत्र:\n• M, K के ठीक ऊपर है, K, L से नीचे है।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• आधिकारिक कुंजी के अनुसार दूसरी पर K, विकल्प (B) है।",
       "exam_tips": "मंज़िल क्रम में शर्तें एक-एक करके लगाएं।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_18"
+  },
+  {
+    "id": 9,
+    "orig_id": 1121,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "यदि A2B3 को C4D5 के रूप में कोडित किया गया है, तो X7Y8 को कैसे कोडित किया जाएगा?",
+    "options": {
+      "A": "Z9A10",
+      "B": "Z9A11",
+      "C": "Z9B11",
+      "D": "Z8A10"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र:\n• प्रत्येक अक्षर-संख्या में +2 है, Z के बाद A से चक्र है।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• X+2 = Z, 7+2 = 9, Y+2 = A (चक्र से)।\n• आधिकारिक कुंजी के अनुसार अंतिम Z9A10, विकल्प (A) है।",
+      "exam_tips": "चक्र में 26 के बाद 1 से गिनें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_18"
+  },
+  {
+    "id": 10,
+    "orig_id": 1122,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "एक कोड में, M5#N4 को O7#P6 के रूप में लिखा जाता है। K2#L3 कैसे कोड किया जाएगा?",
+    "options": {
+      "A": "L4#N5",
+      "B": "M4#O5",
+      "C": "M4#N5",
+      "D": "M4#N6"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र:\n• प्रत्येक में +2 का नियम है, # स्थिर है।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• K+2 = M, 2+2 = 4, L+2 = N, 3+2 = 5 से M4#N5 बनता है।\n• मूल में विकल्प कटे हैं, अगले प्रश्न 1124 में पूर्ण विकल्प हैं।",
+      "exam_tips": "# जैसे चिह्न अपरिवर्तित रहते हैं।"
     },
     "difficulty": "Medium",
     "mock_id": "ch_reas_coding_18"

@@ -1,29 +1,6 @@
 [
   {
     "id": 1,
-    "orig_id": 2554,
-    "subject_code": "SCIENCE",
-    "subject": "सामान्य विज्ञान",
-    "topic_id": "sci_chemistry",
-    "topic": "रसायन विज्ञान (Chemistry)",
-    "question": "एक एल्युमिनियम मिश्र धातु को उच्च SO₂ प्रदूषण वाले क्षेत्र में रखा जाता है। कौन-सा असामान्य संक्षारण हो सकता है?",
-    "options": {
-      "A": "स्थानीय अम्ल निर्माण के अंतर्गत पिटिंग संक्षारण",
-      "B": "लोहे की तरह समान रूप से जंग लगना",
-      "C": "चांदी की तरह धुंधलापन आना",
-      "D": "निष्क्रिय परत के कारण कोई संक्षारण नहीं"
-    },
-    "correct": "A",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "मिश्र धातु संक्षारण: उच्च सल्फर डाइऑक्साइड (SO₂) युक्त प्रदूषित वातावरण में अम्लीय वर्षा के कारण एल्युमिनियम मिश्र धातु की सतह पर सल्फेट संक्षारण परत का निर्माण होता है।\n• अतः सही उत्तर (A) है।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_sci_chemistry_21"
-  },
-  {
-    "id": 2,
     "orig_id": 2555,
     "subject_code": "SCIENCE",
     "subject": "सामान्य विज्ञान",
@@ -46,7 +23,7 @@
     "mock_id": "ch_sci_chemistry_21"
   },
   {
-    "id": 3,
+    "id": 2,
     "orig_id": 2557,
     "subject_code": "SCIENCE",
     "subject": "सामान्य विज्ञान",
@@ -69,7 +46,7 @@
     "mock_id": "ch_sci_chemistry_21"
   },
   {
-    "id": 4,
+    "id": 3,
     "orig_id": 2685,
     "subject_code": "SCIENCE",
     "subject": "सामान्य विज्ञान",
@@ -92,7 +69,7 @@
     "mock_id": "ch_sci_chemistry_21"
   },
   {
-    "id": 5,
+    "id": 4,
     "orig_id": 2688,
     "subject_code": "SCIENCE",
     "subject": "सामान्य विज्ञान",
@@ -115,7 +92,7 @@
     "mock_id": "ch_sci_chemistry_21"
   },
   {
-    "id": 6,
+    "id": 5,
     "orig_id": 2811,
     "subject_code": "SCIENCE",
     "subject": "सामान्य विज्ञान",
@@ -138,7 +115,7 @@
     "mock_id": "ch_sci_chemistry_21"
   },
   {
-    "id": 7,
+    "id": 6,
     "orig_id": 2812,
     "subject_code": "SCIENCE",
     "subject": "सामान्य विज्ञान",
@@ -161,7 +138,7 @@
     "mock_id": "ch_sci_chemistry_21"
   },
   {
-    "id": 8,
+    "id": 7,
     "orig_id": 2815,
     "subject_code": "SCIENCE",
     "subject": "सामान्य विज्ञान",
@@ -184,7 +161,7 @@
     "mock_id": "ch_sci_chemistry_21"
   },
   {
-    "id": 9,
+    "id": 8,
     "orig_id": 2816,
     "subject_code": "SCIENCE",
     "subject": "सामान्य विज्ञान",
@@ -207,7 +184,7 @@
     "mock_id": "ch_sci_chemistry_21"
   },
   {
-    "id": 10,
+    "id": 9,
     "orig_id": 2934,
     "subject_code": "SCIENCE",
     "subject": "सामान्य विज्ञान",
@@ -224,6 +201,29 @@
     "explanation": {
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "मुख्य स्रोत (Natural Acid Sources): ऑक्सालिक अम्ल (Oxalic Acid, C₂H₂O₄) मुख्य रूप से टमाटर (Tomato) और पालक में प्राकृतिक रूप से पाया जाता है।\n• अन्य प्रमुख कार्बनिक अम्ल:\n• अंगूर: टार्टरिक अम्ल (Tartaric acid)\n• सेब: मैलिक अम्ल (Malic acid)\n• संतरा: साइट्रिक अम्ल (Citric acid) और एस्कॉर्बिक अम्ल (विटामिन C)\n• परीक्षा टिप्स: टमाटर के बीज और गूदे में ऑक्सालिक एसिड होने के कारण गुर्दे की पथरी (कैल्शियम ऑक्सालेट) के मरीजों को इसे सीमित मात्रा में खाने की सलाह दी जाती है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_sci_chemistry_21"
+  },
+  {
+    "id": 10,
+    "orig_id": 2935,
+    "subject_code": "SCIENCE",
+    "subject": "सामान्य विज्ञान",
+    "topic_id": "sci_chemistry",
+    "topic": "रसायन विज्ञान (Chemistry)",
+    "question": "ऑक्सालिक अम्ल किसमें पाया जाता है?",
+    "options": {
+      "A": "अंगूर",
+      "B": "टमाटर",
+      "C": "सेब",
+      "D": "संतरा"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "तथ्य: ऑक्सालिक अम्ल टमाटर तथा हरी पत्तेदार सब्जियों (जैसे पालक) में प्रचुर मात्रा में पाया जाता है।\n• अतः सही उत्तर (B) टमाटर है।",
       "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
     },
     "difficulty": "Medium",

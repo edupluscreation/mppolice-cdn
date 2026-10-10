@@ -1,75 +1,6 @@
 [
   {
     "id": 1,
-    "orig_id": 1584,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "IAAF ने अपना नाम बदलकर \"वर्ल्ड एथलेटिक्स\" किस वर्ष किया?",
-    "options": {
-      "A": "2008",
-      "B": "2012",
-      "C": "2015",
-      "D": "2019"
-    },
-    "correct": "D",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "मुख्य तथ्य / नियम / सूत्र: अंतरराष्ट्रीय एथलेटिक्स संघ का नाम परिवर्तन:\n• विश्व एथलेटिक्स की सर्वोच्च नियामक संस्था का पूर्व नाम IAAF (International Association of Athletics Federations) था।\n• जून 2019 में दोहा (कतर) में आयोजित परिषद की बैठक में इसका नाम बदलकर आधिकारिक रूप से \"वर्ल्ड एथलेटिक्स\" (World Athletics) कर दिया गया, जो नवंबर 2019 से प्रभावी हुआ।\n• ऐतिहासिक तथ्य:\n• स्थापना: 17 जुलाई 1912 (स्टॉकहोम, स्वीडन में)।\n• मुख्यालय: मोनाको (Monaco)।\n• वर्तमान अध्यक्ष: सेबेस्टियन कोए (Sebastian Coe)।",
-      "exam_tips": "विश्व एथलेटिक्स चैंपियनशिप 2023 में नीरज चोपड़ा ने पुरुषों की भाला फेंक (Javelin Throw) स्पर्धा में 88.17 मीटर फेंककर भारत के लिए पहला ऐतिहासिक स्वर्ण पदक जीता था।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_28"
-  },
-  {
-    "id": 2,
-    "orig_id": 1597,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "श्रृंखला को पूर्ण करें:\nACE : BDF :: GIK : ?",
-    "options": {
-      "A": "HJK",
-      "B": "HJM",
-      "C": "GJL",
-      "D": "HJL"
-    },
-    "correct": "D",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "मुख्य तथ्य / नियम / सूत्र: अक्षर सादृश्यता (Letter Analogy / +1 Forward Shift):\n• स्टेप-बाय-स्टेप हल:\n• पहले युग्म का संबंध:\n• A + 1 = B\n• C + 1 = D\n• E + 1 = F\nअर्थात् प्रत्येक अक्षर में +1 का क्रमिक विस्थापन है।\n• यही संबंध GIK पर लागू करने पर:\n• G + 1 = H\n• I + 1 = J\n• K + 1 = L\nपरिणामी पद = HJL",
-      "exam_tips": "अक्षरों के एकांतर क्रम (A-C-E = +2 अंतराल) और उनके संगत अगले अक्षरों (B-D-F) के पैटर्न को ध्यान में रखें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_28"
-  },
-  {
-    "id": 3,
-    "orig_id": 1603,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "यदि 642 के अंकों को उलटकर मूल संख्या में जोड़ा जाए, तो परिणाम क्या होगा?",
-    "options": {
-      "A": "1284",
-      "B": "888",
-      "C": "1212",
-      "D": "1197"
-    },
-    "correct": "B",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "मुख्य तथ्य / नियम / सूत्र: अंक उत्क्रमण एवं योग संक्रिया (Digit Reversal & Addition):\n• स्टेप-बाय-स्टेप हल:\n• मूल संख्या = 642\n• अंकों को उलटने पर बनी संख्या = 246\n• दोनों का योग:\n642\n+ 246",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_28"
-  },
-  {
-    "id": 4,
     "orig_id": 1616,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -92,7 +23,7 @@
     "mock_id": "ch_reas_coding_28"
   },
   {
-    "id": 5,
+    "id": 2,
     "orig_id": 1618,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -115,7 +46,7 @@
     "mock_id": "ch_reas_coding_28"
   },
   {
-    "id": 6,
+    "id": 3,
     "orig_id": 1620,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -138,7 +69,7 @@
     "mock_id": "ch_reas_coding_28"
   },
   {
-    "id": 7,
+    "id": 4,
     "orig_id": 1626,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -161,7 +92,7 @@
     "mock_id": "ch_reas_coding_28"
   },
   {
-    "id": 8,
+    "id": 5,
     "orig_id": 1649,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -184,7 +115,7 @@
     "mock_id": "ch_reas_coding_28"
   },
   {
-    "id": 9,
+    "id": 6,
     "orig_id": 1655,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -207,7 +138,7 @@
     "mock_id": "ch_reas_coding_28"
   },
   {
-    "id": 10,
+    "id": 7,
     "orig_id": 1656,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -225,6 +156,75 @@
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "मुख्य तथ्य / नियम / सूत्र: सांस्कृतिक सम्मान और सकारात्मक हस्तक्षेप।",
       "exam_tips": "दोहराया गया प्रश्न; सही उत्तर (B) है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_28"
+  },
+  {
+    "id": 8,
+    "orig_id": 1664,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "निम्नलिखित प्रश्न में, उस शब्द का चयन करें जिसे दिए गए शब्द के अक्षरों का उपयोग करके बनाया जा सकता है।\nHOLLOWNESS",
+    "options": {
+      "A": "Hole",
+      "B": "Whale",
+      "C": "Hang",
+      "D": "Hung"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र: शब्द निर्माण परीक्षण (Word Formation):\n• स्टेप-बाय-स्टेप हल:\n• मूल शब्द HOLLOWNESS में उपस्थित अक्षर:\nH(1), O(2), L(2), W(1), N(1), E(1), S(2)\n• विकल्पों का परीक्षण:\n• (A) Hole: H, O, L, E - सभी चारों अक्षर मूल शब्द में उपलब्ध हैं (बनाया जा सकता है)।\n• (B) Whale: 'A' अनुपस्थित है।\n• (C) Hang: 'A' और 'G' अनुपस्थित हैं।\n• (D) Hung: 'U' और 'G' अनुपस्थित हैं।\n• अतः केवल Hole बनाया जा सकता है।",
+      "exam_tips": "दिए गए शब्द के अक्षरों की आवृत्ति (Frequency) और उपलब्धता की सावधानीपूर्वक जाँच करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_28"
+  },
+  {
+    "id": 9,
+    "orig_id": 1666,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "कौन-सी संख्या इस अनुक्रम में शामिल नहीं है?\n3, 5, 8, 12, 13, 21",
+    "options": {
+      "A": "3",
+      "B": "12",
+      "C": "13",
+      "D": "5"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र: फाइबोनैचि अनुक्रम में असंगत पद (Outlier in Fibonacci Series):\n• स्टेप-बाय-स्टेप हल:\n• अनुक्रम के पदों का संबंध:\n• 3 + 5 = 8\n• 5 + 8 = 13\n• 8 + 13 = 21\n• शुद्ध फाइबोनैचि श्रृंखला बनती है: 3, 5, 8, 13, 21.\n• संख्या 12 इस श्रृंखला में गलत प्रविष्टि (Intruder) है और इस नियम का पालन नहीं करती।\n• अतः अनुक्रम में शामिल न होने वाली संख्या 12 है।",
+      "exam_tips": "श्रृंखला परीक्षण में जब पद पूर्ववर्ती पदों के योग जैसे दिखें, तो तुरंत फाइबोनैचि पैटर्न का मिलान करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_28"
+  },
+  {
+    "id": 10,
+    "orig_id": 1671,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "निम्नलिखित अक्षर श्रृंखला में रिक्त स्थानों पर अक्षरों का कौन सा समूह क्रमवार रखने पर श्रृंखला पूर्ण होगी?\nd_eef_dde_ffd_eeff",
+    "options": {
+      "A": "feec",
+      "B": "dfed",
+      "C": "dffg",
+      "D": "cefd"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र: सतत अक्षर पुनरावृत्ति पैटर्न (Repeating Letter Pattern):\n• स्टेप-बाय-स्टेप हल:\n• कुल अक्षर एवं रिक्त स्थान = 18\n• 6-6 अक्षरों के 3 समान खंड बनाने पर:\n[d _ e e f _] [d d e _ f f] [d _ e e f f]\n• स्पष्ट रूप से मूल दोहराव खंड 'd d e e f f' है (प्रत्येक अक्षर 2 बार):\n• पहला खंड: d [d] e e f [f]\n• दूसरा खंड: d d e [e] f f\n• तीसरा खंड: d [d] e e f f\n• रिक्त स्थानों में भरे गए अक्षर: d, f, e, d\n• अतः सही विकल्प (B) dfed है।",
+      "exam_tips": "18 अक्षरों की श्रृंखला को 6×3 या 3×6 के समूहों में तोड़कर प्रतिरूप खोजना सबसे सटीक विधि है।"
     },
     "difficulty": "Medium",
     "mock_id": "ch_reas_coding_28"

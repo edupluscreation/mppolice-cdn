@@ -1,29 +1,6 @@
 [
   {
     "id": 1,
-    "orig_id": 1418,
-    "subject_code": "SCIENCE",
-    "subject": "सामान्य विज्ञान",
-    "topic_id": "sci_chemistry",
-    "topic": "रसायन विज्ञान (Chemistry)",
-    "question": "मेंडलीफ की आवर्त सारणी में ऊर्ध्वाधर स्तंभों और क्षैतिज पंक्तियों को क्या कहा जाता था?",
-    "options": {
-      "A": "आवर्त और कोश क्रमशः",
-      "B": "कुल और श्रेणियाँ क्रमशः",
-      "C": "समूह और आवर्त क्रमशः",
-      "D": "आवर्त और कुल क्रमशः"
-    },
-    "correct": "C",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "मुख्य तथ्य / नियम / सूत्र:\n• मेंडलीफ की मूल आवर्त सारणी (1869): तत्वों के भौतिक और रासायनिक गुण उनके परमाणु भारों के आवर्ती फलन होते हैं।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• आवर्त सारणी की संरचना में:\n• ऊर्ध्वाधर स्तंभों (Vertical Columns) को समूह (Groups) कहा जाता है (मेंडलीफ की सारणी में I से VIII समूह थे)।\n• क्षैतिज पंक्तियों (Horizontal Rows) को आवर्त (Periods) कहा जाता है (मेंडलीफ की सारणी में 6 आवर्त थे)।\n• अतः सही क्रम \"समूह और आवर्त क्रमशः\" है।\n• सही विकल्प (C) है।",
-      "exam_tips": "दिमित्री मेंडलीफ को 'आवर्त सारणी का जनक' कहा जाता है।\n• आधुनिक आवर्त सारणी 1913 में हेनरी मोजले ने बनाई, जो 'परमाणु क्रमांक' पर आधारित है (इसमें 18 समूह और 7 आवर्त हैं)।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_sci_chemistry_04"
-  },
-  {
-    "id": 2,
     "orig_id": 1419,
     "subject_code": "SCIENCE",
     "subject": "सामान्य विज्ञान",
@@ -46,7 +23,7 @@
     "mock_id": "ch_sci_chemistry_04"
   },
   {
-    "id": 3,
+    "id": 2,
     "orig_id": 1570,
     "subject_code": "SCIENCE",
     "subject": "सामान्य विज्ञान",
@@ -69,7 +46,7 @@
     "mock_id": "ch_sci_chemistry_04"
   },
   {
-    "id": 4,
+    "id": 3,
     "orig_id": 1658,
     "subject_code": "SCIENCE",
     "subject": "सामान्य विज्ञान",
@@ -92,7 +69,7 @@
     "mock_id": "ch_sci_chemistry_04"
   },
   {
-    "id": 5,
+    "id": 4,
     "orig_id": 1667,
     "subject_code": "SCIENCE",
     "subject": "सामान्य विज्ञान",
@@ -115,7 +92,7 @@
     "mock_id": "ch_sci_chemistry_04"
   },
   {
-    "id": 6,
+    "id": 5,
     "orig_id": 1806,
     "subject_code": "SCIENCE",
     "subject": "सामान्य विज्ञान",
@@ -138,7 +115,7 @@
     "mock_id": "ch_sci_chemistry_04"
   },
   {
-    "id": 7,
+    "id": 6,
     "orig_id": 2307,
     "subject_code": "SCIENCE",
     "subject": "सामान्य विज्ञान",
@@ -161,7 +138,7 @@
     "mock_id": "ch_sci_chemistry_04"
   },
   {
-    "id": 8,
+    "id": 7,
     "orig_id": 2435,
     "subject_code": "SCIENCE",
     "subject": "सामान्य विज्ञान",
@@ -184,7 +161,7 @@
     "mock_id": "ch_sci_chemistry_04"
   },
   {
-    "id": 9,
+    "id": 8,
     "orig_id": 2436,
     "subject_code": "SCIENCE",
     "subject": "सामान्य विज्ञान",
@@ -207,7 +184,7 @@
     "mock_id": "ch_sci_chemistry_04"
   },
   {
-    "id": 10,
+    "id": 9,
     "orig_id": 2442,
     "subject_code": "SCIENCE",
     "subject": "सामान्य विज्ञान",
@@ -224,6 +201,29 @@
     "explanation": {
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "सिकल सेल एनीमिया (Sickle Cell Syndrome):\n• यह एक अलिंगसूत्री अप्रभावी (Autosomal Recessive) आनुवंशिक विकार है।\n• कारण: हीमोग्लोबिन की \\beta-ग्लोबिन श्रृंखला के छठे स्थान पर ग्लूटामिक अम्ल (Glutamic acid) का वैलीन (Valine) द्वारा प्रतिस्थापन हो जाता है (बिंदु उत्परिवर्तन - Point Mutation GAG ➔ GUG)।\n• कम ऑक्सीजन तनाव में लाल रक्त कोशिकाएं (RBCs) हँसिये के आकार (Sickle-shaped) की हो जाती हैं।\n• अतः सही उत्तर (B) है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_sci_chemistry_04"
+  },
+  {
+    "id": 10,
+    "orig_id": 2690,
+    "subject_code": "SCIENCE",
+    "subject": "सामान्य विज्ञान",
+    "topic_id": "sci_chemistry",
+    "topic": "रसायन विज्ञान (Chemistry)",
+    "question": "मानव रक्त का सामान्य pH क्या होता है?",
+    "options": {
+      "A": "अत्यधिक क्षारीय",
+      "B": "थोड़ा क्षारीय",
+      "C": "थोड़ा अम्लीय",
+      "D": "अत्यधिक अम्लीय"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "रक्त का pH: मानव रक्त का सामान्य pH मान लगभग 7.4 (7.35 - 7.45) होता है।\n• अतः सही उत्तर (B) है।",
       "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
     },
     "difficulty": "Medium",

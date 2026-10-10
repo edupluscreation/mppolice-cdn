@@ -1,29 +1,6 @@
 [
   {
     "id": 1,
-    "orig_id": 6155,
-    "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_mensuration",
-    "topic": "क्षेत्रमिति एवं ज्यामिति (Mensuration & Geometry)",
-    "question": "एक वृत्त के केंद्र से 13 सेमी दूर स्थित बिंदु से खींची गई स्पर्श रेखा की लंबाई 5 सेमी है। उस वृत्त की त्रिज्या कितनी होगी?",
-    "options": {
-      "A": "12 सेमी",
-      "B": "14 सेमी",
-      "C": "13 सेमी",
-      "D": "11 सेमी"
-    },
-    "correct": "A",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: वृत्त की स्पर्श रेखा प्रमेय एवं समकोण त्रिभुज:\nस्पर्श बिंदु पर त्रिज्या स्पर्श रेखा पर लंब होती है।\nकर्ण² = लंब² + आधार² => d² = r² + L²\n• 📝 स्टेप-बाय-स्टेप हल:\n1. केंद्र से बिंदु की दूरी d = 13 सेमी (कर्ण)।\n2. स्पर्श रेखा की लंबाई L = 5 सेमी।\n3. त्रिज्या r:\nr = √(d² - L²)\nr = √(13² - 5²) = √(169 - 25) = √144 = 12 सेमी।\n4. अतः वृत्त की त्रिज्या 12 सेमी है।\n5. सही विकल्प (A) 12 सेमी है।\n• 💡",
-      "exam_tips": "(5, 12, 13) एक प्रसिद्ध पाइथागोरियन त्रिक (Pythagorean Triplet) है।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_math_mensuration_18"
-  },
-  {
-    "id": 2,
     "orig_id": 6156,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -46,7 +23,7 @@
     "mock_id": "ch_math_mensuration_18"
   },
   {
-    "id": 3,
+    "id": 2,
     "orig_id": 6318,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -69,7 +46,7 @@
     "mock_id": "ch_math_mensuration_18"
   },
   {
-    "id": 4,
+    "id": 3,
     "orig_id": 6361,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -92,7 +69,7 @@
     "mock_id": "ch_math_mensuration_18"
   },
   {
-    "id": 5,
+    "id": 4,
     "orig_id": 6363,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -115,7 +92,7 @@
     "mock_id": "ch_math_mensuration_18"
   },
   {
-    "id": 6,
+    "id": 5,
     "orig_id": 6430,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -138,7 +115,7 @@
     "mock_id": "ch_math_mensuration_18"
   },
   {
-    "id": 7,
+    "id": 6,
     "orig_id": 6697,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -161,7 +138,7 @@
     "mock_id": "ch_math_mensuration_18"
   },
   {
-    "id": 8,
+    "id": 7,
     "orig_id": 6699,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -184,7 +161,7 @@
     "mock_id": "ch_math_mensuration_18"
   },
   {
-    "id": 9,
+    "id": 8,
     "orig_id": 6811,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -207,7 +184,7 @@
     "mock_id": "ch_math_mensuration_18"
   },
   {
-    "id": 10,
+    "id": 9,
     "orig_id": 6813,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -225,6 +202,29 @@
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "📌 मुख्य तथ्य / नियम / सूत्र: समलंब चतुर्भुज (Trapezium) का क्षेत्रफल:\nक्षेत्रफल = (1/2) × (समानांतर भुजाओं का योग) × ऊँचाई\n[Area = (1/2) × (a + b) × h]\n• 📝 स्टेप-बाय-स्टेप हल:\n• समानांतर भुजाएं a = 14 मीटर, b = 20 मीटर\n• ऊँचाई h = 10 मीटर\n• सूत्र में मान रखने पर:\nक्षेत्रफल = (1/2) × (14 + 20) × 10\n= (1/2) × 34 × 10\n= 17 × 10 = 170 वर्ग मीटर\n• अतः समलंब का क्षेत्रफल 170 वर्ग मीटर है।\n• अतः विकल्प (A) 170 सही उत्तर है।\n• 💡",
       "exam_tips": "समलंब चतुर्भुज में भुजाओं के मध्य दूरी को ही उसकी ऊँचाई (शीर्षलम्ब) कहा जाता है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_math_mensuration_18"
+  },
+  {
+    "id": 10,
+    "orig_id": 6814,
+    "subject_code": "MATH",
+    "subject": "गणित",
+    "topic_id": "math_mensuration",
+    "topic": "क्षेत्रमिति एवं ज्यामिति (Mensuration & Geometry)",
+    "question": "एक समलंबी की समांतर भुजाएँ 14 मीटर और 20 मीटर हैं तथा ऊँचाई 10 मीटर है। उसका क्षेत्रफल वर्ग मीटर में कितना होगा?",
+    "options": {
+      "A": "170",
+      "B": "160",
+      "C": "150",
+      "D": "180"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: समलंब का क्षेत्रफल = (1/2) × (a + b) × h।\n• 📝 स्टेप-बाय-स्टेप हल:\n• Area = (1/2) × (14 + 20) × 10 = 17 × 10 = 170 मीटर²।\n• अतः विकल्प (A) सही है।\n• 💡",
+      "exam_tips": "समानांतर भुजाओं का औसत = (14 + 20)/2 = 17 मीटर, अतः क्षेत्रफल = औसत × ऊँचाई = 17 × 10 = 170।"
     },
     "difficulty": "Medium",
     "mock_id": "ch_math_mensuration_18"

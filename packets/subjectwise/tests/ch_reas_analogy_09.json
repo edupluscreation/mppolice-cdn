@@ -1,29 +1,6 @@
 [
   {
     "id": 1,
-    "orig_id": 5544,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_analogy",
-    "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
-    "question": "निर्देश: दिए गए विकल्पों में से संबंधित शब्द का चयन करें।\nकपिल देव : हरियाणा :: मैरी कॉम : ?",
-    "options": {
-      "A": "नागालैंड",
-      "B": "सिक्किम",
-      "C": "मणिपुर",
-      "D": "मिजोरम"
-    },
-    "correct": "C",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: खिलाड़ी और संबंधित राज्य।\n• 📝 स्टेप-बाय-स्टेप हल:\n• मैरी कॉम मणिपुर राज्य की प्रसिद्ध मुक्केबाज हैं।\n• 💡",
-      "exam_tips": "मणिपुर को भारत का 'स्पोर्ट्स हब' भी कहा जाता है।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_analogy_09"
-  },
-  {
-    "id": 2,
     "orig_id": 5657,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -46,7 +23,7 @@
     "mock_id": "ch_reas_analogy_09"
   },
   {
-    "id": 3,
+    "id": 2,
     "orig_id": 5702,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -69,7 +46,7 @@
     "mock_id": "ch_reas_analogy_09"
   },
   {
-    "id": 4,
+    "id": 3,
     "orig_id": 5703,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -92,7 +69,7 @@
     "mock_id": "ch_reas_analogy_09"
   },
   {
-    "id": 5,
+    "id": 4,
     "orig_id": 5735,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -115,7 +92,7 @@
     "mock_id": "ch_reas_analogy_09"
   },
   {
-    "id": 6,
+    "id": 5,
     "orig_id": 5736,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -138,7 +115,7 @@
     "mock_id": "ch_reas_analogy_09"
   },
   {
-    "id": 7,
+    "id": 6,
     "orig_id": 5749,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -161,7 +138,7 @@
     "mock_id": "ch_reas_analogy_09"
   },
   {
-    "id": 8,
+    "id": 7,
     "orig_id": 5762,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -184,7 +161,7 @@
     "mock_id": "ch_reas_analogy_09"
   },
   {
-    "id": 9,
+    "id": 8,
     "orig_id": 5777,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -207,7 +184,7 @@
     "mock_id": "ch_reas_analogy_09"
   },
   {
-    "id": 10,
+    "id": 9,
     "orig_id": 5841,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -225,6 +202,29 @@
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "📌 मुख्य तथ्य / नियम / सूत्र: संख्या संक्रिया और वर्ग संबंध:\nसंक्रिया चिन्ह () का अर्थ संख्या का वर्ग करना है (n = n²)।\n• 📝 स्टेप-बाय-स्टेप हल:\n1. 4• = 4² = 16\n2. 6• = 6² = 36\n3. अतः 8• = 8² = 64\n4. सही विकल्प (D) 64 है।\n• 💡",
       "exam_tips": "यह एक प्रत्यक्ष वर्ग संक्रिया (Squaring Operation) पर आधारित सादृश्यता है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_analogy_09"
+  },
+  {
+    "id": 10,
+    "orig_id": 5862,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_analogy",
+    "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
+    "question": "उस संख्या को ज्ञात कीजिए, जो तीसरी संख्या से वही संबंध रखती है जैसा कि दूसरी संख्या पहली संख्या से रखती है।\n12: 153 :: 13: ?",
+    "options": {
+      "A": "175",
+      "B": "194",
+      "C": "180",
+      "D": "178"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: संख्या सादृश्यता (Number Analogy Pattern):\nवर्ग और विषम संख्याओं के जोड़ का नियम।\n• 📝 स्टेप-बाय-स्टेप हल:\n1. प्रथम युग्म 12 और 153:\n12² = 144\n144 + 9 = 153\n2. द्वितीय युग्म 13 और ?:\n13² = 169\nक्रमिक विषम संख्या जोड़ने पर: 169 + 11 = 180\n3. अतः संबंधित संख्या 180 है।\n4. सही विकल्प (C) 180 है।\n• 💡",
+      "exam_tips": "n² + (2n - 15) पैटर्न: 12² + 9 = 153; 13² + 11 = 180."
     },
     "difficulty": "Medium",
     "mock_id": "ch_reas_analogy_09"

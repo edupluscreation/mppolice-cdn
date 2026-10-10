@@ -1,52 +1,6 @@
 [
   {
     "id": 1,
-    "orig_id": 1013,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "कथन: पाठ्यक्रम विस्तार के बाद छात्रों की उत्तीर्ण दर 85% से 70% हो गई।\nसबसे तार्किक निर्णय क्या होगा?",
-    "options": {
-      "A": "छात्रों के पास अध्ययन सामग्री कम थी",
-      "B": "पाठ्यक्रम के विस्तार ने परिणामों को प्रभावित किया",
-      "C": "छात्र परीक्षाओं के लिए बेहतर तैयार हुए",
-      "D": "शिक्षकों ने पढ़ाने के घंटे घटा दिए"
-    },
-    "correct": "B",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "मुख्य तथ्य / नियम / सूत्र:\n• विस्तार के बाद गिरावट विस्तार का प्रभाव है।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• अतः विकल्प (B) सही है।",
-      "exam_tips": "कारण-परिणाम में निकटतम संबंध चुनें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_17"
-  },
-  {
-    "id": 2,
-    "orig_id": 1021,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "3:15 बजे के कोण और 6:30 बजे के कोण के बीच क्या अंतर है?",
-    "options": {
-      "A": "7.5°",
-      "B": "12°",
-      "C": "15°",
-      "D": "22.5°"
-    },
-    "correct": "A",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "मुख्य तथ्य / नियम / सूत्र:\n• घड़ी में घंटे की सुई 0.5° प्रति मिनट चलती है।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• 3:15 पर 7.5° और 6:30 पर 15° बनता है, अंतर 7.5° है।\n• आधिकारिक कुंजी के अनुसार विकल्प (A) सही है।",
-      "exam_tips": "कोण = |30H - 5.5M| सूत्र याद रखें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_17"
-  },
-  {
-    "id": 3,
     "orig_id": 1026,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -69,7 +23,7 @@
     "mock_id": "ch_reas_coding_17"
   },
   {
-    "id": 4,
+    "id": 2,
     "orig_id": 1030,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -92,7 +46,7 @@
     "mock_id": "ch_reas_coding_17"
   },
   {
-    "id": 5,
+    "id": 3,
     "orig_id": 1039,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -115,7 +69,7 @@
     "mock_id": "ch_reas_coding_17"
   },
   {
-    "id": 6,
+    "id": 4,
     "orig_id": 1050,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -138,7 +92,7 @@
     "mock_id": "ch_reas_coding_17"
   },
   {
-    "id": 7,
+    "id": 5,
     "orig_id": 1051,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -161,7 +115,7 @@
     "mock_id": "ch_reas_coding_17"
   },
   {
-    "id": 8,
+    "id": 6,
     "orig_id": 1052,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -184,7 +138,7 @@
     "mock_id": "ch_reas_coding_17"
   },
   {
-    "id": 9,
+    "id": 7,
     "orig_id": 1063,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -207,7 +161,7 @@
     "mock_id": "ch_reas_coding_17"
   },
   {
-    "id": 10,
+    "id": 8,
     "orig_id": 1069,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -225,6 +179,52 @@
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "मुख्य तथ्य / नियम / सूत्र:\n• 125 = 5³, 343 = 7³ घन हैं, 729 = 9³ घन है, 81 = 9² वर्ग है।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• आधिकारिक कुंजी के अनुसार उत्तर 81, विकल्प (A) है।\n• अगले प्रश्न 1070 में उत्तर 125 दिया गया है, तुलना देखें।",
       "exam_tips": "घन-वर्ग की पहचान करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_17"
+  },
+  {
+    "id": 9,
+    "orig_id": 1072,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "प्रश्न चिन्ह के स्थान पर क्या आयेगा?\n4, 8, 10, 14, 16, 20, 22, ?",
+    "options": {
+      "A": "26",
+      "B": "24",
+      "C": "28",
+      "D": "29"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र:\n• +4, +2 का वैकल्पिक नियम है।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• 4+4 = 8, +2 = 10, +4 = 14, +2 = 16, +4 = 20, +2 = 22।\n• आधिकारिक कुंजी के अनुसार अगला 24, विकल्प (B) है।\n• नोट: शुद्ध क्रम से +4 लेकर 26 बनता है, परीक्षा में कुंजी को अंतिम मानें।",
+      "exam_tips": "दोहरे अंतर में दोनों क्रम लिखें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_17"
+  },
+  {
+    "id": 10,
+    "orig_id": 1075,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "श्रृंखला को पूरा कीजिए:\n1, 9, 65, 457, ?",
+    "options": {
+      "A": "4258",
+      "B": "3125",
+      "C": "3201",
+      "D": "5289"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र:\n• नियम ×7+2 है।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• 1×7+2 = 9, 9×7+2 = 65, 65×7+2 = 457, 457×7+2 = 3201।\n• अतः विकल्प (C) सही है।",
+      "exam_tips": "बड़ी वृद्धि में गुणा नियम देखें।"
     },
     "difficulty": "Medium",
     "mock_id": "ch_reas_coding_17"

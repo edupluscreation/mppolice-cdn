@@ -1,29 +1,6 @@
 [
   {
     "id": 1,
-    "orig_id": 5363,
-    "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_mensuration",
-    "topic": "क्षेत्रमिति एवं ज्यामिति (Mensuration & Geometry)",
-    "question": "एक वृत्त की परिधि 132 सेमी है। उस वृत्त का व्यास कितना होगा?",
-    "options": {
-      "A": "36 सेमी",
-      "B": "42 सेमी",
-      "C": "66 सेमी",
-      "D": "52 सेमी"
-    },
-    "correct": "B",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: वृत्त की परिधि = 2πr = πd (जहाँ d = व्यास)।\n• 📝 स्टेप-बाय-स्टेप हल:\n• πd = 132\n• (22/7) × d = 132\n• d = (132 × 7) ÷ 22\n• d = 6 × 7 = 42 सेमी।\n• अतः वृत्त का व्यास 42 सेमी है।\n• 💡",
-      "exam_tips": "यदि त्रिज्या पूछी जाती तो r = 42 ÷ 2 = 21 सेमी होती।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_math_mensuration_16"
-  },
-  {
-    "id": 2,
     "orig_id": 5466,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -46,7 +23,7 @@
     "mock_id": "ch_math_mensuration_16"
   },
   {
-    "id": 3,
+    "id": 2,
     "orig_id": 5468,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -69,7 +46,7 @@
     "mock_id": "ch_math_mensuration_16"
   },
   {
-    "id": 4,
+    "id": 3,
     "orig_id": 5535,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -92,7 +69,7 @@
     "mock_id": "ch_math_mensuration_16"
   },
   {
-    "id": 5,
+    "id": 4,
     "orig_id": 5569,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -115,7 +92,7 @@
     "mock_id": "ch_math_mensuration_16"
   },
   {
-    "id": 6,
+    "id": 5,
     "orig_id": 5571,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -138,7 +115,7 @@
     "mock_id": "ch_math_mensuration_16"
   },
   {
-    "id": 7,
+    "id": 6,
     "orig_id": 5572,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -161,7 +138,7 @@
     "mock_id": "ch_math_mensuration_16"
   },
   {
-    "id": 8,
+    "id": 7,
     "orig_id": 5648,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -184,7 +161,7 @@
     "mock_id": "ch_math_mensuration_16"
   },
   {
-    "id": 9,
+    "id": 8,
     "orig_id": 5730,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -207,7 +184,7 @@
     "mock_id": "ch_math_mensuration_16"
   },
   {
-    "id": 10,
+    "id": 9,
     "orig_id": 5731,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -225,6 +202,29 @@
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "📌 मुख्य तथ्य / नियम / सूत्र: बेलन का आयतन (Volume of Cylinder Formula):\nV = π r² h\n=> r = √[ V / (π h) ]\n• 📝 स्टेप-बाय-स्टेप हल:\n1. दिया गया है:\nबेलन का आयतन V = 5544 घन सेमी\nऊंचाई h = 14 सेमी\n2. सूत्र में मान रखने पर:\n5544 = 3.14 × r² × 14\n5544 = 43.96 × r²\nr² = 5544 / 43.96 ≈ 126.11\nr = √126.11 ≈ 11.23 सेमी\n3. (नोट: यदि π = 22/7 लें, तो r² = 5544 / (22/7 × 14) = 5544 / 44 = 126 => r = √126 ≈ 11.225 ≈ 11.23 सेमी)\n4. अतः बेलन की त्रिज्या लगभग 11.23 सेमी है।\n5. सही विकल्प (B) 11.23 सेमी है।\n• 💡",
       "exam_tips": "बेलन का वक्र पृष्ठीय क्षेत्रफल = 2πrh और संपूर्ण पृष्ठीय क्षेत्रफल = 2πr(r + h) होता है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_math_mensuration_16"
+  },
+  {
+    "id": 10,
+    "orig_id": 5757,
+    "subject_code": "MATH",
+    "subject": "गणित",
+    "topic_id": "math_mensuration",
+    "topic": "क्षेत्रमिति एवं ज्यामिति (Mensuration & Geometry)",
+    "question": "एक आयत का परिमाप 72 सेमी है और इसकी लंबाई इसकी चौड़ाई की दुगुनी है। क्षेत्रफल ज्ञात कीजिए।",
+    "options": {
+      "A": "144 वर्ग सेमी",
+      "B": "1144 वर्ग सेमी",
+      "C": "288 वर्ग सेमी",
+      "D": "572 वर्ग सेमी"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: आयत का परिमाप और क्षेत्रफल:\n• परिमाप P = 2(लंबाई + चौड़ाई)\n• क्षेत्रफल A = लंबाई × चौड़ाई\n• 📝 स्टेप-बाय-स्टेप हल:\n1. माना चौड़ाई = w सेमी।\n2. लंबाई चौड़ाई की दुगुनी है: लंबाई l = 2w सेमी।\n3. परिमाप:\n2(2w + w) = 72\n2(3w) = 72\n6w = 72 => w = 12 सेमी\n4. लंबाई l = 2 × 12 = 24 सेमी\n5. आयत का क्षेत्रफल:\nA = l × w = 24 × 12 = 288 वर्ग सेमी\n6. अतः क्षेत्रफल 288 वर्ग सेमी है।\n7. सही विकल्प (C) 288 वर्ग सेमी है।\n• 💡",
+      "exam_tips": "24 × 12 = 288 cm² शुद्ध ज्यामितीय मान है।"
     },
     "difficulty": "Medium",
     "mock_id": "ch_math_mensuration_16"

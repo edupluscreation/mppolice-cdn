@@ -1,29 +1,6 @@
 [
   {
     "id": 1,
-    "orig_id": 4611,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_analogy",
-    "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
-    "question": "निर्देश: दिए गए विकल्पों में से संबंधित शब्द चुनें।\nकांच : रेत :: रोटी : ?",
-    "options": {
-      "A": "गेहूँ",
-      "B": "चीनी",
-      "C": "खमीर (यीस्ट)",
-      "D": "नमक"
-    },
-    "correct": "A",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / उत्पाद और कच्चा माल सादृश्यता:\n• जिस प्रकार कांच (Glass) बनाने का प्राथमिक कच्चा माल रेत (Silica Sand) है।\n• उसी प्रकार रोटी बनाने का प्राथमिक कच्चा माल गेहूँ (गेहूँ का आटा) है।\n• 💡",
-      "exam_tips": "उत्पाद : कच्चा माल का संबंध।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_analogy_07"
-  },
-  {
-    "id": 2,
     "orig_id": 4766,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -46,7 +23,7 @@
     "mock_id": "ch_reas_analogy_07"
   },
   {
-    "id": 3,
+    "id": 2,
     "orig_id": 4814,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -69,7 +46,7 @@
     "mock_id": "ch_reas_analogy_07"
   },
   {
-    "id": 4,
+    "id": 3,
     "orig_id": 4875,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -92,7 +69,7 @@
     "mock_id": "ch_reas_analogy_07"
   },
   {
-    "id": 5,
+    "id": 4,
     "orig_id": 4895,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -115,7 +92,7 @@
     "mock_id": "ch_reas_analogy_07"
   },
   {
-    "id": 6,
+    "id": 5,
     "orig_id": 4950,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -138,7 +115,7 @@
     "mock_id": "ch_reas_analogy_07"
   },
   {
-    "id": 7,
+    "id": 6,
     "orig_id": 4973,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -161,7 +138,7 @@
     "mock_id": "ch_reas_analogy_07"
   },
   {
-    "id": 8,
+    "id": 7,
     "orig_id": 4991,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -184,7 +161,7 @@
     "mock_id": "ch_reas_analogy_07"
   },
   {
-    "id": 9,
+    "id": 8,
     "orig_id": 5010,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -207,7 +184,7 @@
     "mock_id": "ch_reas_analogy_07"
   },
   {
-    "id": 10,
+    "id": 9,
     "orig_id": 5011,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -225,6 +202,29 @@
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "📌 मुख्य तथ्य / ज्ञानेंद्रिय एवं कार्य सादृश्यता:\n• आंख का कार्य देखना है, और कान का कार्य सुनना (Hearing) है।\n• 💡",
       "exam_tips": "यह एक मूलभूत ज्ञानेंद्रिय सादृश्यता प्रश्न है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_analogy_07"
+  },
+  {
+    "id": 10,
+    "orig_id": 5012,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_analogy",
+    "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
+    "question": "निर्देश: दिए गए विकल्पों में से संबंधित शब्द चुनें:\nप्रकाश : अंधकार :: शांति : ?",
+    "options": {
+      "A": "युद्ध",
+      "B": "कोलाहल",
+      "C": "भय",
+      "D": "ध्वनि"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / विलोम शब्द सादृश्यता:\n• प्रकाश का विलोम अंधकार है। शांति (नीरवता) का विलोम ध्वनि/कोलाहल होता है।\n• बोर्ड उत्तर कुंजी अनुसार विकल्प (D) ध्वनि सही है।\n• 💡",
+      "exam_tips": "विकल्प (D) सही उत्तर है।"
     },
     "difficulty": "Medium",
     "mock_id": "ch_reas_analogy_07"

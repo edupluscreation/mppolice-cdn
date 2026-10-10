@@ -1,75 +1,6 @@
 [
   {
     "id": 1,
-    "orig_id": 1780,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "कौन-सा देश इस समूह से संबंधित नहीं है?",
-    "options": {
-      "A": "भारत",
-      "B": "चीन",
-      "C": "नेपाल",
-      "D": "ब्राजील"
-    },
-    "correct": "D",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "मुख्य तथ्य / नियम / सूत्र: भौगोलिक महाद्वीपीय वर्गीकरण:\n• विवरण:\n• भारत, चीन, और नेपाल: तीनों एशिया महाद्वीप (Asia) के पड़ोसी देश हैं।\n• ब्राजील: दक्षिण अमेरिका महाद्वीप (South America) का सबसे बड़ा देश है।\n• अतः ब्राजील महाद्वीप के आधार पर समूह से भिन्न है।",
-      "exam_tips": "ब्राजील की राजधानी ब्रासीलिया है और यह अमेज़न वर्षा वनों के लिए प्रसिद्ध है।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_31"
-  },
-  {
-    "id": 2,
-    "orig_id": 1781,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "यदि MARKET को NZTIHQ लिखा जाता है, तो PROFIT को कैसे लिखा जाएगा?",
-    "options": {
-      "A": "QVSGLU",
-      "B": "QWTGLU",
-      "C": "QQQDLQ",
-      "D": "QVSGLT"
-    },
-    "correct": "A",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "मुख्य तथ्य / नियम / सूत्र: वर्णमाला कोडिंग-डिकोडिंग प्रतिरूप:\n• विवरण:\n• P(+1) = Q\n• R(+4) = V\n• O(+4) = S\n• F(+1) = G\n• I(+3) = L\n• T(+1) = U\n• इस प्रकार कोड QVSGLU बनता है।",
-      "exam_tips": "विकल्पों में प्रथम अक्षर Q और अंतिम अक्षर U का मिलान करें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_31"
-  },
-  {
-    "id": 3,
-    "orig_id": 1782,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "यदि EAGLE को DZFKD लिखा जाता है, तो SNAKE को कैसे लिखा जाएगा?",
-    "options": {
-      "A": "UPCMG",
-      "B": "TMZJD",
-      "C": "R MZJD",
-      "D": "TMBJD"
-    },
-    "correct": "B",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "मुख्य तथ्य / नियम / सूत्र: प्रत्येक अक्षर में -1 का विस्थापन (Backward -1 Shift):\n• स्टेप-बाय-स्टेप हल:\n• E(-1)=D, A(-1)=Z, G(-1)=F, L(-1)=K, E(-1)=D\n• SNAKE के लिए:\n• S - 1 = R\n• N - 1 = M\n• A - 1 = Z\n• K - 1 = J\n• E - 1 = D\n• शुद्ध कोड RMZJD (विकल्प C) बनता है।\n• बोर्ड उत्तर कुंजी में मुद्रण त्रुटि के कारण (B) TMZJD अंकित था।",
-      "exam_tips": "A से 1 पीछे जाने पर Z प्राप्त होता है।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_31"
-  },
-  {
-    "id": 4,
     "orig_id": 1785,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -92,7 +23,7 @@
     "mock_id": "ch_reas_coding_31"
   },
   {
-    "id": 5,
+    "id": 2,
     "orig_id": 1786,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -115,7 +46,7 @@
     "mock_id": "ch_reas_coding_31"
   },
   {
-    "id": 6,
+    "id": 3,
     "orig_id": 1791,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -138,7 +69,7 @@
     "mock_id": "ch_reas_coding_31"
   },
   {
-    "id": 7,
+    "id": 4,
     "orig_id": 1792,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -161,7 +92,7 @@
     "mock_id": "ch_reas_coding_31"
   },
   {
-    "id": 8,
+    "id": 5,
     "orig_id": 1797,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -184,7 +115,7 @@
     "mock_id": "ch_reas_coding_31"
   },
   {
-    "id": 9,
+    "id": 6,
     "orig_id": 1801,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -207,7 +138,7 @@
     "mock_id": "ch_reas_coding_31"
   },
   {
-    "id": 10,
+    "id": 7,
     "orig_id": 1804,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -225,6 +156,75 @@
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "मुख्य तथ्य / नियम / सूत्र: मानक pH स्केल 0 से 14 तक होता है।",
       "exam_tips": "दोहराया गया प्रश्न; सही उत्तर (A) 0 से 14 है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_31"
+  },
+  {
+    "id": 8,
+    "orig_id": 1821,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "एक कॉलोनी के नक्शे में, दो सड़कें समानांतर दर्शाई गई हैं। एक पैदल यात्री क्रॉसिंग एक ही ओर 65° और x° के कोण बनाती है। x का मान ज्ञात कीजिए।",
+    "options": {
+      "A": "105°",
+      "B": "120°",
+      "C": "95°",
+      "D": "115°"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र: समानांतर रेखाओं के क्रमागत अंतः कोण (Consecutive Interior Angles):\n• तिर्यक रेखा के एक ही ओर बने अंतः कोणों का योग 180° (संपूरक) होता है।\n• स्टेप-बाय-स्टेप हल:\n• 65° + x = 180°\n• x = 180° - 65° = 115°",
+      "exam_tips": "रैखिक कोण और तिर्यक रेखा के एक ओर के कोण संपूरक (180°) होते हैं।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_31"
+  },
+  {
+    "id": 9,
+    "orig_id": 1824,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "52 कार्डों की एक मानक ताश की गड्डी से एक कार्ड निकाला जाता है। राजा कार्ड निकालने की प्रायिकता क्या होगी?",
+    "options": {
+      "A": "1/4",
+      "B": "1/52",
+      "C": "1/13",
+      "D": "4/13"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र: प्रायिकता सूत्र:\nP(E) = अनुकूल परिणाम / कुल संभावित परिणाम\n• स्टेप-बाय-स्टेप हल:\n• कुल पत्ते = 52\n• गड्डी में कुल राजा (Kings) = 4 (हुकुम, पान, ईंट, चिड़ी)\n• P(राजा) = 4 / 52 = 1 / 13\n• अतः राजा कार्ड निकालने की प्रायिकता 1/13 (विकल्प C) है।",
+      "exam_tips": "प्रत्येक रंग (Suit) में 13 पत्ते होते हैं और प्रत्येक मान (Value) के 4 पत्ते होते हैं।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_31"
+  },
+  {
+    "id": 10,
+    "orig_id": 1835,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "टीम मीटिंग के समय एक सदस्य चुप रहता है और शायद ही कभी विचार साझा करता है। सामाजिक रूप से बुद्धिमान दृष्टिकोण क्या होगा?",
+    "options": {
+      "A": "उन्हें नज़रअंदाज़ कर दें क्योंकि वे मुखर नहीं हैं।",
+      "B": "उन्हें निजी रूप से या छोटे समूहों में अपने विचार साझा करने के लिए प्रोत्साहित करें।",
+      "C": "सार्वजनिक रूप से उन्हें बोलने के लिए कहें।",
+      "D": "मान लें कि वे रुचि नहीं रखते और आगे बढ़ जाएं।"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र: समावेशी नेतृत्व और अंतर्मुखी सहकर्मियों का प्रबंधन:\n• विवरण:\n• कई प्रतिभाशाली कर्मचारी अंतर्मुखी (Introvert) होते हैं और बड़े समूहों में झिझक महसूस करते हैं।\n• एक कुशल नेता उन्हें सार्वजनिक रूप से असहज करने के स्थान पर निजी रूप से या छोटे अनौपचारिक समूहों में अपनी राय रखने का सुरक्षित मंच प्रदान करता है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
     },
     "difficulty": "Medium",
     "mock_id": "ch_reas_coding_31"

@@ -70,29 +70,6 @@
   },
   {
     "id": 4,
-    "orig_id": 4419,
-    "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_mensuration",
-    "topic": "क्षेत्रमिति एवं ज्यामिति (Mensuration & Geometry)",
-    "question": "एक त्रिभुज में, यदि sin A = 3/5 और कोण B = 90° है, तो cos C क्या है?",
-    "options": {
-      "A": "3",
-      "B": "5",
-      "C": "5",
-      "D": "3"
-    },
-    "correct": "B",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य सूत्र / पूरक कोण त्रिकोणमिति:\n• 📝 स्टेप-बाय-स्टेप हल:\n• समकोण त्रिभुज ABC में ∠B = 90°, अतः A + C = 90° (पूरक कोण)।\n• cos C = cos(90° - A) = sin A = 3/5।\n• बोर्ड उत्तर कुंजी टिप्पणी: परीक्षा बोर्ड ने मुद्रण के कारण विकल्प (B) 5 माना है। सटीक गणितीय मान 3/5 होता है।\n• 💡",
-      "exam_tips": "cos C = sin A = सम्मुख भुजा / कर्ण = 3/5।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_math_mensuration_13"
-  },
-  {
-    "id": 5,
     "orig_id": 4512,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -115,7 +92,7 @@
     "mock_id": "ch_math_mensuration_13"
   },
   {
-    "id": 6,
+    "id": 5,
     "orig_id": 4513,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -138,7 +115,7 @@
     "mock_id": "ch_math_mensuration_13"
   },
   {
-    "id": 7,
+    "id": 6,
     "orig_id": 4514,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -161,7 +138,7 @@
     "mock_id": "ch_math_mensuration_13"
   },
   {
-    "id": 8,
+    "id": 7,
     "orig_id": 4515,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -184,7 +161,7 @@
     "mock_id": "ch_math_mensuration_13"
   },
   {
-    "id": 9,
+    "id": 8,
     "orig_id": 4520,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -207,7 +184,7 @@
     "mock_id": "ch_math_mensuration_13"
   },
   {
-    "id": 10,
+    "id": 9,
     "orig_id": 4523,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -225,6 +202,29 @@
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "📌 मुख्य तथ्य / घनाभ के सूत्र:\n• कुल पृष्ठीय क्षेत्रफल TSA = 2(lb + bh + hl)\n• आयतन V = l × b × h\n• 📝 स्टेप-बाय-स्टेप हल:\n• शर्त: l = 2b = 3h.\n• माना l = 6x, तो b = 3x, और h = 2x.\n• TSA = 2[(6x × 3x) + (3x × 2x) + (2x × 6x)]\n• TSA = 2[18x² + 6x² + 12x²] = 2[36x²] = 72x²\n• 72x² = 396\n• x² = 396 / 72 = 11 / 2\n• x = √(11 / 2) = √22 / 2\n• आयतन V = (6x) × (3x) × (2x) = 36x³\n• V = 36 × x² × x = 36 × (11 / 2) × (√22 / 2) = 198 × (√22 / 2) = 99√22 घन सेमी।\n• 💡",
       "exam_tips": "अनुपातों को LCM (6) मानकर पूर्णांक रूप में बदलने से बीजगणितीय गणना अत्यंत सरल हो जाती है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_math_mensuration_13"
+  },
+  {
+    "id": 10,
+    "orig_id": 4645,
+    "subject_code": "MATH",
+    "subject": "गणित",
+    "topic_id": "math_mensuration",
+    "topic": "क्षेत्रमिति एवं ज्यामिति (Mensuration & Geometry)",
+    "question": "एक पतंग, ज़मीन पर खड़े एक लड़के से 45° के उन्नयन कोण पर उड़ रही है। यदि डोरी की लंबाई 20 मीटर है, तो पतंग की ऊँचाई ज्ञात कीजिए।\"",
+    "options": {
+      "A": "15 मीटर",
+      "B": "20 मीटर",
+      "C": "√2 metres / 15/√2 मीटर",
+      "D": "10√2 मीटर"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / समकोण त्रिभुज एवं त्रिकोणमिति:\n• डोरी की लंबाई = कर्ण = 20 मीटर\n• पतंग की ऊँचाई = लम्ब = h\n• कोण θ = 45°\n• 📝 स्टेप-बाय-स्टेप हल:\n• sin 45° = लम्ब / कर्ण = h / 20\n• 1 / √2 = h / 20\n• h = 20 / √2 = (20 × √2) / 2 = 10√2 मीटर।\n• 💡",
+      "exam_tips": "10√2 ≈ 10 × 1.414 = 14.14 मीटर।"
     },
     "difficulty": "Medium",
     "mock_id": "ch_math_mensuration_13"

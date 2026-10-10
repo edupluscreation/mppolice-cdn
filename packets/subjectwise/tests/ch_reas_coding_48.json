@@ -1,98 +1,6 @@
 [
   {
     "id": 1,
-    "orig_id": 2660,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "कथन:\nएक सर्वे दिखाता है कि किसी स्थानीयता के 65% निवासी प्रतिदिन सार्वजनिक परिवहन का उपयोग करते हैं, और शेष निजी वाहनों को प्राथमिकता देते हैं।\nनिम्नलिखित में से कौन-सा निष्कर्ष निकाला जा सकता है?",
-    "options": {
-      "A": "निजी वाहन उपयोग करने वाले निवासी बिल्कुल भी सार्वजनिक परिवहन का उपयोग नहीं करते।",
-      "B": "सार्वजनिक परिवहन निवासियों के बीच अधिक लोकप्रिय है।",
-      "C": "दोनों कथन सत्य हैं।",
-      "D": "कोई भी कथन सत्य नहीं है।"
-    },
-    "correct": "B",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "कथन-निष्कर्ष विश्लेषण: दिए गए कथन के आधार पर निष्कर्ष II तार्किक रूप से मान्य है।\n• अतः सही उत्तर (B) है।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_48"
-  },
-  {
-    "id": 2,
-    "orig_id": 2663,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "एक विशेष कोड में \"SUN\" को \"RTM\" लिखा गया है। उसी कोड का अनुसरण करते हुए \"MOON\" को कैसे लिखा जाएगा?",
-    "options": {
-      "A": "LNNM",
-      "B": "NPPO",
-      "C": "NLLM",
-      "D": "LNNL"
-    },
-    "correct": "D",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "कोडिंग तर्क (-1 Shift):\n• S(-1) = R, U(-1) = T, N(-1) = M ➔ SUN = RTM\n• MOON के लिए (-1 करें):\n• M(-1) = L\n• O(-1) = N\n• O(-1) = N\n• N(-1) = M (या L) ➔ LNNM / LNNL.\n• नोट: बोर्ड कुंजी में विकल्प (D) LNNL को स्वीकार किया गया है।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_48"
-  },
-  {
-    "id": 3,
-    "orig_id": 2664,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "निम्नलिखित श्रृंखला में अगला पद क्या होगा:\nA1, B1, C8, D27, E125, F512,?",
-    "options": {
-      "A": "G125",
-      "B": "E1728",
-      "C": "G729",
-      "D": "G2197"
-    },
-    "correct": "C",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "श्रृंखला विश्लेषण:\n• अक्षर क्रम: A, B, C, D, E, F ➔ अगला अक्षर G\n• संख्या क्रम: घनों का अनुक्रम ➔ 1³, 1³, 2³=8, 3³=27, 5³=125, 8³=512, अगला 9³ = 729 ➔ G729.\n• अतः सही उत्तर (C) G729 है।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_48"
-  },
-  {
-    "id": 4,
-    "orig_id": 2665,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "निम्नलिखित श्रृंखला में अगला पद होगा:\nA1, B1, C8, D27, E125, F512,?",
-    "options": {
-      "A": "G125",
-      "B": "E1728",
-      "C": "G729",
-      "D": "G2197"
-    },
-    "correct": "D",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "श्रृंखला का अगला पद: G729 या संगत घन पद।\n• अतः सही उत्तर (D/C) है।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_48"
-  },
-  {
-    "id": 5,
     "orig_id": 2666,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -115,7 +23,7 @@
     "mock_id": "ch_reas_coding_48"
   },
   {
-    "id": 6,
+    "id": 2,
     "orig_id": 2670,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -138,7 +46,7 @@
     "mock_id": "ch_reas_coding_48"
   },
   {
-    "id": 7,
+    "id": 3,
     "orig_id": 2675,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -161,7 +69,7 @@
     "mock_id": "ch_reas_coding_48"
   },
   {
-    "id": 8,
+    "id": 4,
     "orig_id": 2676,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -184,7 +92,7 @@
     "mock_id": "ch_reas_coding_48"
   },
   {
-    "id": 9,
+    "id": 5,
     "orig_id": 2681,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -207,7 +115,7 @@
     "mock_id": "ch_reas_coding_48"
   },
   {
-    "id": 10,
+    "id": 6,
     "orig_id": 2683,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -224,6 +132,98 @@
     "explanation": {
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "अक्षर श्रृंखला पुनरावृत्ति: दिए गए रिक्त स्थानों में अक्षरों का समूह भरने पर एक निश्चित आवर्ती श्रृंखला प्राप्त होती है।\n• अतः सही उत्तर (B) है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_48"
+  },
+  {
+    "id": 7,
+    "orig_id": 2684,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "निम्नलिखित अक्षर श्रृंखला में रिक्त स्थानों पर अक्षरों का कौन सा समूह क्रमवार रखने पर यह श्रृंखला पूर्ण होगी?\nB _ DBDCD _ CBDB _ _ C",
+    "options": {
+      "A": "CBCD",
+      "B": "BBDE",
+      "C": "CDEF",
+      "D": "CDFA"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "अक्षर श्रृंखला: तार्किक पैटर्न के अनुसार रिक्त स्थानों की पूर्ति।\n• अतः सही उत्तर (A) है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_48"
+  },
+  {
+    "id": 8,
+    "orig_id": 2702,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "जीवा (Chord) वृत्त में किन दो बिंदुओं को जोड़ने वाला रेखाखंड होता है?",
+    "options": {
+      "A": "दो त्रिज्याएँ",
+      "B": "केंद्र और परिधि",
+      "C": "दो केंद्रों",
+      "D": "परिधि (सर्कमफेरेंस) पर दो बिंदु"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "जीवा: वृत्त के घेरे (परिधि) पर स्थित किन्हीं भी दो बिंदुओं को जोड़ने वाला सीधा रेखाखंड जीवा कहलाता है।\n• अतः सही उत्तर (D) है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_48"
+  },
+  {
+    "id": 9,
+    "orig_id": 2703,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "40 मीटर दूर एक बिंदु से एक इमारत का उन्नयन कोण 45° है। इमारत की ऊँचाई क्या है?",
+    "options": {
+      "A": "40 m",
+      "B": "30 m",
+      "C": "60 m",
+      "D": "80 m"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "त्रिकोणमिति अनुप्रयोग:\n• आधार की दूरी = 40 मीटर, उन्नयन कोण \\theta = 45°\n• सूत्र: \\tan 45° = \\frac{\\text{ऊँचाई}}{\\text{आधार}} = \\frac{h}{40}\n• 1 = \\frac{h}{40} ➔ h = 40\\text{ मीटर}\n• अतः इमारत की ऊँचाई 40 मीटर (विकल्प A) है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_48"
+  },
+  {
+    "id": 10,
+    "orig_id": 2704,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "चेन्नई में एक टावर के शीर्ष का उन्नयन कोण 60° है। यदि प्रेक्षक से आधार की दूरी 50 मीटर है, तो टावर की ऊँचाई क्या है?",
+    "options": {
+      "A": "50√3 मीटर",
+      "B": "25 मीटर",
+      "C": "2 metres / 105/2 मीटर",
+      "D": "100 मीटर"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "टावर की ऊँचाई:\n• दूरी = 50 मीटर, कोण = 60°\n• \\tan 60° = \\frac{h}{50} ➔ \\sqrt{3} = \\frac{h}{50} ➔ h = 50\\sqrt{3}\\text{ मीटर}\n• अतः सही उत्तर (A) 50\\sqrt{3} मीटर है।",
       "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
     },
     "difficulty": "Medium",

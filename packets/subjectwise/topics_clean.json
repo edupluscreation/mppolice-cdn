@@ -1,7 +1,7 @@
 {
   "GK": {
-    "totalQuestions": 1526,
-    "totalTests": 156,
+    "totalQuestions": 1523,
+    "totalTests": 155,
     "topics": [
       {
         "topicId": "gk_culture",
@@ -13,14 +13,14 @@
       {
         "topicId": "gk_economy",
         "topicName": "भारतीय अर्थव्यवस्था (Economy)",
-        "totalQuestions": 61,
-        "totalTests": 7,
+        "totalQuestions": 60,
+        "totalTests": 6,
         "testPrefix": "ch_gk_economy"
       },
       {
         "topicId": "gk_geography",
         "topicName": "भारत एवं विश्व का भूगोल (Geography)",
-        "totalQuestions": 48,
+        "totalQuestions": 47,
         "totalTests": 5,
         "testPrefix": "ch_gk_geography"
       },
@@ -34,7 +34,7 @@
       {
         "topicId": "gk_mpgk",
         "topicName": "मध्य प्रदेश सामान्य ज्ञान (MP GK)",
-        "totalQuestions": 983,
+        "totalQuestions": 982,
         "totalTests": 99,
         "testPrefix": "ch_gk_mpgk"
       },
@@ -48,13 +48,13 @@
     ]
   },
   "REASONING": {
-    "totalQuestions": 2325,
-    "totalTests": 238,
+    "totalQuestions": 2304,
+    "totalTests": 236,
     "topics": [
       {
         "topicId": "reas_analogy",
         "topicName": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
-        "totalQuestions": 154,
+        "totalQuestions": 152,
         "totalTests": 16,
         "testPrefix": "ch_reas_analogy"
       },
@@ -68,15 +68,15 @@
       {
         "topicId": "reas_clock_calendar",
         "topicName": "घड़ी एवं कैलेंडर (Clock & Calendar)",
-        "totalQuestions": 90,
+        "totalQuestions": 88,
         "totalTests": 9,
         "testPrefix": "ch_reas_clock_calendar"
       },
       {
         "topicId": "reas_coding",
         "topicName": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-        "totalQuestions": 1615,
-        "totalTests": 162,
+        "totalQuestions": 1598,
+        "totalTests": 160,
         "testPrefix": "ch_reas_coding"
       },
       {
@@ -131,8 +131,8 @@
     ]
   },
   "MATH": {
-    "totalQuestions": 1720,
-    "totalTests": 176,
+    "totalQuestions": 1687,
+    "totalTests": 173,
     "topics": [
       {
         "topicId": "math_average_age",
@@ -151,15 +151,15 @@
       {
         "topicId": "math_mensuration",
         "topicName": "क्षेत्रमिति एवं ज्यामिति (Mensuration & Geometry)",
-        "totalQuestions": 239,
+        "totalQuestions": 238,
         "totalTests": 24,
         "testPrefix": "ch_math_mensuration"
       },
       {
         "topicId": "math_number_bodmas",
         "topicName": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
-        "totalQuestions": 1039,
-        "totalTests": 104,
+        "totalQuestions": 1012,
+        "totalTests": 102,
         "testPrefix": "ch_math_number_bodmas"
       },
       {
@@ -172,22 +172,22 @@
       {
         "topicId": "math_profit_loss",
         "topicName": "लाभ-हानि एवं बट्टा (Profit, Loss & Discount)",
-        "totalQuestions": 152,
+        "totalQuestions": 151,
         "totalTests": 16,
         "testPrefix": "ch_math_profit_loss"
       },
       {
         "topicId": "math_ratio_mix",
         "topicName": "अनुपात, समानुपात एवं मिश्रण (Ratio & Proportion)",
-        "totalQuestions": 94,
+        "totalQuestions": 93,
         "totalTests": 10,
         "testPrefix": "ch_math_ratio_mix"
       },
       {
         "topicId": "math_speed_distance",
         "topicName": "चाल, दूरी, समय एवं रेलगाड़ी (Speed, Distance & Time)",
-        "totalQuestions": 23,
-        "totalTests": 3,
+        "totalQuestions": 20,
+        "totalTests": 2,
         "testPrefix": "ch_math_speed_distance"
       },
       {
@@ -200,8 +200,8 @@
     ]
   },
   "SCIENCE": {
-    "totalQuestions": 1236,
-    "totalTests": 125,
+    "totalQuestions": 1227,
+    "totalTests": 124,
     "topics": [
       {
         "topicId": "sci_anatomy",
@@ -220,7 +220,7 @@
       {
         "topicId": "sci_chemistry",
         "topicName": "रसायन विज्ञान (Chemistry)",
-        "totalQuestions": 360,
+        "totalQuestions": 359,
         "totalTests": 36,
         "testPrefix": "ch_sci_chemistry"
       },
@@ -241,8 +241,8 @@
       {
         "topicId": "sci_physics",
         "topicName": "भौतिक विज्ञान (Physics)",
-        "totalQuestions": 557,
-        "totalTests": 56,
+        "totalQuestions": 549,
+        "totalTests": 55,
         "testPrefix": "ch_sci_physics"
       }
     ]

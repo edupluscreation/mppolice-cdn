@@ -1,29 +1,6 @@
 [
   {
     "id": 1,
-    "orig_id": 4503,
-    "subject_code": "SCIENCE",
-    "subject": "सामान्य विज्ञान",
-    "topic_id": "sci_chemistry",
-    "topic": "रसायन विज्ञान (Chemistry)",
-    "question": "सामान्यतः दांतों में सड़न शुरू होती है जब मुख का pH:",
-    "options": {
-      "A": "6.5 से अधिक होता है",
-      "B": "5.5 से कम होता है",
-      "C": "6.5 से कम होता है",
-      "D": "5.5 से अधिक होता है"
-    },
-    "correct": "B",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / दंत क्षय एवं pH मान:\n• दाँतों का इनेमल शरीर का सबसे कठोर पदार्थ है जो कैल्सियम हाइड्रॉक्सीपैटाइट (कैल्सियम फॉस्फेट का एक क्रिस्टलीय रूप) से बना होता है।\n• 📝 दंत क्षय प्रक्रिया:\n• जब भोजन के बाद मुँह में उपस्थित बैक्टीरिया शर्करा का अपघटन कर अम्ल उत्पन्न करते हैं और pH मान 5.5 से कम हो जाता है, तो इनेमल का क्षरण (Demineralization) प्रारंभ हो जाता है।\n• 💡",
-      "exam_tips": "दंत मंजन (Toothpaste) की प्रकृति क्षारीय होती है जो इस अतिरिक्त अम्ल को उदासीन करती है।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_sci_chemistry_25"
-  },
-  {
-    "id": 2,
     "orig_id": 4505,
     "subject_code": "SCIENCE",
     "subject": "सामान्य विज्ञान",
@@ -46,7 +23,7 @@
     "mock_id": "ch_sci_chemistry_25"
   },
   {
-    "id": 3,
+    "id": 2,
     "orig_id": 4506,
     "subject_code": "SCIENCE",
     "subject": "सामान्य विज्ञान",
@@ -69,7 +46,7 @@
     "mock_id": "ch_sci_chemistry_25"
   },
   {
-    "id": 4,
+    "id": 3,
     "orig_id": 4627,
     "subject_code": "SCIENCE",
     "subject": "सामान्य विज्ञान",
@@ -92,7 +69,7 @@
     "mock_id": "ch_sci_chemistry_25"
   },
   {
-    "id": 5,
+    "id": 4,
     "orig_id": 4629,
     "subject_code": "SCIENCE",
     "subject": "सामान्य विज्ञान",
@@ -115,7 +92,7 @@
     "mock_id": "ch_sci_chemistry_25"
   },
   {
-    "id": 6,
+    "id": 5,
     "orig_id": 4723,
     "subject_code": "SCIENCE",
     "subject": "सामान्य विज्ञान",
@@ -138,7 +115,7 @@
     "mock_id": "ch_sci_chemistry_25"
   },
   {
-    "id": 7,
+    "id": 6,
     "orig_id": 4725,
     "subject_code": "SCIENCE",
     "subject": "सामान्य विज्ञान",
@@ -161,7 +138,7 @@
     "mock_id": "ch_sci_chemistry_25"
   },
   {
-    "id": 8,
+    "id": 7,
     "orig_id": 4726,
     "subject_code": "SCIENCE",
     "subject": "सामान्य विज्ञान",
@@ -184,7 +161,7 @@
     "mock_id": "ch_sci_chemistry_25"
   },
   {
-    "id": 9,
+    "id": 8,
     "orig_id": 4837,
     "subject_code": "SCIENCE",
     "subject": "सामान्य विज्ञान",
@@ -207,7 +184,7 @@
     "mock_id": "ch_sci_chemistry_25"
   },
   {
-    "id": 10,
+    "id": 9,
     "orig_id": 4907,
     "subject_code": "SCIENCE",
     "subject": "सामान्य विज्ञान",
@@ -225,6 +202,29 @@
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "📌 मुख्य तथ्य / आधुनिक आवर्त नियम (हेनरी मोजले, 1913):\n• तत्वों के भौतिक और रासायनिक गुण उनके परमाणु क्रमांक (Atomic Number, Z) के आवर्ती फलन होते हैं।\n• 📝 विशेषताएं:\n• इसमें 7 आवर्त (Periods) और 18 वर्ग (Groups) हैं।\n• 💡",
       "exam_tips": "मेंडलीफ की आवर्त सारणी परमाणु भार पर आधारित थी।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_sci_chemistry_25"
+  },
+  {
+    "id": 10,
+    "orig_id": 4909,
+    "subject_code": "SCIENCE",
+    "subject": "सामान्य विज्ञान",
+    "topic_id": "sci_chemistry",
+    "topic": "रसायन विज्ञान (Chemistry)",
+    "question": "शुद्ध जल का pH मान कितना होता है?",
+    "options": {
+      "A": "0",
+      "B": "7",
+      "C": "14",
+      "D": "1"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / pH पैमाना (सोरेन्सन, 1909):\n• 25°C पर शुद्ध जल उदासीन (Neutral) होता है, जिसमें H⁺ और OH⁻ आयनों की सांद्रता 10⁻⁷ M होती है।\n• pH = -log[H⁺] = 7.\n• 💡",
+      "exam_tips": "pH < 7 अम्लीय तथा pH > 7 क्षारीय विलयन को दर्शाता है।"
     },
     "difficulty": "Medium",
     "mock_id": "ch_sci_chemistry_25"

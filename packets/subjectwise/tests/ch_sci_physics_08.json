@@ -93,29 +93,6 @@
   },
   {
     "id": 5,
-    "orig_id": 3019,
-    "subject_code": "SCIENCE",
-    "subject": "सामान्य विज्ञान",
-    "topic_id": "sci_physics",
-    "topic": "भौतिक विज्ञान (Physics)",
-    "question": "एक घरेलू परिपथ में भूमि तार में होना चाहिए:",
-    "options": {
-      "A": "बहुत कम प्रतिरोध और निम्न गलनांक",
-      "B": "बहुत उच्च प्रतिरोध और उच्च गलनांक",
-      "C": "बहुत कम प्रतिरोध और उच्च गलनांक",
-      "D": "बहुत उच्च प्रतिरोध और उच्च गलनांक"
-    },
-    "correct": "C",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "अर्थिंग तार (Earth Wire) की विशेषताएँ:\n• बहुत कम प्रतिरोध (Very Low Resistance): ताकि किसी भी लीकेज या फॉल्ट करंट को बिना किसी बाधा के सीधे भूमि (Ground) में सुरक्षित रूप से भेजा जा सके।\n• उच्च गलनांक (High Melting Point): ताकि भारी फॉल्ट करंट प्रवाहित होने पर भी तार पिघलकर टूटे नहीं और सुरक्षा बनी रहे।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_sci_physics_08"
-  },
-  {
-    "id": 6,
     "orig_id": 3125,
     "subject_code": "SCIENCE",
     "subject": "सामान्य विज्ञान",
@@ -138,7 +115,7 @@
     "mock_id": "ch_sci_physics_08"
   },
   {
-    "id": 7,
+    "id": 6,
     "orig_id": 3132,
     "subject_code": "SCIENCE",
     "subject": "सामान्य विज्ञान",
@@ -161,7 +138,7 @@
     "mock_id": "ch_sci_physics_08"
   },
   {
-    "id": 8,
+    "id": 7,
     "orig_id": 3354,
     "subject_code": "SCIENCE",
     "subject": "सामान्य विज्ञान",
@@ -184,30 +161,7 @@
     "mock_id": "ch_sci_physics_08"
   },
   {
-    "id": 9,
-    "orig_id": 3452,
-    "subject_code": "SCIENCE",
-    "subject": "सामान्य विज्ञान",
-    "topic_id": "sci_physics",
-    "topic": "भौतिक विज्ञान (Physics)",
-    "question": "Pick the figure from Image Y that depicts the exact mirror image of Image X with the mirror on the left-hand side.",
-    "options": {
-      "A": "(C)\n(D)\n• उत्तर: (B)\n• > 💡 व्याख्या (Explanation):",
-      "B": "(D)\n• उत्तर: (B)\n• > 💡 व्याख्या (Explanation):",
-      "C": "उत्तर: (B)\n• > 💡 व्याख्या (Explanation):",
-      "D": "उत्तर: (B)\n• > 💡 व्याख्या (Explanation):"
-    },
-    "correct": "B",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "दर्पण प्रतिबिंब नियम: बाईं ओर दर्पण रखने पर आकृति का दायां भाग बाईं ओर और बायां भाग दाईं ओर परावर्तित होता है, ऊर्ध्वाधर स्थिति अपरिवर्तित रहती है। विकल्प (B) सही दर्पण छवि दर्शाता है।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_sci_physics_08"
-  },
-  {
-    "id": 10,
+    "id": 8,
     "orig_id": 3476,
     "subject_code": "SCIENCE",
     "subject": "सामान्य विज्ञान",
@@ -225,6 +179,52 @@
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "मुख्य तथ्य: डीसी विद्युत मोटर में विभक्त वलय (Split Ring Commutator) एक दिशा-परिवर्तक (Commutator) का कार्य करता है।\n• कार्यप्रणाली: कुंडली के प्रत्येक आधे घूर्णन (180° rotation) के बाद यह परिपथ में धारा की दिशा को उलट देता है, जिससे आर्मेचर कुंडली पर लगने वाला बल आघूर्ण (Torque) हमेशा एक ही दिशा में कार्य करता रहता है और मोटर निरंतर घूमती है।",
       "exam_tips": "एसी जनरेटर में विभक्त वलय के स्थान पर स्लिप रिंग्स (Slip Rings - पूर्ण वलय) का प्रयोग किया जाता है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_sci_physics_08"
+  },
+  {
+    "id": 9,
+    "orig_id": 3587,
+    "subject_code": "SCIENCE",
+    "subject": "सामान्य विज्ञान",
+    "topic_id": "sci_physics",
+    "topic": "भौतिक विज्ञान (Physics)",
+    "question": "The colour of the clear sky changes from blue to whitish near horizon because:",
+    "options": {
+      "A": "अधिक अनु सामान रूप से प्रकीर्ण करते हैं",
+      "B": "प्रकाश का पथ लंबा हो जाता है जिससे बहु-प्रकीर्णन होता है",
+      "C": "स्पष्ट आकाश का रंग निकट क्षितिज पर नीला से सफेद हो जाता है क्योंकि",
+      "D": "कोई भी ऊपर नहीं"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "क्षितिज पर सफेदी का कारण: क्षितिज के पास सूर्य के प्रकाश को वायुमंडल की अधिक मोटी परत से गुजरना पड़ता है, जिससे प्रकाश का बहु-प्रकीर्णन (Multiple scattering) होता है और सभी रंग मिश्रित होकर श्वेत आभा देते हैं।\n• सही विकल्प: (B) / बोर्ड कुंजी (C)।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_sci_physics_08"
+  },
+  {
+    "id": 10,
+    "orig_id": 3588,
+    "subject_code": "SCIENCE",
+    "subject": "सामान्य विज्ञान",
+    "topic_id": "sci_physics",
+    "topic": "भौतिक विज्ञान (Physics)",
+    "question": "यदि सूर्य सफेद के बजाय बैंगनी होता, तो आकाश का रंग कैसा दिखाई देता:",
+    "options": {
+      "A": "पीला",
+      "B": "लाल",
+      "C": "बैंगनी",
+      "D": "सफ़ेद"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "सिद्धांत: प्रकीर्णित प्रकाश का रंग स्रोत के प्रकाश पर निर्भर करता है। बैंगनी स्रोत होने पर सर्वाधिक प्रकीर्णन के कारण आकाश बैंगनी दिखाई देगा।\n• सही विकल्प: (C) बैंगनी।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
     },
     "difficulty": "Medium",
     "mock_id": "ch_sci_physics_08"

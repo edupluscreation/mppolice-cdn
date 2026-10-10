@@ -1,29 +1,6 @@
 [
   {
     "id": 1,
-    "orig_id": 8535,
-    "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_mensuration",
-    "topic": "क्षेत्रमिति एवं ज्यामिति (Mensuration & Geometry)",
-    "question": "एक वृत्त का क्षेत्रफल 50.24 वर्ग सेंटीमीटर है। उसका त्रिज्या ज्ञात कीजिए। (π = 3.14 का प्रयोग करें)",
-    "options": {
-      "A": "3 सेमी",
-      "B": "5 सेमी",
-      "C": "4 सेमी",
-      "D": "6 सेमी"
-    },
-    "correct": "C",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: वृत्त का क्षेत्रफल (Area of Circle):\n• क्षेत्रफल A = π × r²\n• 📝 स्टेप-बाय-स्टेप हल:\n1. दिया है: A = 50.24 सेमी² तथा π = 3.14।\n2. 3.14 × r² = 50.24\n3. r² = 50.24 ÷ 3.14 = 16\n4. r = √16 = 4 सेमी।\nअतः वृत्त की त्रिज्या 4 सेमी है।\nसही उत्तर (C) 4 सेमी है।\n• 💡",
-      "exam_tips": "3.14 × 16 = 50.24 होता है, अतः गणना अत्यंत सीधी है।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_math_mensuration_24"
-  },
-  {
-    "id": 2,
     "orig_id": 8537,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -46,7 +23,7 @@
     "mock_id": "ch_math_mensuration_24"
   },
   {
-    "id": 3,
+    "id": 2,
     "orig_id": 8604,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -69,7 +46,7 @@
     "mock_id": "ch_math_mensuration_24"
   },
   {
-    "id": 4,
+    "id": 3,
     "orig_id": 8635,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -92,7 +69,7 @@
     "mock_id": "ch_math_mensuration_24"
   },
   {
-    "id": 5,
+    "id": 4,
     "orig_id": 8636,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -115,7 +92,7 @@
     "mock_id": "ch_math_mensuration_24"
   },
   {
-    "id": 6,
+    "id": 5,
     "orig_id": 8637,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -138,7 +115,7 @@
     "mock_id": "ch_math_mensuration_24"
   },
   {
-    "id": 7,
+    "id": 6,
     "orig_id": 8741,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -161,7 +138,7 @@
     "mock_id": "ch_math_mensuration_24"
   },
   {
-    "id": 8,
+    "id": 7,
     "orig_id": 8742,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -184,7 +161,7 @@
     "mock_id": "ch_math_mensuration_24"
   },
   {
-    "id": 9,
+    "id": 8,
     "orig_id": 8826,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -202,6 +179,29 @@
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "📌 मुख्य तथ्य / नियम / सूत्र: गोले का पृष्ठीय क्षेत्रफल (Surface Area of Sphere):\n• क्षेत्रफल A = 4πr², जहाँ r = त्रिज्या, π ≈ 22/7\n• 📝 स्टेप-बाय-स्टेप हल:\n1. फुटबॉल एक गोलाकार वस्तु है, जिसकी त्रिज्या r = 14 सेमी है।\n2. सूत्र में मान रखने पर:\n• A = 4 × (22/7) × 14 × 14\n• A = 4 × 22 × 2 × 14\n• A = 88 × 28 = 2,464 सेमी²।\nअतः सही उत्तर (D) 2464 है।\n• 💡",
       "exam_tips": "यदि व्यास दिया हो (d = 2r), तो गोले का क्षेत्रफल πd² होता है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_math_mensuration_24"
+  },
+  {
+    "id": 9,
+    "orig_id": 3534,
+    "subject_code": "MATH",
+    "subject": "गणित",
+    "topic_id": "math_mensuration",
+    "topic": "क्षेत्रमिति एवं ज्यामिति (Mensuration & Geometry)",
+    "question": "गाँव का एक कर्मचारी एक त्रिभुज बनाता है जिसकी भुजाएँ 6 सेमी, 8 सेमी और 10 सेमी हैं। तो यह किस प्रकार का त्रिभुज है?",
+    "options": {
+      "A": "विषमबाहु",
+      "B": "समबाहु त्रिभुज",
+      "C": "समकोण त्रिभुज",
+      "D": "समद्विबाहु त्रिभुज"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "पाइथागोरस प्रमेय का विलोम: यदि किसी त्रिभुज में किन्हीं दो भुजाओं के वर्गों का योग तीसरी भुजा के वर्ग के बराबर हो, तो वह समकोण त्रिभुज होता है।\n• सत्यापन:\n• 6² + 8² = 36 + 64 = 100\n• 10² = 100\n• 6² + 8² = 10² (पाइथागोरियन त्रिक)\n• निष्कर्ष: यह एक समकोण त्रिभुज (Right-angled triangle) है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
     },
     "difficulty": "Medium",
     "mock_id": "ch_math_mensuration_24"

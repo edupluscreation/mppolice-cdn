@@ -1,75 +1,6 @@
 [
   {
     "id": 1,
-    "orig_id": 2399,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "कोडित असमानता प्रणाली में: X • Y → X > Y, X  Y → X ≤ Y.\nदिया गया है A  B • C, कौन-सा सत्य है?",
-    "options": {
-      "A": "A < B",
-      "B": "B > C",
-      "C": "A > B",
-      "D": "A < C"
-    },
-    "correct": "D",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "प्रतीकों का डिकोडिंग:\n• X • Y ➔ X > Y\n• X \\ Y ➔ X ≤ Y\n• दिया गया व्यंजक: A \\ B • C\n• डिकोड करने पर: A ≤ B और B > C\n• विकल्प परीक्षण:\n• यहाँ B, A से बड़ा या बराबर है और B, C से बड़ा है।\n• बोर्ड विकल्प में (D) A < C को चिह्नित किया गया है (यद्यपि A और C के मध्य निश्चित संबंध निर्धारित नहीं किया जा सकता, दिए गए विकल्पों में बोर्ड द्वारा D को स्वीकार किया गया है)।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_42"
-  },
-  {
-    "id": 2,
-    "orig_id": 2400,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "एक विशेष कूट में, FARM को GBSN के रूप में लिखा जाता है, तो TREE किस रूप में कूटित होगा:",
-    "options": {
-      "A": "USFD",
-      "B": "USFG",
-      "C": "USFF",
-      "D": "USFE"
-    },
-    "correct": "B",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "कोडिंग तर्क (+1 Shift):\n• F + 1 =  G\n• A + 1 =  B\n• R + 1 =  S\n• M + 1 =  N\n• FARM ➔ GBSN\n• TREE के लिए (+1 प्रत्येक अक्षर में जोड़ें):\n• T + 1 =  U\n• R + 1 =  S\n• E + 1 =  F\n• E + 1 =  F\n• TREE ➔ USFF.\n• नोट: विकल्प (B) या (C) में USFF सही कूट है।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_42"
-  },
-  {
-    "id": 3,
-    "orig_id": 2403,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "निम्नलिखित श्रृंखला में अगला पद क्या होगा:\nA1, B8, A27, B64,?",
-    "options": {
-      "A": "A100",
-      "B": "A125",
-      "C": "B125",
-      "D": "C125"
-    },
-    "correct": "C",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "अक्षर और संख्या पैटर्न:\n• अक्षर क्रम: A, B, A, B ➔ अगला अक्षर A होना चाहिए।\n• संख्या क्रम (घनों की श्रृंखला):\n• 1³ = 1\n• 2³ = 8\n• 3³ = 27\n• 4³ = 64\n• अगला पद: 5³ = 125\n• संयुक्त पद: A125 (तार्किक रूप से A125; बोर्ड कुंजी में B125 विकल्प C दिया गया है).",
-      "exam_tips": "इस प्रकार के प्रश्नों में एकांतर अक्षरों और लगातार प्राकृतिक संख्याओं के घनों (Cubes) का क्रम देखें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_42"
-  },
-  {
-    "id": 4,
     "orig_id": 2404,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -92,7 +23,7 @@
     "mock_id": "ch_reas_coding_42"
   },
   {
-    "id": 5,
+    "id": 2,
     "orig_id": 2408,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -115,7 +46,7 @@
     "mock_id": "ch_reas_coding_42"
   },
   {
-    "id": 6,
+    "id": 3,
     "orig_id": 2409,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -138,7 +69,7 @@
     "mock_id": "ch_reas_coding_42"
   },
   {
-    "id": 7,
+    "id": 4,
     "orig_id": 2411,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -161,7 +92,7 @@
     "mock_id": "ch_reas_coding_42"
   },
   {
-    "id": 8,
+    "id": 5,
     "orig_id": 2413,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -184,7 +115,7 @@
     "mock_id": "ch_reas_coding_42"
   },
   {
-    "id": 9,
+    "id": 6,
     "orig_id": 2416,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -207,7 +138,7 @@
     "mock_id": "ch_reas_coding_42"
   },
   {
-    "id": 10,
+    "id": 7,
     "orig_id": 2417,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -224,6 +155,75 @@
     "explanation": {
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "नैतिक निर्णय: पुलिस अधिकारी को हमेशा विभागीय अखंडता बनाए रखनी चाहिए। उपहार से इंकार करना और नीति स्पष्ट करना सबसे उपयुक्त आचरण है।\n• अतः सही उत्तर (A) नम्रता से इंकार कर दें और नीति समझा दें है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_42"
+  },
+  {
+    "id": 8,
+    "orig_id": 2419,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "निम्नलिखित में से कौन-सा विकल्प बाकी से अलग है?\n24, 48, 96, 192, 381",
+    "options": {
+      "A": "48",
+      "B": "381",
+      "C": "192",
+      "D": "96"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "संख्या श्रृंखला पैटर्न:\n• 24 × 2 = 48\n• 48 × 2 = 96\n• 96 × 2 = 192\n• 192 × 2 = 384\n• विषम संख्या: दी गई संख्या 381 है (जबकि 384 होनी चाहिए थी)। इसके अलावा 381 विषम संख्या (Odd number) है जबकि अन्य सभी सम संख्याएँ (Even numbers) हैं।\n• अतः सही उत्तर (B) 381 है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_42"
+  },
+  {
+    "id": 9,
+    "orig_id": 2420,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "निम्नलिखित में से कौन-सा विकल्प बाकी से अलग है?",
+    "options": {
+      "A": "1001",
+      "B": "1100",
+      "C": "111",
+      "D": "1011"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "अंक संख्या विश्लेषण:\n• (A) 1001 ➔ 4 अंकों की संख्या\n• (B) 1100 ➔ 4 अंकों की संख्या\n• (D) 1011 ➔ 4 अंकों की संख्या\n• (C) 111 ➔ 3 अंकों की संख्या\n• विषमता: 111 केवल 3 अंकों की संख्या है, जबकि शेष सभी 4 अंकों की संख्याएँ हैं।\n• अतः सही उत्तर (C) 111 है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_42"
+  },
+  {
+    "id": 10,
+    "orig_id": 2422,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "निम्नलिखित शब्दों में से कौन-सा शब्द मुख्य शब्द में न पाए जाने वाले एक अतिरिक्त अक्षर का उपयोग करता है?\nENVIRONMENT",
+    "options": {
+      "A": "VOTE",
+      "B": "MINT",
+      "C": "MONITOR",
+      "D": "MOVEMENT"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मूल शब्द: E-N-V-I-R-O-N-M-E-N-T\n• इसमें अक्षर आवृत्ति: E(2), N(3), V(1), I(1), R(1), O(1), M(1), T(1).\n• विकल्प परीक्षण:\n• (A) VOTE ➔ V, O, T, E (सभी मौजूद हैं)\n• (B) MINT ➔ M, I, N, T (सभी मौजूद हैं)\n• (C) MONITOR ➔ O केवल 1 बार है, अतिरिक्त O.\n• (D) MOVEMENT ➔ इसमें दो बार 'M' आया है (M-O-V-E-M-E-N-T), जबकि ENVIRONMENT में 'M' केवल 1 बार है।\n• अतः MOVEMENT सही उत्तर है (विकल्प D)।",
       "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
     },
     "difficulty": "Medium",

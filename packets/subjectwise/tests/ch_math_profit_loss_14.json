@@ -1,29 +1,6 @@
 [
   {
     "id": 1,
-    "orig_id": 8096,
-    "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_profit_loss",
-    "topic": "लाभ-हानि एवं बट्टा (Profit, Loss & Discount)",
-    "question": "एक मोबाइल का अंकित मूल्य 10,000 है। एक ग्राहक को क्रमशः 20% और 10% की दो छूट दी जाती हैं। प्राप्त कुल छूट कितनी है?",
-    "options": {
-      "A": "3000 Rs",
-      "B": "2800 Rs",
-      "C": "2700 Rs",
-      "D": "2500 Rs"
-    },
-    "correct": "B",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: समतुल्य छूट प्रतिशत:\n• D = [d1 + d2 - (d1 × d2 / 100)]%\n• 📝 स्टेप-बाय-स्टेप हल:\n1. एकल समतुल्य छूट % = 20 + 10 - (20 × 10 / 100) = 30 - 2 = 28%\n2. अंकित मूल्य = ₹10,000\n3. कुल छूट = 10,000 × 28% = ₹2,800\nअतः सही उत्तर (B) 2800 Rs है।\n• 💡",
-      "exam_tips": "20% छूट के बाद मूल्य ₹8,000, फिर 8,000 का 10% = ₹800; कुल छूट = 2000 + 800 = ₹2,800।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_math_profit_loss_14"
-  },
-  {
-    "id": 2,
     "orig_id": 8097,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -46,7 +23,7 @@
     "mock_id": "ch_math_profit_loss_14"
   },
   {
-    "id": 3,
+    "id": 2,
     "orig_id": 8099,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -69,7 +46,7 @@
     "mock_id": "ch_math_profit_loss_14"
   },
   {
-    "id": 4,
+    "id": 3,
     "orig_id": 8162,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -92,7 +69,7 @@
     "mock_id": "ch_math_profit_loss_14"
   },
   {
-    "id": 5,
+    "id": 4,
     "orig_id": 8203,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -115,7 +92,7 @@
     "mock_id": "ch_math_profit_loss_14"
   },
   {
-    "id": 6,
+    "id": 5,
     "orig_id": 8234,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -138,7 +115,7 @@
     "mock_id": "ch_math_profit_loss_14"
   },
   {
-    "id": 7,
+    "id": 6,
     "orig_id": 8277,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -161,7 +138,7 @@
     "mock_id": "ch_math_profit_loss_14"
   },
   {
-    "id": 8,
+    "id": 7,
     "orig_id": 8310,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -184,7 +161,7 @@
     "mock_id": "ch_math_profit_loss_14"
   },
   {
-    "id": 9,
+    "id": 8,
     "orig_id": 8313,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -207,7 +184,7 @@
     "mock_id": "ch_math_profit_loss_14"
   },
   {
-    "id": 10,
+    "id": 9,
     "orig_id": 8326,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -225,6 +202,29 @@
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "📌 मुख्य तथ्य / नियम / सूत्र: ऐकिक नियम एवं कुल आय की गणना:\n• कुल आय = (मात्रा₁ × दर₁) + (मात्रा₂ × दर₂)\n• 📝 स्टेप-बाय-स्टेप हल:\n1. केलों की बिक्री से आय = 150 किग्रा × ₹6/किग्रा = ₹900।\n2. आमों की बिक्री से आय = 90 किग्रा × ₹8/किग्रा = ₹720।\n3. कुल अर्जित राशि = 900 + 720 = ₹1620।\nअतः सही उत्तर (C) 1620 Rs है।\n• 💡",
       "exam_tips": "अलग-अलग वस्तुओं के विक्रय मूल्य को जोड़कर कुल प्राप्ति की गणना की जाती है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_math_profit_loss_14"
+  },
+  {
+    "id": 10,
+    "orig_id": 8418,
+    "subject_code": "MATH",
+    "subject": "गणित",
+    "topic_id": "math_profit_loss",
+    "topic": "लाभ-हानि एवं बट्टा (Profit, Loss & Discount)",
+    "question": "A shopkeeper marks his goods 20% above the cost price and allows a discount of 10%. Find his gain percent. / एक दुकानदार अपनी वस्तु का मूल्य क्रय मूल्य से 20% अधिक अंकित करता है और 10% की छूट देता है। उसका लाभ प्रतिशत ज्ञात कीजिए।",
+    "options": {
+      "A": "10 %",
+      "B": "12 %",
+      "C": "16 %",
+      "D": "8 %"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: लाभ-हानि एवं बट्टा:\n• प्रभावी लाभ % = a - b - (ab / 100), जहाँ a = मार्कअप % और b = छूट %\n• 📝 स्टेप-बाय-स्टेप हल:\n1. मान लीजिए क्रय मूल्य (CP) = ₹100।\n2. 20% अधिक अंकित मूल्य (MP) = 100 + 20 = ₹120।\n3. 10% की छूट = 120 का 10% = ₹12।\n4. विक्रय मूल्य (SP) = 120 - 12 = ₹108।\n5. लाभ = SP - CP = 108 - 100 = ₹8 (अर्थात 8%)।\n(सूत्र से: 20 - 10 - (20 × 10) / 100 = 10 - 2 = 8%)\nअतः सही उत्तर (D) 8 % है।\n• 💡",
+      "exam_tips": "सीधे सूत्र: लाभ % = x - y - xy/100 से मौखिक हल किया जा सकता है।"
     },
     "difficulty": "Medium",
     "mock_id": "ch_math_profit_loss_14"

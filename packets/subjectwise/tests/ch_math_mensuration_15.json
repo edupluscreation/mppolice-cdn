@@ -1,29 +1,6 @@
 [
   {
     "id": 1,
-    "orig_id": 5126,
-    "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_mensuration",
-    "topic": "क्षेत्रमिति एवं ज्यामिति (Mensuration & Geometry)",
-    "question": "किसी कक्षा का ब्लैकबोर्ड 3 मीटर लंबा और 1 मीटर चौड़ा है। इसका परिमाप क्या होगा?",
-    "options": {
-      "A": "4 m",
-      "B": "6 m",
-      "C": "8 m",
-      "D": "10 m"
-    },
-    "correct": "C",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / आयत का परिमाप सूत्र:\n• परिमाप = 2 × (लंबाई + चौड़ाई)\n• 📝 स्टेप-बाय-स्टेप हल:\n• लंबाई = 3 मीटर, चौड़ाई = 1 मीटर\n• परिमाप = 2 × (3 + 1) = 2 × 4 = 8 मीटर।\n• 💡",
-      "exam_tips": "ब्लैकबोर्ड का परिमाप 8 मीटर होगा।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_math_mensuration_15"
-  },
-  {
-    "id": 2,
     "orig_id": 5131,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -46,7 +23,7 @@
     "mock_id": "ch_math_mensuration_15"
   },
   {
-    "id": 3,
+    "id": 2,
     "orig_id": 5168,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -69,7 +46,7 @@
     "mock_id": "ch_math_mensuration_15"
   },
   {
-    "id": 4,
+    "id": 3,
     "orig_id": 5169,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -92,7 +69,7 @@
     "mock_id": "ch_math_mensuration_15"
   },
   {
-    "id": 5,
+    "id": 4,
     "orig_id": 5172,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -115,7 +92,7 @@
     "mock_id": "ch_math_mensuration_15"
   },
   {
-    "id": 6,
+    "id": 5,
     "orig_id": 5222,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -138,7 +115,7 @@
     "mock_id": "ch_math_mensuration_15"
   },
   {
-    "id": 7,
+    "id": 6,
     "orig_id": 5245,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -161,7 +138,7 @@
     "mock_id": "ch_math_mensuration_15"
   },
   {
-    "id": 8,
+    "id": 7,
     "orig_id": 5315,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -184,7 +161,7 @@
     "mock_id": "ch_math_mensuration_15"
   },
   {
-    "id": 9,
+    "id": 8,
     "orig_id": 5360,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -207,7 +184,7 @@
     "mock_id": "ch_math_mensuration_15"
   },
   {
-    "id": 10,
+    "id": 9,
     "orig_id": 5362,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -225,6 +202,29 @@
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "📌 मुख्य तथ्य / नियम / सूत्र: समकोण त्रिभुज में केंद्र से जीवा पर लम्ब, जीवा को समद्विभाजित करता है: d = √(r² - (जीवा/2)²)।\n• 📝 स्टेप-बाय-स्टेप हल:\n• कथन 1 से r = 13 सेमी प्राप्त होता है।\n• कथन 2 से जीवाएं AB = 10 सेमी और CD = 24 सेमी (केंद्र के एक ही ओर) प्राप्त होती हैं।\n• पहली जीवा की केंद्र से दूरी d₁ = √(13² - 5²) = √(169 - 25) = √144 = 12 सेमी।\n• दूसरी जीवा की केंद्र से दूरी d₂ = √(13² - 12²) = √(169 - 144) = √25 = 5 सेमी।\n• दोनों जीवाओं के बीच की दूरी = d₁ - d₂ = 12 - 5 = 7 सेमी।\n• उत्तर प्राप्त करने के लिए दोनों कथनों 1 और 2 की आवश्यकता है।\n• 💡",
       "exam_tips": "यदि दोनों जीवाएं केंद्र के विपरीत ओर होतीं, तो दूरी d₁ + d₂ = 12 + 5 = 17 सेमी होती।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_math_mensuration_15"
+  },
+  {
+    "id": 10,
+    "orig_id": 5363,
+    "subject_code": "MATH",
+    "subject": "गणित",
+    "topic_id": "math_mensuration",
+    "topic": "क्षेत्रमिति एवं ज्यामिति (Mensuration & Geometry)",
+    "question": "एक वृत्त की परिधि 132 सेमी है। उस वृत्त का व्यास कितना होगा?",
+    "options": {
+      "A": "36 सेमी",
+      "B": "42 सेमी",
+      "C": "66 सेमी",
+      "D": "52 सेमी"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: वृत्त की परिधि = 2πr = πd (जहाँ d = व्यास)।\n• 📝 स्टेप-बाय-स्टेप हल:\n• πd = 132\n• (22/7) × d = 132\n• d = (132 × 7) ÷ 22\n• d = 6 × 7 = 42 सेमी।\n• अतः वृत्त का व्यास 42 सेमी है।\n• 💡",
+      "exam_tips": "यदि त्रिज्या पूछी जाती तो r = 42 ÷ 2 = 21 सेमी होती।"
     },
     "difficulty": "Medium",
     "mock_id": "ch_math_mensuration_15"

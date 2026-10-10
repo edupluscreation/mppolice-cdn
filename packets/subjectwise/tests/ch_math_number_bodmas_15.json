@@ -1,75 +1,6 @@
 [
   {
     "id": 1,
-    "orig_id": 1157,
-    "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_number_bodmas",
-    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
-    "question": "निम्नलिखित चार विकल्पों में अलग-अलग शब्द दिए गए हैं। उस शब्द को चिन्हित कीजिए जिसे \"REPERCUSSION\" शब्द के अक्षरों का उपयोग करके नहीं बनाया जा सकता।",
-    "options": {
-      "A": "PRECESSION",
-      "B": "SUPERSONICS",
-      "C": "SUPERIORS",
-      "D": "SOURCES"
-    },
-    "correct": "B",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "मुख्य तथ्य / नियम / सूत्र:\n• अक्षर गिनती से जाँचते हैं।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• SUPERSONICS के लिए अतिरिक्त अक्षर चाहिए।\n• अतः विकल्प (B) सही है।",
-      "exam_tips": "दोहरे अक्षर गिनें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_math_number_bodmas_15"
-  },
-  {
-    "id": 2,
-    "orig_id": 1158,
-    "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_number_bodmas",
-    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
-    "question": "एक टिन-लेपित पीतल (ब्रास) का डिब्बा समय के साथ हरे धब्बे दिखाता है। कौन-सी अभिक्रिया इस घटना को समझाती है?",
-    "options": {
-      "A": "टिन (Sn) वायु के साथ अभिक्रिया करके SnO बनाता है",
-      "B": "कोटिंग के नीचे पीतल अभिक्रिया करता है और Cu₂(OH)₃Cl बनाता है",
-      "C": "टिन जल के साथ अभिक्रिया करके Sn(OH)₂ बनाता है",
-      "D": "पीतल Al₂O₃ बनाता है"
-    },
-    "correct": "B",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "मुख्य तथ्य / नियम / सूत्र:\n• तांबे पर हरा पेटिना बनता है।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• अतः विकल्प (B) सही है।",
-      "exam_tips": "हरा धब्बा क्षरण का संकेत है।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_math_number_bodmas_15"
-  },
-  {
-    "id": 3,
-    "orig_id": 1169,
-    "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_number_bodmas",
-    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
-    "question": "निम्नलिखित का परिणाम ज्ञात कीजिए:\n16 - (6 + 2).",
-    "options": {
-      "A": "7",
-      "B": "12",
-      "C": "11",
-      "D": "8"
-    },
-    "correct": "D",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "मुख्य तथ्य / नियम / सूत्र:\n• पहले कोष्ठक हल करते हैं।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• 6+2 = 8, 16-8 = 8, अतः विकल्प (D) सही है।",
-      "exam_tips": "कोष्ठक BODMAS में पहले आता है।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_math_number_bodmas_15"
-  },
-  {
-    "id": 4,
     "orig_id": 1171,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -92,7 +23,7 @@
     "mock_id": "ch_math_number_bodmas_15"
   },
   {
-    "id": 5,
+    "id": 2,
     "orig_id": 1175,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -115,7 +46,7 @@
     "mock_id": "ch_math_number_bodmas_15"
   },
   {
-    "id": 6,
+    "id": 3,
     "orig_id": 1188,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -138,7 +69,7 @@
     "mock_id": "ch_math_number_bodmas_15"
   },
   {
-    "id": 7,
+    "id": 4,
     "orig_id": 1198,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -161,7 +92,7 @@
     "mock_id": "ch_math_number_bodmas_15"
   },
   {
-    "id": 8,
+    "id": 5,
     "orig_id": 1202,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -184,7 +115,7 @@
     "mock_id": "ch_math_number_bodmas_15"
   },
   {
-    "id": 9,
+    "id": 6,
     "orig_id": 1203,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -207,7 +138,7 @@
     "mock_id": "ch_math_number_bodmas_15"
   },
   {
-    "id": 10,
+    "id": 7,
     "orig_id": 1208,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -225,6 +156,75 @@
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "मुख्य तथ्य / नियम / सूत्र:\n• 9+12-8 = 13।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• अतः विकल्प (B) सही है।",
       "exam_tips": "भाग पहले करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_math_number_bodmas_15"
+  },
+  {
+    "id": 8,
+    "orig_id": 1209,
+    "subject_code": "MATH",
+    "subject": "गणित",
+    "topic_id": "math_number_bodmas",
+    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
+    "question": "(32 ÷ 4 + 14) × (15 ÷ 3 - 4) का परिणाम ज्ञात करें।",
+    "options": {
+      "A": "36",
+      "B": "22",
+      "C": "42",
+      "D": "48"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र:\n• पहला कोष्ठक 22, दूसरा 1 बनता है।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• शुद्ध गुणन 22 है, पर आधिकारिक कुंजी के अनुसार उत्तर 42, विकल्प (C) दिया गया है।\n• परीक्षा में कुंजी को अंतिम मानें।",
+      "exam_tips": "कोष्ठक अलग-अलग हल करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_math_number_bodmas_15"
+  },
+  {
+    "id": 9,
+    "orig_id": 1216,
+    "subject_code": "MATH",
+    "subject": "गणित",
+    "topic_id": "math_number_bodmas",
+    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
+    "question": "एक बेलनाकार टिन जिसका व्यास, 28 सेमी और ऊँचाई 45 सेमी है। यदि इसकी बाहरी सतह को रू 2 प्रति सेमी² की दर से रंगा जाता है, तो कुल लागत ज्ञात कीजिए।",
+    "options": {
+      "A": "Rs. 11,560",
+      "B": "Rs. 10,670",
+      "C": "Rs. 12,334",
+      "D": "Rs. 10,384"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र:\n• बाहरी पृष्ठ = 2πr(h+r)।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• 2 × 22/7 × 14 × 59 = 5192, ×2 = 10384।\n• अतः विकल्प (D) सही है।",
+      "exam_tips": "दर से गुणा करना न भूलें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_math_number_bodmas_15"
+  },
+  {
+    "id": 10,
+    "orig_id": 1218,
+    "subject_code": "MATH",
+    "subject": "गणित",
+    "topic_id": "math_number_bodmas",
+    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
+    "question": "एक बेलनाकार टिन जिसका व्यास, 28 सेमी और ऊँचाई 45 सेमी है। यदि इसकी बाहरी सतह को ₹ 2 प्रति सेमी² की दर से रंगा जाता है, तो कुल लागत ज्ञात कीजिए।",
+    "options": {
+      "A": "Rs. 11,560",
+      "B": "Rs. 10,670",
+      "C": "Rs. 12,334",
+      "D": "Rs. 10,384"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र:\n• बाहरी पृष्ठ = 2πr(h+r)।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• 2 × 22/7 × 14 × 59 = 5192, ×2 = 10384।\n• अतः विकल्प (D) सही है।",
+      "exam_tips": "दर से गुणा करना न भूलें।"
     },
     "difficulty": "Medium",
     "mock_id": "ch_math_number_bodmas_15"

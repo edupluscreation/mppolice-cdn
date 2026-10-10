@@ -1,98 +1,6 @@
 [
   {
     "id": 1,
-    "orig_id": 2913,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "साहृश्य (एनालॉजी) पूरा करें।\nACE : GIK :: BDF : ?",
-    "options": {
-      "A": "CEG",
-      "B": "HJL",
-      "C": "FHJ",
-      "D": "GIL"
-    },
-    "correct": "B",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "सादृश्य: तार्किक संगति के आधार पर विकल्प (B) सही उत्तर है।\n• अतः सही उत्तर (B) है।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_53"
-  },
-  {
-    "id": 2,
-    "orig_id": 2915,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "साहश्य (एनालॉजी) पूरा करें।\nACE : GIK :: BDF : ?",
-    "options": {
-      "A": "ILM",
-      "B": "IKL",
-      "C": "HJM",
-      "D": "HJL"
-    },
-    "correct": "D",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "सादृश्य: विकल्प (D) सही उत्तर है।\n• अतः सही उत्तर (D) है।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_53"
-  },
-  {
-    "id": 3,
-    "orig_id": 2916,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "यदि आने वाले कल के एक दिन बाद, 3 सितंबर को मंगलवार है, तो उसी वर्ष 1 अगस्त को कौन-सा दिन था?",
-    "options": {
-      "A": "गुरुवार",
-      "B": "रविवार",
-      "C": "बुधवार",
-      "D": "मंगलवार"
-    },
-    "correct": "A",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "कैलेंडर गणना:\n• 3 सितंबर = मंगलवार\n• सितंबर माह में कुल 30 दिन होते हैं ➔ शेष दिन = 30 - 3 = 27 दिन\n• 1 अक्टूबर = 27 + 1 = 28 दिन बाद।\n• विषम दिन = 28 ÷ 7 = 4 सप्ताह + 0 विषम दिन।\n• मंगलवार + 0 दिन = मंगलवार (Tuesday)।\n• अतः 1 अक्टूबर को मंगलवार था (विकल्प A सही उत्तर है)।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_53"
-  },
-  {
-    "id": 4,
-    "orig_id": 2923,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "वाक्य \"Global warming is a major threat\" में छठा व्यंजन कौन सा है?",
-    "options": {
-      "A": "l",
-      "B": "a",
-      "C": "r",
-      "D": "m"
-    },
-    "correct": "D",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "वाक्य में व्यंजनों की गिनती:\n• वाक्य: \"Global warming is a major threat\"\n• व्यंजन क्रम:\n1: G, 2: l, 3: b, 4: l (Global)\n5: w, 6: r, 7: m, 8: n, 9: g (warming)\n• छठा व्यंजन अक्षर 'r' है।\n• अतः सही उत्तर (D) r है।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_53"
-  },
-  {
-    "id": 5,
     "orig_id": 2928,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -115,7 +23,7 @@
     "mock_id": "ch_reas_coding_53"
   },
   {
-    "id": 6,
+    "id": 2,
     "orig_id": 2929,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -138,7 +46,7 @@
     "mock_id": "ch_reas_coding_53"
   },
   {
-    "id": 7,
+    "id": 3,
     "orig_id": 2931,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -161,7 +69,7 @@
     "mock_id": "ch_reas_coding_53"
   },
   {
-    "id": 8,
+    "id": 4,
     "orig_id": 2932,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -184,7 +92,7 @@
     "mock_id": "ch_reas_coding_53"
   },
   {
-    "id": 9,
+    "id": 5,
     "orig_id": 2933,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -207,7 +115,7 @@
     "mock_id": "ch_reas_coding_53"
   },
   {
-    "id": 10,
+    "id": 6,
     "orig_id": 2947,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -224,6 +132,98 @@
     "explanation": {
       "formula": "सूत्र: M₁ × D₁ = M₂ × D₂ (कार्य समान होने पर)\n• मान रखने पर:\n• M₁ = 10 पुरुष, D₁ = 20 दिन\n• M₂ = 8 पुरुष, D₂ = ?\n• 10 × 20 = 8 × D₂\n• 200 = 8 × D₂\n• D₂ = 200 ÷ 8 = 25 दिन\n• अतः 8 पुरुष उस तालाब को 25 दिनों में खोदेंगे।",
       "solution": "विस्तृत व्याख्या उपलब्ध है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_53"
+  },
+  {
+    "id": 7,
+    "orig_id": 2956,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "7π/6 रेडियन का डिग्री समतुल्य क्या है?",
+    "options": {
+      "A": "240°",
+      "B": "210°",
+      "C": "150°",
+      "D": "180°"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "सूत्र: कोण (डिग्री में) = कोण (रेडियन में) × (180° / π)\n• गणना:\n• (7π / 6) × (180° / π) = (7 × 180°) / 6 = 7 × 30° = 210°\n• अतः 7π/6 रेडियन का मान 210° है।",
+      "solution": "विस्तृत व्याख्या उपलब्ध है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_53"
+  },
+  {
+    "id": 8,
+    "orig_id": 2969,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "'मिशन कर्मयोगी' पहल का मुख्य उद्देश्य क्या है?",
+    "options": {
+      "A": "युवाओं के कौशल विकास",
+      "B": "सिविल सेवकों की क्षमता निर्माण और दक्षता वृद्धि",
+      "C": "सार्वभौमिक स्वास्थ्य सेवा कवरेज",
+      "D": "ग्रामीण महिलाओं का वित्तीय समावेश"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "उद्देश्य (Mission Karmayogi): 2020 में भारत सरकार द्वारा शुरू किया गया 'राष्ट्रीय सिविल सेवा क्षमता विकास कार्यक्रम' (NPCSCB) 'मिशन कर्मयोगी' कहलाता है।\n• मुख्य लक्ष्य: सरकारी अधिकारियों और सिविल सेवकों की कार्यक्षमता, पारदर्शिता, तकनीकी दक्षता और नागरिक-उन्मुख दृष्टिकोण का संवर्धन करना।\n• डिजिटल प्लेटफॉर्म: इसके तहत 'iGOT कर्मयोगी' (Integrated Government Online Training) पोर्टल संचालित है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_53"
+  },
+  {
+    "id": 9,
+    "orig_id": 2988,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "यदि 98 → 9, 13 → 8, 51 → 24, तो 46 → ?",
+    "options": {
+      "A": "8",
+      "B": "12",
+      "C": "14",
+      "D": "20"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "तर्क / पैटर्न विश्लेषण:\n• 98 → 9 : (9 × 8 = 72 ➔ 7 + 2 = 9)\n• 46 → ? : (4 × 6 = 24 ➔ 2 × 7 = 14 या अंतर-आधारित गणना)\n• बोर्ड कुंजी अनुसार सही उत्तर विकल्प (C) 14 मान्य किया गया है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_53"
+  },
+  {
+    "id": 10,
+    "orig_id": 2993,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "दी गई श्रृंखला में गलत पद का पता लगाइए।\n12, 34, 100, 298, 894, 2674",
+    "options": {
+      "A": "298",
+      "B": "894",
+      "C": "34",
+      "D": "100"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "श्रृंखला नियम (×3 - 2):\n• 12 × 3 - 2 = 34\n• 34 × 3 - 2 = 100\n• 100 × 3 - 2 = 298\n• 298 × 3 - 2 = 892 (यहाँ श्रृंखला में 894 दिया गया है)\n• 892 × 3 - 2 = 2674\n• गलत पद: 894 गलत है (इसके स्थान पर 892 होना चाहिए था)। बोर्ड कुंजी में विकल्प (A) 298 / (C) 34 दिया गया है।",
       "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
     },
     "difficulty": "Medium",

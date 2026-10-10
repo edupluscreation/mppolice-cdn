@@ -1,29 +1,6 @@
 [
   {
     "id": 1,
-    "orig_id": 7539,
-    "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_mensuration",
-    "topic": "क्षेत्रमिति एवं ज्यामिति (Mensuration & Geometry)",
-    "question": "विद्यालयी खेलों में उपयोग की जाने वाली एक गोलाकार रबर की गेंद का व्यास 21 सेमी है। उसका सतह क्षेत्रफल (वर्ग सेंटीमीटर में) कितना होगा?",
-    "options": {
-      "A": "1386",
-      "B": "1350",
-      "C": "1380",
-      "D": "1400"
-    },
-    "correct": "A",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / नियम / सूत्र:\n• गोलाकार गेंद का पृष्ठीय क्षेत्रफल (Surface Area of Sphere):\nA = 4 × π × r²\n• त्रिज्या (r) = व्यास / 2 = 21 / 2 सेमी।\n• 📝 स्टेप-बाय-स्टेप हल:\n1. दिया गया व्यास = 21 सेमी\nअतः त्रिज्या r = 21/2 सेमी\n2. गोले का पृष्ठीय क्षेत्रफल:\nA = 4 × (22/7) × (21/2) × (21/2)\n= 4 × (22/7) × (441 / 4)\n= 22 × (441 / 7)\n= 22 × 63\n= 1386 वर्ग सेमी (cm²)\nअतः आवश्यक पृष्ठीय क्षेत्रफल 1386 cm² है।\n• 💡",
-      "exam_tips": "गोले का आयतन (Volume) = (4/3)πr³\n• अर्धगोले का वक्र पृष्ठीय क्षेत्रफल = 2πr², तथा कुल पृष्ठीय क्षेत्रफल = 3πr² होता है।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_math_mensuration_21"
-  },
-  {
-    "id": 2,
     "orig_id": 7543,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -46,7 +23,7 @@
     "mock_id": "ch_math_mensuration_21"
   },
   {
-    "id": 3,
+    "id": 2,
     "orig_id": 7570,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -69,7 +46,7 @@
     "mock_id": "ch_math_mensuration_21"
   },
   {
-    "id": 4,
+    "id": 3,
     "orig_id": 7639,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -92,7 +69,7 @@
     "mock_id": "ch_math_mensuration_21"
   },
   {
-    "id": 5,
+    "id": 4,
     "orig_id": 7670,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -115,7 +92,7 @@
     "mock_id": "ch_math_mensuration_21"
   },
   {
-    "id": 6,
+    "id": 5,
     "orig_id": 7671,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -138,7 +115,7 @@
     "mock_id": "ch_math_mensuration_21"
   },
   {
-    "id": 7,
+    "id": 6,
     "orig_id": 7743,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -161,7 +138,7 @@
     "mock_id": "ch_math_mensuration_21"
   },
   {
-    "id": 8,
+    "id": 7,
     "orig_id": 7772,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -184,7 +161,7 @@
     "mock_id": "ch_math_mensuration_21"
   },
   {
-    "id": 9,
+    "id": 8,
     "orig_id": 7850,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -207,7 +184,7 @@
     "mock_id": "ch_math_mensuration_21"
   },
   {
-    "id": 10,
+    "id": 9,
     "orig_id": 7851,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -225,6 +202,29 @@
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "📌 मुख्य तथ्य / नियम / सूत्र: ठोस गोले का आयतन (Volume of Sphere):\n• V = (4/3) × π × r³\n• 📝 स्टेप-बाय-स्टेप हल:\n1. त्रिज्या r = 6 सेमी, π = 3.14\n2. r³ = 6³ = 216\n3. आयतन = (4/3) × 3.14 × 216\n= 4 × 3.14 × 72\n= 288 × 3.14 = 904.32 घन सेमी\nअतः सही उत्तर (C) 904.32 है।\n• 💡",
       "exam_tips": "288 × 3.14 की सटीक गणना = 904.32।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_math_mensuration_21"
+  },
+  {
+    "id": 10,
+    "orig_id": 7853,
+    "subject_code": "MATH",
+    "subject": "गणित",
+    "topic_id": "math_mensuration",
+    "topic": "क्षेत्रमिति एवं ज्यामिति (Mensuration & Geometry)",
+    "question": "एक बंद आयताकार टंकी जिसकी लंबाई 3 मीटर, चौड़ाई 2 मीटर और ऊँचाई 1.5 मीटर है। यदि अंदर की दीवारों और तल को रंगने की लागत 25 प्रति वर्ग मीटर है, तो कुल लागत कितनी होगी?",
+    "options": {
+      "A": "Rs 530",
+      "B": "Rs 535",
+      "C": "Rs 525",
+      "D": "Rs 515"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: आयताकार टंकी का पृष्ठीय क्षेत्रफल एवं रंगाई लागत:\n• रंगी जाने वाली सतह = 4 दीवारें + तल (फर्श)\n• क्षेत्रफल = 2(L + B) × H + (L × B)\n• 📝 स्टेप-बाय-स्टेप हल:\n1. L = 3 m, B = 2 m, H = 1.5 m\n2. 4 दीवारों का क्षेत्रफल = 2(3 + 2) × 1.5 = 2 × 5 × 1.5 = 15 वर्ग मीटर\n3. फर्श का क्षेत्रफल = 3 × 2 = 6 वर्ग मीटर\n4. कुल क्षेत्रफल = 15 + 6 = 21 वर्ग मीटर\n5. लागत = 21 × ₹25 = ₹525\nअतः कुल लागत ₹525 होगी।\nअतः सही उत्तर (C) Rs 525 है।\n• 💡",
+      "exam_tips": "यदि छत भी रंगनी होती तो कुल क्षेत्रफल 2(LB + BH + HL) = 27 m² होता।"
     },
     "difficulty": "Medium",
     "mock_id": "ch_math_mensuration_21"

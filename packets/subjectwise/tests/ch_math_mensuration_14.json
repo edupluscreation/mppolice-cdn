@@ -1,29 +1,6 @@
 [
   {
     "id": 1,
-    "orig_id": 4645,
-    "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_mensuration",
-    "topic": "क्षेत्रमिति एवं ज्यामिति (Mensuration & Geometry)",
-    "question": "एक पतंग, ज़मीन पर खड़े एक लड़के से 45° के उन्नयन कोण पर उड़ रही है। यदि डोरी की लंबाई 20 मीटर है, तो पतंग की ऊँचाई ज्ञात कीजिए।\"",
-    "options": {
-      "A": "15 मीटर",
-      "B": "20 मीटर",
-      "C": "√2 metres / 15/√2 मीटर",
-      "D": "10√2 मीटर"
-    },
-    "correct": "D",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / समकोण त्रिभुज एवं त्रिकोणमिति:\n• डोरी की लंबाई = कर्ण = 20 मीटर\n• पतंग की ऊँचाई = लम्ब = h\n• कोण θ = 45°\n• 📝 स्टेप-बाय-स्टेप हल:\n• sin 45° = लम्ब / कर्ण = h / 20\n• 1 / √2 = h / 20\n• h = 20 / √2 = (20 × √2) / 2 = 10√2 मीटर।\n• 💡",
-      "exam_tips": "10√2 ≈ 10 × 1.414 = 14.14 मीटर।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_math_mensuration_14"
-  },
-  {
-    "id": 2,
     "orig_id": 4649,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -46,7 +23,7 @@
     "mock_id": "ch_math_mensuration_14"
   },
   {
-    "id": 3,
+    "id": 2,
     "orig_id": 4739,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -69,7 +46,7 @@
     "mock_id": "ch_math_mensuration_14"
   },
   {
-    "id": 4,
+    "id": 3,
     "orig_id": 4853,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -92,7 +69,7 @@
     "mock_id": "ch_math_mensuration_14"
   },
   {
-    "id": 5,
+    "id": 4,
     "orig_id": 4980,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -115,7 +92,7 @@
     "mock_id": "ch_math_mensuration_14"
   },
   {
-    "id": 6,
+    "id": 5,
     "orig_id": 4981,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -138,7 +115,7 @@
     "mock_id": "ch_math_mensuration_14"
   },
   {
-    "id": 7,
+    "id": 6,
     "orig_id": 5029,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -161,7 +138,7 @@
     "mock_id": "ch_math_mensuration_14"
   },
   {
-    "id": 8,
+    "id": 7,
     "orig_id": 5058,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -184,7 +161,7 @@
     "mock_id": "ch_math_mensuration_14"
   },
   {
-    "id": 9,
+    "id": 8,
     "orig_id": 5059,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -207,7 +184,7 @@
     "mock_id": "ch_math_mensuration_14"
   },
   {
-    "id": 10,
+    "id": 9,
     "orig_id": 5060,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -225,6 +202,29 @@
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "📌 मुख्य तथ्य / वृत्त की परिधि एवं त्रिज्या सूत्र:\n• परिधि C = 2 π r\n• 📝 स्टेप-बाय-स्टेप हल:\n• 31.4 = 2 × 3.14 × r\n• 31.4 = 6.28 r ⇒ r = 31.4 / 6.28 = 5 सेमी (व्यास d = 10 सेमी)।\n• बोर्ड उत्तर कुंजी नोट: बोर्ड ने विकल्प (B) 10 सेमी (संभवतः व्यास) को उत्तर माना है।\n• 💡",
       "exam_tips": "सटीक त्रिज्या 5 सेमी है, व्यास 10 सेमी है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_math_mensuration_14"
+  },
+  {
+    "id": 10,
+    "orig_id": 5126,
+    "subject_code": "MATH",
+    "subject": "गणित",
+    "topic_id": "math_mensuration",
+    "topic": "क्षेत्रमिति एवं ज्यामिति (Mensuration & Geometry)",
+    "question": "किसी कक्षा का ब्लैकबोर्ड 3 मीटर लंबा और 1 मीटर चौड़ा है। इसका परिमाप क्या होगा?",
+    "options": {
+      "A": "4 m",
+      "B": "6 m",
+      "C": "8 m",
+      "D": "10 m"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / आयत का परिमाप सूत्र:\n• परिमाप = 2 × (लंबाई + चौड़ाई)\n• 📝 स्टेप-बाय-स्टेप हल:\n• लंबाई = 3 मीटर, चौड़ाई = 1 मीटर\n• परिमाप = 2 × (3 + 1) = 2 × 4 = 8 मीटर।\n• 💡",
+      "exam_tips": "ब्लैकबोर्ड का परिमाप 8 मीटर होगा।"
     },
     "difficulty": "Medium",
     "mock_id": "ch_math_mensuration_14"

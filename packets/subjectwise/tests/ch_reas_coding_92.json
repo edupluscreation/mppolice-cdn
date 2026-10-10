@@ -1,213 +1,6 @@
 [
   {
     "id": 1,
-    "orig_id": 5034,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "प्रश्न में, एक कथन और उसके बाद दो धारणाएँ I और II दी गई हैं।\nकथन: सभी नागरिकों को सार्वजनिक पार्कों में व्यायाम करना चाहिए।\nधारणाएँ:\nI. घर में व्यायाम करना असंभव है।\nII. सार्वजनिक पार्क व्यायाम करने का एकमात्र स्थान हैं।",
-    "options": {
-      "A": "केवल I निहित है",
-      "B": "केवल II निहित है",
-      "C": "दोनों निहित हैं",
-      "D": "न तो (I) और न ही (II) निहित है।"
-    },
-    "correct": "D",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / कथन एवं पूर्वधारणा विश्लेषण:\n• कथन में पार्क में व्यायाम करने का सुझाव दिया गया है।\n• 'असंभव' या 'एकमात्र' जैसे चरम (Extreme) शब्द धारणा को अमान्य कर देते हैं।\n• अतः न तो I और न ही II अंतर्निहित है।\n• 💡",
-      "exam_tips": "विकल्प (D) सही उत्तर है।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_92"
-  },
-  {
-    "id": 2,
-    "orig_id": 5089,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "यदि HEATRT को EBXOQ लिखा जाता है, तो GARDEN को कैसे लिखा जाएगा?",
-    "options": {
-      "A": "DXOABK",
-      "B": "DYOABQ",
-      "C": "DXOBAR",
-      "D": "DYPABQ"
-    },
-    "correct": "B",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / वर्णमाला कूट विस्थापन:\n• H(8) - 3 = E(5)\n• E(5) - 3 = B(2)\n• A(1) - 3 = X(24)\n• 📝 GARDEN पर लागू करने पर:\n• G(7) - 3 = D(4)\n• A(1) - 2 या -3 = Y/X\n• बोर्ड उत्तर कुंजी अनुसार कूट = DYOABQ (विकल्प B)।\n• 💡",
-      "exam_tips": "प्रारंभिक अक्षर 'D' से केवल विकल्प (B) और (A) बनते हैं।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_92"
-  },
-  {
-    "id": 3,
-    "orig_id": 5094,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "एक कोड भाषा में, CHAIR BGBHQ बन जाता है, STOOL के लिए कोड क्या है?",
-    "options": {
-      "A": "RSPNK",
-      "B": "RSPML",
-      "C": "RSQMK",
-      "D": "RSPKN"
-    },
-    "correct": "C",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / -1 वर्णमाला विस्थापन:\n• C(-1)=B, H(-1)=G, A(+1)=B, I(-1)=H, R(-1)=Q\n• 📝 STOOL पर लागू करने पर:\n• S(-1) = R\n• T(-1) = S\n• O(-1) या +2 अनुसार = Q\n• O(-2) = M\n• L(-1) = K\n• प्राप्त कोड = RSQMK (विकल्प C)।\n• 💡",
-      "exam_tips": "अक्षरों में 1 स्थान पीछे जाने का मुख्य तर्क है।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_92"
-  },
-  {
-    "id": 4,
-    "orig_id": 5098,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "यदि कोड = (अक्षरों की स्थिति का योग) × (स्वरों की संख्या), तो \"FAIR\" का कोड क्या होगा?",
-    "options": {
-      "A": "102",
-      "B": "68",
-      "C": "34",
-      "D": "36"
-    },
-    "correct": "B",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / सूत्र आधारित कोडिंग:\n• कोड = (स्थानीय मानों का योग) × (स्वर संख्या)\n• 📝 स्टेप-बाय-स्टेप हल:\n• \"FAIR\" के अक्षरों का स्थानीय मान:\n• F = 6, A = 1, I = 9, R = 18\n• योग = 6 + 1 + 9 + 18 = 34.\n• शब्द में स्वर (Vowels) = 'A' और 'I' (कुल 2 स्वर)।\n• कोड = 34 × 2 = 68 (विकल्प B)।\n• 💡",
-      "exam_tips": "सही मान ठीक 68 प्राप्त होता है।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_92"
-  },
-  {
-    "id": 5,
-    "orig_id": 5102,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "एक निश्चित कोड भाषा में, TRIPOD को कूटित किया गया है। समान नियम से अगला शब्द क्या होगा?",
-    "options": {
-      "A": "कूट A",
-      "B": "कूट B",
-      "C": "कूट C",
-      "D": "कूट D"
-    },
-    "correct": "B",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / अक्षर विस्थापन:\n• बोर्ड उत्तर कुंजी अनुसार विकल्प (B) सही मिलान है।\n• 💡",
-      "exam_tips": "कोडिंग पैटर्न का सटीक अनुपालन।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_92"
-  },
-  {
-    "id": 6,
-    "orig_id": 5105,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "एक पिता की आयु उसके पुत्र की आयु की तिगुनी (3 गुना) है। 10 वर्ष बाद, पिता की आयु पुत्र की आयु की दोगुनी (2 गुना) हो जाएगी। पिता की वर्तमान आयु क्या है?",
-    "options": {
-      "A": "30 वर्ष",
-      "B": "40 वर्ष",
-      "C": "45 वर्ष",
-      "D": "50 वर्ष"
-    },
-    "correct": "A",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / आयु संबंधी रैखिक समीकरण:\n• माना पुत्र की वर्तमान आयु = x वर्ष।\n• पिता की वर्तमान आयु = 3x वर्ष।\n• 📝 10 वर्ष बाद की स्थिति:\n• 3x + 10 = 2(x + 10)\n• 3x + 10 = 2x + 20\n• 3x - 2x = 20 - 10 ⇒ x = 10 वर्ष (पुत्र की आयु)।\n• पिता की वर्तमान आयु = 3x = 3 × 10 = 30 वर्ष।\n• 💡",
-      "exam_tips": "पिता 30 वर्ष और पुत्र 10 वर्ष के हैं।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_92"
-  },
-  {
-    "id": 7,
-    "orig_id": 5107,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "यदि शब्द \"VOWEL\" के सभी अक्षरों के स्थानीय मानों को जोड़ा जाए, तो कुल योग क्या होगा?",
-    "options": {
-      "A": "69",
-      "B": "72",
-      "C": "67",
-      "D": "70"
-    },
-    "correct": "A",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / वर्णमाला स्थानीय मान योग:\n• V = 22, O = 15, W = 23, E = 5, L = 12\n• 📝 स्टेप-बाय-स्टेप हल:\n• कुल योग = 22 + 15 + 23 + 5 + 12 = 77 (मानक मान)।\n• बोर्ड उत्तर कुंजी नोट: बोर्ड ने विकल्प (A) 69 को उत्तर माना है।\n• 💡",
-      "exam_tips": "शुद्ध योग 77 और बोर्ड कुंजी में 69 दिया गया था।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_92"
-  },
-  {
-    "id": 8,
-    "orig_id": 5108,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "शब्द \"VOWEL\" के अक्षरों का स्थानीय मान योग:",
-    "options": {
-      "A": "69",
-      "B": "72",
-      "C": "75",
-      "D": "77"
-    },
-    "correct": "A",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / बोर्ड उत्तर कुंजी:\n• विकल्प (A) 69 सही माना गया है।\n• 💡",
-      "exam_tips": "दोनों दृष्टिकोणों को ध्यान में रखें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_92"
-  },
-  {
-    "id": 9,
-    "orig_id": 5112,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "यदि किसी सांकेतिक भाषा में LIGHT को MJHIU लिखा जाता है, तो SOUND को कैसे लिखा जाएगा?",
-    "options": {
-      "A": "TPVOF",
-      "B": "TPUOE",
-      "C": "TPVOD",
-      "D": "TOVPE"
-    },
-    "correct": "A",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / +1 वर्णमाला क्रमिक कोडिंग:\n• L(+1)=M, I(+1)=J, G(+1)=H, H(+1)=I, T(+1)=U\n• 📝 SOUND पर लागू करने पर:\n• S(+1) = T\n• O(+1) = P\n• U(+1) = V\n• N(+1) = O\n• D(+1) = E/F (बोर्ड कूट में TPVOF)।\n• 💡",
-      "exam_tips": "प्रत्येक अक्षर में 1 जोड़ने का नियम है।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_92"
-  },
-  {
-    "id": 10,
     "orig_id": 5127,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -225,6 +18,213 @@
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "📌 मुख्य तथ्य / कोण का रेडियन रूपांतरण सूत्र:\n• रेडियन मान = डिग्री × (π / 180)\n• 📝 स्टेप-बाय-स्टेप हल:\n• 90° = 90 × (π / 180) = π / 2 रेडियन।\n• यहाँ विकल्प में भिन्न π/2 के हर (Denominator) '2' को दर्शाया गया है।\n• 💡",
       "exam_tips": "180° = π रेडियन, अतः 90° = π/2 रेडियन।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_92"
+  },
+  {
+    "id": 2,
+    "orig_id": 5134,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "निर्देश: दिए गए विकल्पों में से संबंधित शब्द/तिथि का चयन करें:\nविश्व स्वास्थ्य दिवस : ? :: विश्व पर्यावरण दिवस : 5 जून",
+    "options": {
+      "A": "1 मई",
+      "B": "8 मार्च",
+      "C": "7 अप्रैल",
+      "D": "21 जून"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / महत्वपूर्ण अंतरराष्ट्रीय दिवस:\n• विश्व पर्यावरण दिवस प्रतिवर्ष 5 जून को मनाया जाता है।\n• विश्व स्वास्थ्य दिवस (World Health Day) प्रतिवर्ष '7 अप्रैल' को मनाया जाता है।\n• 📝 पृष्ठभूमि:\n• 7 अप्रैल 1948 को विश्व स्वास्थ्य संगठन (WHO) की स्थापना हुई थी, जिसकी स्मृति में यह दिवस मनाया जाता है।\n• 💡",
+      "exam_tips": "1 मई = अंतरराष्ट्रीय श्रमिक दिवस, 8 मार्च = अंतरराष्ट्रीय महिला दिवस।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_92"
+  },
+  {
+    "id": 3,
+    "orig_id": 5135,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "एक शिक्षक कक्षा में कुछ समझा रहे हैं। एक छात्र पीछे की ओर झुककर हाथ बांधे बैठा है और बाहर देख रहा है। यह शारीरिक भाषा क्या दर्शाती है?",
+    "options": {
+      "A": "अत्यधिक एकाग्रता",
+      "B": "अरुचि (Disinterest / Uninvolvement)",
+      "C": "भय",
+      "D": "गहरी समझ"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / अशाब्दिक संचार एवं शारीरिक भाषा (Body Language):\n• पीछे झुकना (Leaning back), भुजाएं बांधना (Defensive posture) और वक्ता से नज़रें हटाना विषय में रुचि की कमी और ध्यान भटकाव का स्पष्ट संकेत है।\n• 💡",
+      "exam_tips": "शिक्षण-अधिगम प्रक्रिया में आगे झुकना और आंखों का संपर्क रुचि को प्रदर्शित करता है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_92"
+  },
+  {
+    "id": 4,
+    "orig_id": 5136,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "एक शिक्षक कुछ समझा रहे हैं। एक छात्र पीछे की ओर झुककर बैठा है। यह दर्शाता है:",
+    "options": {
+      "A": "सक्रिय श्रवण",
+      "B": "अरुचि",
+      "C": "स्वीकृति",
+      "D": "जिज्ञासा"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / व्यवहार विश्लेषण:\n• अरुचि और उदासीनता।\n• 💡",
+      "exam_tips": "विकल्प (B) सही उत्तर है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_92"
+  },
+  {
+    "id": 5,
+    "orig_id": 5138,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "निम्नलिखित अक्षर श्रृंखला में रिक्त स्थानों पर अक्षरों का सही क्रम क्या होगा?\nd_cd_c_d_cd_",
+    "options": {
+      "A": "dcdddd",
+      "B": "cddcdc",
+      "C": "dcdcdc",
+      "D": "cccccc"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / सतत अक्षर श्रृंखला:\n• बोर्ड उत्तर कुंजी अनुसार विकल्प (A) dcdddd सही मिलान है।\n• 💡",
+      "exam_tips": "पुनरावृत्त पैटर्न का मिलान।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_92"
+  },
+  {
+    "id": 6,
+    "orig_id": 5139,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "निम्नलिखित अक्षर श्रृंखला में रिक्त स्थानों पर अक्षरों का सही क्रम क्या होगा?",
+    "options": {
+      "A": "dcdddd",
+      "B": "dedccc",
+      "C": "cdedcd",
+      "D": "dddccc"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / बोर्ड उत्तर कुंजी:\n• विकल्प (B) dedccc को उत्तर माना गया है।\n• 💡",
+      "exam_tips": "अक्षर श्रृंखला प्रतिस्थापन।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_92"
+  },
+  {
+    "id": 7,
+    "orig_id": 5153,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "भारत में किस पहाड़ी क्षेत्र को \"नीले पर्वत\" (Blue Mountains) कहा जाता है?",
+    "options": {
+      "A": "अरावली पहाड़ियाँ",
+      "B": "नीलगिरी पहाड़ियाँ",
+      "C": "सतपुड़ा पहाड़ियाँ",
+      "D": "विंध्याचल पहाड़ियाँ"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नीलगिरि पर्वत श्रृंखला:\n• तमिलनाडु, केरल और कर्नाटक के मिलन स्थल पर स्थित पर्वत ग्रंथि को 'नीलगिरी' (नीले पर्वत) कहा जाता है।\n• यहाँ 12 वर्षों में एक बार खिलने वाले 'नीलकुरिंजी' (Neelakurinji) फूलों के कारण ये पहाड़ियां नीली दिखाई देती हैं।\n• 📝 सर्वोच्च शिखर:\n• नीलगिरी की सबसे ऊंची चोटी 'दोड्डाबेट्टा' (2,637 मीटर) है।\n• 💡",
+      "exam_tips": "प्रसिद्ध पर्वतीय स्थल ऊटी (उदगमंडलम) और टोडा जनजाति नीलगिरी में निवास करती है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_92"
+  },
+  {
+    "id": 8,
+    "orig_id": 5155,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "अंतरराष्ट्रीय स्तर पर कबड्डी खेल के संचालन के लिए कौन-सी संस्था जिम्मेदार है?",
+    "options": {
+      "A": "FIFA",
+      "B": "IKF (International Kabaddi Federation)",
+      "C": "ICC",
+      "D": "FIBA"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / अंतरराष्ट्रीय कबड्डी महासंघ:\n• IKF (International Kabaddi Federation) की स्थापना 2004 में हुई थी।\n• इसका मुख्यालय जयपुर (भारत) में स्थित है।\n• 💡",
+      "exam_tips": "भारत ने अब तक आयोजित सभी कबड्डी विश्व कप टूर्नामेंट जीते हैं।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_92"
+  },
+  {
+    "id": 9,
+    "orig_id": 5159,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "यदि ELEVATOR को OLOVUTOR के रूप में कोडित किया जाता है, तो GENERATOR को कैसे कोडित किया जाएगा?",
+    "options": {
+      "A": "GANARATOR",
+      "B": "GUNERATOR",
+      "C": "GONORATOR",
+      "D": "GENURATOR"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / स्वर प्रतिस्थापन कोडिंग नियम:\n• शब्द में उपस्थित स्वरों (Vowels: E, A) को विशिष्ट नियमों से बदला गया है।\n• 📝 GENERATOR पर लागू करने पर:\n• बोर्ड उत्तर कुंजी अनुसार कूट = GENURATOR (विकल्प D)।\n• 💡",
+      "exam_tips": "व्यंजनों को अपरिवर्तित रखते हुए स्वर में विशिष्ट परिवर्तन किया गया है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_92"
+  },
+  {
+    "id": 10,
+    "orig_id": 5161,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "वह विकल्प ज्ञात कीजिए, जो श्रृंखला पैटर्न में फिट बैठता है:\n4, 8, 12, 16, ?",
+    "options": {
+      "A": "20",
+      "B": "24",
+      "C": "18",
+      "D": "22"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / +4 की समांतर वृद्धि:\n• 4 + 4 = 8, 8 + 4 = 12, 12 + 4 = 16\n• अगला पद = 16 + 4 = 20 (विकल्प A)।\n• 💡",
+      "exam_tips": "यह 4 का पहाड़ा (Multiples of 4) है।"
     },
     "difficulty": "Medium",
     "mock_id": "ch_reas_coding_92"

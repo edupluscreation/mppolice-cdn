@@ -1,213 +1,6 @@
 [
   {
     "id": 1,
-    "orig_id": 4936,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "यदि 70 लोगों की एक पंक्ति में सुनीता बाएँ से 14वें स्थान पर है और रीता दाएँ से 20वें स्थान पर है, तो उनके बीच कितने लोग हैं?",
-    "options": {
-      "A": "35 लोग",
-      "B": "36 लोग",
-      "C": "37 लोग",
-      "D": "34 लोग"
-    },
-    "correct": "B",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / गैर-ओवरलैपिंग रैंकिंग सूत्र:\n• जब (बायां स्थान + दायां स्थान) < कुल संख्या हो:\n• बीच के लोग = कुल संख्या - (L + R)\n• 📝 स्टेप-बाय-स्टेप हल:\n• कुल लोग = 70\n• बायां स्थान L = 14\n• दायां स्थान R = 20\n• L + R = 14 + 20 = 34\n• बीच के लोग = 70 - 34 = 36 लोग।\n• 💡",
-      "exam_tips": "चूंकि 34 < 70, इसलिए यह सरल गैर-ओवरलैपिंग स्थिति है।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_89"
-  },
-  {
-    "id": 2,
-    "orig_id": 4937,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "Arrange the following sentences to form a coherent paragraph:\nA. It provides nourishment to all living beings.\nB. Water is essential for the survival of life on Earth.\nC. Without it, ecosystems would collapse.\nD. Therefore, conserving water is our utmost responsibility.",
-    "options": {
-      "A": "ABCD",
-      "B": "BCAD",
-      "C": "BCDA",
-      "D": "CABD"
-    },
-    "correct": "B",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / पैरा जम्बल (Sentence Rearrangement):\n• प्रारंभिक वाक्य (Topic Sentence): B (Water is essential...) से विषय की शुरुआत होती है।\n• 📝 तार्किक क्रम:\n• B के बाद प्रभाव: C (Without it, ecosystems would collapse).\n• इसके बाद सकारात्मक भूमिका: A (It provides nourishment...).\n• अंतिम निष्कर्ष: D (Therefore, conserving water is our utmost responsibility).\n• सही संयोजन = B-C-A-D (विकल्प B)।\n• 💡",
-      "exam_tips": "'Therefore' निष्कर्ष दर्शाता है जो हमेशा अंत में आता है।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_89"
-  },
-  {
-    "id": 3,
-    "orig_id": 4938,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "Determine which of the figures in Image Y logically continues the series from Image X:",
-    "options": {
-      "A": "Figura 1",
-      "B": "Figura 2",
-      "C": "Figura 3",
-      "D": "Figura 4"
-    },
-    "correct": "D",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / अशाब्दिक घूर्णन पैटर्न:\n• आकृतियों में तत्वों का 90° दक्षिणावर्त (Clockwise) घूर्णन और भुजाओं की संख्या में परिवर्तन।\n• 💡",
-      "exam_tips": "श्रृंखला का तार्किक विस्तार विकल्प (D) द्वारा होता है।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_89"
-  },
-  {
-    "id": 4,
-    "orig_id": 4939,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "What is the total number of words that begin with a vowel in the given passage?",
-    "options": {
-      "A": "5",
-      "B": "6",
-      "C": "7",
-      "D": "8"
-    },
-    "correct": "C",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / स्वर पहचान (Vowels: A, E, I, O, U):\n• गद्यांश में स्वर से प्रारंभ होने वाले शब्दों की कुल संख्या 7 है।\n• 💡",
-      "exam_tips": "सही गणना 7 है।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_89"
-  },
-  {
-    "id": 5,
-    "orig_id": 4941,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "बॉटल बंद पानी की बिक्री पूरे क्षेत्र में अचानक बढ़ गई। इसका सबसे संभावित तात्कालिक कारण क्या हो सकता है?",
-    "options": {
-      "A": "पानी की बोतलों के दाम अचानक बढ़ गए",
-      "B": "लोगों ने पानी पीना कम कर दिया",
-      "C": "स्थानीय पानी के स्रोतों में भारी मात्रा में मिलावट / संदूषण",
-      "D": "वर्षा अत्यधिक मात्रा में हुई"
-    },
-    "correct": "C",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / कारण और प्रभाव (Cause and Effect):\n• जब नगर पालिका या स्थानीय जल स्रोतों का पानी दूषित/असुरक्षित हो जाता है, तो नागरिक स्वास्थ्य सुरक्षा हेतु पैकेज्ड बोतलबंद पानी की ओर रुख करते हैं।\n• 💡",
-      "exam_tips": "जल संदूषण (कारण) → बोतलबंद पानी की मांग में उछाल (प्रभाव)।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_89"
-  },
-  {
-    "id": 6,
-    "orig_id": 4942,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "निम्नलिखित प्रश्न में, उस शब्द का चयन करें जिसे दिए गए अक्षरों से बनाया जा सकता है:",
-    "options": {
-      "A": "SUMMER",
-      "B": "WINTER",
-      "C": "AUTUMN",
-      "D": "SPRING"
-    },
-    "correct": "A",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / शब्द निर्माण:\n• दिए गए मूल अक्षर समूह से केवल 'SUMMER' के सभी अक्षर मेल खाते हैं।\n• 💡",
-      "exam_tips": "विकल्प (A) सही उत्तर है।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_89"
-  },
-  {
-    "id": 7,
-    "orig_id": 4943,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "सही क्रम में अक्षरों को चुनिए और एक उपयुक्त अर्थपूर्ण शब्द बनाइए:\n1:R, 2:A, 3:B, 4:N, 5:H, 6:C",
-    "options": {
-      "A": "321456",
-      "B": "312465",
-      "C": "123456",
-      "D": "314265"
-    },
-    "correct": "B",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / सार्थक शब्द निर्माण:\n• अक्षर: B(3), R(1), A(2), N(4), C(6), H(5)\n• बनने वाला शब्द = B-R-A-N-C-H (अर्थ: शाखा)।\n• संख्यात्मक क्रम = 3, 1, 2, 4, 6, 5 (विकल्प B)।\n• 💡",
-      "exam_tips": "BRANCH एक मानक अर्थपूर्ण अंग्रेजी शब्द है।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_89"
-  },
-  {
-    "id": 8,
-    "orig_id": 4944,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "उस आइटम को चुनें जो नियम का उल्लंघन करता है।",
-    "options": {
-      "A": "I10",
-      "B": "A1",
-      "C": "C3",
-      "D": "E5"
-    },
-    "correct": "A",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / वर्णमाला स्थानीय मान मिलान:\n• A = 1 (A1 - सही)\n• C = 3 (C3 - सही)\n• E = 5 (E5 - सही)\n• I = 9 होता है, जबकि यहाँ I10 लिखा गया है।\n• 💡",
-      "exam_tips": "I10 नियम का उल्लंघन करता है (अक्षर का वर्णमाला क्रमांक 9 है, 10 नहीं)।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_89"
-  },
-  {
-    "id": 9,
-    "orig_id": 4954,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "शब्द \"CHARACTERISTICS\" के पाँचवें और बारहवें अक्षर को आपस में बदलें, फिर नए विन्यास का चयन करें:",
-    "options": {
-      "A": "CIATSIRETRAHC",
-      "B": "CHARACTERISTICS",
-      "C": "CHARACTIRISTECS",
-      "D": "CHARACTARISTEES"
-    },
-    "correct": "A",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / अक्षर स्थानांतरण एवं व्युत्क्रमण:\n• बोर्ड द्वारा विकल्प (A) CIATSIRETRAHC को उत्तर माना गया है।\n• 💡",
-      "exam_tips": "स्थिति विनिमय आधारित रीजनिंग प्रश्न।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_89"
-  },
-  {
-    "id": 10,
     "orig_id": 4955,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -225,6 +18,213 @@
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "📌 मुख्य तथ्य / आवर्ती पैटर्न:\n• श्रृंखला 'udc' या संबंधित ब्लॉक के आवर्तन पर आधारित है।\n• 💡",
       "exam_tips": "बोर्ड उत्तर कुंजी में (A) uudcd दिया गया है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_89"
+  },
+  {
+    "id": 2,
+    "orig_id": 4956,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "दिए गए कथनों और निष्कर्षों को ध्यानपूर्वक पढ़िए:\nकथन: सभी पुस्तकें पृष्ठ हैं। सभी पृष्ठ कलम हैं।\nनिष्कर्ष:\nI. सभी कलम पुस्तकें हैं।\nII. कुछ कलम पृष्ठ नहीं हैं।",
+    "options": {
+      "A": "केवल I अनुसरण करता है",
+      "B": "केवल II अनुसरण करता है",
+      "C": "न तो निष्कर्ष I और न ही II अनुसरण करता है",
+      "D": "दोनों अनुसरण करते हैं"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / सिलोगिज्म नियम:\n• पुस्तकें ⊂ पृष्ठ ⊂ कलम।\n• 📝 निष्कर्षों की जांच:\n• निष्कर्ष I: 'सभी कलम पुस्तकें हैं' गलत है (केवल 'कुछ कलम पुस्तकें हैं' सत्य होता)।\n• निष्कर्ष II: जब सभी कथन सकारात्मक (All) हों, तो कोई भी नकारात्मक (No/Some not) निष्कर्ष नहीं निकलता।\n• अतः न तो I और न ही II अनुसरण करता है।\n• 💡",
+      "exam_tips": "सकारात्मक आधार वाक्यों से नकारात्मक निष्कर्ष कभी नहीं निकलता।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_89"
+  },
+  {
+    "id": 3,
+    "orig_id": 4975,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "निम्नलिखित संख्या श्रृंखला में प्रश्नवाचक चिन्ह '?' के स्थान पर क्या आएगा?\n16, 8, 0, -8, ?",
+    "options": {
+      "A": "16",
+      "B": "12",
+      "C": "20",
+      "D": "10"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / समांतर श्रेणी (A.P.) सार्व-अंतर:\n• श्रृंखला में प्रत्येक पद 8 से घट रहा है:\n• 16 - 8 = 8\n• 8 - 8 = 0\n• 0 - 8 = -8\n• मानक गणितीय हल = -8 - 8 = -16 (विकल्प A)।\n• बोर्ड उत्तर कुंजी नोट: बोर्ड ने इस प्रश्न में विकल्प (B) -12 को उत्तर माना है।\n• 💡",
+      "exam_tips": "मानक श्रृंखला से -16 तथा बोर्ड कुंजी से -12 प्राप्त होता है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_89"
+  },
+  {
+    "id": 4,
+    "orig_id": 4976,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "10 अप्रैल को पुणे में और 12 अप्रैल को चेन्नई में एक बैठक आयोजित की जानी है। यदि मुंबई में बैठक इन दोनों के ठीक बीच की तारीख को है, तो मुंबई में बैठक किस तारीख को होगी?",
+    "options": {
+      "A": "9 अप्रैल",
+      "B": "10 अप्रैल",
+      "C": "11 अप्रैल",
+      "D": "13 अप्रैल"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / मध्य तिथि निर्धारण:\n• 10 अप्रैल और 12 अप्रैल के ठीक बीच का दिन 11 अप्रैल होता है।\n• 📝 स्टेप-बाय-स्टेप हल:\n• 10 अप्रैल: पुणे\n• 11 अप्रैल: मुंबई\n• 12 अप्रैल: चेन्नई\n• अतः मुंबई की बैठक 11 अप्रैल को होगी।\n• 💡",
+      "exam_tips": "यह एक प्रत्यक्ष मध्य-बिंदु कैलेंडर प्रश्न है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_89"
+  },
+  {
+    "id": 5,
+    "orig_id": 4987,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "People: Faisal, Kirti, Wasim, Deepa arranged in a row according to conditions:",
+    "options": {
+      "A": "सोमेंद्र फैसल, कृति, वसीम, दीपा",
+      "B": "कृति, फैसल, वसीम, दीपा",
+      "C": "वसीम, दीपा, फैसल, कृति",
+      "D": "दीपा, कृति, वसीम, फैसल"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / रैखिक बैठक व्यवस्था:\n• दी गई शर्तों के आधार पर व्यक्तियों का बाएं से दाएं विन्यास।\n• 💡",
+      "exam_tips": "विकल्प (A) सही व्यवस्था को दर्शाता है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_89"
+  },
+  {
+    "id": 6,
+    "orig_id": 4988,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "शब्दों को अंग्रेजी शब्दकोश क्रम में व्यवस्थित करें:\n1. Master, 2. Mystery, 3. Market, 4. Magnet, 5. Marvel, 6. Modern",
+    "options": {
+      "A": "4, 3, 1, 5, 6, 2",
+      "B": "4, 3, 5, 1, 6, 2",
+      "C": "3, 4, 5, 1, 6, 2",
+      "D": "4, 3, 5, 6, 1, 2"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / शब्दकोश वर्णानुक्रम:\n• 4. Magnet (M-a-g)\n• 3. Market (M-a-r-k)\n• 5. Marvel (M-a-r-v)\n• 1. Master (M-a-s)\n• 6. Modern (M-o)\n• 2. Mystery (M-y)\n• सही क्रम = 4, 3, 5, 1, 6, 2 (विकल्प B)।\n• 💡",
+      "exam_tips": "'Mag' < 'Mark' < 'Marv' < 'Mas' < 'Mod' < 'Mys'."
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_89"
+  },
+  {
+    "id": 7,
+    "orig_id": 4989,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "शब्दों को अंग्रेजी शब्दकोश क्रम में व्यवस्थित करें:",
+    "options": {
+      "A": "4, 3, 1, 5, 6, 2",
+      "B": "4, 3, 5, 1, 6, 2",
+      "C": "3, 4, 5, 1, 6, 2",
+      "D": "4, 3, 5, 6, 1, 2"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / शब्दकोश क्रम:\n• 4, 3, 5, 1, 6, 2 सही तार्किक क्रम है।\n• 💡",
+      "exam_tips": "विकल्प (B) सही उत्तर है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_89"
+  },
+  {
+    "id": 8,
+    "orig_id": 4990,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "एक निश्चित कोड भाषा में,\n'sky is high' को 'ab cd ef' लिखा जाता है,\n'flight is fast' को 'cd gh ij' लिखा जाता है,\nतो 'flight' का कोड क्या हो सकता है?",
+    "options": {
+      "A": "cow flight",
+      "B": "cd",
+      "C": "gh या ij",
+      "D": "ab"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / कोडिंग-डिकोडिंग विश्लेषण:\n• दोनों में 'is' उभयनिष्ठ है जिसका कोड 'cd' है।\n• 'flight' का कोड 'gh' या 'ij' में से एक होगा।\n• 💡",
+      "exam_tips": "बोर्ड कुंजी में विकल्प (A) चिह्नित था।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_89"
+  },
+  {
+    "id": 9,
+    "orig_id": 5002,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "यदि उत्तर-पश्चिम दिशा 'दक्षिण' बन जाती है, तो 'पूर्व' दिशा क्या बन जाएगी?",
+    "options": {
+      "A": "उत्तर",
+      "B": "पश्चिम",
+      "C": "उत्तर-पश्चिम",
+      "D": "दक्षिण-पश्चिम"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / दिशा चक्र घूर्णन:\n• उत्तर-पश्चिम (315°) से दक्षिण (180°) = 135° वामावर्त (Anti-clockwise)।\n• 📝 पूर्व का घूर्णन:\n• पूर्व (90°) को 135° वामावर्त घुमाने पर उत्तर-पश्चिम (315°) बनता है।\n• बोर्ड उत्तर कुंजी नोट: बोर्ड द्वारा विकल्प (A) उत्तर को उत्तर माना गया है।\n• 💡",
+      "exam_tips": "दिशा घूर्णन में सभी दिशाएं एक समान कोण से घूमती हैं।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_89"
+  },
+  {
+    "id": 10,
+    "orig_id": 5004,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "निम्नलिखित श्रृंखला में विषम संख्या कौन-सी है?\n10, 14, 16, 18, 21, 24, 26",
+    "options": {
+      "A": "21",
+      "B": "14",
+      "C": "26",
+      "D": "18"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / सम और विषम संख्या वर्गीकरण:\n• श्रृंखला में 21 एकमात्र विषम (Odd) संख्या है और शेष सभी सम (Even) हैं।\n• बोर्ड उत्तर कुंजी नोट: बोर्ड द्वारा विकल्प (C) 26 को उत्तर माना गया है।\n• 💡",
+      "exam_tips": "गणितीय रूप से 21 विषम संख्या है, बोर्ड कुंजी में 26 दिया गया था।"
     },
     "difficulty": "Medium",
     "mock_id": "ch_reas_coding_89"

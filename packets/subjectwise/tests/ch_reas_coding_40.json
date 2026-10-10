@@ -1,75 +1,6 @@
 [
   {
     "id": 1,
-    "orig_id": 2280,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "शब्द MIGRATION में स्वरों को हटाने पर कौन सा अक्षर ठीक बीच में आता है?",
-    "options": {
-      "A": "G",
-      "B": "R",
-      "C": "A",
-      "D": "T"
-    },
-    "correct": "B",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "मुख्य तथ्य / नियम / सूत्र: वर्णमाला व्यंजन छँटाई (Consonant Center Letter):\n• स्टेप-बाय-स्टेप हल:\n• शब्द: M I G R A T I O N\n• स्वर (Vowels) = I, A, I, O (कुल 4 स्वर)\n• स्वर हटाने पर शेष व्यंजन = M, G, R, T, N (कुल 5 व्यंजन)\n• 5 व्यंजनों में ठीक बीच का (तीसरा) अक्षर = R\n• अतः ठीक मध्य में आने वाला अक्षर R है।",
-      "exam_tips": "M, G, [R], T, N का मध्य मान R है।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_40"
-  },
-  {
-    "id": 2,
-    "orig_id": 2286,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "अंग्रेज़ी भाषा में, निम्नलिखित हिस्सों को एक सार्थक वाक्य बनाने के लिए व्यवस्थित कीजिए:",
-    "options": {
-      "A": "the feedback (B) was shared (C) with the team (D) after the review\nसही क्रम चुनें:\n• (A) A - B - C - D",
-      "B": "was shared (C) with the team (D) after the review\nसही क्रम चुनें:\n• (A) A - B - C - D\n(B) B - A - C - D",
-      "C": "with the team (D) after the review\nसही क्रम चुनें:\n• (A) A - B - C - D\n(B) B - A - C - D\n(C) A - C - B - D",
-      "D": "after the review\nसही क्रम चुनें:\n• (A) A - B - C - D\n(B) B - A - C - D\n(C) A - C - B - D\n(D) B - A - D - C"
-    },
-    "correct": "A",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "मुख्य तथ्य / नियम / सूत्र: सार्थक वाक्य पुनर्गठन:\n• स्टेप-बाय-स्टेप हल:\n• सही क्रम = A - B - C - D।",
-      "exam_tips": "दोहराया गया प्रश्न; सही उत्तर विकल्प (A) है।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_40"
-  },
-  {
-    "id": 3,
-    "orig_id": 2287,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "परिदृश्य पढ़ें और उपयुक्त उत्तर दें:\nआप एक विश्वविद्यालय समूह परियोजना पर काम कर रहे हैं। एक सदस्य, रिया, बार-बार निम्न गुणवत्ता का कार्य प्रस्तुत कर रही है और बैठकों में शामिल नहीं हो रही है। अंतिम समय-सीमा नज़दीक है और बाकी टीम के सदस्य निराश हैं।\nअब आपको क्या करना चाहिए?",
-    "options": {
-      "A": "रिया को समूह से हटा दें और प्रोफेसर को सूचित करें।",
-      "B": "गुणवत्ता सुनिश्चित करने के लिए उसका हिस्सा स्वयं पूरा करें।",
-      "C": "रिया से निजी रूप से बात करें ताकि उसकी स्थिति को समझा जा सके।",
-      "D": "उसके योगदान के बिना परियोजना जमा करें।"
-    },
-    "correct": "C",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "मुख्य तथ्य / नियम / सूत्र: टीम प्रबंधन में सहानुभूतिपूर्ण संवाद:\n• स्टेप-बाय-स्टेप हल:\n• जब कोई समूह सदस्य लगातार खराब प्रदर्शन करे, तो उसे सीधे बाहर निकालने के बजाय निजी रूप से बात करके उसकी समस्याओं/चुनौतियों को समझना नेतृत्व का प्रथम और सर्वोत्तम कदम है।",
-      "exam_tips": "व्यक्तिगत संवाद से मूल समस्या का समाधान संभव होता है।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_40"
-  },
-  {
-    "id": 4,
     "orig_id": 2289,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -92,7 +23,7 @@
     "mock_id": "ch_reas_coding_40"
   },
   {
-    "id": 5,
+    "id": 2,
     "orig_id": 2290,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -115,7 +46,7 @@
     "mock_id": "ch_reas_coding_40"
   },
   {
-    "id": 6,
+    "id": 3,
     "orig_id": 2291,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -138,7 +69,7 @@
     "mock_id": "ch_reas_coding_40"
   },
   {
-    "id": 7,
+    "id": 4,
     "orig_id": 2314,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -161,7 +92,7 @@
     "mock_id": "ch_reas_coding_40"
   },
   {
-    "id": 8,
+    "id": 5,
     "orig_id": 2321,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -184,7 +115,7 @@
     "mock_id": "ch_reas_coding_40"
   },
   {
-    "id": 9,
+    "id": 6,
     "orig_id": 2327,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -207,7 +138,7 @@
     "mock_id": "ch_reas_coding_40"
   },
   {
-    "id": 10,
+    "id": 7,
     "orig_id": 2342,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -225,6 +156,75 @@
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "पैटर्न विश्लेषण:\n• 2 ➔ 10 : (2 - 1) × 10 = 1 × 10 = 10\n• 3 ➔ 20 : (3 - 1) × 10 = 2 × 10 = 20\n• 4 ➔ 30 : (4 - 1) × 10 = 3 × 10 = 30\n• अतः 6 के लिए:\n• (6 - 1) × 10 = 5 × 10 = 50\n• वैकल्पिक तर्क: इनपुट में लगातार +1 होने पर आउटपुट में +10 की वृद्धि होती है।\n• 4 ➔ 30\n• 5 ➔ 40\n• 6 ➔ 50\n• अतः सही उत्तर (B) 50 है।",
       "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_40"
+  },
+  {
+    "id": 8,
+    "orig_id": 2344,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "इनमें से विषम को पहचानें:",
+    "options": {
+      "A": "6 % 3 = 2",
+      "B": "9 % 3 = 3",
+      "C": "8 % 2 = 4",
+      "D": "7 % 3 = 2"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "गणितीय संक्रिया विश्लेषण:\n• यहाँ '%' प्रतीक का उपयोग मॉड्यूलो (शेषफल) अथवा विभाजन संक्रिया के रूप में किया गया है:\n• (A) 6 \\% 3 = 2 (6 ÷ 3 = 2, पूर्ण विभाजन)\n• (B) 8 \\% 4 = 2 (8 ÷ 4 = 2, पूर्ण विभाजन)\n• (C) 10 \\% 5 = 2 (10 ÷ 5 = 2, पूर्ण विभाजन)\n• (D) 7 \\% 3 = 2 ➔ 7 ÷ 3 = 2.33 (शेषफल 1 बचता है, भागफल 2 होता है)।\n• विषमता: अन्य सभी में पहली संख्या दूसरी संख्या से पूर्णतः विभाजित होकर 2 देती है, जबकि 7 संख्या 3 से पूर्णतः विभाज्य नहीं है। अतः (D) विषम है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_40"
+  },
+  {
+    "id": 9,
+    "orig_id": 2345,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "यदि MONKEY का कोड YEKNOM है, तो DONKEY का कोड क्या होगा?",
+    "options": {
+      "A": "YEKNOD",
+      "B": "YEKDON",
+      "C": "YKENDO",
+      "D": "YEKODN"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "कोडिंग तर्क (Reverse Letter Order):\n• शब्द के अक्षरों को उल्टे क्रम (Right to Left) में लिखा गया है:\n• M-O-N-K-E-Y ➔ Y-E-K-N-O-M\n• DONKEY के लिए:\n• D-O-N-K-E-Y ➔ Y-E-K-N-O-D\n• निष्कर्ष: सही कोड YEKNOD (विकल्प A) है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_40"
+  },
+  {
+    "id": 10,
+    "orig_id": 2346,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "यदि FIRE का कोड ERFI है, तो HOPE का कोड क्या होगा?",
+    "options": {
+      "A": "EHPO",
+      "B": "EPOH",
+      "C": "EOPH",
+      "D": "EPHO"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "कोडिंग विश्लेषण:\n• FIRE ➔ अक्षरों के स्थान: 1=F, 2=I, 3=R, 4=E.\n• ERFI ➔ क्रम: 4, 3, 1, 2 (अंतिम दो अक्षर उल्टे होकर पहले आए: E, R फिर प्रथम दो F, I).\n• HOPE के लिए:\n• 1=H, 2=O, 3=P, 4=E.\n• समान क्रम (4, 3, 1, 2) लगाने पर: E, P, H, O ➔ EPHO.",
+      "exam_tips": "अक्षरों के स्थान परिवर्तन (Letter Shuffling) वाले प्रश्नों में प्रत्येक अक्षर की स्थिति संख्या (1, 2, 3, 4) लिखकर नए क्रम का मिलान करें।"
     },
     "difficulty": "Medium",
     "mock_id": "ch_reas_coding_40"

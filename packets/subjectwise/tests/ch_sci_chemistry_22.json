@@ -1,29 +1,6 @@
 [
   {
     "id": 1,
-    "orig_id": 2935,
-    "subject_code": "SCIENCE",
-    "subject": "सामान्य विज्ञान",
-    "topic_id": "sci_chemistry",
-    "topic": "रसायन विज्ञान (Chemistry)",
-    "question": "ऑक्सालिक अम्ल किसमें पाया जाता है?",
-    "options": {
-      "A": "अंगूर",
-      "B": "टमाटर",
-      "C": "सेब",
-      "D": "संतरा"
-    },
-    "correct": "B",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "तथ्य: ऑक्सालिक अम्ल टमाटर तथा हरी पत्तेदार सब्जियों (जैसे पालक) में प्रचुर मात्रा में पाया जाता है।\n• अतः सही उत्तर (B) टमाटर है।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_sci_chemistry_22"
-  },
-  {
-    "id": 2,
     "orig_id": 2937,
     "subject_code": "SCIENCE",
     "subject": "सामान्य विज्ञान",
@@ -46,7 +23,7 @@
     "mock_id": "ch_sci_chemistry_22"
   },
   {
-    "id": 3,
+    "id": 2,
     "orig_id": 3164,
     "subject_code": "SCIENCE",
     "subject": "सामान्य विज्ञान",
@@ -69,7 +46,7 @@
     "mock_id": "ch_sci_chemistry_22"
   },
   {
-    "id": 4,
+    "id": 3,
     "orig_id": 3166,
     "subject_code": "SCIENCE",
     "subject": "सामान्य विज्ञान",
@@ -92,7 +69,7 @@
     "mock_id": "ch_sci_chemistry_22"
   },
   {
-    "id": 5,
+    "id": 4,
     "orig_id": 3167,
     "subject_code": "SCIENCE",
     "subject": "सामान्य विज्ञान",
@@ -115,7 +92,7 @@
     "mock_id": "ch_sci_chemistry_22"
   },
   {
-    "id": 6,
+    "id": 5,
     "orig_id": 3273,
     "subject_code": "SCIENCE",
     "subject": "सामान्य विज्ञान",
@@ -138,7 +115,7 @@
     "mock_id": "ch_sci_chemistry_22"
   },
   {
-    "id": 7,
+    "id": 6,
     "orig_id": 3274,
     "subject_code": "SCIENCE",
     "subject": "सामान्य विज्ञान",
@@ -161,7 +138,7 @@
     "mock_id": "ch_sci_chemistry_22"
   },
   {
-    "id": 8,
+    "id": 7,
     "orig_id": 3276,
     "subject_code": "SCIENCE",
     "subject": "सामान्य विज्ञान",
@@ -184,7 +161,7 @@
     "mock_id": "ch_sci_chemistry_22"
   },
   {
-    "id": 9,
+    "id": 8,
     "orig_id": 3398,
     "subject_code": "SCIENCE",
     "subject": "सामान्य विज्ञान",
@@ -207,7 +184,7 @@
     "mock_id": "ch_sci_chemistry_22"
   },
   {
-    "id": 10,
+    "id": 9,
     "orig_id": 3399,
     "subject_code": "SCIENCE",
     "subject": "सामान्य विज्ञान",
@@ -224,6 +201,29 @@
     "explanation": {
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "सक्रियता श्रेणी में धातु की स्थिति:\n• विद्युत रासायनिक सक्रियता श्रेणी: Zn > Fe > Sn (टिन) > Pb > H > Cu\n• टिन (Sn) अम्लों के साथ अत्यंत मंद गति से क्रिया कर सुरक्षात्मक ऑक्साइड आवरण बनाता है और यह Pb से ऊपर तथा Zn से नीचे स्थित है।\n• अतः सही उत्तर (A) टिन है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_sci_chemistry_22"
+  },
+  {
+    "id": 10,
+    "orig_id": 3402,
+    "subject_code": "SCIENCE",
+    "subject": "सामान्य विज्ञान",
+    "topic_id": "sci_chemistry",
+    "topic": "रसायन विज्ञान (Chemistry)",
+    "question": "एक ऐसा तत्व जिसके इलेक्ट्रॉन केवल K और L कोशों में भरे होते हैं, वह किस आवर्त में आता है?",
+    "options": {
+      "A": "पहला",
+      "B": "दूसरा",
+      "C": "तीसरा",
+      "D": "चौथा"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "इलेक्ट्रॉनिक विन्यास व आवर्त संख्या:\n• किसी तत्व में भरे गए मुख्य ऊर्जा स्तरों (कोषों) की कुल संख्या सीधे उसके आवर्त (Period) को दर्शाती है।\n• जिन तत्वों में इलेक्ट्रॉन केवल K (प्रथम) और L (द्वितीय) कोशों में होते हैं, उनमें कुल 2 कोश होते हैं, अतः वे दूसरे आवर्त (Second Period) में आते हैं (जैसे लीथियम से नियॉन तक)।",
       "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
     },
     "difficulty": "Medium",

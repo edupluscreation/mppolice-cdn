@@ -1,29 +1,6 @@
 [
   {
     "id": 1,
-    "orig_id": 3062,
-    "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_ratio_mix",
-    "topic": "अनुपात, समानुपात एवं मिश्रण (Ratio & Proportion)",
-    "question": "तीन साझेदार A, B, और C ने क्रमशः 5:7:8 के अनुपात में निवेश किया है। यदि कुल लाभ 40,000 रुपए है, तो दूसरे साझेदार (B) का हिस्सा कितना होगा?",
-    "options": {
-      "A": "Rs 12,500",
-      "B": "का हिस्सा कितना होगा?\n• (A) Rs 12,500\n(B) Rs 14,000",
-      "C": "Rs 16,000",
-      "D": "Rs 10,000"
-    },
-    "correct": "B",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "साझेदारी में लाभ वितरण:\n• लाभ अनुपात A : B : C = 5 : 7 : 8\n• कुल अनुपात = 5 + 7 + 8 = 20 भाग\n• कुल लाभ = ₹40,000\n• 1 भाग का मान = 40,000 ÷ 20 = ₹2,000\n• B का हिस्सा: 7 × 2,000 = ₹14,000\n• अतः दूसरे साझेदार B का हिस्सा Rs 14,000 होगा।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_math_ratio_mix_04"
-  },
-  {
-    "id": 2,
     "orig_id": 3171,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -46,7 +23,7 @@
     "mock_id": "ch_math_ratio_mix_04"
   },
   {
-    "id": 3,
+    "id": 2,
     "orig_id": 3284,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -69,7 +46,7 @@
     "mock_id": "ch_math_ratio_mix_04"
   },
   {
-    "id": 4,
+    "id": 3,
     "orig_id": 3344,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -92,7 +69,7 @@
     "mock_id": "ch_math_ratio_mix_04"
   },
   {
-    "id": 5,
+    "id": 4,
     "orig_id": 3410,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -115,7 +92,7 @@
     "mock_id": "ch_math_ratio_mix_04"
   },
   {
-    "id": 6,
+    "id": 5,
     "orig_id": 3461,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -138,7 +115,7 @@
     "mock_id": "ch_math_ratio_mix_04"
   },
   {
-    "id": 7,
+    "id": 6,
     "orig_id": 3618,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -161,7 +138,7 @@
     "mock_id": "ch_math_ratio_mix_04"
   },
   {
-    "id": 8,
+    "id": 7,
     "orig_id": 3727,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -184,7 +161,7 @@
     "mock_id": "ch_math_ratio_mix_04"
   },
   {
-    "id": 9,
+    "id": 8,
     "orig_id": 3776,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -207,7 +184,7 @@
     "mock_id": "ch_math_ratio_mix_04"
   },
   {
-    "id": 10,
+    "id": 9,
     "orig_id": 3827,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -225,6 +202,29 @@
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "साझेदारी में लाभ विभाजन:\n• राज और कुमार के निवेश का अनुपात = 60,000 : 40,000 = 3 : 2\n• कुमार का हिस्सा = 50,000 × (2 / 5) = ₹20,000\n• सही विकल्प: (B) Rs 20,000।",
       "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_math_ratio_mix_04"
+  },
+  {
+    "id": 10,
+    "orig_id": 4291,
+    "subject_code": "MATH",
+    "subject": "गणित",
+    "topic_id": "math_ratio_mix",
+    "topic": "अनुपात, समानुपात एवं मिश्रण (Ratio & Proportion)",
+    "question": "एक जूस विक्रेता 30 रुपए/लीटर की दर से संतरा का रस और मुफ्त की लागत वाला पानी मिलाकर 24 रुपए/लीटर की कीमत वाला मिश्रण तैयार करता है। रस और पानी का अनुपात क्या होगा?",
+    "options": {
+      "A": "5:2",
+      "B": "3:1",
+      "C": "4:1",
+      "D": "3:2"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य सूत्र / पृथक्करण नियम (Rule of Alligation):\n• 📝 गणना:\n• रस की लागत = ₹30/लीटर, पानी की लागत = ₹0/लीटर\n• मिश्रण की औसत लागत = ₹24/लीटर\n• अनुपात (रस : पानी) = (24 - 0) : (30 - 24) = 24 : 6 = 4 : 1 (विकल्प C)।\n• बोर्ड उत्तर कुंजी टिप्पणी: परीक्षा बोर्ड ने यहाँ (B) 3:1 अंकित किया है, जबकि डुप्लिकेट प्रश्न Q4293 में बोर्ड ने शुद्ध अनुपात (C) 4:1 सही माना है।\n• 💡",
+      "exam_tips": "पानी की लागत शून्य मानकर मिश्रण का अनुपात 24:6 = 4:1 होता है।"
     },
     "difficulty": "Medium",
     "mock_id": "ch_math_ratio_mix_04"

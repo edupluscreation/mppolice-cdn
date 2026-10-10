@@ -1,75 +1,6 @@
 [
   {
     "id": 1,
-    "orig_id": 2222,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "शृंखला को पूर्ण करें:\nPINE : RKPG :: MANGO : ?",
-    "options": {
-      "A": "OCQIP",
-      "B": "OCPIP",
-      "C": "OCQJO",
-      "D": "OCPIQ"
-    },
-    "correct": "A",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "मुख्य तथ्य / नियम / सूत्र: वर्णमाला फॉरवर्ड कोडिंग (+2 शिफ्ट):\n• स्टेप-बाय-स्टेप हल:\n• P (16) + 2 = R (18)\n• I (9) + 2 = K (11)\n• N (14) + 2 = P (16)\n• E (5) + 2 = G (7) ⇒ PINE : RKPG\n• MANGO पर +2 नियम लागू करने पर:\n• M (13) + 2 = O\n• A (1) + 2 = C\n• N (14) + 2 = P\n• G (7) + 2 = I\n• O (15) + 2 = Q\n• अभीष्ट कूट = OCPIQ (विकल्प D)\n(नोट: +2 शिफ्ट से OCPIQ बनता है; बोर्ड की मूल कुंजी में (A) OCQIP मुद्रित था।)",
-      "exam_tips": "प्रत्येक वर्ण में 2 स्थान आगे बढ़ा जाता है।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_39"
-  },
-  {
-    "id": 2,
-    "orig_id": 2223,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "यदि EXAMINATION को OXUMINUTION लिखा जाता है, तो DEDICATION का कोड क्या होगा?",
-    "options": {
-      "A": "DODICATION",
-      "B": "DEDICUTIUN",
-      "C": "DODICUTIUN",
-      "D": "DODICUTION"
-    },
-    "correct": "D",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "मुख्य तथ्य / नियम / सूत्र: स्वर प्रतिस्थापन कूट (Vowel Substitution Pattern):\n• स्टेप-बाय-स्टेप हल:\n• EXAMINATION → OXUMINUTION में स्वरों को प्रतिस्थापित किया गया है।\n• DEDICATION पर समान प्रतिस्थापन लागू करने पर सही कूट DODICUTION बनता है।",
-      "exam_tips": "व्यंजनों को यथावत रखकर केवल स्वरों में परिवर्तन किया गया है।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_39"
-  },
-  {
-    "id": 3,
-    "orig_id": 2226,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "निम्नलिखित संख्या श्रृंखला में एक गलत संख्या दी गई है। गलत संख्या का पता लगाइए।\n9, 19, 39, 78, 159, 319",
-    "options": {
-      "A": "9",
-      "B": "39",
-      "C": "78",
-      "D": "159"
-    },
-    "correct": "C",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "मुख्य तथ्य / नियम / सूत्र: संख्या शृंखला में गलत पद की पहचान (2x + 1 Pattern):\n• स्टेप-बाय-स्टेप हल:\n• 9 × 2 + 1 = 19\n• 19 × 2 + 1 = 39\n• 39 × 2 + 1 = 79 (जबकि शृंखला में 78 दिया गया है)\n• 79 × 2 + 1 = 159\n• 159 × 2 + 1 = 319\n• अतः गलत संख्या 78 है (इसके स्थान पर 79 होना चाहिए था)।",
-      "exam_tips": "शृंखला का प्रत्येक पद: पिछला पद × 2 + 1 है।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_39"
-  },
-  {
-    "id": 4,
     "orig_id": 2227,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -92,7 +23,7 @@
     "mock_id": "ch_reas_coding_39"
   },
   {
-    "id": 5,
+    "id": 2,
     "orig_id": 2229,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -115,7 +46,7 @@
     "mock_id": "ch_reas_coding_39"
   },
   {
-    "id": 6,
+    "id": 3,
     "orig_id": 2239,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -138,7 +69,7 @@
     "mock_id": "ch_reas_coding_39"
   },
   {
-    "id": 7,
+    "id": 4,
     "orig_id": 2264,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -161,7 +92,7 @@
     "mock_id": "ch_reas_coding_39"
   },
   {
-    "id": 8,
+    "id": 5,
     "orig_id": 2270,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -184,7 +115,7 @@
     "mock_id": "ch_reas_coding_39"
   },
   {
-    "id": 9,
+    "id": 6,
     "orig_id": 2271,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -207,7 +138,7 @@
     "mock_id": "ch_reas_coding_39"
   },
   {
-    "id": 10,
+    "id": 7,
     "orig_id": 2274,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -225,6 +156,75 @@
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "मुख्य तथ्य / नियम / सूत्र: हथियारों का वर्गीकरण (Melee Weapons vs Firearm):\n• स्टेप-बाय-स्टेप हल:\n• फावड़ा, पोलआर्म्स (लंबी लाठी वाले भाले), कुल्हाड़ियाँ और कटारें प्राचीन/पारंपरिक धारदार या भारी प्रहारक हथियार व औजार हैं।\n• जबकि पिस्तौल (Pistol) आधुनिक बारूदी आग्नेयास्त्र (Firearm) है।\n• अतः पिस्तौल अन्य सभी से सर्वथा भिन्न है।",
       "exam_tips": "धारदार हथियार बनाम आग्नेयास्त्र का वर्गीकरण।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_39"
+  },
+  {
+    "id": 8,
+    "orig_id": 2280,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "शब्द MIGRATION में स्वरों को हटाने पर कौन सा अक्षर ठीक बीच में आता है?",
+    "options": {
+      "A": "G",
+      "B": "R",
+      "C": "A",
+      "D": "T"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र: वर्णमाला व्यंजन छँटाई (Consonant Center Letter):\n• स्टेप-बाय-स्टेप हल:\n• शब्द: M I G R A T I O N\n• स्वर (Vowels) = I, A, I, O (कुल 4 स्वर)\n• स्वर हटाने पर शेष व्यंजन = M, G, R, T, N (कुल 5 व्यंजन)\n• 5 व्यंजनों में ठीक बीच का (तीसरा) अक्षर = R\n• अतः ठीक मध्य में आने वाला अक्षर R है।",
+      "exam_tips": "M, G, [R], T, N का मध्य मान R है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_39"
+  },
+  {
+    "id": 9,
+    "orig_id": 2286,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "अंग्रेज़ी भाषा में, निम्नलिखित हिस्सों को एक सार्थक वाक्य बनाने के लिए व्यवस्थित कीजिए:",
+    "options": {
+      "A": "the feedback (B) was shared (C) with the team (D) after the review\nसही क्रम चुनें:\n• (A) A - B - C - D",
+      "B": "was shared (C) with the team (D) after the review\nसही क्रम चुनें:\n• (A) A - B - C - D\n(B) B - A - C - D",
+      "C": "with the team (D) after the review\nसही क्रम चुनें:\n• (A) A - B - C - D\n(B) B - A - C - D\n(C) A - C - B - D",
+      "D": "after the review\nसही क्रम चुनें:\n• (A) A - B - C - D\n(B) B - A - C - D\n(C) A - C - B - D\n(D) B - A - D - C"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र: सार्थक वाक्य पुनर्गठन:\n• स्टेप-बाय-स्टेप हल:\n• सही क्रम = A - B - C - D।",
+      "exam_tips": "दोहराया गया प्रश्न; सही उत्तर विकल्प (A) है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_39"
+  },
+  {
+    "id": 10,
+    "orig_id": 2287,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "परिदृश्य पढ़ें और उपयुक्त उत्तर दें:\nआप एक विश्वविद्यालय समूह परियोजना पर काम कर रहे हैं। एक सदस्य, रिया, बार-बार निम्न गुणवत्ता का कार्य प्रस्तुत कर रही है और बैठकों में शामिल नहीं हो रही है। अंतिम समय-सीमा नज़दीक है और बाकी टीम के सदस्य निराश हैं।\nअब आपको क्या करना चाहिए?",
+    "options": {
+      "A": "रिया को समूह से हटा दें और प्रोफेसर को सूचित करें।",
+      "B": "गुणवत्ता सुनिश्चित करने के लिए उसका हिस्सा स्वयं पूरा करें।",
+      "C": "रिया से निजी रूप से बात करें ताकि उसकी स्थिति को समझा जा सके।",
+      "D": "उसके योगदान के बिना परियोजना जमा करें।"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र: टीम प्रबंधन में सहानुभूतिपूर्ण संवाद:\n• स्टेप-बाय-स्टेप हल:\n• जब कोई समूह सदस्य लगातार खराब प्रदर्शन करे, तो उसे सीधे बाहर निकालने के बजाय निजी रूप से बात करके उसकी समस्याओं/चुनौतियों को समझना नेतृत्व का प्रथम और सर्वोत्तम कदम है।",
+      "exam_tips": "व्यक्तिगत संवाद से मूल समस्या का समाधान संभव होता है।"
     },
     "difficulty": "Medium",
     "mock_id": "ch_reas_coding_39"

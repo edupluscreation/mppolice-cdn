@@ -1,167 +1,6 @@
 [
   {
     "id": 1,
-    "orig_id": 3709,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "वर्णमाला क्रम में सबसे अंत में कौन-सा शब्द आता है?\nMEAL, MEAN, MEANT, MEADOW",
-    "options": {
-      "A": "MEAL",
-      "B": "MEANT",
-      "C": "MEAN",
-      "D": "MEADOW"
-    },
-    "correct": "B",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "शब्दकोश वर्णमाला क्रम:\n1. MEADOW\n2. MEAL\n3. MEAN\n4. MEANT\n• निष्कर्ष: वर्णमाला क्रम में सबसे अंत में MEANT आएगा।\n• सही विकल्प: (B) MEANT।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_67"
-  },
-  {
-    "id": 2,
-    "orig_id": 3711,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "उस द्वीप का चयन करें जो समूह से अलग है।",
-    "options": {
-      "A": "होंशू",
-      "B": "क्यूशू",
-      "C": "बरमूडा",
-      "D": "जेजू"
-    },
-    "correct": "C",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "भौगोलिक वर्गीकरण:\n• होंशू, क्यूशू: जापान के मुख्य द्वीप (एशिया/प्रशांत महासागर)।\n• जेजू: दक्षिण कोरिया का द्वीप (एशिया/प्रशांत महासागर)।\n• बरमूडा: उत्तरी अटलांटिक महासागर में स्थित ब्रिटिश प्रवासी क्षेत्र है।\n• निष्कर्ष: बरमूडा भौगोलिक स्थिति और महासागर की दृष्टि से अन्य तीनों से भिन्न है।\n• सही विकल्प: (C) बरमूडा।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_67"
-  },
-  {
-    "id": 3,
-    "orig_id": 3712,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "भिन्न वस्तु का चयन करें।",
-    "options": {
-      "A": "जॉयस्टिक",
-      "B": "स्कैनर",
-      "C": "मदरबोर्ड",
-      "D": "नोटपैड"
-    },
-    "correct": "D",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "कंप्यूटर वर्गीकरण:\n• जॉयस्टिक, स्कैनर और मदरबोर्ड कंप्यूटर हार्डवेयर (Hardware) घटक हैं।\n• नोटपैड (Notepad) एक टेक्स्ट-एडिटर सॉफ्टवेयर (Software) एप्लिकेशन है।\n• सही विकल्प: (D) नोटपैड।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_67"
-  },
-  {
-    "id": 4,
-    "orig_id": 3715,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "आज सोमवार है। 61 दिनों के बाद, यह होगा:",
-    "options": {
-      "A": "बुधवार",
-      "B": "शनिवार",
-      "C": "मंगलवार",
-      "D": "गुरूवार"
-    },
-    "correct": "C",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "कैलेंडर गणना:\n• 61 दिन / 7 = 8 सप्ताह और 5 विषम दिन (61 = 7 × 8 + 5)।\n• सोमवार + 5 दिन = शनिवार (Saturday)।\n• बोर्ड उत्तर कुंजी: बोर्ड ने विकल्प (C) मंगलवार चिह्नित किया है। मानक कैलेंडर गणना के अनुसार उत्तर शनिवार (B) है।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_67"
-  },
-  {
-    "id": 5,
-    "orig_id": 3718,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "असंगत अक्षरों के समूह को चुनें।",
-    "options": {
-      "A": "PQRS",
-      "B": "LMNP",
-      "C": "WXYZ",
-      "D": "ABCD"
-    },
-    "correct": "B",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "विषम समूह: LMNP में नियमित वर्णमाला अंतराल का उल्लंघन है।\n• सही विकल्प: (B) LMNP।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_67"
-  },
-  {
-    "id": 6,
-    "orig_id": 3721,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "शब्द \"COMPUTER\" में दाईं ओर से तीसरे अक्षर का बाईं ओर से स्थान क्या है?",
-    "options": {
-      "A": "4",
-      "B": "5",
-      "C": "6",
-      "D": "7"
-    },
-    "correct": "C",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "शब्द: C O M P U T E R (कुल 8 अक्षर)\n• दाईं ओर से पहला = R (8वां)\n• दाईं ओर से दूसरा = E (7वां)\n• दाईं ओर से तीसरा = T (6वां)\n• बाईं ओर से T का स्थान: 6\n• सही विकल्प: (C) 6।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_67"
-  },
-  {
-    "id": 7,
-    "orig_id": 3722,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "एक मरीज़ को दवा की तुरंत ज़रूरत है, लेकिन वह अपना बटुआ भूल गया है। फार्मासिस्ट को क्या करना चाहिए?",
-    "options": {
-      "A": "मरीज़ को जाने के लिए कहें",
-      "B": "दवा देने से इंकार",
-      "C": "इसे उपलब्ध कराएं और बाद में भुगतान लें",
-      "D": "पुलिस को सूचित करें"
-    },
-    "correct": "C",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "व्यावसायिक नैतिकता एवं मानवीय दायित्व:\n• आपातकालीन स्थिति में दवा की जीवन रक्षक आवश्यकता को प्राथमिकता देना फार्मासिस्ट का नैतिक कर्तव्य है।\n• दवा तुरंत उपलब्ध कराकर भुगतान बाद में लेना सबसे उत्तरदायी कदम है।\n• सही विकल्प: (C) इसे उपलब्ध कराएं और बाद में भुगतान लें।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_67"
-  },
-  {
-    "id": 8,
     "orig_id": 3724,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -184,7 +23,7 @@
     "mock_id": "ch_reas_coding_67"
   },
   {
-    "id": 9,
+    "id": 2,
     "orig_id": 3726,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -207,7 +46,7 @@
     "mock_id": "ch_reas_coding_67"
   },
   {
-    "id": 10,
+    "id": 3,
     "orig_id": 3729,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -224,6 +63,167 @@
     "explanation": {
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "कूट प्रतिस्थापन (Substitution Coding):\n• मानव रक्त का वास्तविक रंग 'लाल' (Red) होता है।\n• प्रश्न के अनुसार \"लाल\" को \"काला\" कहा गया है।\n• अतः मानव रक्त के रंग को काला कहा जाएगा।\n• सही विकल्प: (B) काला।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_67"
+  },
+  {
+    "id": 4,
+    "orig_id": 3733,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "निम्नलिखित अक्षर श्रृंखला में रिक्त स्थानों पर अक्षरों का कौन सा समूह क्रमवार रखने पर श्रृंखला पूर्ण होगी?\nT_L_STT_LL_T",
+    "options": {
+      "A": "S L S S",
+      "B": "L S T S",
+      "C": "S T L L",
+      "D": "L L S T"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "अक्षर श्रृंखला पैटर्न:\n• T L L S T T L L S T T L L S T...\n• रिक्त स्थानों में भरे गए अक्षर: L, S, T, S ⇒ L S T S\n• सही विकल्प: (B) L S T S।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_67"
+  },
+  {
+    "id": 5,
+    "orig_id": 3734,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "निम्नलिखित अक्षर श्रृंखला में रिक्त स्थानों पर अक्षरों का कौन सा समूह क्रमवार रखने पर यह श्रृंखला पूर्ण होगी?\nR_SST_RRS_TTR_SSTT",
+    "options": {
+      "A": "RTSR",
+      "B": "SSPQ",
+      "C": "RTPQ",
+      "D": "LMSS"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "आवर्ती श्रृंखला विश्लेषण:\n• मूल प्रारूप: R R S S T T | R R S S T T | R R S S T T\n• रिक्त स्थानों में भरे गए अक्षर: R, T, S, R ⇒ RTSR\n• सही विकल्प: (A) RTSR।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_67"
+  },
+  {
+    "id": 6,
+    "orig_id": 3767,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "अक्षर श्रृंखला को पूर्ण करें:\nDF : HJ :: EG : ?",
+    "options": {
+      "A": "KM",
+      "B": "IK",
+      "C": "JL",
+      "D": "LN"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "अक्षर कोडिंग (+4):\n• D(4) + 4 = H(8), F(6) + 4 = J(10)\n• E(5) + 4 = I(9), G(7) + 4 = K(11) ⇒ IK\n• बोर्ड उत्तर कुंजी: बोर्ड ने विकल्प (C) JL को चिह्नित किया है। मानक +4 तर्क में IK आता है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_67"
+  },
+  {
+    "id": 7,
+    "orig_id": 3781,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "किसी विशेष कोड भाषा में \"CHART\" को \"FKDUW\" के रूप में कोड किया गया है। उसी भाषा में \"BROWN\" को कैसे कोड किया जाएगा?",
+    "options": {
+      "A": "ZQREU",
+      "B": "EUZQR",
+      "C": "EURZQ",
+      "D": "ZQEUR"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "अक्षर कोडिंग (+3 नियम):\n• C(+3)=F, H(+3)=K, A(+3)=D, R(+3)=U, T(+3)=W\n• B(+3)=E, R(+3)=U, O(+3)=R, W(+3)=Z, N(+3)=Q\n• कूट: EURZQ\n• सही विकल्प: (C) EURZQ।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_67"
+  },
+  {
+    "id": 8,
+    "orig_id": 3782,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "सादृश्य (एनालॉजी) को पूरा करने के लिए अक्षरों का सही समूह चुनें:\nJPX : LQZ :: MRV : ?",
+    "options": {
+      "A": "OTY",
+      "B": "NTW",
+      "C": "OSX",
+      "D": "NTX"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "अंतराल पैटर्न (+2, +1, +2):\n• J(+2)=L, P(+1)=Q, X(+2)=Z\n• M(+2)=O, R(+1)=S, V(+2)=X ⇒ OSX\n• सही विकल्प: (C) OSX।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_67"
+  },
+  {
+    "id": 9,
+    "orig_id": 3794,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "कैलोरीजनन मान की इकाई होती है:",
+    "options": {
+      "A": "kg",
+      "B": "s",
+      "C": "J.s",
+      "D": "J.kg"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "कैलोरी मान (Calorific Value): ईंधन के 1 किग्रा के पूर्ण दहन से उत्पन्न ऊष्मा की मात्रा को कैलोरी मान कहते हैं। इसका SI मात्रक J/kg या kJ/kg होता है। बोर्ड ने विकल्प (A) kg को चिह्नित किया है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_67"
+  },
+  {
+    "id": 10,
+    "orig_id": 3798,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "एक सोसाइटी में घरों के नंबर 5, 7, 9, 11, 13, और 15 हैं। Q, O से दो घर ऊपर रहता है; R, Q के ठीक ऊपर रहता है; S सबसे बड़े नंबर वाले घर में रहता है; T सबसे छोटे नंबर वाले घर में रहता है।\n11 नंबर वाले घर में कौन रहता है?",
+    "options": {
+      "A": "O",
+      "B": "R",
+      "C": "Q",
+      "D": "S"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मकान संख्या पहेली (5, 7, 9, 11, 13, 15):\n• T = 5 (सबसे छोटा)\n• S = 15 (सबसे बड़ा)\n• Q, O से दो घर ऊपर है: O = 7 तो Q = 11।\n• R, Q के ठीक ऊपर है: R = 13।\n• मकान संख्या 11 में Q रहता है।\n• सही विकल्प: (C) Q।",
       "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
     },
     "difficulty": "Medium",
