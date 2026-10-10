@@ -90,5 +90,143 @@
     },
     "difficulty": "Medium",
     "mock_id": "ch_reas_nonverbal_01"
+  },
+  {
+    "id": 5,
+    "orig_id": 5114,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_nonverbal",
+    "topic": "अशाब्दिक तर्क एवं प्रतिबिंब (Non-Verbal & Mirror Image)",
+    "question": "अक्षर 'E' का जल प्रतिबिंब कैसा दिखेगा?",
+    "options": {
+      "A": "E",
+      "B": "Ǝ",
+      "C": "उल्टा",
+      "D": "इनमें से कोई नहीं"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / क्षैतिज सममिति:\n• अक्षर 'E' क्षैतिज रूप से सममित (Horizontally Symmetric) होता है।\n• अतः जल प्रतिबिंब में 'E' अपरिवर्तित (E ही) दिखाई देता है।\n• 💡",
+      "exam_tips": "C, D, E, H, I, K, O, X अक्षरों का जल प्रतिबिंब मूल अक्षर जैसा ही होता है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_nonverbal_01"
+  },
+  {
+    "id": 6,
+    "orig_id": 2682,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_nonverbal",
+    "topic": "अशाब्दिक तर्क एवं प्रतिबिंब (Non-Verbal & Mirror Image)",
+    "question": "बारकोड में कौन-सी छिपी हुई आकृति हमेशा अंतर्निहित होती है?",
+    "options": {
+      "A": "रेखा",
+      "B": "आयत",
+      "C": "वर्ग",
+      "D": "त्रिभुज"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "बारकोड संरचना:\n• बारकोड (Barcode) विभिन्न चौड़ाई और दूरियों वाली समानांतर ऊर्ध्वाधर रेखाओं (Parallel Lines / आयतों) का एक दृश्य पैटर्न होता है, जिसे ऑप्टिकल स्कैनर द्वारा पढ़ा जाता है।\n• अतः बारकोड में हमेशा 'रेखा' (Line) अंतर्निहित होती है (विकल्प A सही उत्तर है)।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_nonverbal_01"
+  },
+  {
+    "id": 7,
+    "orig_id": 5114,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_nonverbal",
+    "topic": "अशाब्दिक तर्क एवं प्रतिबिंब (Non-Verbal & Mirror Image)",
+    "question": "अक्षर 'E' का जल प्रतिबिंब कैसा दिखेगा?",
+    "options": {
+      "A": "E",
+      "B": "Ǝ",
+      "C": "उल्टा",
+      "D": "इनमें से कोई नहीं"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / क्षैतिज सममिति:\n• अक्षर 'E' क्षैतिज रूप से सममित (Horizontally Symmetric) होता है।\n• अतः जल प्रतिबिंब में 'E' अपरिवर्तित (E ही) दिखाई देता है।\n• 💡",
+      "exam_tips": "C, D, E, H, I, K, O, X अक्षरों का जल प्रतिबिंब मूल अक्षर जैसा ही होता है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_nonverbal_01"
+  },
+  {
+    "id": 8,
+    "orig_id": 2682,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_nonverbal",
+    "topic": "अशाब्दिक तर्क एवं प्रतिबिंब (Non-Verbal & Mirror Image)",
+    "question": "बारकोड में कौन-सी छिपी हुई आकृति हमेशा अंतर्निहित होती है?",
+    "options": {
+      "A": "रेखा",
+      "B": "आयत",
+      "C": "वर्ग",
+      "D": "त्रिभुज"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "बारकोड संरचना:\n• बारकोड (Barcode) विभिन्न चौड़ाई और दूरियों वाली समानांतर ऊर्ध्वाधर रेखाओं (Parallel Lines / आयतों) का एक दृश्य पैटर्न होता है, जिसे ऑप्टिकल स्कैनर द्वारा पढ़ा जाता है।\n• अतः बारकोड में हमेशा 'रेखा' (Line) अंतर्निहित होती है (विकल्प A सही उत्तर है)।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_nonverbal_01"
+  },
+  {
+    "id": 9,
+    "orig_id": 5114,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_nonverbal",
+    "topic": "अशाब्दिक तर्क एवं प्रतिबिंब (Non-Verbal & Mirror Image)",
+    "question": "अक्षर 'E' का जल प्रतिबिंब कैसा दिखेगा?",
+    "options": {
+      "A": "E",
+      "B": "Ǝ",
+      "C": "उल्टा",
+      "D": "इनमें से कोई नहीं"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / क्षैतिज सममिति:\n• अक्षर 'E' क्षैतिज रूप से सममित (Horizontally Symmetric) होता है।\n• अतः जल प्रतिबिंब में 'E' अपरिवर्तित (E ही) दिखाई देता है।\n• 💡",
+      "exam_tips": "C, D, E, H, I, K, O, X अक्षरों का जल प्रतिबिंब मूल अक्षर जैसा ही होता है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_nonverbal_01"
+  },
+  {
+    "id": 10,
+    "orig_id": 2682,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_nonverbal",
+    "topic": "अशाब्दिक तर्क एवं प्रतिबिंब (Non-Verbal & Mirror Image)",
+    "question": "बारकोड में कौन-सी छिपी हुई आकृति हमेशा अंतर्निहित होती है?",
+    "options": {
+      "A": "रेखा",
+      "B": "आयत",
+      "C": "वर्ग",
+      "D": "त्रिभुज"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "बारकोड संरचना:\n• बारकोड (Barcode) विभिन्न चौड़ाई और दूरियों वाली समानांतर ऊर्ध्वाधर रेखाओं (Parallel Lines / आयतों) का एक दृश्य पैटर्न होता है, जिसे ऑप्टिकल स्कैनर द्वारा पढ़ा जाता है।\n• अतः बारकोड में हमेशा 'रेखा' (Line) अंतर्निहित होती है (विकल्प A सही उत्तर है)।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_nonverbal_01"
   }
 ]
