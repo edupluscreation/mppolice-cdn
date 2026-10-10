@@ -5,6 +5,50 @@
     "subject_code": "REASONING",
     "topic": "शब्द निर्माण एवं शब्दकोश (Words & Dictionary)",
     "topic_id": "reas_words",
+    "question": "निम्नलिखित में से कौन-सा शब्द 'CONGRATULATIONS' शब्द के अक्षरों का उपयोग करके नहीं बनाया जा सकता?",
+    "options": {
+      "A": "SOLUTION",
+      "B": "CARTON",
+      "C": "RATIONAL",
+      "D": "LANGUAGES"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: अक्षरों से शब्द न बनने का परीक्षण (Word Formation - Negative Test):\nदिए गए मूल शब्द में किसी आवश्यक अक्षर की अनुपस्थिति की जांच करना।\n• 📝 स्टेप-बाय-स्टेप हल:\n1. मूल शब्द: C O N G R A T U L A T I O N S\n2. विकल्प (D) LANGUAGES में:\n• 'E' अक्षर की आवश्यकता है, जबकि CONGRATULATIONS में कोई 'E' नहीं है।\n• 'G' दो बार चाहिए, जबकि मूल शब्द में 'G' केवल एक बार है।\nअतः LANGUAGES कभी नहीं बन सकता।\n3. व्यापम बोर्ड द्वारा इस प्रश्न में विकल्प (A) SOLUTION को उत्तर कुंजी में चिह्नित किया गया है (विसंगति)।\n4. अतः दोनों पक्षों का ध्यान रखें: तार्किक रूप से न बनने वाला शब्द LANGUAGES है, बोर्ड कुंजी (A) SOLUTION दर्शाती है।\n• 💡",
+      "exam_tips": "मूल शब्द में जो अक्षर बिल्कुल अनुपस्थित हो, उसे सबसे पहले खोजें।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_reas_words_03"
+  },
+  {
+    "id": 2,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+    "subject_code": "REASONING",
+    "topic": "शब्द निर्माण एवं शब्दकोश (Words & Dictionary)",
+    "topic_id": "reas_words",
+    "question": "निम्नलिखित शब्दों को उस क्रम में व्यवस्थित कीजिए जिस क्रम में वे अंग्रेजी शब्दकोश में आते हैं:\n1. Padeye\n2. Pademelon\n3. Paderewski\n4. Padishah\n5. Paderborn",
+    "options": {
+      "A": "25314",
+      "B": "25431",
+      "C": "25413",
+      "D": "52314"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: अंग्रेजी शब्दकोश क्रम (Dictionary Order of Words):\nशब्दों को उनके वर्णमाला क्रम में पहले से अंतिम अक्षर तक व्यवस्थित करना।\n• 📝 स्टेप-बाय-स्टेप हल:\n1. दिए गए शब्द:\n1. Padeye: P-a-d-e-y\n2. Pademelon: P-a-d-e-m\n3. Paderewski: P-a-d-e-r-e\n4. Padishah: P-a-d-i\n5. Paderborn: P-a-d-e-r-b\n2. तुलना:\n• सभी में 'Pad' समान है। चौथा अक्षर 1, 2, 3, 5 में 'e' है और 4 में 'i' है (अतः 4 सबसे अंत में आएगा)।\n• 1, 2, 3, 5 में पांचवां अक्षर:\n• 2 में 'm' (सबसे पहले आएगा → 2)\n• 5 में 'r-b' (दूसरे स्थान पर → 5)\n• 3 में 'r-e' (तीसरे स्थान पर → 3)\n• 1 में 'y' (चौथे स्थान पर → 1)\n• 4 में 'i' (पांचवें स्थान पर → 4)\n3. शुद्ध शब्दकोश क्रम: 2 → 5 → 3 → 1 → 4 (विकल्प A)\n4. व्यापम बोर्ड द्वारा इस प्रश्न में विकल्प (B) 25431 को उत्तर कुंजी में चिह्नित किया गया है।\n• 💡",
+      "exam_tips": "वास्तविक शब्दकोश क्रम 25314 (विकल्प A) है, बोर्ड कुंजी 25431 दर्शाती है।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_reas_words_03"
+  },
+  {
+    "id": 3,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+    "subject_code": "REASONING",
+    "topic": "शब्द निर्माण एवं शब्दकोश (Words & Dictionary)",
+    "topic_id": "reas_words",
     "question": "शब्दकोश में सबसे अंत में कौन-सा शब्द आता है?\nLATEST, LATER, LATEX, LATITUDE",
     "options": {
       "A": "LATEST",
@@ -22,7 +66,7 @@
     "test_id": "ch_reas_words_03"
   },
   {
-    "id": 2,
+    "id": 4,
     "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
     "subject_code": "REASONING",
     "topic": "शब्द निर्माण एवं शब्दकोश (Words & Dictionary)",
@@ -44,7 +88,7 @@
     "test_id": "ch_reas_words_03"
   },
   {
-    "id": 3,
+    "id": 5,
     "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
     "subject_code": "REASONING",
     "topic": "शब्द निर्माण एवं शब्दकोश (Words & Dictionary)",
@@ -66,7 +110,7 @@
     "test_id": "ch_reas_words_03"
   },
   {
-    "id": 4,
+    "id": 6,
     "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
     "subject_code": "REASONING",
     "topic": "शब्द निर्माण एवं शब्दकोश (Words & Dictionary)",
@@ -88,7 +132,7 @@
     "test_id": "ch_reas_words_03"
   },
   {
-    "id": 5,
+    "id": 7,
     "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
     "subject_code": "REASONING",
     "topic": "शब्द निर्माण एवं शब्दकोश (Words & Dictionary)",
@@ -110,7 +154,7 @@
     "test_id": "ch_reas_words_03"
   },
   {
-    "id": 6,
+    "id": 8,
     "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
     "subject_code": "REASONING",
     "topic": "शब्द निर्माण एवं शब्दकोश (Words & Dictionary)",
@@ -132,7 +176,7 @@
     "test_id": "ch_reas_words_03"
   },
   {
-    "id": 7,
+    "id": 9,
     "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
     "subject_code": "REASONING",
     "topic": "शब्द निर्माण एवं शब्दकोश (Words & Dictionary)",
@@ -154,7 +198,7 @@
     "test_id": "ch_reas_words_03"
   },
   {
-    "id": 8,
+    "id": 10,
     "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
     "subject_code": "REASONING",
     "topic": "शब्द निर्माण एवं शब्दकोश (Words & Dictionary)",
@@ -171,50 +215,6 @@
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "📌 मुख्य तथ्य / नियम / सूत्र: अक्षरों की उपलब्धता:\nमूल शब्द CONGRATULATIONS में G, R, O, A, N सभी अक्षर उपस्थित हैं।\n• 📝 स्टेप-बाय-स्टेप हल:\n1. GROAN के अक्षर: G(उपलब्ध), R(उपलब्ध), O(उपलब्ध), A(उपलब्ध), N(उपलब्ध)।\n2. विकल्प (B) में 'E', (C) में 'E', (D) में 'H' और 'D' अनुपस्थित हैं।\n3. अतः केवल GROAN बनाया जा सकता है।\n4. सही विकल्प (A) GROAN है।\n• 💡",
       "exam_tips": "शब्द के प्रत्येक अक्षर की आवृत्ति की तुलना करें।"
-    },
-    "difficulty": "Medium",
-    "test_id": "ch_reas_words_03"
-  },
-  {
-    "id": 9,
-    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
-    "subject_code": "REASONING",
-    "topic": "शब्द निर्माण एवं शब्दकोश (Words & Dictionary)",
-    "topic_id": "reas_words",
-    "question": "दिए गए अंग्रेजी शब्दों को उस क्रम में व्यवस्थित करें जिस क्रम में वे अंग्रेजी शब्दकोश में आते हैं।\n1. Magnet\n2. Magnum\n3. Magic\n4. Magnolia\n5. Magnify",
-    "options": {
-      "A": "3, 1, 4, 5, 2",
-      "B": "3, 1, 5, 4, 2",
-      "C": "1, 3, 5, 4, 2",
-      "D": "3, 5, 1, 4, 2"
-    },
-    "correct": "B",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: शब्दकोश क्रम (Dictionary Order):\nसभी शब्द 'Mag' से प्रारंभ होते हैं।\n• 📝 स्टेप-बाय-स्टेप हल:\n1. चौथे अक्षर की तुलना:\n• 3. Magic ('i') -> सबसे पहले (3)\n• 1. Magnet ('n', 5th 'e') -> दूसरा (1)\n• 5. Magnify ('n', 5th 'i') -> तीसरा (5)\n• 4. Magnolia ('n', 5th 'o') -> चौथा (4)\n• 2. Magnum ('n', 5th 'u') -> पांचवां (2)\n2. सही क्रम: 3, 1, 5, 4, 2\n3. अतः सही विकल्प (B) 3, 1, 5, 4, 2 है।\n• 💡",
-      "exam_tips": "वर्णमाला क्रम: i < ne < ni < no < nu।"
-    },
-    "difficulty": "Medium",
-    "test_id": "ch_reas_words_03"
-  },
-  {
-    "id": 10,
-    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
-    "subject_code": "REASONING",
-    "topic": "शब्द निर्माण एवं शब्दकोश (Words & Dictionary)",
-    "topic_id": "reas_words",
-    "question": "\"R, A, C, E\" के सभी अक्षरों का प्रयोग करके कौन-सा सार्थक शब्द बनाया जा सकता है?",
-    "options": {
-      "A": "CARE",
-      "B": "RAEC",
-      "C": "CERA",
-      "D": "CEAR"
-    },
-    "correct": "A",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / नियम: अक्षरों के पुनर्संयोजन से सार्थक अंग्रेजी शब्द निर्माण।\n• 📝 स्टेप-बाय-स्टेप हल:\n• अक्षर: R, A, C, E\n• विकल्पों में:\n• CARE (देखभाल/परवाह) एक पूर्णतः मान्य और अर्थपूर्ण अंग्रेजी शब्द है।\n• अन्य कोई भी विकल्प शब्दकोश में मान्य शब्द नहीं है।\n• 💡",
-      "exam_tips": "RACE और CARE एक-दूसरे के अनाग्राम (Anagrams) हैं।"
     },
     "difficulty": "Medium",
     "test_id": "ch_reas_words_03"

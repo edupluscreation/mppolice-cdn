@@ -5,6 +5,50 @@
     "subject_code": "REASONING",
     "topic": "शब्द निर्माण एवं शब्दकोश (Words & Dictionary)",
     "topic_id": "reas_words",
+    "question": "दिए गए शब्दों में से उस शब्द का चयन करें जिसे दिए गए शब्द के अक्षरों का उपयोग करके बनाया जा सकता है।\nPREACHER",
+    "options": {
+      "A": "TEACH",
+      "B": "TOUCH",
+      "C": "CAREER",
+      "D": "CREATE"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: शब्द गठन परीक्षण (Word Formation):\n• मूल शब्द के अक्षरों की उपलब्धता:\n• 📝 स्टेप-बाय-स्टेप हल:\n1. मूल शब्द: P R E A C H E R\n• उपलब्ध अक्षर: P(1), R(2), E(2), A(1), C(1), H(1)\n2. विकल्प (A) TEACH: मूल शब्द में 'T' उपलब्ध नहीं है।\n3. विकल्प (B) TOUCH: मूल शब्द में 'O', 'U', 'T' नहीं हैं।\n4. विकल्प (C) CAREER: इसमें C(1), A(1), R(2), E(2) की आवश्यकता है, और ये सभी अक्षर PREACHER में पर्याप्त संख्या में मौजूद हैं।\n5. विकल्प (D) CREATE: मूल शब्द में 'T' नहीं है।\n6. अतः केवल CAREER बनाया जा सकता है।\n7. सही उत्तर (C) CAREER है।\n• 💡",
+      "exam_tips": "प्रत्येक अक्षर की आवृत्ति (जैसे E दो बार है, R दो बार है) की जांच अवश्य करें।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_reas_words_05"
+  },
+  {
+    "id": 2,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+    "subject_code": "REASONING",
+    "topic": "शब्द निर्माण एवं शब्दकोश (Words & Dictionary)",
+    "topic_id": "reas_words",
+    "question": "दिए गए अंग्रेजी शब्दों को उस क्रम में व्यवस्थित करें जिस क्रम में वे अंग्रेजी शब्दकोश में आते हैं।\n1- Kashmir\n2- Kayak\n3- Kebab\n4- Karaoke\n5- Karma",
+    "options": {
+      "A": "4, 5, 3, 2, 1",
+      "B": "4, 5, 1, 2, 3",
+      "C": "4, 5, 3, 1, 2",
+      "D": "4, 5, 1, 3, 2"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: शब्दकोश क्रम व्यवस्था (Dictionary Order):\n• 📝 स्टेप-बाय-स्टेप हल:\n1. दिए गए शब्दों के वर्णमाला क्रम की तुलना करने पर सही क्रम 4, 5, 3, 1, 2 बनता है।\nअतः सही उत्तर (C) 4, 5, 3, 1, 2 है।\n• 💡",
+      "exam_tips": "पहले अक्षर से मिलान शुरू करें, समान होने पर दूसरे और तीसरे अक्षर की तुलना करें।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_reas_words_05"
+  },
+  {
+    "id": 3,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+    "subject_code": "REASONING",
+    "topic": "शब्द निर्माण एवं शब्दकोश (Words & Dictionary)",
+    "topic_id": "reas_words",
     "question": "दिए गए विकल्पों में से उस शब्द को चुनिए जिसे दिए गए शब्द के अक्षरों का उपयोग करके नहीं बनाया जा सकता है।\nACCUMULATE",
     "options": {
       "A": "LATE",
@@ -22,7 +66,7 @@
     "test_id": "ch_reas_words_05"
   },
   {
-    "id": 2,
+    "id": 4,
     "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
     "subject_code": "REASONING",
     "topic": "शब्द निर्माण एवं शब्दकोश (Words & Dictionary)",
@@ -44,7 +88,7 @@
     "test_id": "ch_reas_words_05"
   },
   {
-    "id": 3,
+    "id": 5,
     "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
     "subject_code": "REASONING",
     "topic": "शब्द निर्माण एवं शब्दकोश (Words & Dictionary)",
@@ -66,7 +110,7 @@
     "test_id": "ch_reas_words_05"
   },
   {
-    "id": 4,
+    "id": 6,
     "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
     "subject_code": "REASONING",
     "topic": "शब्द निर्माण एवं शब्दकोश (Words & Dictionary)",
@@ -88,7 +132,7 @@
     "test_id": "ch_reas_words_05"
   },
   {
-    "id": 5,
+    "id": 7,
     "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
     "subject_code": "REASONING",
     "topic": "शब्द निर्माण एवं शब्दकोश (Words & Dictionary)",
@@ -110,7 +154,7 @@
     "test_id": "ch_reas_words_05"
   },
   {
-    "id": 6,
+    "id": 8,
     "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
     "subject_code": "REASONING",
     "topic": "शब्द निर्माण एवं शब्दकोश (Words & Dictionary)",
@@ -132,7 +176,7 @@
     "test_id": "ch_reas_words_05"
   },
   {
-    "id": 7,
+    "id": 9,
     "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
     "subject_code": "REASONING",
     "topic": "शब्द निर्माण एवं शब्दकोश (Words & Dictionary)",
@@ -154,7 +198,7 @@
     "test_id": "ch_reas_words_05"
   },
   {
-    "id": 8,
+    "id": 10,
     "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
     "subject_code": "REASONING",
     "topic": "शब्द निर्माण एवं शब्दकोश (Words & Dictionary)",
@@ -171,50 +215,6 @@
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "मुख्य तथ्य / नियम / सूत्र:\n• अक्षर: J, O, U, R, N, A, L, I, S, M को क्रम में लगाते हैं।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• क्रम: A, I, J, L, M, N, O, R, S, U।\n• दाएँ से तीसरा = S, U छोड़कर R, S? गिनने पर A, I, J, L, M, N, O, R, S, U में दाएँ से पहला U, दूसरा S, तीसरा R होना चाहिए, पर आधिकारिक कुंजी के अनुसार M, विकल्प (A) दिया गया है।\n• परीक्षा में कुंजी को अंतिम मानें।",
       "exam_tips": "पहले सभी अक्षर लिखकर क्रमबद्ध करें।"
-    },
-    "difficulty": "Medium",
-    "test_id": "ch_reas_words_05"
-  },
-  {
-    "id": 9,
-    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
-    "subject_code": "REASONING",
-    "topic": "शब्द निर्माण एवं शब्दकोश (Words & Dictionary)",
-    "topic_id": "reas_words",
-    "question": "\"MARPRIY\" के सभी अक्षरों का उपयोग करके कौन-सा वैध (सार्थक) अंग्रेज़ी शब्द बनाया जा सकता है?",
-    "options": {
-      "A": "PRAYIRM",
-      "B": "MARPRYL",
-      "C": "PRIMARY",
-      "D": "PIMARYR"
-    },
-    "correct": "C",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "मुख्य तथ्य / नियम / सूत्र:\n• 7 अक्षरों से PRIMARY बनता है।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• अतः विकल्प (C) सही है।",
-      "exam_tips": "PRIMARY का अर्थ प्राथमिक है।"
-    },
-    "difficulty": "Medium",
-    "test_id": "ch_reas_words_05"
-  },
-  {
-    "id": 10,
-    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
-    "subject_code": "REASONING",
-    "topic": "शब्द निर्माण एवं शब्दकोश (Words & Dictionary)",
-    "topic_id": "reas_words",
-    "question": "निम्नलिखित विकल्पों में से कौन-सा शब्द \"NOCTURNAL\" शब्द के अक्षरों का उपयोग करके नहीं बनाया जा सकता?",
-    "options": {
-      "A": "CANNOT",
-      "B": "UNTORN",
-      "C": "CARROON",
-      "D": "LUNAR"
-    },
-    "correct": "A",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "मुख्य तथ्य / नियम / सूत्र:\n• दिए गए अक्षरों से बाहर का अक्षर नहीं ले सकते।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• आधिकारिक कुंजी के अनुसार CANNOT नहीं बन सकता, विकल्प (A) सही है।\n• शेष शब्द उपलब्ध अक्षरों से बनते हैं।",
-      "exam_tips": "दोहरे अक्षरों की गिनती अवश्य करें।"
     },
     "difficulty": "Medium",
     "test_id": "ch_reas_words_05"

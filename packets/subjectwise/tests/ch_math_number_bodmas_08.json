@@ -5,6 +5,28 @@
     "subject_code": "MATH",
     "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
     "topic_id": "math_number_bodmas",
+    "question": "एक स्थानीय सहकारी संस्था में सदस्यों की आयु इस प्रकार है: 35, 40, 45, 40, 50, 55, 60, 40, 45, और 55। आयु का बहुलक क्या होगा?",
+    "options": {
+      "A": "40",
+      "B": "45",
+      "C": "55",
+      "D": "35"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र:\n• बहुलक वह मान है जो सबसे अधिक बार आता है।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• 40 तीन बार, 45 दो बार, 55 दो बार, शेष एक-एक बार।\n• अतः बहुलक 40, विकल्प (A) सही है।",
+      "exam_tips": "माध्य, माध्यिका और बहुलक तीनों केन्द्रीय प्रवृत्ति हैं।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_math_number_bodmas_08"
+  },
+  {
+    "id": 2,
+    "subject": "सरल अंकगणित",
+    "subject_code": "MATH",
+    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
+    "topic_id": "math_number_bodmas",
     "question": "एक संख्या x को इस प्रकार परिभाषित किया गया है: x = (5/12) + (7/24) + (9/48) + (√9 - 2) निम्नलिखित में से कौन-सी श्रेणी x को सबसे अच्छी तरह वर्णित करती है?",
     "options": {
       "A": "अपरिमेय संख्या",
@@ -22,7 +44,7 @@
     "test_id": "ch_math_number_bodmas_08"
   },
   {
-    "id": 2,
+    "id": 3,
     "subject": "सरल अंकगणित",
     "subject_code": "MATH",
     "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
@@ -44,7 +66,7 @@
     "test_id": "ch_math_number_bodmas_08"
   },
   {
-    "id": 3,
+    "id": 4,
     "subject": "सरल अंकगणित",
     "subject_code": "MATH",
     "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
@@ -66,7 +88,7 @@
     "test_id": "ch_math_number_bodmas_08"
   },
   {
-    "id": 4,
+    "id": 5,
     "subject": "सरल अंकगणित",
     "subject_code": "MATH",
     "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
@@ -88,7 +110,7 @@
     "test_id": "ch_math_number_bodmas_08"
   },
   {
-    "id": 5,
+    "id": 6,
     "subject": "सरल अंकगणित",
     "subject_code": "MATH",
     "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
@@ -110,7 +132,7 @@
     "test_id": "ch_math_number_bodmas_08"
   },
   {
-    "id": 6,
+    "id": 7,
     "subject": "सरल अंकगणित",
     "subject_code": "MATH",
     "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
@@ -132,7 +154,7 @@
     "test_id": "ch_math_number_bodmas_08"
   },
   {
-    "id": 7,
+    "id": 8,
     "subject": "सरल अंकगणित",
     "subject_code": "MATH",
     "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
@@ -154,7 +176,7 @@
     "test_id": "ch_math_number_bodmas_08"
   },
   {
-    "id": 8,
+    "id": 9,
     "subject": "सरल अंकगणित",
     "subject_code": "MATH",
     "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
@@ -176,7 +198,7 @@
     "test_id": "ch_math_number_bodmas_08"
   },
   {
-    "id": 9,
+    "id": 10,
     "subject": "सरल अंकगणित",
     "subject_code": "MATH",
     "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
@@ -193,28 +215,6 @@
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "मुख्य तथ्य / नियम / सूत्र:\n• माध्य = 52.8, वर्ग योग = 14.8, 14.8/4 = 3.7।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• वर्गमूल = 1.92, अतः विकल्प (B) सही है।",
       "exam_tips": "छोटी गणना में दशमलव सावधानी से लें।"
-    },
-    "difficulty": "Medium",
-    "test_id": "ch_math_number_bodmas_08"
-  },
-  {
-    "id": 10,
-    "subject": "सरल अंकगणित",
-    "subject_code": "MATH",
-    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
-    "topic_id": "math_number_bodmas",
-    "question": "यदि 4♣ = 6 और 6♣ = 9, तो 8♣ = ?",
-    "options": {
-      "A": "17",
-      "B": "18",
-      "C": "12",
-      "D": "20"
-    },
-    "correct": "C",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "मुख्य तथ्य / नियम / सूत्र:\n• ♣ का अर्थ ×1.5 है।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• 4 × 1.5 = 6, 6 × 1.5 = 9, 8 × 1.5 = 12।\n• अतः विकल्प (C) सही है।",
-      "exam_tips": "भिन्न नियम में पहले भाग देकर जाँचें।"
     },
     "difficulty": "Medium",
     "test_id": "ch_math_number_bodmas_08"

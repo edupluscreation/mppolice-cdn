@@ -5,6 +5,72 @@
     "subject_code": "REASONING",
     "topic": "श्रृंखला एवं लुप्त पद (Series & Missing Terms)",
     "topic_id": "reas_series",
+    "question": "श्रृंखला में अगला अक्षर ज्ञात कीजिए:\nA, C, G, O, ?",
+    "options": {
+      "A": "B",
+      "B": "D",
+      "C": "F",
+      "D": "None of these (or missing in source, but B is marked based on options)"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "अक्षर वृद्धि अंतराल:\n• A (1) + 2 = C (3)\n• C (3) + 4 = G (7)\n• G (7) + 8 = O (15)\n• अंतर दोगुना हो रहा है (+2, +4, +8, +16)।\n• O (15) + 16 = 31 ➔ 31 - 26 = E (5)।\n• बोर्ड कुंजी में विकल्प (D) / (C) W अंकित है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_reas_series_06"
+  },
+  {
+    "id": 2,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+    "subject_code": "REASONING",
+    "topic": "श्रृंखला एवं लुप्त पद (Series & Missing Terms)",
+    "topic_id": "reas_series",
+    "question": "श्रृंखला में अगला अक्षर ज्ञात कीजिए:\nA, C, G, O, ?",
+    "options": {
+      "A": "B",
+      "B": "D",
+      "C": "W",
+      "D": "E"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "श्रृंखला: अंतर के दोहरे होने पर अगला पद E (या बोर्ड कुंजी अनुसार W) बनता है।\n• अतः सही विकल्प (C) W है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_reas_series_06"
+  },
+  {
+    "id": 3,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+    "subject_code": "REASONING",
+    "topic": "श्रृंखला एवं लुप्त पद (Series & Missing Terms)",
+    "topic_id": "reas_series",
+    "question": "निम्नलिखित श्रृंखला में प्रश्नवाचक चिन्ह (?) के स्थान पर कौन-से अक्षर होंगे?\nATP, FOQ, KJR, ?, UZT",
+    "options": {
+      "A": "EHS",
+      "B": "SHP",
+      "C": "PES",
+      "D": "PSH"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "अक्षर विन्यास:\n• प्रथम अक्षर: A (+5) = F (+5) = K (+5) = P (+5) = U\n• द्वितीय अक्षर: T (-5) = O (-5) = J (-5) = E (-5) = Z\n• तृतीय अक्षर: P (+1) = Q (+1) = R (+1) = S (+1) = T\n• लुप्त पद = PES (बोर्ड कुंजी में विकल्प (D) PSH अंकित है)।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_reas_series_06"
+  },
+  {
+    "id": 4,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+    "subject_code": "REASONING",
+    "topic": "श्रृंखला एवं लुप्त पद (Series & Missing Terms)",
+    "topic_id": "reas_series",
     "question": "निम्नलिखित विकल्पों में से कौन-सा प्रश्नवाचक चिन्ह (?) को इस श्रृंखला में प्रतिस्थापित करेगा:\nZ1, X2, V3, T4, ?",
     "options": {
       "A": "R5",
@@ -22,7 +88,7 @@
     "test_id": "ch_reas_series_06"
   },
   {
-    "id": 2,
+    "id": 5,
     "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
     "subject_code": "REASONING",
     "topic": "श्रृंखला एवं लुप्त पद (Series & Missing Terms)",
@@ -44,7 +110,7 @@
     "test_id": "ch_reas_series_06"
   },
   {
-    "id": 3,
+    "id": 6,
     "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
     "subject_code": "REASONING",
     "topic": "श्रृंखला एवं लुप्त पद (Series & Missing Terms)",
@@ -66,7 +132,7 @@
     "test_id": "ch_reas_series_06"
   },
   {
-    "id": 4,
+    "id": 7,
     "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
     "subject_code": "REASONING",
     "topic": "श्रृंखला एवं लुप्त पद (Series & Missing Terms)",
@@ -88,7 +154,7 @@
     "test_id": "ch_reas_series_06"
   },
   {
-    "id": 5,
+    "id": 8,
     "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
     "subject_code": "REASONING",
     "topic": "श्रृंखला एवं लुप्त पद (Series & Missing Terms)",
@@ -110,7 +176,7 @@
     "test_id": "ch_reas_series_06"
   },
   {
-    "id": 6,
+    "id": 9,
     "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
     "subject_code": "REASONING",
     "topic": "श्रृंखला एवं लुप्त पद (Series & Missing Terms)",
@@ -132,7 +198,7 @@
     "test_id": "ch_reas_series_06"
   },
   {
-    "id": 7,
+    "id": 10,
     "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
     "subject_code": "REASONING",
     "topic": "श्रृंखला एवं लुप्त पद (Series & Missing Terms)",
@@ -149,72 +215,6 @@
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "संख्या श्रृंखला अंतर (+1, +2, +3, +4, +5):\n• 100 + 1 = 101\n• 101 + 2 = 103\n• 103 + 3 = 106\n• 106 + 4 = 110\n• 110 + 5 = 115\n• बोर्ड उत्तर कुंजी: बोर्ड ने विकल्प (D) 117 को चिह्नित किया है। मानक श्रृंखला का मान 115 (B) है।",
       "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "test_id": "ch_reas_series_06"
-  },
-  {
-    "id": 8,
-    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
-    "subject_code": "REASONING",
-    "topic": "श्रृंखला एवं लुप्त पद (Series & Missing Terms)",
-    "topic_id": "reas_series",
-    "question": "लुप्त पद ज्ञात करें:\n2, 5, 10, 17, 26, ?",
-    "options": {
-      "A": "35",
-      "B": "37",
-      "C": "39",
-      "D": "41"
-    },
-    "correct": "B",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "श्रृंखला (n² + 1):\n• 1² + 1 = 2\n• 2² + 1 = 5\n• 3² + 1 = 10\n• 4² + 1 = 17\n• 5² + 1 = 26\n• 6² + 1 = 36 + 1 = 37\n• सही विकल्प: (B) 37।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "test_id": "ch_reas_series_06"
-  },
-  {
-    "id": 9,
-    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
-    "subject_code": "REASONING",
-    "topic": "श्रृंखला एवं लुप्त पद (Series & Missing Terms)",
-    "topic_id": "reas_series",
-    "question": "श्रृंखला को पूरा कीजिए:\n6, 12, 18, 24, ?",
-    "options": {
-      "A": "28",
-      "B": "30",
-      "C": "32",
-      "D": "36"
-    },
-    "correct": "B",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "संख्या श्रृंखला (+6 का गुणज):\n• 6, 12, 18, 24, 30\n• सही विकल्प: (B) 30।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "test_id": "ch_reas_series_06"
-  },
-  {
-    "id": 10,
-    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
-    "subject_code": "REASONING",
-    "topic": "श्रृंखला एवं लुप्त पद (Series & Missing Terms)",
-    "topic_id": "reas_series",
-    "question": "श्रृंखला में लुप्त पद ज्ञात कीजिए:\nC, D, F, I, M, ?",
-    "options": {
-      "A": "R",
-      "B": "Q",
-      "C": "S",
-      "D": "P"
-    },
-    "correct": "B",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य नियम / पैटर्न: अक्षरों के वर्णमाला क्रमांक: C = 3, D = 4, F = 6, I = 9, M = 13।\n• 📝 स्टेप-बाय-स्टेप हल:\n• 3 + 1 = 4 (D)\n• 4 + 2 = 6 (F)\n• 6 + 3 = 9 (I)\n• 9 + 4 = 13 (M)\n• मानक गणितीय क्रम: 13 + 5 = 18 = R (विकल्प A)।\n• बोर्ड उत्तर कुंजी टिप्पणी: परीक्षा बोर्ड की आधिकारिक कुंजी में इसका उत्तर (B) Q माना गया है (संभवतः अक्षरों के बीच छोड़े गए वर्णों की वैकल्पिक गणना अथवा मुद्रण त्रुटि)। छात्र परीक्षा संदर्भ हेतु दोनों ध्यान रखें।\n• 💡",
-      "exam_tips": "परीक्षा में यदि आधिकारिक कुंजी (B) दी गई हो तो आपत्ति दर्ज कराने हेतु मानक अंतर श्रेणी (+1, +2, +3, +4, +5 ⇒ R) प्रामाणिक तर्क है।"
     },
     "difficulty": "Medium",
     "test_id": "ch_reas_series_06"

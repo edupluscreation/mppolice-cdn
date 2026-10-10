@@ -5,6 +5,116 @@
     "subject_code": "REASONING",
     "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
     "topic_id": "reas_analogy",
+    "question": "उस संख्या को ज्ञात कीजिए, जो तीसरी संख्या से वही संबंध रखती है जैसा कि दूसरी संख्या पहली संख्या से रखती है।\n656 : 656 :: 370 : ?",
+    "options": {
+      "A": "73",
+      "B": "130",
+      "C": "126",
+      "D": "37"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "संख्या संबंध: बोर्ड कुंजी अनुसार 370 से संबंधित पद 126 है।\n• अतः सही उत्तर (C) 126 है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_reas_analogy_10"
+  },
+  {
+    "id": 2,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+    "subject_code": "REASONING",
+    "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
+    "topic_id": "reas_analogy",
+    "question": "निम्नलिखित प्रश्न में, प्रश्नवाचक चिह्न के स्थान पर आने वाला विकल्प ज्ञात कीजिए।\nPEN : KVM :: ROD : ?",
+    "options": {
+      "A": "ILZ",
+      "B": "IMW",
+      "C": "ILW",
+      "D": "ILX"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "विपरीत अक्षर (Opposite Letters) सादृश्यता:\n• P का विपरीत = K (16 + 11 = 27)\n• E का विपरीत = V (5 + 22 = 27)\n• N का विपरीत = M (14 + 13 = 27)\n• ROD के लिए:\n• R का विपरीत = I (18 + 9 = 27)\n• O का विपरीत = L (15 + 12 = 27)\n• D का विपरीत = W (4 + 23 = 27)\n• कूट: ILW (विकल्प C)।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_reas_analogy_10"
+  },
+  {
+    "id": 3,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+    "subject_code": "REASONING",
+    "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
+    "topic_id": "reas_analogy",
+    "question": "अक्षर श्रृंखला को पूर्ण करें:\nJUMP : KVOR :: FISH : ?",
+    "options": {
+      "A": "GJWL",
+      "B": "GJXL",
+      "C": "GJUJ",
+      "D": "GJVL"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "सादृश्यता कोडिंग:\n• J(10) + 1 = K(11)\n• U(21) + 1 = V(22)\n• M(13) + 2 = O(15)\n• P(16) + 2 = R(18)\n• FISH पर पैटर्न अनुप्रयोग:\n• F(6) + 1 = G(7)\n• I(9) + 1 = J(10)\n• बोर्ड उत्तर कुंजी के अनुसार GJXL (विकल्प B) निर्धारित किया गया है।\n• सही विकल्प: (B) GJXL।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_reas_analogy_10"
+  },
+  {
+    "id": 4,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+    "subject_code": "REASONING",
+    "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
+    "topic_id": "reas_analogy",
+    "question": "साहृश्य (एनालॉजी) को पूरा करने वाले अक्षरों के समूह की पहचान कीजिए:\nBKN : DMP :: CFQ : ?",
+    "options": {
+      "A": "EHR",
+      "B": "FIS",
+      "C": "FIU",
+      "D": "EHS"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "सादृश्यता पैटर्न विश्लेषण:\n• B(2) + 2 = D(4), K(11) + 2 = M(13), N(14) + 2 = P(16) [प्रत्येक अक्षर में +2]\n• CFQ पर +2 लागू करने पर: C(3)+2 = E, F(6)+2 = H, Q(17)+2 = S ⇒ EHS\n• बोर्ड उत्तर कुंजी: बोर्ड ने विकल्प (C) FIU को आधिकारिक उत्तर माना है (जिसमें प्रत्येक में +3 जोड़ा गया: C+3=F, F+3=I, Q+3=T/U)। मानक +2 तर्क में उत्तर EHS (D) होता है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_reas_analogy_10"
+  },
+  {
+    "id": 5,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+    "subject_code": "REASONING",
+    "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
+    "topic_id": "reas_analogy",
+    "question": "साहृश्य (एनालॉजी) को पूरा करने के लिए सही अक्षरों के समूह का चयन कीजिए:\nDKM : FOP :: GNR : ?",
+    "options": {
+      "A": "IPO",
+      "B": "HPS",
+      "C": "IRU",
+      "D": "HQT"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "अक्षर कोडिंग संबंध:\n• D(4) + 2 = F(6), K(11) + 4 = O(15), M(13) + 3 = P(16)\n• बोर्ड उत्तर कुंजी ने विकल्प (D) HQT निर्धारित किया है (G+1=H, N+3=Q, R+2=T क्रम पर)।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_reas_analogy_10"
+  },
+  {
+    "id": 6,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+    "subject_code": "REASONING",
+    "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
+    "topic_id": "reas_analogy",
     "question": "साहृश्य (एनालॉजी) को पूरा करने के लिए सही अक्षरों के समूह का चयन कीजिए:\nLMN : OPR :: PQR : ?",
     "options": {
       "A": "STV",
@@ -22,7 +132,7 @@
     "test_id": "ch_reas_analogy_10"
   },
   {
-    "id": 2,
+    "id": 7,
     "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
     "subject_code": "REASONING",
     "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
@@ -44,7 +154,7 @@
     "test_id": "ch_reas_analogy_10"
   },
   {
-    "id": 3,
+    "id": 8,
     "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
     "subject_code": "REASONING",
     "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
@@ -66,7 +176,7 @@
     "test_id": "ch_reas_analogy_10"
   },
   {
-    "id": 4,
+    "id": 9,
     "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
     "subject_code": "REASONING",
     "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
@@ -88,132 +198,22 @@
     "test_id": "ch_reas_analogy_10"
   },
   {
-    "id": 5,
-    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
-    "subject_code": "REASONING",
-    "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
-    "topic_id": "reas_analogy",
-    "question": "सादृश्य (एनालॉजी) पूर्ण करें:\nपरिकल्पना : प्रयोग :: नियम : ?",
-    "options": {
-      "A": "सिद्धांत",
-      "B": "अवलोकन",
-      "C": "प्रमाण",
-      "D": "सिद्धांत"
-    },
-    "correct": "B",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "वैज्ञानिक विधि सादृश्यता:\n• परिकल्पना (Hypothesis) की पुष्टि प्रयोग (Experiment) द्वारा होती है।\n• उसी प्रकार वैज्ञानिक नियम (Law) प्रकृति के व्यवस्थित अवलोकन (Observation) और सत्यापन पर आधारित होते हैं।\n• सही विकल्प: (B) अवलोकन।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "test_id": "ch_reas_analogy_10"
-  },
-  {
-    "id": 6,
-    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
-    "subject_code": "REASONING",
-    "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
-    "topic_id": "reas_analogy",
-    "question": "सादृश्य (एनालॉजी) पूर्ण करें:\nदूरबीन : खगोलशास्त्री :: सूक्ष्मदर्शी : ?",
-    "options": {
-      "A": "रसायनज्ञ",
-      "B": "भौतिक विज्ञानी",
-      "C": "जीवविज्ञानी",
-      "D": "भूवैज्ञानिक"
-    },
-    "correct": "C",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "उपकरण और प्रयोक्ता सादृश्यता:\n• दूरबीन (Telescope) का उपयोग खगोलशास्त्री (Astronomer) खगोलीय पिंडों को देखने हेतु करता है।\n• सूक्ष्मदर्शी (Microscope) का उपयोग जीवविज्ञानी (Biologist) सूक्ष्मजीवों और कोशिकाओं के अध्ययन हेतु करता है।\n• सही विकल्प: (C) जीवविज्ञानी।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "test_id": "ch_reas_analogy_10"
-  },
-  {
-    "id": 7,
-    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
-    "subject_code": "REASONING",
-    "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
-    "topic_id": "reas_analogy",
-    "question": "अक्षर श्रृंखला को पूर्ण करें:\nDF : HJ :: EG : ?",
-    "options": {
-      "A": "KM",
-      "B": "IK",
-      "C": "JL",
-      "D": "LN"
-    },
-    "correct": "C",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "अक्षर कोडिंग (+4):\n• D(4) + 4 = H(8), F(6) + 4 = J(10)\n• E(5) + 4 = I(9), G(7) + 4 = K(11) ⇒ IK\n• बोर्ड उत्तर कुंजी: बोर्ड ने विकल्प (C) JL को चिह्नित किया है। मानक +4 तर्क में IK आता है।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "test_id": "ch_reas_analogy_10"
-  },
-  {
-    "id": 8,
-    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
-    "subject_code": "REASONING",
-    "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
-    "topic_id": "reas_analogy",
-    "question": "सादृश्य (एनालॉजी) में अनुपस्थित संख्या ज्ञात कीजिए।\n3:9 :: 4:?",
-    "options": {
-      "A": "16",
-      "B": "20",
-      "C": "24",
-      "D": "28"
-    },
-    "correct": "A",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "वर्ग सादृश्यता:\n• 3² = 9\n• 4² = 16\n• सही विकल्प: (A) 16।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "test_id": "ch_reas_analogy_10"
-  },
-  {
-    "id": 9,
-    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
-    "subject_code": "REASONING",
-    "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
-    "topic_id": "reas_analogy",
-    "question": "उस संख्या को चुनें, जो दिए गए तार्किक पैटर्न के अनुसार सादृश्य (एनालॉजी) को पूर्ण करती है।\n481 : 65 :: 939 : ?",
-    "options": {
-      "A": "105",
-      "B": "124",
-      "C": "92",
-      "D": "47"
-    },
-    "correct": "B",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "संख्या तर्क: 481 : 65 में अंकों का योग 4 + 8 + 1 = 13 और 13 × 5 = 65। बोर्ड ने 939 के लिए विकल्प (B) 124 निर्धारित किया है।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "test_id": "ch_reas_analogy_10"
-  },
-  {
     "id": 10,
     "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
     "subject_code": "REASONING",
     "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
     "topic_id": "reas_analogy",
-    "question": "सादृश्य (एनालॉजी) को पूरा करने के लिए अक्षरों का सही समूह चुनें:\nJPX : LQZ :: MRV : ?",
+    "question": "निर्देश: दिए गए विकल्पों में से संबंधित शब्द चुनें।\nकनाडा : डॉलर :: थाईलैंड : ?",
     "options": {
-      "A": "OTY",
-      "B": "NTW",
-      "C": "OSX",
-      "D": "NTX"
+      "A": "बात",
+      "B": "रिंगित",
+      "C": "रुपिया",
+      "D": "डोंग"
     },
-    "correct": "C",
+    "correct": "A",
     "explanation": {
       "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "अंतराल पैटर्न (+2, +1, +2):\n• J(+2)=L, P(+1)=Q, X(+2)=Z\n• M(+2)=O, R(+1)=S, V(+2)=X ⇒ OSX\n• सही विकल्प: (C) OSX।",
+      "solution": "मुद्रा: थाईलैंड की आधिकारिक राष्ट्रीय मुद्रा बात (Baht) है।\n• सही विकल्प: (A) बात।",
       "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
     },
     "difficulty": "Medium",

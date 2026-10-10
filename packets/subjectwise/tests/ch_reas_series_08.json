@@ -5,6 +5,72 @@
     "subject_code": "REASONING",
     "topic": "श्रृंखला एवं लुप्त पद (Series & Missing Terms)",
     "topic_id": "reas_series",
+    "question": "श्रृंखला में लुप्त पद ज्ञात कीजिए:\nE, F, H, K, ?",
+    "options": {
+      "A": "L",
+      "B": "M",
+      "C": "O",
+      "D": "N"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / वर्णमाला अंतर श्रृंखला:\n• वर्णमाला के स्थानिक मान: E=5, F=6, H=8, K=11.\n• 📝 स्टेप-बाय-स्टेप हल:\n• E (5) + 1 = F (6)\n• F (6) + 2 = H (8)\n• H (8) + 3 = K (11)\n• K (11) + 4 = O (15)\n• अगला अक्षर O होगा।\n• 💡",
+      "exam_tips": "अंतर क्रमशः +1, +2, +3, +4 के रूप में बढ़ रहा है।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_reas_series_08"
+  },
+  {
+    "id": 2,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+    "subject_code": "REASONING",
+    "topic": "श्रृंखला एवं लुप्त पद (Series & Missing Terms)",
+    "topic_id": "reas_series",
+    "question": "श्रृंखला में लुप्त पद ज्ञात कीजिए:\nD, F, I, M, ?",
+    "options": {
+      "A": "P",
+      "B": "Q",
+      "C": "R",
+      "D": "S"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / वर्णमाला स्थानिक मान:\n• D=4, F=6, I=9, M=13.\n• 📝 स्टेप-बाय-स्टेप हल:\n• 4 + 2 = 6 (F)\n• 6 + 3 = 9 (I)\n• 9 + 4 = 13 (M)\n• 13 + 5 = 18 (R)\n• अतः लुप्त पद 'R' है।\n• 💡",
+      "exam_tips": "अंतर +2, +3, +4, +5 की श्रृंखला में आगे बढ़ता है।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_reas_series_08"
+  },
+  {
+    "id": 3,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+    "subject_code": "REASONING",
+    "topic": "श्रृंखला एवं लुप्त पद (Series & Missing Terms)",
+    "topic_id": "reas_series",
+    "question": "निम्न श्रृंखला को पूर्ण करें:\nL, K, J, I, ?",
+    "options": {
+      "A": "F",
+      "B": "G",
+      "C": "H",
+      "D": "M"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / उल्टे वर्णमाला क्रम:\n• वर्णमाला के स्थानिक मान: L=12, K=11, J=10, I=9.\n• 📝 स्टेप-बाय-स्टेप हल:\n• प्रत्येक पद में 1 की कमी हो रही है:\n• 12 - 1 = 11 (K)\n• 11 - 1 = 10 (J)\n• 10 - 1 = 9 (I)\n• 9 - 1 = 8 (H)\n• अतः अगला अक्षर H होगा।\n• 💡",
+      "exam_tips": "यह एक साधारण अवरोही वर्णमाला श्रृंखला है।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_reas_series_08"
+  },
+  {
+    "id": 4,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+    "subject_code": "REASONING",
+    "topic": "श्रृंखला एवं लुप्त पद (Series & Missing Terms)",
+    "topic_id": "reas_series",
     "question": "अक्षर श्रृंखला को पूर्ण करें:\nSTOP : ? :: FLOW : WOLF",
     "options": {
       "A": "POTS",
@@ -22,7 +88,7 @@
     "test_id": "ch_reas_series_08"
   },
   {
-    "id": 2,
+    "id": 5,
     "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
     "subject_code": "REASONING",
     "topic": "श्रृंखला एवं लुप्त पद (Series & Missing Terms)",
@@ -44,7 +110,7 @@
     "test_id": "ch_reas_series_08"
   },
   {
-    "id": 3,
+    "id": 6,
     "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
     "subject_code": "REASONING",
     "topic": "श्रृंखला एवं लुप्त पद (Series & Missing Terms)",
@@ -66,7 +132,7 @@
     "test_id": "ch_reas_series_08"
   },
   {
-    "id": 4,
+    "id": 7,
     "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
     "subject_code": "REASONING",
     "topic": "श्रृंखला एवं लुप्त पद (Series & Missing Terms)",
@@ -88,7 +154,7 @@
     "test_id": "ch_reas_series_08"
   },
   {
-    "id": 5,
+    "id": 8,
     "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
     "subject_code": "REASONING",
     "topic": "श्रृंखला एवं लुप्त पद (Series & Missing Terms)",
@@ -110,7 +176,7 @@
     "test_id": "ch_reas_series_08"
   },
   {
-    "id": 6,
+    "id": 9,
     "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
     "subject_code": "REASONING",
     "topic": "श्रृंखला एवं लुप्त पद (Series & Missing Terms)",
@@ -132,7 +198,7 @@
     "test_id": "ch_reas_series_08"
   },
   {
-    "id": 7,
+    "id": 10,
     "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
     "subject_code": "REASONING",
     "topic": "श्रृंखला एवं लुप्त पद (Series & Missing Terms)",
@@ -149,72 +215,6 @@
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "📌 मुख्य तथ्य / पूर्ण घन संख्या श्रृंखला (Cubes Pattern):\n• 1³ = 1\n• 2³ = 8\n• 3³ = 27\n• 4³ = 64\n• 5³ = 5 × 5 × 5 = 125.\n• 💡",
       "exam_tips": "अगली संख्या 125 (विकल्प D) होगी।"
-    },
-    "difficulty": "Medium",
-    "test_id": "ch_reas_series_08"
-  },
-  {
-    "id": 8,
-    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
-    "subject_code": "REASONING",
-    "topic": "श्रृंखला एवं लुप्त पद (Series & Missing Terms)",
-    "topic_id": "reas_series",
-    "question": "निम्नलिखित संख्या श्रृंखला में प्रश्नवाचक चिन्ह '?' के स्थान पर क्या आएगा?\n14, 26, 42, 62, ?",
-    "options": {
-      "A": "86",
-      "B": "84",
-      "C": "88",
-      "D": "90"
-    },
-    "correct": "A",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / द्वि-स्तरीय अंतर श्रृंखला:\n• 26 - 14 = 12\n• 42 - 26 = 16 (अंतर +4 बढ़ा)\n• 62 - 42 = 20 (अंतर +4 बढ़ा)\n• 📝 अगला पद:\n• अगला अंतर = 20 + 4 = 24\n• लुप्त संख्या = 62 + 24 = 86 (विकल्प A)।\n• 💡",
-      "exam_tips": "अंतर क्रमशः 12, 16, 20, 24 के क्रम में बढ़ रहा है।"
-    },
-    "difficulty": "Medium",
-    "test_id": "ch_reas_series_08"
-  },
-  {
-    "id": 9,
-    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
-    "subject_code": "REASONING",
-    "topic": "श्रृंखला एवं लुप्त पद (Series & Missing Terms)",
-    "topic_id": "reas_series",
-    "question": "वह विकल्प ज्ञात कीजिए, जो श्रृंखला पैटर्न में फिट बैठता है:\n4, 8, 12, 16, ?",
-    "options": {
-      "A": "20",
-      "B": "24",
-      "C": "18",
-      "D": "22"
-    },
-    "correct": "A",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / +4 की समांतर वृद्धि:\n• 4 + 4 = 8, 8 + 4 = 12, 12 + 4 = 16\n• अगला पद = 16 + 4 = 20 (विकल्प A)।\n• 💡",
-      "exam_tips": "यह 4 का पहाड़ा (Multiples of 4) है।"
-    },
-    "difficulty": "Medium",
-    "test_id": "ch_reas_series_08"
-  },
-  {
-    "id": 10,
-    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
-    "subject_code": "REASONING",
-    "topic": "श्रृंखला एवं लुप्त पद (Series & Missing Terms)",
-    "topic_id": "reas_series",
-    "question": "वह विकल्प ज्ञात कीजिए, जो श्रृंखला पैटर्न में फिट बैठता है:\n2, 4, 8, 16, ?",
-    "options": {
-      "A": "24",
-      "B": "30",
-      "C": "32",
-      "D": "64"
-    },
-    "correct": "C",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / गुणोत्तर श्रेणी (दो गुना पैटर्न):\n• प्रत्येक पद पिछले पद का 2 गुना है:\n• 2 × 2 = 4, 4 × 2 = 8, 8 × 2 = 16\n• अगला पद = 16 × 2 = 32 (विकल्प C)।\n• 💡",
-      "exam_tips": "2⁵ = 32."
     },
     "difficulty": "Medium",
     "test_id": "ch_reas_series_08"

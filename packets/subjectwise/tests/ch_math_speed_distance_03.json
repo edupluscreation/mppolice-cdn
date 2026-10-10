@@ -5,6 +5,28 @@
     "subject_code": "MATH",
     "topic": "चाल, दूरी, समय एवं रेलगाड़ी (Speed, Distance & Time)",
     "topic_id": "math_speed_distance",
+    "question": "एक साइकिल चालक किसी निश्चित दूरी को 12 किमी/घंटा की चाल से तय करता है और वापसी में उसी दूरी को 8 किमी/घंटा की चाल से तय करता है। पूरी यात्रा की औसत चाल क्या होगी?",
+    "options": {
+      "A": "hr / 9.6 किमी/घंटा",
+      "B": "hr / 9.8 किमी/घंटा",
+      "C": "hr / 10 किमी/घंटा",
+      "D": "hr / 10.5 किमी/घंटा"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "औसत चाल सूत्र (समान दूरी हेतु): औसत चाल = 2S₁S₂ / (S₁ + S₂)\n• गणना:\n• चाल = (2 × 12 × 8) / (12 + 8) = 192 / 20 = 9.6 किमी/घंटा\n• सही विकल्प: (A) 9.6 किमी/घंटा।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_math_speed_distance_03"
+  },
+  {
+    "id": 2,
+    "subject": "सरल अंकगणित",
+    "subject_code": "MATH",
+    "topic": "चाल, दूरी, समय एवं रेलगाड़ी (Speed, Distance & Time)",
+    "topic_id": "math_speed_distance",
     "question": "\"दो रेलगाड़ियाँ, जिनमें से प्रत्येक 150 मीटर लम्बी है, 54 किमी/घंटा और 72 किमी/घंटा की चाल से विपरीत दिशाओं में यात्रा कर रही हैं। उन्हें एक-दूसरे को पूरी तरह से पार करने में कितना समय लगेगा?\"",
     "options": {
       "A": "7.2 s",
@@ -22,7 +44,7 @@
     "test_id": "ch_math_speed_distance_03"
   },
   {
-    "id": 2,
+    "id": 3,
     "subject": "सरल अंकगणित",
     "subject_code": "MATH",
     "topic": "चाल, दूरी, समय एवं रेलगाड़ी (Speed, Distance & Time)",
@@ -44,7 +66,7 @@
     "test_id": "ch_math_speed_distance_03"
   },
   {
-    "id": 3,
+    "id": 4,
     "subject": "सरल अंकगणित",
     "subject_code": "MATH",
     "topic": "चाल, दूरी, समय एवं रेलगाड़ी (Speed, Distance & Time)",
@@ -66,7 +88,7 @@
     "test_id": "ch_math_speed_distance_03"
   },
   {
-    "id": 4,
+    "id": 5,
     "subject": "सरल अंकगणित",
     "subject_code": "MATH",
     "topic": "चाल, दूरी, समय एवं रेलगाड़ी (Speed, Distance & Time)",
@@ -88,7 +110,7 @@
     "test_id": "ch_math_speed_distance_03"
   },
   {
-    "id": 5,
+    "id": 6,
     "subject": "सरल अंकगणित",
     "subject_code": "MATH",
     "topic": "चाल, दूरी, समय एवं रेलगाड़ी (Speed, Distance & Time)",
@@ -110,7 +132,7 @@
     "test_id": "ch_math_speed_distance_03"
   },
   {
-    "id": 6,
+    "id": 7,
     "subject": "सरल अंकगणित",
     "subject_code": "MATH",
     "topic": "चाल, दूरी, समय एवं रेलगाड़ी (Speed, Distance & Time)",
@@ -132,7 +154,7 @@
     "test_id": "ch_math_speed_distance_03"
   },
   {
-    "id": 7,
+    "id": 8,
     "subject": "सरल अंकगणित",
     "subject_code": "MATH",
     "topic": "चाल, दूरी, समय एवं रेलगाड़ी (Speed, Distance & Time)",
@@ -154,7 +176,7 @@
     "test_id": "ch_math_speed_distance_03"
   },
   {
-    "id": 8,
+    "id": 9,
     "subject": "सरल अंकगणित",
     "subject_code": "MATH",
     "topic": "चाल, दूरी, समय एवं रेलगाड़ी (Speed, Distance & Time)",
@@ -176,7 +198,7 @@
     "test_id": "ch_math_speed_distance_03"
   },
   {
-    "id": 9,
+    "id": 10,
     "subject": "सरल अंकगणित",
     "subject_code": "MATH",
     "topic": "चाल, दूरी, समय एवं रेलगाड़ी (Speed, Distance & Time)",
@@ -193,28 +215,6 @@
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "📌 मुख्य सूत्र: समय = (ट्रेन की लंबाई + प्लेटफॉर्म की लंबाई) / चाल।\n• 📝 गणना: समय = 360 मी / (54 × 5/18 मी/से) = 360 / 15 = 24 सेकंड।\n• 💡",
       "exam_tips": "प्लेटफॉर्म, पुल या सुरंग को पार करते समय उनकी लंबाई ट्रेन की लंबाई में जुड़ती है।"
-    },
-    "difficulty": "Medium",
-    "test_id": "ch_math_speed_distance_03"
-  },
-  {
-    "id": 10,
-    "subject": "सरल अंकगणित",
-    "subject_code": "MATH",
-    "topic": "चाल, दूरी, समय एवं रेलगाड़ी (Speed, Distance & Time)",
-    "topic_id": "math_speed_distance",
-    "question": "कार X सुबह 8:00 बजे शहर A से 40 किमी/घंटा की चाल से निकलती है। कार Y उसी शहर से 2 घंटे बाद 60 किमी/घंटा की चाल से निकलती है। कार Y, कार X से कब मिलेगी?",
-    "options": {
-      "A": "4:00 PM",
-      "B": "1:00 PM",
-      "C": "2:00 PM",
-      "D": "3:00 PM"
-    },
-    "correct": "C",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / समय, चाल और दूरी (सापेक्ष चाल):\n• समान दिशा में सापेक्ष चाल = चालों का अंतर = 60 - 40 = 20 किमी/घंटा।\n• 📝 स्टेप-बाय-स्टेप हल:\n• कार Y के चलने का समय = सुबह 10:00 बजे (8:00 + 2 घंटे)।\n• इन 2 घंटों में कार X द्वारा तय की गई दूरी = 40 × 2 = 80 किमी।\n• कार Y को यह 80 किमी की बढ़त पूरी करनी है।\n• मिलने में लगा समय = दूरी / सापेक्ष चाल = 80 / 20 = 4 घंटे।\n• मिलने का समय = सुबह 10:00 बजे + 4 घंटे = दोपहर 2:00 PM.\n• 💡",
-      "exam_tips": "मिलने तक दोनों कारों द्वारा तय की गई कुल दूरी = 60 × 4 = 240 किमी होगी।"
     },
     "difficulty": "Medium",
     "test_id": "ch_math_speed_distance_03"

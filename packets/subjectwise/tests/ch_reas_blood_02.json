@@ -49,6 +49,28 @@
     "subject_code": "REASONING",
     "topic": "रक्त संबंध (Blood Relation)",
     "topic_id": "reas_blood",
+    "question": "एक लड़की की ओर इशारा करते हुए रवि ने कहा, \"वह मेरे पिता की इकलौती बहन की बेटी है।\" तो वह लड़की रवि से किस प्रकार संबंधित है?",
+    "options": {
+      "A": "बहन",
+      "B": "कज़िन",
+      "C": "नीस",
+      "D": "आंटी"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य संबंध: पिता की बहन की पुत्री फुफेरी बहन (Cousin) होती है।\n• 📝 विश्लेषण: रवि और वह लड़की आपस में भाई-बहन (कज़िन) हैं।\n• 💡",
+      "exam_tips": "सगी बहन हेतु 'Sister' तथा अन्य रिश्तेदारों की बहन हेतु 'Cousin' प्रयुक्त होता है।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_reas_blood_02"
+  },
+  {
+    "id": 4,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+    "subject_code": "REASONING",
+    "topic": "रक्त संबंध (Blood Relation)",
+    "topic_id": "reas_blood",
     "question": "P, Q की पुत्री है। Q, R का पुत्र है। P, R से किस प्रकार संबंधित है?",
     "options": {
       "A": "पोती",
@@ -66,7 +88,7 @@
     "test_id": "ch_reas_blood_02"
   },
   {
-    "id": 4,
+    "id": 5,
     "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
     "subject_code": "REASONING",
     "topic": "रक्त संबंध (Blood Relation)",
@@ -88,7 +110,7 @@
     "test_id": "ch_reas_blood_02"
   },
   {
-    "id": 5,
+    "id": 6,
     "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
     "subject_code": "REASONING",
     "topic": "रक्त संबंध (Blood Relation)",
@@ -110,7 +132,7 @@
     "test_id": "ch_reas_blood_02"
   },
   {
-    "id": 6,
+    "id": 7,
     "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
     "subject_code": "REASONING",
     "topic": "रक्त संबंध (Blood Relation)",
@@ -132,7 +154,7 @@
     "test_id": "ch_reas_blood_02"
   },
   {
-    "id": 7,
+    "id": 8,
     "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
     "subject_code": "REASONING",
     "topic": "रक्त संबंध (Blood Relation)",
@@ -154,7 +176,7 @@
     "test_id": "ch_reas_blood_02"
   },
   {
-    "id": 8,
+    "id": 9,
     "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
     "subject_code": "REASONING",
     "topic": "रक्त संबंध (Blood Relation)",
@@ -176,7 +198,7 @@
     "test_id": "ch_reas_blood_02"
   },
   {
-    "id": 9,
+    "id": 10,
     "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
     "subject_code": "REASONING",
     "topic": "रक्त संबंध (Blood Relation)",
@@ -193,28 +215,6 @@
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "📌 मुख्य तथ्य / नियम / सूत्र: संबंध विश्लेषण:\n• 📝 स्टेप-बाय-स्टेप हल:\n1. पिता की इकलौती बेटी = बहन; बहन की बेटी = भांजी (नीस)।\nअतः सही उत्तर (C) नीस है।\n• 💡",
       "exam_tips": "अंग्रेज़ी में Niece का अर्थ भतीजी या भांजी दोनों होता है।"
-    },
-    "difficulty": "Medium",
-    "test_id": "ch_reas_blood_02"
-  },
-  {
-    "id": 10,
-    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
-    "subject_code": "REASONING",
-    "topic": "रक्त संबंध (Blood Relation)",
-    "topic_id": "reas_blood",
-    "question": "एक महिला की ओर इशारा करते हुए रवि ने कहा, \"वह मेरी मां की बेटी है।\" रवि से उस महिला का क्या रिश्ता है?",
-    "options": {
-      "A": "रवि की बहन",
-      "B": "रवि की माता",
-      "C": "रवि की आंटी",
-      "D": "रवि की कज़न"
-    },
-    "correct": "A",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "रक्त संबंध का चरणबद्ध विश्लेषण:\n1. रवि ने कहा: \"मेरी माँ\" → रवि की माताजी।\n2. \"मेरी माँ की बेटी\" → रवि की माताजी की पुत्री = रवि की अपनी सगी बहन (Sister)।\n3. प्रश्न में पूछा गया है कि उस महिला का रवि से क्या संबंध है?\n4. वह महिला स्पष्ट रूप से रवि की बहन है।\n• निष्कर्ष: सही उत्तर (A) रवि की बहन है।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
     },
     "difficulty": "Medium",
     "test_id": "ch_reas_blood_02"

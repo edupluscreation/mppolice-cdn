@@ -5,6 +5,28 @@
     "subject_code": "MATH",
     "topic": "लाभ-हानि एवं बट्टा (Profit, Loss & Discount)",
     "topic_id": "math_profit_loss",
+    "question": "मनीष एक भूखंड को ₹2,20,000 में बेचता है, जबकि उसने इसके मूल सूची मूल्य पर 45% की छूट दी थी। छूट लागू करने से पहले भूमि का मूल मूल्यांकन क्या था?",
+    "options": {
+      "A": "300000 Rs",
+      "B": "440000 Rs",
+      "C": "400000 Rs",
+      "D": "450000 Rs"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र: मूल मूल्य = SP / (1 - छूट%)\n• स्टेप-बाय-स्टेप हल:\n• 55% = 2,20,000\n• 100% = (2,20,000 / 55) × 100 = ₹4,00,000",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_math_profit_loss_03"
+  },
+  {
+    "id": 2,
+    "subject": "सरल अंकगणित",
+    "subject_code": "MATH",
+    "topic": "लाभ-हानि एवं बट्टा (Profit, Loss & Discount)",
+    "topic_id": "math_profit_loss",
     "question": "मनीष एक भूखंड को 2,20,000 में बेचता है, जबकि उसने इसके मूल सूची मूल्य पर 45% की छूट दी थी। छूट लागू करने से पहले भूमि का मूल मूल्यांकन क्या था?",
     "options": {
       "A": "300000 Rs",
@@ -22,7 +44,7 @@
     "test_id": "ch_math_profit_loss_03"
   },
   {
-    "id": 2,
+    "id": 3,
     "subject": "सरल अंकगणित",
     "subject_code": "MATH",
     "topic": "लाभ-हानि एवं बट्टा (Profit, Loss & Discount)",
@@ -44,7 +66,7 @@
     "test_id": "ch_math_profit_loss_03"
   },
   {
-    "id": 3,
+    "id": 4,
     "subject": "सरल अंकगणित",
     "subject_code": "MATH",
     "topic": "लाभ-हानि एवं बट्टा (Profit, Loss & Discount)",
@@ -66,7 +88,7 @@
     "test_id": "ch_math_profit_loss_03"
   },
   {
-    "id": 4,
+    "id": 5,
     "subject": "सरल अंकगणित",
     "subject_code": "MATH",
     "topic": "लाभ-हानि एवं बट्टा (Profit, Loss & Discount)",
@@ -88,7 +110,7 @@
     "test_id": "ch_math_profit_loss_03"
   },
   {
-    "id": 5,
+    "id": 6,
     "subject": "सरल अंकगणित",
     "subject_code": "MATH",
     "topic": "लाभ-हानि एवं बट्टा (Profit, Loss & Discount)",
@@ -110,7 +132,7 @@
     "test_id": "ch_math_profit_loss_03"
   },
   {
-    "id": 6,
+    "id": 7,
     "subject": "सरल अंकगणित",
     "subject_code": "MATH",
     "topic": "लाभ-हानि एवं बट्टा (Profit, Loss & Discount)",
@@ -132,7 +154,29 @@
     "test_id": "ch_math_profit_loss_03"
   },
   {
-    "id": 7,
+    "id": 8,
+    "subject": "सरल अंकगणित",
+    "subject_code": "MATH",
+    "topic": "लाभ-हानि एवं बट्टा (Profit, Loss & Discount)",
+    "topic_id": "math_profit_loss",
+    "question": "एक दुकानदार अपने सामान का मूल्य लागत मूल्य से 25% अधिक अंकित करता है और फिर ग्राहकों को 20% की छूट देता है। उसका शुद्ध लाभ प्रतिशत कितना है?",
+    "options": {
+      "A": "78%",
+      "B": "80%",
+      "C": "82%",
+      "D": "85%"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र: अंकित मूल्य और छूट:\n• स्टेप-बाय-स्टेप हल:\n• 100 पर 25% वृद्धि = 125, 20% छूट = 100 ⇒ 0% लाभ (बोर्ड कुंजी में (A) 78% मुद्रित था)।",
+      "exam_tips": "वास्तविक शुद्ध लाभ 0% है।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_math_profit_loss_03"
+  },
+  {
+    "id": 9,
     "subject": "सरल अंकगणित",
     "subject_code": "MATH",
     "topic": "लाभ-हानि एवं बट्टा (Profit, Loss & Discount)",
@@ -154,7 +198,7 @@
     "test_id": "ch_math_profit_loss_03"
   },
   {
-    "id": 8,
+    "id": 10,
     "subject": "सरल अंकगणित",
     "subject_code": "MATH",
     "topic": "लाभ-हानि एवं बट्टा (Profit, Loss & Discount)",
@@ -171,50 +215,6 @@
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "मुख्य तथ्य / नियम / सूत्र: लेन-देन मूल्य और क्रय लागत संबंध:\n• स्टेप-बाय-स्टेप हल:\n• वास्तविक विक्रय मूल्य (SP) = ₹60,000\n• विक्रेता का लाभ = ₹20,000\n• मूल खरीद लागत (CP) = SP - लाभ = 60,000 - 20,000 = ₹40,000",
       "exam_tips": "क्रय मूल्य = विक्रय मूल्य - लाभ।"
-    },
-    "difficulty": "Medium",
-    "test_id": "ch_math_profit_loss_03"
-  },
-  {
-    "id": 9,
-    "subject": "सरल अंकगणित",
-    "subject_code": "MATH",
-    "topic": "लाभ-हानि एवं बट्टा (Profit, Loss & Discount)",
-    "topic_id": "math_profit_loss",
-    "question": "एक मोटरसाइकिल की सूचीबद्ध कीमत 75,000 है। छूट दिए जाने के बाद इसका लेन-देन मूल्य 60,000 हो जाता है। यदि विक्रेता इस सौदे में 20,000 का लाभ होता है, तो वाहन की मूल खरीद लागत क्या थी?",
-    "options": {
-      "A": "35000 Rs",
-      "B": "25000 Rs",
-      "C": "50000 Rs",
-      "D": "40000 Rs"
-    },
-    "correct": "B",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "मुख्य तथ्य / नियम / सूत्र: खरीद लागत गणना:\n• स्टेप-बाय-स्टेप हल:\n• CP = 60000 - 20000 = ₹40,000 (बोर्ड कुंजी में (B) ₹25,000 मुद्रित था)।",
-      "exam_tips": "शुद्ध गणितीय लागत ₹40,000 है।"
-    },
-    "difficulty": "Medium",
-    "test_id": "ch_math_profit_loss_03"
-  },
-  {
-    "id": 10,
-    "subject": "सरल अंकगणित",
-    "subject_code": "MATH",
-    "topic": "लाभ-हानि एवं बट्टा (Profit, Loss & Discount)",
-    "topic_id": "math_profit_loss",
-    "question": "एक दुकानदार अपने सामान को उसके लागत मूल्य के 60% पर बेचता है। लाभ या हानि प्रतिशत ज्ञात कीजिए।",
-    "options": {
-      "A": "40%",
-      "B": "35%",
-      "C": "50%",
-      "D": "[Not provided in image completely, skipping question if needed, but since it's cut off at the bottom, strictly following rule: \"Only transcribe questions that BEGIN on this page\" - wait, question 2 begins on this page, but option D is cut off. Therefore, omit question 2 according to rule 2: \"Every transcribed question MUST have its complete question text... ALL 4 options\"].\n• > 💡 व्याख्या (Explanation):"
-    },
-    "correct": "A",
-    "explanation": {
-      "formula": "सूत्र एवं संकल्पना:\n• माना वस्तु का लागत मूल्य (Cost Price - CP) = ₹100.\n• विक्रय मूल्य (Selling Price - SP) = CP का 60\\% = ₹60.\n• हानि की गणना:\n• \\text{हानि} = \\text{CP} - \\text{SP} = 100 - 60 = ₹40.\n• \\text{हानि प्रतिशत} = \\frac{\\text{हानि}}{\\text{CP}} × 100 = \\frac{40}{100} × 100 = 40\\%.\n• अतः 40% की हानि होती है।",
-      "solution": "विस्तृत व्याख्या उपलब्ध है।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
     },
     "difficulty": "Medium",
     "test_id": "ch_math_profit_loss_03"

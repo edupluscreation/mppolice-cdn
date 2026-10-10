@@ -71,6 +71,28 @@
     "subject_code": "SCIENCE",
     "topic": "पर्यावरण एवं पारिस्थितिकी (Ecology & Environment)",
     "topic_id": "sci_environment",
+    "question": "मध्य प्रदेश औषधीय और हर्बल पौधों की समृद्ध विविधता के लिए जाना जाता है। इस जैव विविधता की वर्तमान स्थिति क्या है?",
+    "options": {
+      "A": "पूरी तरह से खोजी गई और औद्योगीकृत",
+      "B": "अत्यधिक दोहन की गई और क्षीण हुई",
+      "C": "अधिकांशतः अप्रयुक्त और कम उपयोग में लाई गई",
+      "D": "बड़े पैमाने पर निर्यात की गई"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "तथ्य: मध्य प्रदेश की समृद्ध औषधीय वनस्पति संपदा अभी भी व्यावसायिक रूप से अधिकांशतः अप्रयुक्त है।\n• अतः सही उत्तर (C) है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_sci_environment_01"
+  },
+  {
+    "id": 5,
+    "subject": "सामान्य विज्ञान",
+    "subject_code": "SCIENCE",
+    "topic": "पर्यावरण एवं पारिस्थितिकी (Ecology & Environment)",
+    "topic_id": "sci_environment",
     "question": "आप एक वन अधिकारी हैं और एक स्थानीय त्यौहार संवेदनशील क्षेत्र में प्रदूषण फैला रहा है। आपका सबसे अच्छा कदम क्या होगा?",
     "options": {
       "A": "पर्यावरण-अनुकूल समारोहों के लिए स्थानीय नेताओं के साथ समन्वय करें",
@@ -88,7 +110,7 @@
     "test_id": "ch_sci_environment_01"
   },
   {
-    "id": 5,
+    "id": 6,
     "subject": "सामान्य विज्ञान",
     "subject_code": "SCIENCE",
     "topic": "पर्यावरण एवं पारिस्थितिकी (Ecology & Environment)",
@@ -110,7 +132,7 @@
     "test_id": "ch_sci_environment_01"
   },
   {
-    "id": 6,
+    "id": 7,
     "subject": "सामान्य विज्ञान",
     "subject_code": "SCIENCE",
     "topic": "पर्यावरण एवं पारिस्थितिकी (Ecology & Environment)",
@@ -132,7 +154,7 @@
     "test_id": "ch_sci_environment_01"
   },
   {
-    "id": 7,
+    "id": 8,
     "subject": "सामान्य विज्ञान",
     "subject_code": "SCIENCE",
     "topic": "पर्यावरण एवं पारिस्थितिकी (Ecology & Environment)",
@@ -154,7 +176,7 @@
     "test_id": "ch_sci_environment_01"
   },
   {
-    "id": 8,
+    "id": 9,
     "subject": "सामान्य विज्ञान",
     "subject_code": "SCIENCE",
     "topic": "पर्यावरण एवं पारिस्थितिकी (Ecology & Environment)",
@@ -176,7 +198,7 @@
     "test_id": "ch_sci_environment_01"
   },
   {
-    "id": 9,
+    "id": 10,
     "subject": "सामान्य विज्ञान",
     "subject_code": "SCIENCE",
     "topic": "पर्यावरण एवं पारिस्थितिकी (Ecology & Environment)",
@@ -193,28 +215,6 @@
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "मुख्य तथ्य / नियम / सूत्र: उत्पादकों का पोषण स्तर:\n• स्टेप-बाय-स्टेप हल:\n• उत्पादक स्वपोषी होते हैं जो अपना भोजन स्वयं बनाते हैं।",
       "exam_tips": "दोहराया गया प्रश्न; सही उत्तर विकल्प (C) है।"
-    },
-    "difficulty": "Medium",
-    "test_id": "ch_sci_environment_01"
-  },
-  {
-    "id": 10,
-    "subject": "सामान्य विज्ञान",
-    "subject_code": "SCIENCE",
-    "topic": "पर्यावरण एवं पारिस्थितिकी (Ecology & Environment)",
-    "topic_id": "sci_environment",
-    "question": "अपघटक को ________ के अंतर्गत वर्गीकृत किया जाता है।",
-    "options": {
-      "A": "स्वपोषी",
-      "B": "परपोषी",
-      "C": "ऑर्गनोट्रॉफ्स",
-      "D": "परजीवी"
-    },
-    "correct": "B",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "अपघटक (Decomposers):\n• पारितंत्र में जीवाणु (Bacteria) और कवक (Fungi) अपघटक के रूप में कार्य करते हैं।\n• इन्हें मृतोपजीवी / मृतपोषी (Saprotrophs) के अंतर्गत वर्गीकृत किया जाता है क्योंकि ये मृत कार्बनिक पदार्थों का अपघटन करके पोषण प्राप्त करते हैं।\n• अतः सही उत्तर (B) मृतोपजीवी है।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
     },
     "difficulty": "Medium",
     "test_id": "ch_sci_environment_01"

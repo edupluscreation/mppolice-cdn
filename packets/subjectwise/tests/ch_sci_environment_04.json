@@ -5,6 +5,28 @@
     "subject_code": "SCIENCE",
     "topic": "पर्यावरण एवं पारिस्थितिकी (Ecology & Environment)",
     "topic_id": "sci_environment",
+    "question": "अपघटक को _________ के अंतर्गत वर्गीकृत किया जाता है।",
+    "options": {
+      "A": "स्वपोषी",
+      "B": "परपोषी",
+      "C": "ऑर्गनोट्रॉफ्स्स",
+      "D": "परजीवी"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "वर्गीकरण: अपघटक मृत जीवों के जटिल कार्बनिक पदार्थों को सरल अकार्बनिक तत्वों में बदलते हैं, अतः ये मृतोपजीवी कहलाते हैं।\n• अतः सही उत्तर (B) है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_sci_environment_04"
+  },
+  {
+    "id": 2,
+    "subject": "सामान्य विज्ञान",
+    "subject_code": "SCIENCE",
+    "topic": "पर्यावरण एवं पारिस्थितिकी (Ecology & Environment)",
+    "topic_id": "sci_environment",
     "question": "निम्नलिखित वाक्यों को एक सुसंगत अनुच्छेद बनाने के लिए क्रमबद्ध करें:\nP: इससे वायु प्रदूषण में भारी कमी आई।\nQ: लोगों ने सार्वजनिक परिवहन का अधिक उपयोग करना शुरू किया।\nR: शहर ने एक नई इलेक्ट्रिक बस सेवा शुरू की।\nS: नागरिकों के स्वास्थ्य में उल्लेखनीय सुधार देखा गया।",
     "options": {
       "A": "PQRS",
@@ -22,7 +44,7 @@
     "test_id": "ch_sci_environment_04"
   },
   {
-    "id": 2,
+    "id": 3,
     "subject": "सामान्य विज्ञान",
     "subject_code": "SCIENCE",
     "topic": "पर्यावरण एवं पारिस्थितिकी (Ecology & Environment)",
@@ -44,7 +66,7 @@
     "test_id": "ch_sci_environment_04"
   },
   {
-    "id": 3,
+    "id": 4,
     "subject": "सामान्य विज्ञान",
     "subject_code": "SCIENCE",
     "topic": "पर्यावरण एवं पारिस्थितिकी (Ecology & Environment)",
@@ -66,7 +88,7 @@
     "test_id": "ch_sci_environment_04"
   },
   {
-    "id": 4,
+    "id": 5,
     "subject": "सामान्य विज्ञान",
     "subject_code": "SCIENCE",
     "topic": "पर्यावरण एवं पारिस्थितिकी (Ecology & Environment)",
@@ -88,7 +110,7 @@
     "test_id": "ch_sci_environment_04"
   },
   {
-    "id": 5,
+    "id": 6,
     "subject": "सामान्य विज्ञान",
     "subject_code": "SCIENCE",
     "topic": "पर्यावरण एवं पारिस्थितिकी (Ecology & Environment)",
@@ -110,7 +132,7 @@
     "test_id": "ch_sci_environment_04"
   },
   {
-    "id": 6,
+    "id": 7,
     "subject": "सामान्य विज्ञान",
     "subject_code": "SCIENCE",
     "topic": "पर्यावरण एवं पारिस्थितिकी (Ecology & Environment)",
@@ -132,7 +154,7 @@
     "test_id": "ch_sci_environment_04"
   },
   {
-    "id": 7,
+    "id": 8,
     "subject": "सामान्य विज्ञान",
     "subject_code": "SCIENCE",
     "topic": "पर्यावरण एवं पारिस्थितिकी (Ecology & Environment)",
@@ -154,7 +176,7 @@
     "test_id": "ch_sci_environment_04"
   },
   {
-    "id": 8,
+    "id": 9,
     "subject": "सामान्य विज्ञान",
     "subject_code": "SCIENCE",
     "topic": "पर्यावरण एवं पारिस्थितिकी (Ecology & Environment)",
@@ -176,7 +198,7 @@
     "test_id": "ch_sci_environment_04"
   },
   {
-    "id": 9,
+    "id": 10,
     "subject": "सामान्य विज्ञान",
     "subject_code": "SCIENCE",
     "topic": "पर्यावरण एवं पारिस्थितिकी (Ecology & Environment)",
@@ -192,28 +214,6 @@
     "explanation": {
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "तथ्य: गद्यांश में स्पष्ट उल्लेख है कि ग्रीनहाउस गैसों और जलवायु संकट के समाधान के रूप में दुनिया वैकल्पिक ऊर्जा (पवन, सौर, इलेक्ट्रिक वाहन) की ओर स्थानांतरित हो रही है।\n• सही विकल्प: (C) वैकल्पिक ऊर्जा की ओर विस्थापन।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "test_id": "ch_sci_environment_04"
-  },
-  {
-    "id": 10,
-    "subject": "सामान्य विज्ञान",
-    "subject_code": "SCIENCE",
-    "topic": "पर्यावरण एवं पारिस्थितिकी (Ecology & Environment)",
-    "topic_id": "sci_environment",
-    "question": "अम्लीय वर्षा जल में लोहे का संक्षारण तेज़ी से होता है क्योंकिः",
-    "options": {
-      "A": "H⁺ आयन इलेक्ट्रॉन प्रवाह को बढ़ाते हैं",
-      "B": "OH⁻ आयन लोहे की रक्षा करते हैं",
-      "C": "अम्ल जंग को उदासीन करता है",
-      "D": "जल धीरे-धीरे वाष्पित होता है"
-    },
-    "correct": "A",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "अम्लीय वर्षा में संक्षारण:\n• अम्लीय वर्षा में उपस्थित H⁺ आयन (सल्फ्यूरिक व नाइट्रिक अम्ल से) विद्युत-अपघट्य की चालकता को अत्यधिक बढ़ा देते हैं।\n• H⁺ आयन कैथोड पर इलेक्ट्रॉनों को ग्रहण कर अपचयन की गति तेज करते हैं, जिससे एनोड पर लोहे का ऑक्सीकरण (जंग लगना) अत्यंत तीव्र हो जाता है।\n• सही विकल्प: (A) H⁺ आयन इलेक्ट्रॉन प्रवाह को बढ़ाते हैं।",
       "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
     },
     "difficulty": "Medium",

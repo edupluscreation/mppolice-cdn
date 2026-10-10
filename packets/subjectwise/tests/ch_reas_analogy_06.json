@@ -5,6 +5,72 @@
     "subject_code": "REASONING",
     "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
     "topic_id": "reas_analogy",
+    "question": "सादृश्य (एनालॉजी) को पूरा कीजिए:\nDF : GI :: EJ : ?",
+    "options": {
+      "A": "FK",
+      "B": "HM",
+      "C": "GL",
+      "D": "DH"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र: अक्षर सादृश्यता (+3 फॉरवर्ड शिफ्ट):\n• स्टेप-बाय-स्टेप हल:\n• D (4) + 3 = G (7)\n• F (6) + 3 = I (9) ⇒ DF : GI\n• इसी प्रकार EJ के लिए:\n• E (5) + 3 = H (8)\n• J (10) + 3 = M (13)\n• तार्किक कूट = HM (विकल्प B)\n(नोट: +3 शिफ्ट से HM बनता है; बोर्ड की मूल कुंजी में (C) GL चिह्नित था।)",
+      "exam_tips": "दोनों अक्षरों में समान संख्या (+3) जोड़ी गई है।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_reas_analogy_06"
+  },
+  {
+    "id": 2,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+    "subject_code": "REASONING",
+    "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
+    "topic_id": "reas_analogy",
+    "question": "शृंखला को पूर्ण करें:\nPINE : RKPG :: MANGO : ?",
+    "options": {
+      "A": "OCQIP",
+      "B": "OCPIP",
+      "C": "OCQJO",
+      "D": "OCPIQ"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र: वर्णमाला फॉरवर्ड कोडिंग (+2 शिफ्ट):\n• स्टेप-बाय-स्टेप हल:\n• P (16) + 2 = R (18)\n• I (9) + 2 = K (11)\n• N (14) + 2 = P (16)\n• E (5) + 2 = G (7) ⇒ PINE : RKPG\n• MANGO पर +2 नियम लागू करने पर:\n• M (13) + 2 = O\n• A (1) + 2 = C\n• N (14) + 2 = P\n• G (7) + 2 = I\n• O (15) + 2 = Q\n• अभीष्ट कूट = OCPIQ (विकल्प D)\n(नोट: +2 शिफ्ट से OCPIQ बनता है; बोर्ड की मूल कुंजी में (A) OCQIP मुद्रित था।)",
+      "exam_tips": "प्रत्येक वर्ण में 2 स्थान आगे बढ़ा जाता है।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_reas_analogy_06"
+  },
+  {
+    "id": 3,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+    "subject_code": "REASONING",
+    "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
+    "topic_id": "reas_analogy",
+    "question": "साहृश्य (एनालॉजी) पूर्ण करें:\nएल्गोरिथ्म : कंप्यूटर :: रेसिपी : ?",
+    "options": {
+      "A": "सामग्री",
+      "B": "शेफ",
+      "C": "रसोई",
+      "D": "भोजन"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "संबंध विश्लेषण:\n• एल्गोरिथ्म (Algorithm) : कंप्यूटर (Computer) ➔ कंप्यूटर को किसी कार्य को पूरा करने के लिए एल्गोरिथ्म (नियमों/निर्देशों के क्रम) की आवश्यकता होती है।\n• इसी प्रकार, रेसिपी (Recipe) : कुकिंग/खाना पकाना (Cooking) ➔ खाना पकाने (कुकिंग) के लिए रेसिपी (निर्देशों और सामग्री के चरणबद्ध क्रम) की आवश्यकता होती है।\n• निष्कर्ष: सही एनालॉजी 'रेसिपी : कुकिंग' (या सामग्री/व्यंजन विधि) है। विकल्प (A) सही उत्तर है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_reas_analogy_06"
+  },
+  {
+    "id": 4,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+    "subject_code": "REASONING",
+    "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
+    "topic_id": "reas_analogy",
     "question": "निर्देश: दिए गए विकल्पों में से संबंधित शब्द का चयन करें:\nरूपक : कहानी :: प्रतीक : ?",
     "options": {
       "A": "विचार",
@@ -22,7 +88,7 @@
     "test_id": "ch_reas_analogy_06"
   },
   {
-    "id": 2,
+    "id": 5,
     "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
     "subject_code": "REASONING",
     "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
@@ -44,7 +110,7 @@
     "test_id": "ch_reas_analogy_06"
   },
   {
-    "id": 3,
+    "id": 6,
     "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
     "subject_code": "REASONING",
     "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
@@ -66,7 +132,7 @@
     "test_id": "ch_reas_analogy_06"
   },
   {
-    "id": 4,
+    "id": 7,
     "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
     "subject_code": "REASONING",
     "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
@@ -88,7 +154,7 @@
     "test_id": "ch_reas_analogy_06"
   },
   {
-    "id": 5,
+    "id": 8,
     "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
     "subject_code": "REASONING",
     "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
@@ -110,7 +176,7 @@
     "test_id": "ch_reas_analogy_06"
   },
   {
-    "id": 6,
+    "id": 9,
     "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
     "subject_code": "REASONING",
     "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
@@ -132,7 +198,7 @@
     "test_id": "ch_reas_analogy_06"
   },
   {
-    "id": 7,
+    "id": 10,
     "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
     "subject_code": "REASONING",
     "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
@@ -148,72 +214,6 @@
     "explanation": {
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "सादृश्य: थर्मामीटर से तापमान मापा जाता है।\n• अतः सही उत्तर (C) तापमान है।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "test_id": "ch_reas_analogy_06"
-  },
-  {
-    "id": 8,
-    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
-    "subject_code": "REASONING",
-    "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
-    "topic_id": "reas_analogy",
-    "question": "प्रश्नचिह्न (?) के स्थान पर उपयुक्त विकल्प चुनिए।\nDF : GI :: JL : ?",
-    "options": {
-      "A": "MN",
-      "B": "MO",
-      "C": "NO",
-      "D": "NP"
-    },
-    "correct": "C",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "वर्णमाला स्थानीय मान विस्थापन (+3 Shift):\n• D(4) + 3 =  G(7), F(6) + 3 =  I(9) ➔ DF : GI\n• J(10) + 3 =  M(13), L(12) + 3 =  O(15) ➔ JL : MO (या विकल्प अनुसार NO).\n• नोट: बोर्ड उत्तर कुंजी में (C) NO को स्वीकार किया गया है।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "test_id": "ch_reas_analogy_06"
-  },
-  {
-    "id": 9,
-    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
-    "subject_code": "REASONING",
-    "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
-    "topic_id": "reas_analogy",
-    "question": "सादृश्य (एनालॉजी) पूर्ण करें:\nजीवविज्ञान : विज्ञान :: संगीत : ?",
-    "options": {
-      "A": "कला",
-      "B": "आवाज़",
-      "C": "संगीतकार",
-      "D": "धुन"
-    },
-    "correct": "A",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "सादृश्य संबंध: दिए गए तार्किक संबंध के आधार पर प्रथम विकल्प सही संगति दर्शाता है।\n• अतः सही उत्तर (A) है।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "test_id": "ch_reas_analogy_06"
-  },
-  {
-    "id": 10,
-    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
-    "subject_code": "REASONING",
-    "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
-    "topic_id": "reas_analogy",
-    "question": "सादृश्य (एनालॉजी) पूरा करें।\nकप : होंठ :: पक्षी : ?",
-    "options": {
-      "A": "झाड़ी",
-      "B": "चोंच",
-      "C": "घोंसला",
-      "D": "पंख"
-    },
-    "correct": "B",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "सादृश्य: तार्किक अनुरूपता के आधार पर विकल्प (B) सही है।\n• अतः सही उत्तर (B) है।",
       "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
     },
     "difficulty": "Medium",

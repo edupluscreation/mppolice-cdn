@@ -5,6 +5,50 @@
     "subject_code": "MATH",
     "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
     "topic_id": "math_number_bodmas",
+    "question": "त्रिभुज ABC और DEF ऐसे हैं कि AB/DE = BC/EF = AC/DF । ये किस प्रकार के त्रिभुज हैं?",
+    "options": {
+      "A": "सर्वांगसम त्रिभुज",
+      "B": "समकोण त्रिभुज",
+      "C": "न तो सर्वांगसम और न ही समान",
+      "D": "समान त्रिभुज"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र:\n• भुजाएँ समानुपाती हों तो SSS समरूपता होती है।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• अतः समान त्रिभुज हैं, विकल्प (D) सही है।",
+      "exam_tips": "समरूप में कोण बराबर, भुजाएँ अनुपाती होती हैं।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_math_number_bodmas_10"
+  },
+  {
+    "id": 2,
+    "subject": "सरल अंकगणित",
+    "subject_code": "MATH",
+    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
+    "topic_id": "math_number_bodmas",
+    "question": "फ्रीक्वेंसी पॉलीगॉन बनाने के लिए ग्राफ पर कौन-कौन से बिंदु प्लॉट किए जाते हैं?",
+    "options": {
+      "A": "वर्ग सीमाएँ और आवृत्ति",
+      "B": "वर्ग मध्य बिंदु और संचय आवृत्ति",
+      "C": "वर्ग मध्य बिंदु और आवृत्ति",
+      "D": "वर्ग सीमाएँ और आवृत्ति"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र:\n• मध्य बिंदु और आवृत्ति से पॉलीगॉन बनता है।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• अतः विकल्प (C) सही है।",
+      "exam_tips": "संचयी से ओजाइव बनता है।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_math_number_bodmas_10"
+  },
+  {
+    "id": 3,
+    "subject": "सरल अंकगणित",
+    "subject_code": "MATH",
+    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
+    "topic_id": "math_number_bodmas",
     "question": "फ्रीकेंसी पॉलीगॉन बनाने के लिए ग्राफ पर कौन-कौन से बिंदु प्लॉट किए जाते हैं?",
     "options": {
       "A": "वर्ग सीमाएँ और आवृत्ति",
@@ -22,7 +66,7 @@
     "test_id": "ch_math_number_bodmas_10"
   },
   {
-    "id": 2,
+    "id": 4,
     "subject": "सरल अंकगणित",
     "subject_code": "MATH",
     "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
@@ -44,7 +88,29 @@
     "test_id": "ch_math_number_bodmas_10"
   },
   {
-    "id": 3,
+    "id": 5,
+    "subject": "सरल अंकगणित",
+    "subject_code": "MATH",
+    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
+    "topic_id": "math_number_bodmas",
+    "question": "कौन-सा भारतीय राज्य खो-खो का जन्मस्थान माना जाता है?",
+    "options": {
+      "A": "तमिलनाडु",
+      "B": "महाराष्ट्र",
+      "C": "पंजाब",
+      "D": "हरियाणा"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र:\n• खो-खो महाराष्ट्र में विकसित हुआ था।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• मूल फाइल में विकल्प D कटा है, उपलब्ध में महाराष्ट्र सही है।\n• अगले प्रश्न 1054 में पूर्ण विकल्पों के साथ उत्तर महाराष्ट्र है।",
+      "exam_tips": "1914 में जिमखाना ने नियम बनाए थे।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_math_number_bodmas_10"
+  },
+  {
+    "id": 6,
     "subject": "सरल अंकगणित",
     "subject_code": "MATH",
     "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
@@ -66,7 +132,29 @@
     "test_id": "ch_math_number_bodmas_10"
   },
   {
-    "id": 4,
+    "id": 7,
+    "subject": "सरल अंकगणित",
+    "subject_code": "MATH",
+    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
+    "topic_id": "math_number_bodmas",
+    "question": "इंडिविजुअल मेडले में तैराकी की कौन-सी क्रमबद्ध शैली का पालन किया जाना चाहिए?",
+    "options": {
+      "A": "फ्रीस्टाइल -> बैकस्ट्रोक -> ब्रेस्टस्ट्रोक -> फ्लाई",
+      "B": "बैकस्ट्रोक -> ब्रेस्टस्ट्रोक -> फ्लाई -> फ्रीस्टाइल",
+      "C": "फ्लाई -> बैकस्ट्रोक -> ब्रेस्टस्ट्रोक -> फ्रीस्टाइल",
+      "D": "ब्रेस्टस्ट्रोक -> फ्लाई -> बैकस्ट्रोक -> फ्रीस्टाइल"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र:\n• मेडले में बटरफ्लाई, बैक, ब्रेस्ट, फ्री क्रम है।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• अतः विकल्प (C) सही है।",
+      "exam_tips": "ओलंपिक में 200 और 400 मी मेडले होते हैं।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_math_number_bodmas_10"
+  },
+  {
+    "id": 8,
     "subject": "सरल अंकगणित",
     "subject_code": "MATH",
     "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
@@ -88,7 +176,7 @@
     "test_id": "ch_math_number_bodmas_10"
   },
   {
-    "id": 5,
+    "id": 9,
     "subject": "सरल अंकगणित",
     "subject_code": "MATH",
     "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
@@ -110,111 +198,23 @@
     "test_id": "ch_math_number_bodmas_10"
   },
   {
-    "id": 6,
-    "subject": "सरल अंकगणित",
-    "subject_code": "MATH",
-    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
-    "topic_id": "math_number_bodmas",
-    "question": "यदि m + n = 6 और m² - mn + n² = 14, तो m³ + n³ का मान ज्ञात कीजिए।",
-    "options": {
-      "A": "74",
-      "B": "84",
-      "C": "94",
-      "D": "104"
-    },
-    "correct": "B",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "मुख्य तथ्य / नियम / सूत्र:\n• m³+n³ = (m+n)(m²-mn+n²)।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• 6 × 14 = 84, अतः विकल्प (B) सही है।",
-      "exam_tips": "सर्वसमिका सीधे लगाएं।"
-    },
-    "difficulty": "Medium",
-    "test_id": "ch_math_number_bodmas_10"
-  },
-  {
-    "id": 7,
-    "subject": "सरल अंकगणित",
-    "subject_code": "MATH",
-    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
-    "topic_id": "math_number_bodmas",
-    "question": "यदि CANDLE को DBOEMF के रूप में कोड किया गया है, तो LIGHT को कैसे कोड किया जाएगा?",
-    "options": {
-      "A": "MJGIV",
-      "B": "MJHIU",
-      "C": "MJGIU",
-      "D": "NJHIU"
-    },
-    "correct": "C",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "मुख्य तथ्य / नियम / सूत्र:\n• प्रत्येक अक्षर में +1 है।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• C+1 = D से नियम मिलता है।\n• आधिकारिक कुंजी के अनुसार LIGHT का MJGIU, विकल्प (C) है।\n• नोट: शुद्ध +1 से MJHIU बनता है, परीक्षा में कुंजी को अंतिम मानें।",
-      "exam_tips": "+1 कोडिंग सबसे सरल है।"
-    },
-    "difficulty": "Medium",
-    "test_id": "ch_math_number_bodmas_10"
-  },
-  {
-    "id": 8,
-    "subject": "सरल अंकगणित",
-    "subject_code": "MATH",
-    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
-    "topic_id": "math_number_bodmas",
-    "question": "यदि ARRANGE को YWWYSLC के रूप में लिखा जाता है (हर व्यंजन +5, हर स्वर -2, स्थान अपरिवर्तित), तो SYSTEM किस रूप में कूटित होगा?",
-    "options": {
-      "A": "XDBZJR",
-      "B": "XEBZKR",
-      "C": "XDXYCR",
-      "D": "XEBZJR"
-    },
-    "correct": "D",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "मुख्य तथ्य / नियम / सूत्र:\n• व्यंजन +5, स्वर -2 का नियम है।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• आधिकारिक कुंजी के अनुसार SYSTEM का XEBZJR, विकल्प (D) है।\n• अगले प्रश्न 1128 में उत्तर XEBZKR दिया गया है, तुलना देखें।",
-      "exam_tips": "स्वर-व्यंजन अलग करके गिनें।"
-    },
-    "difficulty": "Medium",
-    "test_id": "ch_math_number_bodmas_10"
-  },
-  {
-    "id": 9,
-    "subject": "सरल अंकगणित",
-    "subject_code": "MATH",
-    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
-    "topic_id": "math_number_bodmas",
-    "question": "यदि ARRANGE को YWWYSLC के रूप में लिखा जाता है (हर व्यंजन +5, हर स्वर -2, स्थान अपरिवर्तित), तो SYSTEM किस रूप में कुटित होगा?",
-    "options": {
-      "A": "XDBZJR",
-      "B": "XEBZKR",
-      "C": "XDXYCR",
-      "D": "XEBZJR"
-    },
-    "correct": "B",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "मुख्य तथ्य / नियम / सूत्र:\n• व्यंजन +5, स्वर -2 का नियम है।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• आधिकारिक कुंजी के अनुसार SYSTEM का XEBZJR, विकल्प (D) है।\n• अगले प्रश्न 1128 में उत्तर XEBZKR दिया गया है, तुलना देखें।",
-      "exam_tips": "स्वर-व्यंजन अलग करके गिनें।\n• नोट: इसी प्रश्न की पुनरावृत्ति (प्रश्न 1126) में आधिकारिक उत्तर (D) है, जबकि यहाँ (B) दिया गया है — परीक्षा में दी गई कुंजी को अंतिम मानें।"
-    },
-    "difficulty": "Medium",
-    "test_id": "ch_math_number_bodmas_10"
-  },
-  {
     "id": 10,
     "subject": "सरल अंकगणित",
     "subject_code": "MATH",
     "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
     "topic_id": "math_number_bodmas",
-    "question": "चार व्यक्ति - रिया, सोहन, मीना, और अरुण - 3 मई, 6 मई, 9 मई, और 12 मई को चार अलग-अलग शहरों की यात्रा पर गए। अरुण ने 3 मई या 6 मई को यात्रा नहीं की। मीना ने अरुण से पहले यात्रा की। रिया ने 9 मई को यात्रा नहीं की। रिया ने 3 मई को यात्रा की। मीना ने 9 मई को यात्रा नहीं की। तो, 6 मई को कौन गया?",
+    "question": "यदि a + b = 5 और a² + b² = 13, तो a³ + b³ का मान क्या होगा?",
     "options": {
-      "A": "मीना",
-      "B": "सोहन",
-      "C": "रिया",
-      "D": "अरुण"
+      "A": "45",
+      "B": "40",
+      "C": "35",
+      "D": "30"
     },
-    "correct": "B",
+    "correct": "C",
     "explanation": {
       "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "मुख्य तथ्य / नियम / सूत्र:\n• रिया 3 मई पक्की है, अरुण 9 या 12 पर है।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• शर्तों से 6 मई को सोहन बचता है, विकल्प (B) सही है।",
-      "exam_tips": "पक्की तिथि पहले भरें।"
+      "solution": "मुख्य तथ्य / नियम / सूत्र:\n• a³+b³ = (a+b)³ - 3ab(a+b), ab = 6।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• 125 - 90 = 35, अतः विकल्प (B) सही है।",
+      "exam_tips": "ab = {(a+b)² - (a²+b²)}/2 से निकालें।\n• नोट: इसी प्रश्न की पुनरावृत्ति (प्रश्न 1082) में आधिकारिक उत्तर (B) है, जबकि यहाँ (C) दिया गया है — परीक्षा में दी गई कुंजी को अंतिम मानें।"
     },
     "difficulty": "Medium",
     "test_id": "ch_math_number_bodmas_10"

@@ -5,6 +5,72 @@
     "subject_code": "MATH",
     "topic": "क्षेत्रमिति एवं ज्यामिति (Mensuration & Geometry)",
     "topic_id": "math_mensuration",
+    "question": "एक वर्ग का परिमाप 48 सेमी है। उसका क्षेत्रफल (वर्ग सेमी में) क्या होगा?",
+    "options": {
+      "A": "120",
+      "B": "121",
+      "C": "150",
+      "D": "144"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र: वर्ग का परिमाप = 4a, क्षेत्रफल = a²\n• स्टेप-बाय-स्टेप हल:\n• 4a = 48 सेमी\n• भुजा (a) = 48 / 4 = 12 सेमी\n• क्षेत्रफल = 12 × 12 = 144 सेमी²",
+      "exam_tips": "12 का वर्ग 144 होता है।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_math_mensuration_12"
+  },
+  {
+    "id": 2,
+    "subject": "सरल अंकगणित",
+    "subject_code": "MATH",
+    "topic": "क्षेत्रमिति एवं ज्यामिति (Mensuration & Geometry)",
+    "topic_id": "math_mensuration",
+    "question": "यदि एक बेलन की ऊँचाई को दुगना कर दिया जाए, तो उसके आयतन पर क्या प्रभाव पड़ेगा?",
+    "options": {
+      "A": "यह दुगना हो जाता है",
+      "B": "यह चार गुना हो जाता है",
+      "C": "यह आधा हो जाता है",
+      "D": "यह वैसा ही रहता है"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र: बेलन का आयतन V = πr²h\n• स्टेप-बाय-स्टेप हल:\n• त्रिज्या r स्थिर रहने पर, आयतन ऊँचाई के समानुपाती होता है (V ∝ h)।\n• अतः ऊँचाई दुगुनी (2h) करने पर आयतन भी दुगुना (Doubled) हो जाता है।",
+      "exam_tips": "यदि त्रिज्या दुगुनी की जाती, तो आयतन 4 गुना हो जाता (r² के कारण)।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_math_mensuration_12"
+  },
+  {
+    "id": 3,
+    "subject": "सरल अंकगणित",
+    "subject_code": "MATH",
+    "topic": "क्षेत्रमिति एवं ज्यामिति (Mensuration & Geometry)",
+    "topic_id": "math_mensuration",
+    "question": "यदि एक बेलन की ऊँचाई को दुगुना कर दिया जाए, तो उसके आयतन पर क्या प्रभाव पड़ेगा?",
+    "options": {
+      "A": "यह दुगुना हो जाता है",
+      "B": "यह चार गुना हो जाता है",
+      "C": "यह आधा हो जाता है",
+      "D": "यह वैसा ही रहता है"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र: आयतन दुगुना हो जाता है।",
+      "exam_tips": "दोहराया गया प्रश्न; सही उत्तर (A) है।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_math_mensuration_12"
+  },
+  {
+    "id": 4,
+    "subject": "सरल अंकगणित",
+    "subject_code": "MATH",
+    "topic": "क्षेत्रमिति एवं ज्यामिति (Mensuration & Geometry)",
+    "topic_id": "math_mensuration",
     "question": "एक नियमित षट्भुज का परिमाप 72 मीटर है। एक भुजा की लंबाई कितनी मीटर होगी?",
     "options": {
       "A": "12",
@@ -22,7 +88,7 @@
     "test_id": "ch_math_mensuration_12"
   },
   {
-    "id": 2,
+    "id": 5,
     "subject": "सरल अंकगणित",
     "subject_code": "MATH",
     "topic": "क्षेत्रमिति एवं ज्यामिति (Mensuration & Geometry)",
@@ -44,7 +110,7 @@
     "test_id": "ch_math_mensuration_12"
   },
   {
-    "id": 3,
+    "id": 6,
     "subject": "सरल अंकगणित",
     "subject_code": "MATH",
     "topic": "क्षेत्रमिति एवं ज्यामिति (Mensuration & Geometry)",
@@ -66,7 +132,7 @@
     "test_id": "ch_math_mensuration_12"
   },
   {
-    "id": 4,
+    "id": 7,
     "subject": "सरल अंकगणित",
     "subject_code": "MATH",
     "topic": "क्षेत्रमिति एवं ज्यामिति (Mensuration & Geometry)",
@@ -88,7 +154,7 @@
     "test_id": "ch_math_mensuration_12"
   },
   {
-    "id": 5,
+    "id": 8,
     "subject": "सरल अंकगणित",
     "subject_code": "MATH",
     "topic": "क्षेत्रमिति एवं ज्यामिति (Mensuration & Geometry)",
@@ -110,7 +176,7 @@
     "test_id": "ch_math_mensuration_12"
   },
   {
-    "id": 6,
+    "id": 9,
     "subject": "सरल अंकगणित",
     "subject_code": "MATH",
     "topic": "क्षेत्रमिति एवं ज्यामिति (Mensuration & Geometry)",
@@ -132,7 +198,7 @@
     "test_id": "ch_math_mensuration_12"
   },
   {
-    "id": 7,
+    "id": 10,
     "subject": "सरल अंकगणित",
     "subject_code": "MATH",
     "topic": "क्षेत्रमिति एवं ज्यामिति (Mensuration & Geometry)",
@@ -149,72 +215,6 @@
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "मुख्य तथ्य / नियम / सूत्र: वृत्त के चाप की लंबाई और केंद्रीय कोण सूत्र:\nL = (θ / 360°) × 2πr\n• स्टेप-बाय-स्टेप हल:\n• L = 44 सेमी, r = 14 सेमी\n• 44 = (θ / 360°) × [2 × (22 / 7) × 14]\n• 44 = (θ / 360°) × 88\n• θ / 360° = 44 / 88 = ½\n• θ = 360° × ½ = 180°",
       "exam_tips": "180° केंद्रीय कोण का अर्थ है कि चाप एक अर्धवृत्त (Semicircle) बनाता है।"
-    },
-    "difficulty": "Medium",
-    "test_id": "ch_math_mensuration_12"
-  },
-  {
-    "id": 8,
-    "subject": "सरल अंकगणित",
-    "subject_code": "MATH",
-    "topic": "क्षेत्रमिति एवं ज्यामिति (Mensuration & Geometry)",
-    "topic_id": "math_mensuration",
-    "question": "पुणे के एक वर्गाकार पार्क का क्षेत्रफल 3969 वर्ग मीटर है। इसकी बाउंड्री की लम्बाई (परिधि) कितनी है?",
-    "options": {
-      "A": "262 m",
-      "B": "252 m",
-      "C": "248 m",
-      "D": "256 m"
-    },
-    "correct": "B",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "मुख्य तथ्य / नियम / सूत्र: वर्ग का क्षेत्रफल और परिमाप (Perimeter of Square):\nक्षेत्रफल = a²  ⇒  a = √क्षेत्रफल\nपरिमाप = 4a\n• स्टेप-बाय-स्टेप हल:\n• पार्क का क्षेत्रफल = 3969 वर्ग मीटर\n• भुजा a = √3969 = 63 मीटर (चूँकि 60² = 3600 और 63² = 3969)\n• बाउंड्री की लंबाई (परिमाप) = 4 × 63 = 252 मीटर",
-      "exam_tips": "63 × 63 = 3969; 4 × 63 = 252 मीटर।"
-    },
-    "difficulty": "Medium",
-    "test_id": "ch_math_mensuration_12"
-  },
-  {
-    "id": 9,
-    "subject": "सरल अंकगणित",
-    "subject_code": "MATH",
-    "topic": "क्षेत्रमिति एवं ज्यामिति (Mensuration & Geometry)",
-    "topic_id": "math_mensuration",
-    "question": "एक आयत की चौड़ाई और ऊँचाई का अनुपात 3:2 है। यदि चौड़ाई 15 सेमी है, तो ऊँचाई क्या होगी?",
-    "options": {
-      "A": "9 cm",
-      "B": "10 cm",
-      "C": "12 cm",
-      "D": "14 cm"
-    },
-    "correct": "B",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "मुख्य तथ्य / नियम / सूत्र: अनुपात और ज्यामितीय विमाएँ:\n• स्टेप-बाय-स्टेप हल:\n• चौड़ाई : ऊँचाई = 3 : 2\n• चौड़ाई = 3x = 15 सेमी  ⇒  x = 5 सेमी\n• ऊँचाई = 2x = 2 × 5 = 10 सेमी",
-      "exam_tips": "15 × (2 / 3) = 10 सेमी।"
-    },
-    "difficulty": "Medium",
-    "test_id": "ch_math_mensuration_12"
-  },
-  {
-    "id": 10,
-    "subject": "सरल अंकगणित",
-    "subject_code": "MATH",
-    "topic": "क्षेत्रमिति एवं ज्यामिति (Mensuration & Geometry)",
-    "topic_id": "math_mensuration",
-    "question": "एक आयत की चौड़ाई और ऊंचाई का अनुपात 3:2 है। यदि चौड़ाई 15 सेमी है, तो ऊंचाई क्या होगी?",
-    "options": {
-      "A": "9 cm",
-      "B": "10 cm",
-      "C": "12 cm",
-      "D": "14 cm"
-    },
-    "correct": "B",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "मुख्य तथ्य / नियम / सूत्र: अनुपात और ऊँचाई:\n• स्टेप-बाय-स्टेप हल:\n• चौड़ाई = 15 सेमी ⇒ ऊँचाई = (15 / 3) × 2 = 10 सेमी।",
-      "exam_tips": "दोहराया गया प्रश्न; सही उत्तर 10 सेमी है।"
     },
     "difficulty": "Medium",
     "test_id": "ch_math_mensuration_12"

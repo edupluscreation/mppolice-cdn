@@ -5,6 +5,28 @@
     "subject_code": "SCIENCE",
     "topic": "रसायन विज्ञान (Chemistry)",
     "topic_id": "sci_chemistry",
+    "question": "Which mineral resource found in the northeastern and Satpura regions of Madhya Pradesh significantly contributes to India's energy sector?",
+    "options": {
+      "A": "सोना",
+      "B": "कोयला",
+      "C": "लौह अयस्क",
+      "D": "तांबा"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: गोंडवाना काल के कोयला भंडार।\n• 📝 स्टेप-बाय-स्टेप हल:\n• मध्य प्रदेश का कोयला भंडार भारत में चौथे स्थान पर है और विद्युत उत्पादन में प्रमुख भूमिका निभाता है।\n• 💡",
+      "exam_tips": "सुहागपुर कोयला क्षेत्र मध्य प्रदेश का सबसे बड़ा कोयला क्षेत्र है।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_sci_chemistry_02"
+  },
+  {
+    "id": 2,
+    "subject": "सामान्य विज्ञान",
+    "subject_code": "SCIENCE",
+    "topic": "रसायन विज्ञान (Chemistry)",
+    "topic_id": "sci_chemistry",
     "question": "एंटीफ्रीज़ (एथिलीन ग्लाइकोल) इंजन को जमने से किस प्रकार रोकता है?",
     "options": {
       "A": "रासायनिक अभिक्रियाओं के माध्यम से ऊष्मा उत्पन्न करके",
@@ -22,7 +44,7 @@
     "test_id": "ch_sci_chemistry_02"
   },
   {
-    "id": 2,
+    "id": 3,
     "subject": "सामान्य विज्ञान",
     "subject_code": "SCIENCE",
     "topic": "रसायन विज्ञान (Chemistry)",
@@ -44,7 +66,7 @@
     "test_id": "ch_sci_chemistry_02"
   },
   {
-    "id": 3,
+    "id": 4,
     "subject": "सामान्य विज्ञान",
     "subject_code": "SCIENCE",
     "topic": "रसायन विज्ञान (Chemistry)",
@@ -66,7 +88,7 @@
     "test_id": "ch_sci_chemistry_02"
   },
   {
-    "id": 4,
+    "id": 5,
     "subject": "सामान्य विज्ञान",
     "subject_code": "SCIENCE",
     "topic": "रसायन विज्ञान (Chemistry)",
@@ -88,7 +110,7 @@
     "test_id": "ch_sci_chemistry_02"
   },
   {
-    "id": 5,
+    "id": 6,
     "subject": "सामान्य विज्ञान",
     "subject_code": "SCIENCE",
     "topic": "रसायन विज्ञान (Chemistry)",
@@ -110,7 +132,7 @@
     "test_id": "ch_sci_chemistry_02"
   },
   {
-    "id": 6,
+    "id": 7,
     "subject": "सामान्य विज्ञान",
     "subject_code": "SCIENCE",
     "topic": "रसायन विज्ञान (Chemistry)",
@@ -132,7 +154,7 @@
     "test_id": "ch_sci_chemistry_02"
   },
   {
-    "id": 7,
+    "id": 8,
     "subject": "सामान्य विज्ञान",
     "subject_code": "SCIENCE",
     "topic": "रसायन विज्ञान (Chemistry)",
@@ -154,7 +176,7 @@
     "test_id": "ch_sci_chemistry_02"
   },
   {
-    "id": 8,
+    "id": 9,
     "subject": "सामान्य विज्ञान",
     "subject_code": "SCIENCE",
     "topic": "रसायन विज्ञान (Chemistry)",
@@ -176,7 +198,7 @@
     "test_id": "ch_sci_chemistry_02"
   },
   {
-    "id": 9,
+    "id": 10,
     "subject": "सामान्य विज्ञान",
     "subject_code": "SCIENCE",
     "topic": "रसायन विज्ञान (Chemistry)",
@@ -193,28 +215,6 @@
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "धातुओं की जल के साथ अभिक्रियाशीलता:\n• सोडियम (Na): यह ठंडे जल के साथ अत्यंत हिंसक व तीव्र गति से क्रिया करता है।\n2Na + 2H₂O → 2NaOH + H₂↑\nबना हुआ सोडियम हाइड्रोक्साइड (NaOH) जल में अत्यधिक घुलनशील होता है और एक प्रबल क्षार (Strong Alkali) बनाता है।\n• मैग्नीशियम (Mg): ठंडे जल के साथ अभिक्रिया नहीं करता, यह केवल गर्म जल या भाप के साथ क्रिया करता है।\n• एल्युमिनियम (Al): केवल भाप (Steam) से क्रिया करता है।\n• निष्कर्ष: सही धातु (A) सोडियम है।",
       "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "test_id": "ch_sci_chemistry_02"
-  },
-  {
-    "id": 10,
-    "subject": "सामान्य विज्ञान",
-    "subject_code": "SCIENCE",
-    "topic": "रसायन विज्ञान (Chemistry)",
-    "topic_id": "sci_chemistry",
-    "question": "आधुनिक आवर्त सारणी में समूहों और आवर्तों के बारे में निम्न में से कौन-सा कथन गलत है?",
-    "options": {
-      "A": "एक समूह के तत्वों में संयोजी इलेक्ट्रॉनों की संख्या समान होती है।",
-      "B": "एक आवर्त के तत्वों में भरे हुए कोशों की संख्या समान होती है।",
-      "C": "एक आवर्त में संयोजी इलेक्ट्रॉनों की संख्या स्थिर रहती है।",
-      "D": "एक समूह में नीचे की ओर जाने पर कोशों की संख्या बढ़ती है।"
-    },
-    "correct": "C",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "मुख्य तथ्य / नियम / सूत्र:\n• आवर्त में बाएँ से दाएँ संयोजी इलेक्ट्रॉन बढ़ते हैं।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• A, B, D सही कथन हैं, C गलत है।\n• अतः गलत कथन C, विकल्प (C) सही उत्तर है।",
-      "exam_tips": "गलत कथन वाले प्रश्नों में प्रत्येक को जाँचें।"
     },
     "difficulty": "Medium",
     "test_id": "ch_sci_chemistry_02"

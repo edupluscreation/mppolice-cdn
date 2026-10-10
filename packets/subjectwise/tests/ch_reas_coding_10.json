@@ -5,6 +5,28 @@
     "subject_code": "REASONING",
     "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
     "topic_id": "reas_coding",
+    "question": "यदि कोई व्यक्ति बैठक में प्रश्नों का उत्तर देने से इनकार करता है तो क्या सोचा (ज़ज्ञ किया) जाना चाहिए?",
+    "options": {
+      "A": "उनके पास कहने के लिए कुछ नहीं हैं।",
+      "B": "वे जिम्मेदारी से बचना चाहते हैं।",
+      "C": "वे उत्तर नहीं जानते हैं।",
+      "D": "वे थोड़े से असहमत हैं।"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र:\n• कॉर्पोरेट और प्रशासनिक व्यवहार में, जब कोई व्यक्ति बैठक (Meeting) के दौरान सीधे प्रश्नों का उत्तर देने से बचता है, तो उसके पीछे मनोवैज्ञानिक कारण उत्तरदायित्व से दूर भागना होता है।\n• स्टेप-बाय-स्टेप हल / विवरण:\n1. विकल्प (A) सही नहीं है क्योंकि आमतौर पर हर व्यक्ति के पास अपनी राय होती है, चुप रहना उसका कारण नहीं है।\n2. विकल्प (B) बिल्कुल सटीक है; यदि कोई व्यक्ति बैठक में उत्तर देने से इनकार करता है, तो सामान्यतः यह माना जाता है कि वह उस मुद्दे से जुड़ी जवाबदेही या जिम्मेदारी से बचना (Avoid responsibility) चाहता है।\n3. विकल्प (C) और (D) हर स्थिति में लागू नहीं होते, क्योंकि कभी-कभी उत्तर मालूम होने के बावजूद व्यक्ति जिम्मेदारी लेने से डरता है।",
+      "exam_tips": "प्रशासनिक निर्णय क्षमता (Administrative Aptitude) के प्रश्नों में कर्मचारी के टालमटोल वाले रवैये को उत्तरदायित्व से जोड़कर देखा जाता है।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_reas_coding_10"
+  },
+  {
+    "id": 2,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+    "subject_code": "REASONING",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "topic_id": "reas_coding",
     "question": "यदि कोई व्यक्ति बैठक में प्रश्नों का उत्तर देने से इनकार करता है तो क्या सोचा (जझ किया) जाना चाहिए?",
     "options": {
       "A": "उनके पास कहने के लिए कुछ नहीं हैं।",
@@ -22,7 +44,7 @@
     "test_id": "ch_reas_coding_10"
   },
   {
-    "id": 2,
+    "id": 3,
     "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
     "subject_code": "REASONING",
     "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
@@ -44,7 +66,7 @@
     "test_id": "ch_reas_coding_10"
   },
   {
-    "id": 3,
+    "id": 4,
     "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
     "subject_code": "REASONING",
     "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
@@ -66,7 +88,7 @@
     "test_id": "ch_reas_coding_10"
   },
   {
-    "id": 4,
+    "id": 5,
     "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
     "subject_code": "REASONING",
     "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
@@ -88,7 +110,7 @@
     "test_id": "ch_reas_coding_10"
   },
   {
-    "id": 5,
+    "id": 6,
     "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
     "subject_code": "REASONING",
     "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
@@ -110,7 +132,7 @@
     "test_id": "ch_reas_coding_10"
   },
   {
-    "id": 6,
+    "id": 7,
     "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
     "subject_code": "REASONING",
     "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
@@ -132,7 +154,7 @@
     "test_id": "ch_reas_coding_10"
   },
   {
-    "id": 7,
+    "id": 8,
     "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
     "subject_code": "REASONING",
     "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
@@ -154,7 +176,7 @@
     "test_id": "ch_reas_coding_10"
   },
   {
-    "id": 8,
+    "id": 9,
     "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
     "subject_code": "REASONING",
     "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
@@ -176,45 +198,23 @@
     "test_id": "ch_reas_coding_10"
   },
   {
-    "id": 9,
-    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
-    "subject_code": "REASONING",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "topic_id": "reas_coding",
-    "question": "कौन-सी संख्या श्रृंखला, अन्य से भिन्न है?",
-    "options": {
-      "A": "2, 6, 12, 20",
-      "B": "3, 7, 13, 21",
-      "C": "5, 9, 15, 23",
-      "D": "4, 8, 15, 23"
-    },
-    "correct": "A",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "मुख्य तथ्य / नियम / सूत्र:\n• अंतर श्रृंखला से पैटर्न पहचानते हैं।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• (A) में अंतर 4, 6, 8 है, यह n × (n+1) रूप है: 1×2, 2×3, 3×4, 4×5।\n• अन्य श्रृंखलाओं से तुलना पर आधिकारिक कुंजी के अनुसार (A) भिन्न माना गया है, अतः विकल्प (A) सही है।\n• शेष विकल्पों के अंतर पैटर्न इससे अलग समूह बनाते हैं।",
-      "exam_tips": "अंतर 4, 6, 8 दिखे तो प्रायः n² + n का रूप होता है।"
-    },
-    "difficulty": "Medium",
-    "test_id": "ch_reas_coding_10"
-  },
-  {
     "id": 10,
     "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
     "subject_code": "REASONING",
     "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
     "topic_id": "reas_coding",
-    "question": "अंग्रेजी भाषा में, एक सार्थक वाक्य बनाने के लिए निम्नलिखित भागों को पुनर्वव्यवस्थित करें:",
+    "question": "यदि आपका मित्र उदास दिख रहा है और अकेले बैठा है, तो आपको क्या करना चाहिए?",
     "options": {
-      "A": "the report (B) key findings (C) highlighted (D) and recommendations\n(A) A - B - C - D",
-      "B": "key findings (C) highlighted (D) and recommendations\n(A) A - B - C - D\n(B) B - A - C - D",
-      "C": "highlighted (D) and recommendations\n(A) A - B - C - D\n(B) B - A - C - D\n(C) A - C - B - D",
-      "D": "and recommendations\n(A) A - B - C - D\n(B) B - A - C - D\n(C) A - C - B - D\n(D) B - C - A - D"
+      "A": "वहाँ से चले जाएँ",
+      "B": "उनसे प्यार से बात करें",
+      "C": "इस पर एक मज़ाक पोस्ट करें",
+      "D": "सबको बताएं कि वे कमज़ोर हैं"
     },
-    "correct": "C",
+    "correct": "B",
     "explanation": {
       "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "मुख्य तथ्य / नियम / सूत्र:\n• अंग्रेजी में सामान्य क्रम: Subject + Verb + Object होता है।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• A the report (कर्ता) + C highlighted (क्रिया) + B key findings (कर्म) + D and recommendations।\n• वाक्य बनता है: The report highlighted key findings and recommendations।\n• अतः A-C-B-D, विकल्प (C) सही है।",
-      "exam_tips": "पहले Subject खोजें, फिर Verb से जोड़ें।"
+      "solution": "मुख्य तथ्य / नियम / सूत्र:\n• भावनात्मक बुद्धिमत्ता में सहानुभूति और सहयोग पहला कदम है।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• चले जाना, अनदेखा करना या हँसना नकारात्मक व्यवहार है।\n• प्यार से बात करने से मित्र सहज होगा और कारण बताएगा, अतः विकल्प (B) सही है।",
+      "exam_tips": "पुलिस ड्यूटी में भी सहानुभूतिपूर्ण संवाद ही सही उत्तर होता है।"
     },
     "difficulty": "Medium",
     "test_id": "ch_reas_coding_10"

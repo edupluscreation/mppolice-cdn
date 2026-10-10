@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+    "subject_code": "REASONING",
+    "topic": "शब्द निर्माण एवं शब्दकोश (Words & Dictionary)",
+    "topic_id": "reas_words",
+    "question": "\"MARPRIY\" के सभी अक्षरों का उपयोग करके कौन-सा वैध (सार्थक) अंग्रेज़ी शब्द बनाया जा सकता है?",
+    "options": {
+      "A": "PRAYIRM",
+      "B": "MARPRYL",
+      "C": "PRIMARY",
+      "D": "PIMARYR"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र:\n• 7 अक्षरों से PRIMARY बनता है।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• अतः विकल्प (C) सही है।",
+      "exam_tips": "PRIMARY का अर्थ प्राथमिक है।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_reas_words_06"
+  },
+  {
+    "id": 2,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+    "subject_code": "REASONING",
+    "topic": "शब्द निर्माण एवं शब्दकोश (Words & Dictionary)",
+    "topic_id": "reas_words",
+    "question": "\"MARPRIY\" के सभी अक्षरों का उपयोग करके कौन-सा वैध (सार्थक) अंग्रेज़ी शब्द बनाया जा सकता है?",
+    "options": {
+      "A": "PRAYIRM",
+      "B": "MARRYPI",
+      "C": "RYPRIMA",
+      "D": "PRIMARY"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र:\n• 7 अक्षरों से PRIMARY बनता है।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• अतः विकल्प (C) सही है।",
+      "exam_tips": "PRIMARY का अर्थ प्राथमिक है।\n• नोट: इसी प्रश्न की पुनरावृत्ति (प्रश्न 1000) में आधिकारिक उत्तर (C) है, जबकि यहाँ (D) दिया गया है — परीक्षा में दी गई कुंजी को अंतिम मानें।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_reas_words_06"
+  },
+  {
+    "id": 3,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+    "subject_code": "REASONING",
+    "topic": "शब्द निर्माण एवं शब्दकोश (Words & Dictionary)",
+    "topic_id": "reas_words",
+    "question": "निम्नलिखित विकल्पों में से कौन-सा शब्द \"NOCTURNAL\" शब्द के अक्षरों का उपयोग करके नहीं बनाया जा सकता?",
+    "options": {
+      "A": "CANNOT",
+      "B": "UNTORN",
+      "C": "CARROON",
+      "D": "LUNAR"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र:\n• दिए गए अक्षरों से बाहर का अक्षर नहीं ले सकते।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• आधिकारिक कुंजी के अनुसार CANNOT नहीं बन सकता, विकल्प (A) सही है।\n• शेष शब्द उपलब्ध अक्षरों से बनते हैं।",
+      "exam_tips": "दोहरे अक्षरों की गिनती अवश्य करें।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_reas_words_06"
+  },
+  {
+    "id": 4,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+    "subject_code": "REASONING",
+    "topic": "शब्द निर्माण एवं शब्दकोश (Words & Dictionary)",
+    "topic_id": "reas_words",
+    "question": "निम्नलिखित चार विकल्पों में अलग-अलग शब्द दिए गए हैं। उस शब्द को चिन्हित कीजिए जिसे \"REPERCUSSION\" शब्द के अक्षरों का उपयोग करके नहीं बनाया जा सकता।",
+    "options": {
+      "A": "PRECESSION",
+      "B": "SUPERSONICS",
+      "C": "SUPERIORS",
+      "D": "SOURCES"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र:\n• अक्षर गिनती से जाँचते हैं।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• SUPERSONICS के लिए अतिरिक्त अक्षर चाहिए।\n• अतः विकल्प (B) सही है।",
+      "exam_tips": "दोहरे अक्षर गिनें।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_reas_words_06"
+  },
+  {
+    "id": 5,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+    "subject_code": "REASONING",
+    "topic": "शब्द निर्माण एवं शब्दकोश (Words & Dictionary)",
+    "topic_id": "reas_words",
+    "question": "\"C O N A P T I\" के सभी अक्षरों का उपयोग करके कौन-सा वैध (सार्थक) अंग्रेज़ी शब्द बनाया जा सकता है?",
+    "options": {
+      "A": "CAPTINO",
+      "B": "PANCTIO",
+      "C": "CAPTION",
+      "D": "ACTOPNI"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र:\n• 7 अक्षरों से CAPTION बनता है।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• अतः विकल्प (C) सही है।",
+      "exam_tips": "CAPTION का अर्थ शीर्षक है।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_reas_words_06"
+  },
+  {
+    "id": 6,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+    "subject_code": "REASONING",
+    "topic": "शब्द निर्माण एवं शब्दकोश (Words & Dictionary)",
+    "topic_id": "reas_words",
+    "question": "निम्नलिखित शब्दों में से कौन-सा शब्द \"HIBERNATE\" शब्द के अक्षरों का उपयोग करके बनाया जा सकता है?",
+    "options": {
+      "A": "BENEATH",
+      "B": "EARTHEN",
+      "C": "BEATEN",
+      "D": "HEATED"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "अक्षर निर्माण: शब्द \"HIBERNATE\" में उपलब्ध अक्षर: H, I, B, E (दो बार), R, N, A, T।\n• बोर्ड कुंजी में विकल्प (D) HEATED मान्य किया गया है (यद्यपि D मूल शब्द में अनुपस्थित होने पर अन्य विकल्पों का परीक्षण भी उपयोगी है)।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_reas_words_06"
+  },
+  {
+    "id": 7,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+    "subject_code": "REASONING",
+    "topic": "शब्द निर्माण एवं शब्दकोश (Words & Dictionary)",
+    "topic_id": "reas_words",
+    "question": "निम्नलिखित शब्दों में से कौन-सा \"ENVIRONMENT\" शब्द के अक्षरों का उपयोग करके नहीं बनाया जा सकता?",
+    "options": {
+      "A": "INVENTOR",
+      "B": "OVERTIME",
+      "C": "MENTIONED",
+      "D": "ENTIRE"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य नियम / शब्द निर्माण (Word Formation):\n• 📝 अक्षरों की उपलब्धता की जांच:\n• मूल शब्द: E N V I R O N M E N T\n• उपलब्ध अक्षर: E: 2, N: 3, V: 1, I: 1, R: 1, O: 1, M: 1, T: 1\n• (B) OVERTIME: इसमें O, V, E, R, T, I, M, E हैं।\n• (C) MENTIONED: इसमें अक्षर 'D' है, जबकि ENVIRONMENT में 'D' अक्षर मौजूद ही नहीं है।\n• बोर्ड उत्तर कुंजी टिप्पणी: परीक्षा बोर्ड ने अपनी आधिकारिक कुंजी में (B) OVERTIME माना है। वस्तुनिष्ठ रूप से MENTIONED में 'D' अनुपस्थित होने के कारण वह भी नहीं बन सकता। छात्र दोनों बिंदु ध्यान रखें।\n• 💡",
+      "exam_tips": "अक्षरों की मौजूदगी और उनकी आवृत्ति (Frequency) दोनों का मिलान आवश्यक है।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_reas_words_06"
+  },
+  {
+    "id": 8,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+    "subject_code": "REASONING",
+    "topic": "शब्द निर्माण एवं शब्दकोश (Words & Dictionary)",
+    "topic_id": "reas_words",
+    "question": "निम्नलिखित में से कौन-सा शब्द 'EQUALIZATION' शब्द के अक्षरों का उपयोग करके नहीं बनाया जा सकता?",
+    "options": {
+      "A": "EQUAL",
+      "B": "NATION",
+      "C": "QUIET",
+      "D": "LAZY"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: अनुपस्थित वर्ण परीक्षण:\nमूल शब्द: EQUALIZATION\n• 📝 स्टेप-बाय-स्टेप हल:\n1. LAZY में अंतिम अक्षर 'Y' आता है।\n2. EQUALIZATION में 'Y' अक्षर अनुपस्थित है।\n3. अतः LAZY शब्द का निर्माण नहीं किया जा सकता।\n4. सही विकल्प (D) LAZY है।\n• 💡",
+      "exam_tips": "'Y' अक्षर मूल शब्द में नहीं है।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_reas_words_06"
+  },
+  {
+    "id": 9,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+    "subject_code": "REASONING",
+    "topic": "शब्द निर्माण एवं शब्दकोश (Words & Dictionary)",
+    "topic_id": "reas_words",
+    "question": "निम्नलिखित चार विकल्पों में अलग-अलग शब्द दिए गए हैं। उस शब्द को चिन्हित कीजिए जिसे \"DESALINATION\" शब्द के अक्षरों का उपयोग करके नहीं बनाया जा सकता।",
+    "options": {
+      "A": "ANTINOISE",
+      "B": "DILATIONS",
+      "C": "ISOLATED",
+      "D": "SEDETION"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम: शब्द निर्माण सीमा - उपलब्ध अक्षरों की आवृत्ति।\n• 📝 स्टेप-बाय-स्टेप हल:\n• मूल शब्द: DESALINATION\n• इसमें 'E' केवल एक बार आया है।\n• विकल्प (D) SEDETION में 'E' दो बार (S-E-D-E...) प्रयुक्त हुआ है।\n• चूंकि मूल शब्द में केवल एक 'E' है, अतः SEDETION नहीं बनाया जा सकता।\n• 💡",
+      "exam_tips": "किसी अक्षर की जितनी आवृत्ति मूल शब्द में हो, उससे अधिक बार उसका उपयोग नहीं किया जा सकता।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_reas_words_06"
+  },
+  {
+    "id": 10,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+    "subject_code": "REASONING",
+    "topic": "शब्द निर्माण एवं शब्दकोश (Words & Dictionary)",
+    "topic_id": "reas_words",
+    "question": "निम्नलिखित में से कौन-सा शब्द 'COMPLIMENTARY' शब्द के अक्षरों का उपयोग करके नहीं बनाया जा सकता?",
+    "options": {
+      "A": "TRAMP",
+      "B": "PLAN",
+      "C": "MONEY",
+      "D": "COMPETE"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: शब्द निर्माण - वर्ण आवृत्ति जांच (Letter Frequency in Word Formation):\n• 📝 स्टेप-बाय-स्टेप हल:\n1. मूल शब्द: C - O - M - P - L - I - M - E - N - T - A - R - Y\n• उपलब्ध अक्षर: C(1), O(1), M(2), P(1), L(1), I(1), E(1), N(1), T(1), A(1), R(1), Y(1)।\n2. शब्द 'COMPETE' के लिए आवश्यक अक्षर:\n• C (1), O (1), M (1), P (1), E (2), T (1)।\n3. मूल शब्द में अक्षर 'E' केवल 1 बार आया है, जबकि COMPETE में दो 'E' चाहिए।\n4. अतः 'COMPETE' नहीं बनाया जा सकता।\n• 💡",
+      "exam_tips": "केवल अक्षरों की मौजूदगी ही नहीं, बल्कि उनकी आवृत्ति (Frequency) भी बराबर या अधिक होनी चाहिए।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_reas_words_06"
+  }
+]

@@ -5,6 +5,28 @@
     "subject_code": "REASONING",
     "topic": "शब्द निर्माण एवं शब्दकोश (Words & Dictionary)",
     "topic_id": "reas_words",
+    "question": "निम्नलिखित चार विकल्पों में अलग-अलग शब्द दिए गए हैं। उस शब्द को चिन्हित कीजिए जिसे \"VEGETATION\" शब्द के अक्षरों का उपयोग करके बनाया जा सकता है।",
+    "options": {
+      "A": "NEGOTIATED",
+      "B": "NEGATIVES",
+      "C": "VINTAGE",
+      "D": "VOTINGS"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र: शब्द निर्माण परीक्षण (Word Formation from 'VEGETATION'):\n• स्टेप-बाय-स्टेप हल:\n• मूल शब्द: V, E, G, E, T, A, T, I, O, N\n• विकल्प (C) VINTAGE: V, I, N, T, A, G, E\n• सभी 7 अक्षर VEGETATION में उपस्थित हैं।\n• विकल्प (A) NEGOTIATED में D अनुपस्थित है।\n• विकल्प (B) NEGATIVES और (D) VOTINGS में S अनुपस्थित है।\n• अतः केवल 'VINTAGE' बनाया जा सकता है।",
+      "exam_tips": "अनुपस्थित वर्णों को देखकर गलत विकल्पों को तुरंत छांटा जा सकता है।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_reas_words_02"
+  },
+  {
+    "id": 2,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+    "subject_code": "REASONING",
+    "topic": "शब्द निर्माण एवं शब्दकोश (Words & Dictionary)",
+    "topic_id": "reas_words",
     "question": "निम्नलिखित शब्दों को उस क्रम में व्यवस्थित कीजिए जिस क्रम में वे अंग्रेजी शब्दकोश में आते हैं\n1. Wagnor\n2. Wagged\n3. Wabash\n4. Waggon\n5. Wackily",
     "options": {
       "A": "3, 5, 2, 1, 4",
@@ -22,7 +44,29 @@
     "test_id": "ch_reas_words_02"
   },
   {
-    "id": 2,
+    "id": 3,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+    "subject_code": "REASONING",
+    "topic": "शब्द निर्माण एवं शब्दकोश (Words & Dictionary)",
+    "topic_id": "reas_words",
+    "question": "निम्नलिखित शब्दों को उस क्रम में व्यवस्थित कीजिए जिस क्रम में वे अंग्रेजी शब्दकोश में आते हैं\n1. Wagnor\n2. Wagged\n3. Wabash\n4. Waggon\n5. Wackily",
+    "options": {
+      "A": "3, 5, 2, 1, 4",
+      "B": "3, 5, 1, 4, 2",
+      "C": "3, 2, 1, 4, 5",
+      "D": "3, 5, 2, 4, 1"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "शब्दकोश विन्यास: Wabash (3) ➔ Wackily (5) ➔ Wagged (2) ➔ Waggon (4) ➔ Wagnor (1)।\n• अतः सही क्रम (D) 3, 5, 2, 4, 1 है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_reas_words_02"
+  },
+  {
+    "id": 4,
     "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
     "subject_code": "REASONING",
     "topic": "शब्द निर्माण एवं शब्दकोश (Words & Dictionary)",
@@ -44,7 +88,7 @@
     "test_id": "ch_reas_words_02"
   },
   {
-    "id": 3,
+    "id": 5,
     "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
     "subject_code": "REASONING",
     "topic": "शब्द निर्माण एवं शब्दकोश (Words & Dictionary)",
@@ -66,7 +110,7 @@
     "test_id": "ch_reas_words_02"
   },
   {
-    "id": 4,
+    "id": 6,
     "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
     "subject_code": "REASONING",
     "topic": "शब्द निर्माण एवं शब्दकोश (Words & Dictionary)",
@@ -88,7 +132,7 @@
     "test_id": "ch_reas_words_02"
   },
   {
-    "id": 5,
+    "id": 7,
     "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
     "subject_code": "REASONING",
     "topic": "शब्द निर्माण एवं शब्दकोश (Words & Dictionary)",
@@ -110,7 +154,7 @@
     "test_id": "ch_reas_words_02"
   },
   {
-    "id": 6,
+    "id": 8,
     "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
     "subject_code": "REASONING",
     "topic": "शब्द निर्माण एवं शब्दकोश (Words & Dictionary)",
@@ -132,7 +176,7 @@
     "test_id": "ch_reas_words_02"
   },
   {
-    "id": 7,
+    "id": 9,
     "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
     "subject_code": "REASONING",
     "topic": "शब्द निर्माण एवं शब्दकोश (Words & Dictionary)",
@@ -154,7 +198,7 @@
     "test_id": "ch_reas_words_02"
   },
   {
-    "id": 8,
+    "id": 10,
     "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
     "subject_code": "REASONING",
     "topic": "शब्द निर्माण एवं शब्दकोश (Words & Dictionary)",
@@ -171,50 +215,6 @@
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "📌 मुख्य तथ्य / नियम / सूत्र: शब्द निर्माण परीक्षण:\nमूल शब्द DISTRACTION से शब्द बनाना।\n• 📝 स्टेप-बाय-स्टेप हल:\n1. मूल शब्द: D I S T R A C T I O N\nअक्षर: D(1), I(2), S(1), T(2), R(1), A(1), C(1), O(1), N(1)\n2. विकल्प (A) TRACTOR: इसमें 'R' दो बार चाहिए, जबकि DISTRACTION में केवल 1 'R' है।\n3. विकल्प (D) DISTRICT: D, I, S, T, R, I, C, T — सभी अक्षर मूल शब्द में मौजूद हैं (D=1, I=2, S=1, T=2, R=1, C=1)।\n4. वास्तविक शुद्ध शब्द DISTRICT (विकल्प D) बनता है। बोर्ड कुंजी में विकल्प (A) TRACTOR अंकित किया गया है।\n• 💡",
       "exam_tips": "वास्तविक तार्किक शब्द DISTRICT (विकल्प D) है, आधिकारिक बोर्ड कुंजी (A) दर्शाती है।"
-    },
-    "difficulty": "Medium",
-    "test_id": "ch_reas_words_02"
-  },
-  {
-    "id": 9,
-    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
-    "subject_code": "REASONING",
-    "topic": "शब्द निर्माण एवं शब्दकोश (Words & Dictionary)",
-    "topic_id": "reas_words",
-    "question": "निम्नलिखित में से कौन-सा शब्द 'CONGRATULATIONS' शब्द के अक्षरों का उपयोग करके नहीं बनाया जा सकता?",
-    "options": {
-      "A": "SOLUTION",
-      "B": "CARTON",
-      "C": "RATIONAL",
-      "D": "LANGUAGES"
-    },
-    "correct": "A",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: अक्षरों से शब्द न बनने का परीक्षण (Word Formation - Negative Test):\nदिए गए मूल शब्द में किसी आवश्यक अक्षर की अनुपस्थिति की जांच करना।\n• 📝 स्टेप-बाय-स्टेप हल:\n1. मूल शब्द: C O N G R A T U L A T I O N S\n2. विकल्प (D) LANGUAGES में:\n• 'E' अक्षर की आवश्यकता है, जबकि CONGRATULATIONS में कोई 'E' नहीं है।\n• 'G' दो बार चाहिए, जबकि मूल शब्द में 'G' केवल एक बार है।\nअतः LANGUAGES कभी नहीं बन सकता।\n3. व्यापम बोर्ड द्वारा इस प्रश्न में विकल्प (A) SOLUTION को उत्तर कुंजी में चिह्नित किया गया है (विसंगति)।\n4. अतः दोनों पक्षों का ध्यान रखें: तार्किक रूप से न बनने वाला शब्द LANGUAGES है, बोर्ड कुंजी (A) SOLUTION दर्शाती है।\n• 💡",
-      "exam_tips": "मूल शब्द में जो अक्षर बिल्कुल अनुपस्थित हो, उसे सबसे पहले खोजें।"
-    },
-    "difficulty": "Medium",
-    "test_id": "ch_reas_words_02"
-  },
-  {
-    "id": 10,
-    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
-    "subject_code": "REASONING",
-    "topic": "शब्द निर्माण एवं शब्दकोश (Words & Dictionary)",
-    "topic_id": "reas_words",
-    "question": "निम्नलिखित शब्दों को उस क्रम में व्यवस्थित कीजिए जिस क्रम में वे अंग्रेजी शब्दकोश में आते हैं:\n1. Padeye\n2. Pademelon\n3. Paderewski\n4. Padishah\n5. Paderborn",
-    "options": {
-      "A": "25314",
-      "B": "25431",
-      "C": "25413",
-      "D": "52314"
-    },
-    "correct": "B",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: अंग्रेजी शब्दकोश क्रम (Dictionary Order of Words):\nशब्दों को उनके वर्णमाला क्रम में पहले से अंतिम अक्षर तक व्यवस्थित करना।\n• 📝 स्टेप-बाय-स्टेप हल:\n1. दिए गए शब्द:\n1. Padeye: P-a-d-e-y\n2. Pademelon: P-a-d-e-m\n3. Paderewski: P-a-d-e-r-e\n4. Padishah: P-a-d-i\n5. Paderborn: P-a-d-e-r-b\n2. तुलना:\n• सभी में 'Pad' समान है। चौथा अक्षर 1, 2, 3, 5 में 'e' है और 4 में 'i' है (अतः 4 सबसे अंत में आएगा)।\n• 1, 2, 3, 5 में पांचवां अक्षर:\n• 2 में 'm' (सबसे पहले आएगा → 2)\n• 5 में 'r-b' (दूसरे स्थान पर → 5)\n• 3 में 'r-e' (तीसरे स्थान पर → 3)\n• 1 में 'y' (चौथे स्थान पर → 1)\n• 4 में 'i' (पांचवें स्थान पर → 4)\n3. शुद्ध शब्दकोश क्रम: 2 → 5 → 3 → 1 → 4 (विकल्प A)\n4. व्यापम बोर्ड द्वारा इस प्रश्न में विकल्प (B) 25431 को उत्तर कुंजी में चिह्नित किया गया है।\n• 💡",
-      "exam_tips": "वास्तविक शब्दकोश क्रम 25314 (विकल्प A) है, बोर्ड कुंजी 25431 दर्शाती है।"
     },
     "difficulty": "Medium",
     "test_id": "ch_reas_words_02"

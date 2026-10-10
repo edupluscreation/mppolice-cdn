@@ -5,6 +5,94 @@
     "subject_code": "REASONING",
     "topic": "रक्त संबंध (Blood Relation)",
     "topic_id": "reas_blood",
+    "question": "यदि P, Q का पति है और R, Q की माँ है, तो P, R से किस प्रकार संबंधित है?",
+    "options": {
+      "A": "बेटा",
+      "B": "दामाद",
+      "C": "पिता",
+      "D": "भाई"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य संबंध: रक्त संबंध में दामाद (Son-in-law) का संबंध।\n• 📝 विश्लेषण:\n• P पति है Q का (P पुरुष, Q महिला)।\n• R माँ है Q की।\n• बेटी का पति 'दामाद' (Son-in-law) होता है।\n• अतः P, R का दामाद है।\n• 💡",
+      "exam_tips": "पत्नी की माता सास (Mother-in-law) होती है और सास के लिए वह दामाद होता है।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_reas_blood_10"
+  },
+  {
+    "id": 2,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+    "subject_code": "REASONING",
+    "topic": "रक्त संबंध (Blood Relation)",
+    "topic_id": "reas_blood",
+    "question": "एक परिवार में, X, Y का भाई है। Y, Z की माँ है। Z, X से किस प्रकार संबंधित है?",
+    "options": {
+      "A": "बेटी",
+      "B": "ससुर",
+      "C": "Nephew / नीस / नेफ्यू",
+      "D": "पत्नी"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य संबंध: मामा-भांजा/भांजी का पारिवारिक संबंध।\n• 📝 स्टेप-बाय-स्टेप हल:\n• X पुरुष है और Y का भाई है (X = भाई, Y = बहन)।\n• Y माँ है Z की।\n• अतः X, Z का मामा (Maternal Uncle) है।\n• इस प्रकार Z, X की बहन की संतान है, जो पुरुष होने पर 'भांजा' (Nephew) और महिला होने पर 'भांजी' (Niece) कहलाता है।\n• 💡",
+      "exam_tips": "दिए गए विकल्पों में नेफ्यू/नीस (C) सही उत्तर है।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_reas_blood_10"
+  },
+  {
+    "id": 3,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+    "subject_code": "REASONING",
+    "topic": "रक्त संबंध (Blood Relation)",
+    "topic_id": "reas_blood",
+    "question": "एक तस्वीर की ओर इशारा करते हुए राहुल ने कहा, \"वह मेरे दादा के इकलौते बेटे की बेटी है।\" तो वह लड़की राहुल से किस प्रकार संबंधित है?",
+    "options": {
+      "A": "बहन",
+      "B": "कज़िन",
+      "C": "आंटी",
+      "D": "नीस"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य संबंध / रक्त संबंध कथन विश्लेषण:\n• 📝 स्टेप-बाय-स्टेप संबंध विच्छेदन:\n• \"मेरे दादा के इकलौते बेटे\" = राहुल के पिता।\n• \"राहुल के पिता की बेटी\" = राहुल की सगी बहन (Sister)।\n• अतः तस्वीर वाली लड़की राहुल की बहन है।\n• 💡",
+      "exam_tips": "'दादा का इकलौता बेटा' हमेशा स्वयं के पिता होते हैं।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_reas_blood_10"
+  },
+  {
+    "id": 4,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+    "subject_code": "REASONING",
+    "topic": "रक्त संबंध (Blood Relation)",
+    "topic_id": "reas_blood",
+    "question": "A, B का भाई है। B, C की माँ है। A, C से किस प्रकार संबंधित है?",
+    "options": {
+      "A": "अंकल",
+      "B": "कज़िन",
+      "C": "दादा",
+      "D": "पिता"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य संबंध: माता का भाई 'मामा' (Maternal Uncle) कहलाता है।\n• 📝 स्टेप-बाय-स्टेप हल:\n• B माँ है C की।\n• A भाई है B का।\n• अतः A, C की माँ का भाई है, यानी A, C का मामा (Maternal Uncle / अंकल) है।\n• 💡",
+      "exam_tips": "अंग्रेजी में मामा को 'Maternal Uncle' या सामान्यतः 'Uncle' कहा जाता है।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_reas_blood_10"
+  },
+  {
+    "id": 5,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+    "subject_code": "REASONING",
+    "topic": "रक्त संबंध (Blood Relation)",
+    "topic_id": "reas_blood",
     "question": "एक लड़की की ओर इशारा करते हुए एक आदमी ने कहा, \"उसके पिता मेरी माँ के पति के एकलौते बेटे हैं।\" तो वह आदमी उस लड़की से किस प्रकार संबंधित है?",
     "options": {
       "A": "पिता",
@@ -22,7 +110,7 @@
     "test_id": "ch_reas_blood_10"
   },
   {
-    "id": 2,
+    "id": 6,
     "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
     "subject_code": "REASONING",
     "topic": "रक्त संबंध (Blood Relation)",
@@ -44,7 +132,7 @@
     "test_id": "ch_reas_blood_10"
   },
   {
-    "id": 3,
+    "id": 7,
     "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
     "subject_code": "REASONING",
     "topic": "रक्त संबंध (Blood Relation)",
@@ -66,7 +154,7 @@
     "test_id": "ch_reas_blood_10"
   },
   {
-    "id": 4,
+    "id": 8,
     "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
     "subject_code": "REASONING",
     "topic": "रक्त संबंध (Blood Relation)",
@@ -88,7 +176,29 @@
     "test_id": "ch_reas_blood_10"
   },
   {
-    "id": 5,
+    "id": 9,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+    "subject_code": "REASONING",
+    "topic": "रक्त संबंध (Blood Relation)",
+    "topic_id": "reas_blood",
+    "question": "यदि P, Q का पिता है और Q, R की माता है, तो P, R से किस प्रकार संबंधित है?",
+    "options": {
+      "A": "पिता",
+      "B": "दादा",
+      "C": "अंकल",
+      "D": "कज़िन"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य संबंध: माता का पिता नाना (Grandfather)।\n• 💡",
+      "exam_tips": "दो पीढ़ियों का अंतर ग्रैंडपेरेंट संबंध को दर्शाता है।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_reas_blood_10"
+  },
+  {
+    "id": 10,
     "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
     "subject_code": "REASONING",
     "topic": "रक्त संबंध (Blood Relation)",
@@ -105,116 +215,6 @@
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "📌 मुख्य संबंध: पिता की बहन 'बुआ' होती है और बुआ का लड़का 'फुफेरा भाई / कजिन' (Cousin) होता है।\n• 💡",
       "exam_tips": "भाई-बहनों के बच्चों का आपसी संबंध कजिन कहलाता है।"
-    },
-    "difficulty": "Medium",
-    "test_id": "ch_reas_blood_10"
-  },
-  {
-    "id": 6,
-    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
-    "subject_code": "REASONING",
-    "topic": "रक्त संबंध (Blood Relation)",
-    "topic_id": "reas_blood",
-    "question": "A, B की माँ है। C, B का पिता है। C, A से किस प्रकार संबंधित है?",
-    "options": {
-      "A": "पति",
-      "B": "भाई",
-      "C": "बेटा",
-      "D": "कज़िन"
-    },
-    "correct": "A",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / रक्त संबंध (Blood Relations):\n• यदि दो व्यक्ति एक ही संतान के क्रमशः माता और पिता हैं, तो वे आपस में पति-पत्नी होंगे।\n• 📝 संबंध विश्लेषण:\n• A, B की माँ है (A स्त्री है)।\n• C, B का पिता है (C पुरुष है)।\n• चूंकि A और C दोनों B के जैविक माता-पिता हैं, अतः C, A का पति है।\n• 💡",
-      "exam_tips": "पीढ़ी आरेख (Family Tree) में पति-पत्नी के रिश्ते को द्वि-तीर चिह्न (A ↔ C) से दर्शाया जाता है।"
-    },
-    "difficulty": "Medium",
-    "test_id": "ch_reas_blood_10"
-  },
-  {
-    "id": 7,
-    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
-    "subject_code": "REASONING",
-    "topic": "रक्त संबंध (Blood Relation)",
-    "topic_id": "reas_blood",
-    "question": "A, B का पिता है। C, B की बहन है। तो C, A से किस प्रकार संबंधित है?",
-    "options": {
-      "A": "बेटी",
-      "B": "बेटा",
-      "C": "बहन",
-      "D": "माँ"
-    },
-    "correct": "A",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / रक्त संबंध (Blood Relations):\n• 📝 संबंध विश्लेषण:\n• A, B का पिता है।\n• C, B की बहन है (अर्थात C एक महिला/पुत्री है)।\n• चूंकि B और C सहोदर (भाई-बहन) हैं, अतः A, C का भी पिता होगा।\n• प्रश्न पूछा गया है: \"C, A से किस प्रकार संबंधित है?\"\n• अतः C, A की बेटी (Daughter) है।\n• 💡",
-      "exam_tips": "लिंग निर्धारण (C बहन है = महिला) पर ध्यान देने से पुत्र और पुत्री में भ्रम नहीं होता।"
-    },
-    "difficulty": "Medium",
-    "test_id": "ch_reas_blood_10"
-  },
-  {
-    "id": 8,
-    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
-    "subject_code": "REASONING",
-    "topic": "रक्त संबंध (Blood Relation)",
-    "topic_id": "reas_blood",
-    "question": "X, Y का पति है। Y, Z की बेटी है। Z, W की पत्नी है। W, P का पिता है। तो P का X से क्या संबंध है?",
-    "options": {
-      "A": "बहनोई (ब्रदर इन लॉ)",
-      "B": "ससुर",
-      "C": "अंकल",
-      "D": "भाई"
-    },
-    "correct": "A",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / पारिवारिक संबंध विश्लेषण:\n• 📝 संबंधों का क्रम:\n• W और Z माता-पिता हैं (Z पत्नी, W पति)।\n• Y और P दोनों W और Z की संतानें हैं (Y पुत्री है, P सहोदर भाई/बहन है)।\n• X, Y का पति है।\n• पत्नी (Y) का भाई (P) पति (X) का साला / ब्रदर-इन-लॉ (Brother-in-law) कहलाता है।\n• 💡",
-      "exam_tips": "अंग्रेजी में साला और बहनोई दोनों के लिए 'Brother-in-law' शब्द प्रयुक्त होता है।"
-    },
-    "difficulty": "Medium",
-    "test_id": "ch_reas_blood_10"
-  },
-  {
-    "id": 9,
-    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
-    "subject_code": "REASONING",
-    "topic": "रक्त संबंध (Blood Relation)",
-    "topic_id": "reas_blood",
-    "question": "P, Q का पति है। R, S का बेटा है। Q, R की बहन है। तो P, S से किस प्रकार संबंधित है?",
-    "options": {
-      "A": "दामाद",
-      "B": "भतीजा",
-      "C": "भाई",
-      "D": "बेटा"
-    },
-    "correct": "A",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / रक्त संबंध (Blood Relations):\n• 📝 स्टेप-बाय-स्टेप संबंध:\n• R, S का बेटा है और Q, R की बहन है → Q, S की बेटी है।\n• P, Q का पति है → P, S की बेटी का पति है।\n• बेटी का पति = दामाद (Son-in-law)।\n• 💡",
-      "exam_tips": "विकल्प (A) दामाद सही उत्तर है।"
-    },
-    "difficulty": "Medium",
-    "test_id": "ch_reas_blood_10"
-  },
-  {
-    "id": 10,
-    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
-    "subject_code": "REASONING",
-    "topic": "रक्त संबंध (Blood Relation)",
-    "topic_id": "reas_blood",
-    "question": "A, B की बेटी है। B, C का बेटा है। D, C का पिता है। तो A, D से किस प्रकार संबंधित है?",
-    "options": {
-      "A": "बेटा",
-      "B": "बेटी",
-      "C": "परपोती",
-      "D": "पोता"
-    },
-    "correct": "C",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / चार पीढ़ियों का वंशावली संबंध:\n• 📝 पीढ़ी आरेख:\n• 1st पीढ़ी: D (प्रपितामह / परदादा)\n• 2nd पीढ़ी: C (D की संतान / दादा)\n• 3rd पीढ़ी: B (C का बेटा / पिता)\n• 4th पीढ़ी: A (B की बेटी / प्रपौत्री)\n• अतः A, D की परपोती (Great-granddaughter) है।\n• 💡",
-      "exam_tips": "A एक महिला (बेटी) है, अतः परपोती सही संबंध है।"
     },
     "difficulty": "Medium",
     "test_id": "ch_reas_blood_10"

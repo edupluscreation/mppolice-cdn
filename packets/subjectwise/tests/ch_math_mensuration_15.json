@@ -5,6 +5,72 @@
     "subject_code": "MATH",
     "topic": "क्षेत्रमिति एवं ज्यामिति (Mensuration & Geometry)",
     "topic_id": "math_mensuration",
+    "question": "एक अर्द्धगोलाकार कटोरी जिसकी त्रिज्या 10 सेमी है, उसका आयतन (घन सेंटीमीटर में) कितना होगा? (pi = 3.14 का प्रयोग करें)",
+    "options": {
+      "A": "1523.33",
+      "B": "2023.66",
+      "C": "2093.33",
+      "D": "2188.79"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "सूत्र: अर्धगोले का आयतन = (2/3) × π × r³\n• गणना:\n• r = 10 सेमी, π = 3.14\n• आयतन = (2/3) × 3.14 × (10)³ = (2/3) × 3140 = 6280 ÷ 3 = 2093.33 सेमी³\n• अतः सही उत्तर (C) 2093.33 है।",
+      "solution": "विस्तृत व्याख्या उपलब्ध है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_math_mensuration_15"
+  },
+  {
+    "id": 2,
+    "subject": "सरल अंकगणित",
+    "subject_code": "MATH",
+    "topic": "क्षेत्रमिति एवं ज्यामिति (Mensuration & Geometry)",
+    "topic_id": "math_mensuration",
+    "question": "दिया गया है कि sin θ = 4/5 और θ दूसरे चतुर्थांश में स्थित है, cos θ और tan θ ज्ञात कीजिए।",
+    "options": {
+      "A": "5, tan θ = -4/3",
+      "B": "5, tan θ = 3/4",
+      "C": "5, tan θ = -4/3",
+      "D": "3, tan θ = 3/4"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "चतुर्थांश नियम (Quadrant Signs): दूसरे चतुर्थांश (II Quadrant) में केवल sin और cosec धनात्मक होते हैं, जबकि cos और tan ऋणात्मक होते हैं।\n• गणना:\n• sin θ = 4/5\n• cos θ = -√(1 - sin²θ) = -√(1 - 16/25) = -√(9/25) = -3/5\n• tan θ = sin θ / cos θ = (4/5) / (-3/5) = -4/3\n• अतः cos θ = -3/5 और tan θ = -4/3।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_math_mensuration_15"
+  },
+  {
+    "id": 3,
+    "subject": "सरल अंकगणित",
+    "subject_code": "MATH",
+    "topic": "क्षेत्रमिति एवं ज्यामिति (Mensuration & Geometry)",
+    "topic_id": "math_mensuration",
+    "question": "एक शंकु के आकार की जल टंकी की ऊँचाई 10 मीटर है और त्रिज्या 6 मीटर है। उसका वक्र सतह क्षेत्रफल (वर्ग मीटर में) ज्ञात कीजिए। (pi = 3.14 का प्रयोग करें)",
+    "options": {
+      "A": "188.4",
+      "B": "201.06",
+      "C": "226.2",
+      "D": "219.67"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "शंकु का वक्र पृष्ठीय क्षेत्रफल सूत्र: CSA = π × r × l\n• तिर्यक ऊँचाई (Slant Height, l):\n• l = √(r² + h²) = √(6² + 10²) = √(36 + 100) = √136 ≈ 11.66 मीटर\n• क्षेत्रफल:\n• CSA = 3.14 × 6 × 11.66 ≈ 219.67 वर्ग मीटर\n• नोट: शुद्ध गणना अनुसार 219.67 m² आता है। बोर्ड उत्तर कुंजी में (B) 201.06 दिया गया है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_math_mensuration_15"
+  },
+  {
+    "id": 4,
+    "subject": "सरल अंकगणित",
+    "subject_code": "MATH",
+    "topic": "क्षेत्रमिति एवं ज्यामिति (Mensuration & Geometry)",
+    "topic_id": "math_mensuration",
     "question": "एक छात्र ने एक ग्रह का मॉडल 7 सेमी त्रिज्या वाली गोला के रूप में बनाया। इस मॉडल का आयतन (घन सेमी में) कितना होगा?",
     "options": {
       "A": "1432.22",
@@ -22,7 +88,7 @@
     "test_id": "ch_math_mensuration_15"
   },
   {
-    "id": 2,
+    "id": 5,
     "subject": "सरल अंकगणित",
     "subject_code": "MATH",
     "topic": "क्षेत्रमिति एवं ज्यामिति (Mensuration & Geometry)",
@@ -44,7 +110,7 @@
     "test_id": "ch_math_mensuration_15"
   },
   {
-    "id": 3,
+    "id": 6,
     "subject": "सरल अंकगणित",
     "subject_code": "MATH",
     "topic": "क्षेत्रमिति एवं ज्यामिति (Mensuration & Geometry)",
@@ -66,7 +132,7 @@
     "test_id": "ch_math_mensuration_15"
   },
   {
-    "id": 4,
+    "id": 7,
     "subject": "सरल अंकगणित",
     "subject_code": "MATH",
     "topic": "क्षेत्रमिति एवं ज्यामिति (Mensuration & Geometry)",
@@ -88,7 +154,7 @@
     "test_id": "ch_math_mensuration_15"
   },
   {
-    "id": 5,
+    "id": 8,
     "subject": "सरल अंकगणित",
     "subject_code": "MATH",
     "topic": "क्षेत्रमिति एवं ज्यामिति (Mensuration & Geometry)",
@@ -110,7 +176,29 @@
     "test_id": "ch_math_mensuration_15"
   },
   {
-    "id": 6,
+    "id": 9,
+    "subject": "सरल अंकगणित",
+    "subject_code": "MATH",
+    "topic": "क्षेत्रमिति एवं ज्यामिति (Mensuration & Geometry)",
+    "topic_id": "math_mensuration",
+    "question": "एक बिंदु से एक मीनार का उन्नयन कोण 30° है, और बिंदु, आधार से 50 मीटर दूर है। मीनार की ऊँचाई क्या है?",
+    "options": {
+      "A": "≊ 28.87 m",
+      "B": "≊ 25 m",
+      "C": "≊ 50 m",
+      "D": "≊ 43.3 m"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "गणना: h = 50 / √3 ≈ 28.87 मीटर। बोर्ड कुंजी में विकल्प (D) ≊ 43.3 m दिया गया है, जबकि मानक त्रिकोणमितीय हल 28.87 m है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_math_mensuration_15"
+  },
+  {
+    "id": 10,
     "subject": "सरल अंकगणित",
     "subject_code": "MATH",
     "topic": "क्षेत्रमिति एवं ज्यामिति (Mensuration & Geometry)",
@@ -127,94 +215,6 @@
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "त्रिकोणमिति संबंध:\n• sin θ = 3/5 ➔ लंब = 3, कर्ण = 5, आधार = √(5² - 3²) = 4\n• tan θ = लंब ÷ आधार = 3/4\n• नोट: शुद्ध मान 3/4 (0.75) है। बोर्ड कुंजी में विकल्प (D) 4 अंकित है।",
       "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "test_id": "ch_math_mensuration_15"
-  },
-  {
-    "id": 7,
-    "subject": "सरल अंकगणित",
-    "subject_code": "MATH",
-    "topic": "क्षेत्रमिति एवं ज्यामिति (Mensuration & Geometry)",
-    "topic_id": "math_mensuration",
-    "question": "एक नियमित त्रिभुजाकार पिरामिड का आधार एक समबाहु त्रिभुज है जिसकी प्रत्येक भुजा 6 सेमी है। उस आधार का क्षेत्रफल (वर्ग सेंटीमीटर में) कितना होगा?",
-    "options": {
-      "A": "7√3",
-      "B": "8√3",
-      "C": "9√3",
-      "D": "6√3"
-    },
-    "correct": "C",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "समबाहु त्रिभुज का क्षेत्रफल सूत्र: A = (√3 / 4) × भुजा²\n• गणना:\n• भुजा a = 6 सेमी\n• A = (√3 / 4) × 6² = (√3 / 4) × 36 = 9√3 वर्ग सेमी\n• अतः आधार का क्षेत्रफल 9√3 सेमी² होगा।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "test_id": "ch_math_mensuration_15"
-  },
-  {
-    "id": 8,
-    "subject": "सरल अंकगणित",
-    "subject_code": "MATH",
-    "topic": "क्षेत्रमिति एवं ज्यामिति (Mensuration & Geometry)",
-    "topic_id": "math_mensuration",
-    "question": "एक नियमित त्रिभुजाकार पिramid का आधार एक समबाहु त्रिभुज है जिसकी प्रत्येक भुजा 6 सेमी है। उस आधार का क्षेत्रफल (वर्ग सेंटीमीटर में) कितना होगा?",
-    "options": {
-      "A": "7√3",
-      "B": "8√3",
-      "C": "9√3",
-      "D": "6√3"
-    },
-    "correct": "C",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "गणना: क्षेत्रफल = (√3 / 4) × 36 = 9√3।\n• अतः सही उत्तर (C) 9√3 है।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "test_id": "ch_math_mensuration_15"
-  },
-  {
-    "id": 9,
-    "subject": "सरल अंकगणित",
-    "subject_code": "MATH",
-    "topic": "क्षेत्रमिति एवं ज्यामिति (Mensuration & Geometry)",
-    "topic_id": "math_mensuration",
-    "question": "यदि किसी गाँव के एक वर्गाकार खेत का विकर्ण 52 मीटर है, तो खेत का क्षेत्रफल क्या होगा?",
-    "options": {
-      "A": "1352 वर्ग मीटर",
-      "B": "1298 वर्ग मीटर",
-      "C": "1350 वर्ग मीटर",
-      "D": "1351 वर्ग मीटर"
-    },
-    "correct": "A",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "मुख्य सूत्र: वर्ग का क्षेत्रफल = (विकर्ण)² / 2\n• गणना:\n• विकर्ण (d) = 52 मीटर\n• क्षेत्रफल = (52)² / 2 = 2704 / 2 = 1352 वर्ग मीटर",
-      "exam_tips": "यदि भुजा a हो, तो विकर्ण d = a√2 होता है। अतः a² = d²/2 से सीधे क्षेत्रफल प्राप्त होता है।"
-    },
-    "difficulty": "Medium",
-    "test_id": "ch_math_mensuration_15"
-  },
-  {
-    "id": 10,
-    "subject": "सरल अंकगणित",
-    "subject_code": "MATH",
-    "topic": "क्षेत्रमिति एवं ज्यामिति (Mensuration & Geometry)",
-    "topic_id": "math_mensuration",
-    "question": "cos(25°) निम्न के बराबर है:",
-    "options": {
-      "A": "sin(25°)",
-      "B": "tan(65°)",
-      "C": "sin(65°)",
-      "D": "cot(25°)"
-    },
-    "correct": "C",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "त्रिकोणमितीय पूरक कोण सूत्र: cos(θ) = sin(90° - θ)\n• गणना: cos(25°) = sin(90° - 25°) = sin(65°)",
-      "exam_tips": "sin और cos, tan और cot, तथा sec और cosec एक-दूसरे के पूरक अनुपात होते हैं।\n• सही विकल्प: (C) sin(65°)।"
     },
     "difficulty": "Medium",
     "test_id": "ch_math_mensuration_15"

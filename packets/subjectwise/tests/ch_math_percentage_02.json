@@ -71,6 +71,28 @@
     "subject_code": "MATH",
     "topic": "प्रतिशत (Percentage)",
     "topic_id": "math_percentage",
+    "question": "एक व्यक्ति अपनी आय का 40% किराए पर और 30% भोजन पर खर्च करता है। यदि वह 6000 रूपये बचाता है, तो उसकी कुल आय क्या है?",
+    "options": {
+      "A": "12000 रुपये",
+      "B": "13000 रुपये",
+      "C": "14000 रुपये",
+      "D": "20000 रुपये"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र: 30% = 6000 ⇒ 100% = ₹20,000.",
+      "exam_tips": "दोहराया गया प्रश्न; सही उत्तर (D) 20000 रुपये है।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_math_percentage_02"
+  },
+  {
+    "id": 5,
+    "subject": "सरल अंकगणित",
+    "subject_code": "MATH",
+    "topic": "प्रतिशत (Percentage)",
+    "topic_id": "math_percentage",
     "question": "एक वस्तु की कीमत 200 रुपए से बढ़कर 250 रुपए हो गई। प्रतिशत वृद्धि कितनी है?",
     "options": {
       "A": "2 प्रतिशत",
@@ -88,7 +110,7 @@
     "test_id": "ch_math_percentage_02"
   },
   {
-    "id": 5,
+    "id": 6,
     "subject": "सरल अंकगणित",
     "subject_code": "MATH",
     "topic": "प्रतिशत (Percentage)",
@@ -110,7 +132,7 @@
     "test_id": "ch_math_percentage_02"
   },
   {
-    "id": 6,
+    "id": 7,
     "subject": "सरल अंकगणित",
     "subject_code": "MATH",
     "topic": "प्रतिशत (Percentage)",
@@ -132,7 +154,7 @@
     "test_id": "ch_math_percentage_02"
   },
   {
-    "id": 7,
+    "id": 8,
     "subject": "सरल अंकगणित",
     "subject_code": "MATH",
     "topic": "प्रतिशत (Percentage)",
@@ -154,7 +176,7 @@
     "test_id": "ch_math_percentage_02"
   },
   {
-    "id": 8,
+    "id": 9,
     "subject": "सरल अंकगणित",
     "subject_code": "MATH",
     "topic": "प्रतिशत (Percentage)",
@@ -176,7 +198,7 @@
     "test_id": "ch_math_percentage_02"
   },
   {
-    "id": 9,
+    "id": 10,
     "subject": "सरल अंकगणित",
     "subject_code": "MATH",
     "topic": "प्रतिशत (Percentage)",
@@ -193,28 +215,6 @@
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "मुख्य तथ्य / नियम / सूत्र: गूदा (Pulp) की मात्रा सुखाने पर अपरिवर्तित रहती है:\n• स्टेप-बाय-स्टेप हल:\n• ताजे फल (100 kg) में:\n• पानी = 75%\n• गूदा = 100% - 75% = 25% = 25 kg\n• सूखे फल में:\n• पानी = 50%\n• गूदा = 50%\n• सूखे फल का 50% = 25 kg गूदा\n• कुल सूखा वजन = 25 / 0.50 = 50 kg",
       "exam_tips": "फल-पानी के प्रश्नों में केवल अवाष्पशील गूदे की मात्रा को बराबर रखें।"
-    },
-    "difficulty": "Medium",
-    "test_id": "ch_math_percentage_02"
-  },
-  {
-    "id": 10,
-    "subject": "सरल अंकगणित",
-    "subject_code": "MATH",
-    "topic": "प्रतिशत (Percentage)",
-    "topic_id": "math_percentage",
-    "question": "एक छात्र ने परीक्षा में 120 में से 75 अंक प्राप्त किए। छात्र का प्रतिशत स्कोर क्या होगा?",
-    "options": {
-      "A": "60.5%",
-      "B": "62.5%",
-      "C": "65%",
-      "D": "70%"
-    },
-    "correct": "B",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "मुख्य तथ्य / नियम / सूत्र: प्रतिशत प्राप्तांक सूत्र:\nप्रतिशत = (प्राप्तांक / कुल पूर्णांक) × 100\n• स्टेप-बाय-स्टेप हल:\n• प्राप्तांक = 75, कुल अंक = 120\n• प्रतिशत स्कोर = (75 / 120) × 100\n• = (5 / 8) × 100 = 500 / 8 = 62.5%",
-      "exam_tips": "1/8 = 12.5%, अतः 5/8 = 5 × 12.5% = 62.5%।"
     },
     "difficulty": "Medium",
     "test_id": "ch_math_percentage_02"

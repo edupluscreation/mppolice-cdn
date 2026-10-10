@@ -5,6 +5,28 @@
     "subject_code": "REASONING",
     "topic": "रक्त संबंध (Blood Relation)",
     "topic_id": "reas_blood",
+    "question": "X, Y का पुत्र है, जो Z का भाई है। X, Z से किस प्रकार संबंधित है?",
+    "options": {
+      "A": "बेटा",
+      "B": "नेफ्यू",
+      "C": "कजिन",
+      "D": "भाई"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र:\n• भाई के पुत्र को नेफ्यू (भतीजा/भांजा) कहा जाता है।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• Y, Z का भाई है।\n• X, Y का पुत्र है, अतः X, Z के भाई का पुत्र हुआ।\n• भाई के पुत्र का संबंध नेफ्यू होता है, अतः विकल्प (B) सही है।",
+      "exam_tips": "बहन की पुत्री नीस कहलाती है।\n• ऐसे प्रश्नों में वंश वृक्ष बनाकर हल करें।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_reas_blood_04"
+  },
+  {
+    "id": 2,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+    "subject_code": "REASONING",
+    "topic": "रक्त संबंध (Blood Relation)",
+    "topic_id": "reas_blood",
     "question": "एक महिला एक पुरुष का परिचय देते हुए कहती है, \"यह मेरी माँ की इकलौती बहन के भाई का बेटा है।\" तो वह पुरुष उस महिला से किस प्रकार संबंधित है?",
     "options": {
       "A": "कजिन",
@@ -22,7 +44,7 @@
     "test_id": "ch_reas_blood_04"
   },
   {
-    "id": 2,
+    "id": 3,
     "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
     "subject_code": "REASONING",
     "topic": "रक्त संबंध (Blood Relation)",
@@ -44,7 +66,7 @@
     "test_id": "ch_reas_blood_04"
   },
   {
-    "id": 3,
+    "id": 4,
     "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
     "subject_code": "REASONING",
     "topic": "रक्त संबंध (Blood Relation)",
@@ -66,7 +88,7 @@
     "test_id": "ch_reas_blood_04"
   },
   {
-    "id": 4,
+    "id": 5,
     "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
     "subject_code": "REASONING",
     "topic": "रक्त संबंध (Blood Relation)",
@@ -88,7 +110,7 @@
     "test_id": "ch_reas_blood_04"
   },
   {
-    "id": 5,
+    "id": 6,
     "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
     "subject_code": "REASONING",
     "topic": "रक्त संबंध (Blood Relation)",
@@ -110,7 +132,7 @@
     "test_id": "ch_reas_blood_04"
   },
   {
-    "id": 6,
+    "id": 7,
     "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
     "subject_code": "REASONING",
     "topic": "रक्त संबंध (Blood Relation)",
@@ -132,7 +154,7 @@
     "test_id": "ch_reas_blood_04"
   },
   {
-    "id": 7,
+    "id": 8,
     "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
     "subject_code": "REASONING",
     "topic": "रक्त संबंध (Blood Relation)",
@@ -154,7 +176,7 @@
     "test_id": "ch_reas_blood_04"
   },
   {
-    "id": 8,
+    "id": 9,
     "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
     "subject_code": "REASONING",
     "topic": "रक्त संबंध (Blood Relation)",
@@ -176,7 +198,7 @@
     "test_id": "ch_reas_blood_04"
   },
   {
-    "id": 9,
+    "id": 10,
     "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
     "subject_code": "REASONING",
     "topic": "रक्त संबंध (Blood Relation)",
@@ -193,28 +215,6 @@
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "मुख्य तथ्य / नियम / सूत्र: पीढ़ीगत पारिवारिक वृक्ष (Family Tree Diagram):\n• स्टेप-बाय-स्टेप हल:\n• M, N की माता है।\n• Q, M का पुत्र है ⇒ N और Q आपस में भाई हैं (M दोनों की माँ है)।\n• N, P का पिता है ⇒ P, N की संतान है।\n• अब Q और P का संबंध:\nQ, P के पिता (N) का भाई है।\n• पिता का भाई = चाचा / ताऊ (अंकल / Paternal Uncle)।\n• अतः Q, P का अंकल है।",
       "exam_tips": "पिता का भाई अंग्रेजी में 'Paternal Uncle' या संक्षेप में 'Uncle' कहलाता है।"
-    },
-    "difficulty": "Medium",
-    "test_id": "ch_reas_blood_04"
-  },
-  {
-    "id": 10,
-    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
-    "subject_code": "REASONING",
-    "topic": "रक्त संबंध (Blood Relation)",
-    "topic_id": "reas_blood",
-    "question": "एक आदमी की ओर इशारा करते हुए रवि ने कहा, \"वह मेरे पिता के इकलौते बेटे का बेटा है।\" वह आदमी रवि से किस प्रकार संबंधित है?",
-    "options": {
-      "A": "अंकल",
-      "B": "भाई",
-      "C": "बेटा",
-      "D": "पिता"
-    },
-    "correct": "C",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "मुख्य तथ्य / नियम / सूत्र: रक्त संबंध में \"इकलौता\" (Only) शब्द का विश्लेषण:\n• स्टेप-बाय-स्टेप हल:\n• रवि के पिता का इकलौता बेटा = रवि स्वयं!\n• रवि के स्वयं का बेटा = उस आदमी का रवि से रिश्ता।\n• अतः वह आदमी रवि का बेटा (Son) है।",
-      "exam_tips": "पुरुष वक्ता के लिए \"मेरे पिता का इकलौता बेटा\" सदैव स्वयं वक्ता होता है।"
     },
     "difficulty": "Medium",
     "test_id": "ch_reas_blood_04"

@@ -5,6 +5,28 @@
     "subject_code": "MATH",
     "topic": "क्षेत्रमिति एवं ज्यामिति (Mensuration & Geometry)",
     "topic_id": "math_mensuration",
+    "question": "एक बेलन की ऊँचाई 15 सेमी है और उसका आयतन 7065 घन सेमी है। उसकी त्रिज्या कितनी होगी? (π = 3.14 का प्रयोग करें)",
+    "options": {
+      "A": "13.25 सेमी",
+      "B": "11.25 सेमी",
+      "C": "9 सेमी",
+      "D": "12.25 सेमी"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / बेलन का आयतन सूत्र:\n• आयतन V = π r² h\n• स्टेप-बाय-स्टेप गणना:\n1. आयतन V = 7065 सेमी³, h = 15 सेमी, π = 3.14\n2. 7065 = 3.14 × r² × 15\n3. 7065 = 47.1 × r²\n4. r² = 7065 ÷ 47.1\n5. r² = 150\n6. r = √150 ≈ 12.247 सेमी ≈ 12.25 सेमी\n• (सत्यापन: π × (12.25)² × 15 = 3.14 × 150.06 × 15 = 7068 ≈ 7065 घन सेमी।)•",
+      "exam_tips": "√150 निकालने हेतु: 12² = 144 और 13² = 169, अतः मान 12 और 13 के बीच 12.25 होगा।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_math_mensuration_08"
+  },
+  {
+    "id": 2,
+    "subject": "सरल अंकगणित",
+    "subject_code": "MATH",
+    "topic": "क्षेत्रमिति एवं ज्यामिति (Mensuration & Geometry)",
+    "topic_id": "math_mensuration",
     "question": "यदि किसी वृत्त की त्रिज्या 7 सेमी है, तो उसका व्यास कितना होगा?",
     "options": {
       "A": "7 cm",
@@ -22,7 +44,7 @@
     "test_id": "ch_math_mensuration_08"
   },
   {
-    "id": 2,
+    "id": 3,
     "subject": "सरल अंकगणित",
     "subject_code": "MATH",
     "topic": "क्षेत्रमिति एवं ज्यामिति (Mensuration & Geometry)",
@@ -44,7 +66,7 @@
     "test_id": "ch_math_mensuration_08"
   },
   {
-    "id": 3,
+    "id": 4,
     "subject": "सरल अंकगणित",
     "subject_code": "MATH",
     "topic": "क्षेत्रमिति एवं ज्यामिति (Mensuration & Geometry)",
@@ -66,7 +88,7 @@
     "test_id": "ch_math_mensuration_08"
   },
   {
-    "id": 4,
+    "id": 5,
     "subject": "सरल अंकगणित",
     "subject_code": "MATH",
     "topic": "क्षेत्रमिति एवं ज्यामिति (Mensuration & Geometry)",
@@ -88,7 +110,7 @@
     "test_id": "ch_math_mensuration_08"
   },
   {
-    "id": 5,
+    "id": 6,
     "subject": "सरल अंकगणित",
     "subject_code": "MATH",
     "topic": "क्षेत्रमिति एवं ज्यामिति (Mensuration & Geometry)",
@@ -110,7 +132,7 @@
     "test_id": "ch_math_mensuration_08"
   },
   {
-    "id": 6,
+    "id": 7,
     "subject": "सरल अंकगणित",
     "subject_code": "MATH",
     "topic": "क्षेत्रमिति एवं ज्यामिति (Mensuration & Geometry)",
@@ -132,7 +154,7 @@
     "test_id": "ch_math_mensuration_08"
   },
   {
-    "id": 7,
+    "id": 8,
     "subject": "सरल अंकगणित",
     "subject_code": "MATH",
     "topic": "क्षेत्रमिति एवं ज्यामिति (Mensuration & Geometry)",
@@ -154,7 +176,7 @@
     "test_id": "ch_math_mensuration_08"
   },
   {
-    "id": 8,
+    "id": 9,
     "subject": "सरल अंकगणित",
     "subject_code": "MATH",
     "topic": "क्षेत्रमिति एवं ज्यामिति (Mensuration & Geometry)",
@@ -176,7 +198,7 @@
     "test_id": "ch_math_mensuration_08"
   },
   {
-    "id": 9,
+    "id": 10,
     "subject": "सरल अंकगणित",
     "subject_code": "MATH",
     "topic": "क्षेत्रमिति एवं ज्यामिति (Mensuration & Geometry)",
@@ -193,28 +215,6 @@
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "मुख्य तथ्य / नियम / सूत्र:\n• त्रिज्या² = दूरी² - स्पर्शरेखा²।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• 100 - 64 = 36, वर्गमूल = 6।\n• अतः विकल्प (A) सही है।",
       "exam_tips": "6, 8, 10 प्रसिद्ध त्रिक है।"
-    },
-    "difficulty": "Medium",
-    "test_id": "ch_math_mensuration_08"
-  },
-  {
-    "id": 10,
-    "subject": "सरल अंकगणित",
-    "subject_code": "MATH",
-    "topic": "क्षेत्रमिति एवं ज्यामिति (Mensuration & Geometry)",
-    "topic_id": "math_mensuration",
-    "question": "एक नियमित वर्गीय पिрамиड का आधार किनारा 8 सेमी है और ऊँचाई 15 सेमी है। यदि उसका तिरछा ऊँचाई 17 सेमी है, तो उसका कुल सतह क्षेत्रफल (वर्ग सेंटीमीटर में) कितना होगा?",
-    "options": {
-      "A": "336",
-      "B": "240",
-      "C": "324",
-      "D": "256"
-    },
-    "correct": "A",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "मुख्य तथ्य / नियम / सूत्र:\n• कुल पृष्ठ = आधार + 4 × त्रिभुज।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• आधार = 64, एक त्रिभुज = 1/2 × 8 × 17 = 68।\n• 64 + 272 = 336, अतः विकल्प (A) सही है।",
-      "exam_tips": "तिरछी ऊँचाई पार्श्व फलक की ऊँचाई है।"
     },
     "difficulty": "Medium",
     "test_id": "ch_math_mensuration_08"

@@ -5,6 +5,116 @@
     "subject_code": "REASONING",
     "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
     "topic_id": "reas_analogy",
+    "question": "सही विकल्प का चयन करें, जो समान गणितीय संबंध बनाए रखता है।\n616 : 616 :: 321 : ?",
+    "options": {
+      "A": "123",
+      "B": "67",
+      "C": "231",
+      "D": "136"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "संबंध: 616 : 616 (समान रूप) :: 321 का चक्रीय रूप 231 है।\n• अतः सही उत्तर (C) 231 है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_reas_analogy_09"
+  },
+  {
+    "id": 2,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+    "subject_code": "REASONING",
+    "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
+    "topic_id": "reas_analogy",
+    "question": "सादृश्य (एनालॉजी) पूर्ण करें:\nकर्नल : बीज :: नाभिक (न्यूक्लियस) : ?",
+    "options": {
+      "A": "परमाणु",
+      "B": "कोशिका",
+      "C": "प्रोटॉन",
+      "D": "इलेक्ट्रॉन"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "कोशिका सिद्धांत (Cell Theory):\n• सभी सजीवों (पादपों और जंतुओं) की संरचनात्मक और क्रियात्मक मूलभूत इकाई कोशिका (Cell) है।\n• श्लाइडेन और श्वान ने 1839 में कोशिका सिद्धांत प्रस्तुत किया था, जिसके अनुसार सभी जीव कोशिकाओं और उनके उत्पादों से बने हैं।\n• अतः सही उत्तर (B) कोशिका है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_reas_analogy_09"
+  },
+  {
+    "id": 3,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+    "subject_code": "REASONING",
+    "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
+    "topic_id": "reas_analogy",
+    "question": "अक्षर श्रृंखला को पूर्ण करें:\nBE : HK :: LO : ?",
+    "options": {
+      "A": "PR",
+      "B": "RS",
+      "C": "RU",
+      "D": "QT"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "वर्णमाला अंतराल (+6):\n• B (2) + 6 = H (8), E (5) + 6 = K (11) ➔ BE : HK\n• इसी प्रकार LO के लिए:\n• L (12) + 6 = R (18)\n• O (15) + 6 = U (21)\n• कूट = RU\n• अतः सही उत्तर (C) RU है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_reas_analogy_09"
+  },
+  {
+    "id": 4,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+    "subject_code": "REASONING",
+    "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
+    "topic_id": "reas_analogy",
+    "question": "श्रृंखला को पूरा करें:\nBG : DJ :: FM : ?",
+    "options": {
+      "A": "IP",
+      "B": "HM",
+      "C": "KP",
+      "D": "HP"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "अक्षर अंतराल:\n• B(+2) = D, D(+2) = F, F(+2) = H\n• G(+3) = J, J(+3) = M, M(+3) = P\n• पद = HP (बोर्ड कुंजी में (C) KP अंकित है)।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_reas_analogy_09"
+  },
+  {
+    "id": 5,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+    "subject_code": "REASONING",
+    "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
+    "topic_id": "reas_analogy",
+    "question": "निर्देश: दिए गए विकल्पों में से संबंधित शब्द चुनें।\nपत्ता : वृक्ष :: खिलाड़ी : ?",
+    "options": {
+      "A": "खेल",
+      "B": "टीम",
+      "C": "कोच",
+      "D": "मैदान"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "अंग-संपूर्ण सादृश्यता (Part-to-Whole Analogy):\n• जिस प्रकार एक 'पत्ता' पूरे 'वृक्ष' का एक अभिन्न अंग होता है,\n• उसी प्रकार एक 'खिलाड़ी' पूरी 'टीम' का एक अभिन्न सदस्य/अंग होता है।\n• अतः सही उत्तर (B) टीम है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_reas_analogy_09"
+  },
+  {
+    "id": 6,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+    "subject_code": "REASONING",
+    "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
+    "topic_id": "reas_analogy",
     "question": "सादृश्य (एनालॉजी) पूर्ण करें:\nअमूर्त : ठोस (कंक्रीट) :: आदर्शवाद (आइडियलिज्म) : ?",
     "options": {
       "A": "यथार्थवाद",
@@ -22,7 +132,7 @@
     "test_id": "ch_reas_analogy_09"
   },
   {
-    "id": 2,
+    "id": 7,
     "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
     "subject_code": "REASONING",
     "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
@@ -44,7 +154,7 @@
     "test_id": "ch_reas_analogy_09"
   },
   {
-    "id": 3,
+    "id": 8,
     "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
     "subject_code": "REASONING",
     "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
@@ -66,7 +176,7 @@
     "test_id": "ch_reas_analogy_09"
   },
   {
-    "id": 4,
+    "id": 9,
     "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
     "subject_code": "REASONING",
     "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
@@ -88,7 +198,7 @@
     "test_id": "ch_reas_analogy_09"
   },
   {
-    "id": 5,
+    "id": 10,
     "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
     "subject_code": "REASONING",
     "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
@@ -104,116 +214,6 @@
     "explanation": {
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "संख्या संबंध: 6 : 220 :: 3 : ?\n• 6³ + 4 = 216 + 4 = 220\n• बोर्ड उत्तर कुंजी अनुसार सही उत्तर (B) 17 मान्य किया गया है।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "test_id": "ch_reas_analogy_09"
-  },
-  {
-    "id": 6,
-    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
-    "subject_code": "REASONING",
-    "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
-    "topic_id": "reas_analogy",
-    "question": "उस संख्या को ज्ञात कीजिए, जो तीसरी संख्या से वही संबंध रखती है जैसा कि दूसरी संख्या पहली संख्या से रखती है।\n656 : 656 :: 370 : ?",
-    "options": {
-      "A": "73",
-      "B": "130",
-      "C": "126",
-      "D": "37"
-    },
-    "correct": "C",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "संख्या संबंध: बोर्ड कुंजी अनुसार 370 से संबंधित पद 126 है।\n• अतः सही उत्तर (C) 126 है।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "test_id": "ch_reas_analogy_09"
-  },
-  {
-    "id": 7,
-    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
-    "subject_code": "REASONING",
-    "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
-    "topic_id": "reas_analogy",
-    "question": "निम्नलिखित प्रश्न में, प्रश्नवाचक चिह्न के स्थान पर आने वाला विकल्प ज्ञात कीजिए।\nPEN : KVM :: ROD : ?",
-    "options": {
-      "A": "ILZ",
-      "B": "IMW",
-      "C": "ILW",
-      "D": "ILX"
-    },
-    "correct": "C",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "विपरीत अक्षर (Opposite Letters) सादृश्यता:\n• P का विपरीत = K (16 + 11 = 27)\n• E का विपरीत = V (5 + 22 = 27)\n• N का विपरीत = M (14 + 13 = 27)\n• ROD के लिए:\n• R का विपरीत = I (18 + 9 = 27)\n• O का विपरीत = L (15 + 12 = 27)\n• D का विपरीत = W (4 + 23 = 27)\n• कूट: ILW (विकल्प C)।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "test_id": "ch_reas_analogy_09"
-  },
-  {
-    "id": 8,
-    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
-    "subject_code": "REASONING",
-    "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
-    "topic_id": "reas_analogy",
-    "question": "अक्षर श्रृंखला को पूर्ण करें:\nJUMP : KVOR :: FISH : ?",
-    "options": {
-      "A": "GJWL",
-      "B": "GJXL",
-      "C": "GJUJ",
-      "D": "GJVL"
-    },
-    "correct": "B",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "सादृश्यता कोडिंग:\n• J(10) + 1 = K(11)\n• U(21) + 1 = V(22)\n• M(13) + 2 = O(15)\n• P(16) + 2 = R(18)\n• FISH पर पैटर्न अनुप्रयोग:\n• F(6) + 1 = G(7)\n• I(9) + 1 = J(10)\n• बोर्ड उत्तर कुंजी के अनुसार GJXL (विकल्प B) निर्धारित किया गया है।\n• सही विकल्प: (B) GJXL।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "test_id": "ch_reas_analogy_09"
-  },
-  {
-    "id": 9,
-    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
-    "subject_code": "REASONING",
-    "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
-    "topic_id": "reas_analogy",
-    "question": "साहृश्य (एनालॉजी) को पूरा करने वाले अक्षरों के समूह की पहचान कीजिए:\nBKN : DMP :: CFQ : ?",
-    "options": {
-      "A": "EHR",
-      "B": "FIS",
-      "C": "FIU",
-      "D": "EHS"
-    },
-    "correct": "C",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "सादृश्यता पैटर्न विश्लेषण:\n• B(2) + 2 = D(4), K(11) + 2 = M(13), N(14) + 2 = P(16) [प्रत्येक अक्षर में +2]\n• CFQ पर +2 लागू करने पर: C(3)+2 = E, F(6)+2 = H, Q(17)+2 = S ⇒ EHS\n• बोर्ड उत्तर कुंजी: बोर्ड ने विकल्प (C) FIU को आधिकारिक उत्तर माना है (जिसमें प्रत्येक में +3 जोड़ा गया: C+3=F, F+3=I, Q+3=T/U)। मानक +2 तर्क में उत्तर EHS (D) होता है।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "test_id": "ch_reas_analogy_09"
-  },
-  {
-    "id": 10,
-    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
-    "subject_code": "REASONING",
-    "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
-    "topic_id": "reas_analogy",
-    "question": "साहृश्य (एनालॉजी) को पूरा करने के लिए सही अक्षरों के समूह का चयन कीजिए:\nDKM : FOP :: GNR : ?",
-    "options": {
-      "A": "IPO",
-      "B": "HPS",
-      "C": "IRU",
-      "D": "HQT"
-    },
-    "correct": "D",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "अक्षर कोडिंग संबंध:\n• D(4) + 2 = F(6), K(11) + 4 = O(15), M(13) + 3 = P(16)\n• बोर्ड उत्तर कुंजी ने विकल्प (D) HQT निर्धारित किया है (G+1=H, N+3=Q, R+2=T क्रम पर)।",
       "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
     },
     "difficulty": "Medium",

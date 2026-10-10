@@ -5,6 +5,72 @@
     "subject_code": "REASONING",
     "topic": "रक्त संबंध (Blood Relation)",
     "topic_id": "reas_blood",
+    "question": "D, E की माँ है। F, D का भाई है। F, E से किस प्रकार संबंधित है?",
+    "options": {
+      "A": "अंकल",
+      "B": "पिता",
+      "C": "भाई",
+      "D": "दादा"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "रक्त संबंध:\n• D, E की माँ है।\n• F, D का भाई है।\n• माँ का भाई 'मामा' (Maternal Uncle) होता है।\n• सही विकल्प: (A) अंकल।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_reas_blood_09"
+  },
+  {
+    "id": 2,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+    "subject_code": "REASONING",
+    "topic": "रक्त संबंध (Blood Relation)",
+    "topic_id": "reas_blood",
+    "question": "A, B और C का पिता है। B, C का भाई है। D, की माँ है। E, D का बेटा है। तो E, A से किस प्रकार संबंधित है?",
+    "options": {
+      "A": "बेटा",
+      "B": "भाई",
+      "C": "अंकल",
+      "D": "पिता"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "रक्त संबंध:\n• A पिता है और D माँ है (A और D पति-पत्नी हैं)।\n• E, D का बेटा है, अतः E, A का भी बेटा (Son) है।\n• सही विकल्प: (A) बेटा।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_reas_blood_09"
+  },
+  {
+    "id": 3,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+    "subject_code": "REASONING",
+    "topic": "रक्त संबंध (Blood Relation)",
+    "topic_id": "reas_blood",
+    "question": "A - B + C × D का अर्थ है: A, B की बहन है, B, C का भाई है, C, D की माँ है। A, D से किस प्रकार संबंधित है?",
+    "options": {
+      "A": "आंटी",
+      "B": "बहन",
+      "C": "माँ",
+      "D": "दादी"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "रक्त संबंध कोडिंग:\n• A - B: A बहन है B की।\n• B + C: B भाई है C का।\n• C × D: C माँ है D की।\n• A, B, C सहोदर (भाई-बहन) हैं और C, D की माँ है।\n• माँ की बहन A, D की मौसी (Maternal Aunt / आंटी) है।\n• सही विकल्प: (A) आंटी।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_reas_blood_09"
+  },
+  {
+    "id": 4,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+    "subject_code": "REASONING",
+    "topic": "रक्त संबंध (Blood Relation)",
+    "topic_id": "reas_blood",
     "question": "यदि P के पिता, Q के इकलौते बेटे हैं, तो Q का P से क्या संबंध है?",
     "options": {
       "A": "दादा",
@@ -22,7 +88,7 @@
     "test_id": "ch_reas_blood_09"
   },
   {
-    "id": 2,
+    "id": 5,
     "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
     "subject_code": "REASONING",
     "topic": "रक्त संबंध (Blood Relation)",
@@ -44,7 +110,7 @@
     "test_id": "ch_reas_blood_09"
   },
   {
-    "id": 3,
+    "id": 6,
     "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
     "subject_code": "REASONING",
     "topic": "रक्त संबंध (Blood Relation)",
@@ -66,7 +132,29 @@
     "test_id": "ch_reas_blood_09"
   },
   {
-    "id": 4,
+    "id": 7,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+    "subject_code": "REASONING",
+    "topic": "रक्त संबंध (Blood Relation)",
+    "topic_id": "reas_blood",
+    "question": "एक पुरुष की ओर इशारा करते हुए एक महिला ने कहा, \"वह मेरी माँ के भाई का बेटा है।\" तो वह पुरुष उस महिला से किस प्रकार संबंधित है?",
+    "options": {
+      "A": "भाई",
+      "B": "अंकल",
+      "C": "भतीजा",
+      "D": "कजिन"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "ममेरा भाई: माँ के भाई (मामा) का बेटा कजिन कहलाता है।\n• सही विकल्प: (D) कजिन।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_reas_blood_09"
+  },
+  {
+    "id": 8,
     "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
     "subject_code": "REASONING",
     "topic": "रक्त संबंध (Blood Relation)",
@@ -88,7 +176,7 @@
     "test_id": "ch_reas_blood_09"
   },
   {
-    "id": 5,
+    "id": 9,
     "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
     "subject_code": "REASONING",
     "topic": "रक्त संबंध (Blood Relation)",
@@ -110,7 +198,7 @@
     "test_id": "ch_reas_blood_09"
   },
   {
-    "id": 6,
+    "id": 10,
     "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
     "subject_code": "REASONING",
     "topic": "रक्त संबंध (Blood Relation)",
@@ -127,94 +215,6 @@
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "📌 मुख्य नियम: रक्त संबंध (Blood Relations) में एक ही पिता की संतानों के मध्य संबंध।\n• 📝 स्टेप-बाय-स्टेप हल:\n• A पिता है B और C का।\n• B (बेटा/पुरुष) तथा C (बेटी/महिला) दोनों A की संतानें हैं।\n• D, B की बहन है ⇒ D भी A की ही संतान (बेटी/महिला) है।\n• अतः D, C की भी बहन है।\n• 💡",
       "exam_tips": "समान माता-पिता की बेटियां आपस में बहनें (Sisters) होती हैं।"
-    },
-    "difficulty": "Medium",
-    "test_id": "ch_reas_blood_09"
-  },
-  {
-    "id": 7,
-    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
-    "subject_code": "REASONING",
-    "topic": "रक्त संबंध (Blood Relation)",
-    "topic_id": "reas_blood",
-    "question": "यदि P, Q का पति है और R, Q की माँ है, तो P, R से किस प्रकार संबंधित है?",
-    "options": {
-      "A": "बेटा",
-      "B": "दामाद",
-      "C": "पिता",
-      "D": "भाई"
-    },
-    "correct": "B",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य संबंध: रक्त संबंध में दामाद (Son-in-law) का संबंध।\n• 📝 विश्लेषण:\n• P पति है Q का (P पुरुष, Q महिला)।\n• R माँ है Q की।\n• बेटी का पति 'दामाद' (Son-in-law) होता है।\n• अतः P, R का दामाद है।\n• 💡",
-      "exam_tips": "पत्नी की माता सास (Mother-in-law) होती है और सास के लिए वह दामाद होता है।"
-    },
-    "difficulty": "Medium",
-    "test_id": "ch_reas_blood_09"
-  },
-  {
-    "id": 8,
-    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
-    "subject_code": "REASONING",
-    "topic": "रक्त संबंध (Blood Relation)",
-    "topic_id": "reas_blood",
-    "question": "एक परिवार में, X, Y का भाई है। Y, Z की माँ है। Z, X से किस प्रकार संबंधित है?",
-    "options": {
-      "A": "बेटी",
-      "B": "ससुर",
-      "C": "Nephew / नीस / नेफ्यू",
-      "D": "पत्नी"
-    },
-    "correct": "C",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य संबंध: मामा-भांजा/भांजी का पारिवारिक संबंध।\n• 📝 स्टेप-बाय-स्टेप हल:\n• X पुरुष है और Y का भाई है (X = भाई, Y = बहन)।\n• Y माँ है Z की।\n• अतः X, Z का मामा (Maternal Uncle) है।\n• इस प्रकार Z, X की बहन की संतान है, जो पुरुष होने पर 'भांजा' (Nephew) और महिला होने पर 'भांजी' (Niece) कहलाता है।\n• 💡",
-      "exam_tips": "दिए गए विकल्पों में नेफ्यू/नीस (C) सही उत्तर है।"
-    },
-    "difficulty": "Medium",
-    "test_id": "ch_reas_blood_09"
-  },
-  {
-    "id": 9,
-    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
-    "subject_code": "REASONING",
-    "topic": "रक्त संबंध (Blood Relation)",
-    "topic_id": "reas_blood",
-    "question": "एक तस्वीर की ओर इशारा करते हुए राहुल ने कहा, \"वह मेरे दादा के इकलौते बेटे की बेटी है।\" तो वह लड़की राहुल से किस प्रकार संबंधित है?",
-    "options": {
-      "A": "बहन",
-      "B": "कज़िन",
-      "C": "आंटी",
-      "D": "नीस"
-    },
-    "correct": "A",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य संबंध / रक्त संबंध कथन विश्लेषण:\n• 📝 स्टेप-बाय-स्टेप संबंध विच्छेदन:\n• \"मेरे दादा के इकलौते बेटे\" = राहुल के पिता।\n• \"राहुल के पिता की बेटी\" = राहुल की सगी बहन (Sister)।\n• अतः तस्वीर वाली लड़की राहुल की बहन है।\n• 💡",
-      "exam_tips": "'दादा का इकलौता बेटा' हमेशा स्वयं के पिता होते हैं।"
-    },
-    "difficulty": "Medium",
-    "test_id": "ch_reas_blood_09"
-  },
-  {
-    "id": 10,
-    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
-    "subject_code": "REASONING",
-    "topic": "रक्त संबंध (Blood Relation)",
-    "topic_id": "reas_blood",
-    "question": "A, B का भाई है। B, C की माँ है। A, C से किस प्रकार संबंधित है?",
-    "options": {
-      "A": "अंकल",
-      "B": "कज़िन",
-      "C": "दादा",
-      "D": "पिता"
-    },
-    "correct": "A",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य संबंध: माता का भाई 'मामा' (Maternal Uncle) कहलाता है।\n• 📝 स्टेप-बाय-स्टेप हल:\n• B माँ है C की।\n• A भाई है B का।\n• अतः A, C की माँ का भाई है, यानी A, C का मामा (Maternal Uncle / अंकल) है।\n• 💡",
-      "exam_tips": "अंग्रेजी में मामा को 'Maternal Uncle' या सामान्यतः 'Uncle' कहा जाता है।"
     },
     "difficulty": "Medium",
     "test_id": "ch_reas_blood_09"

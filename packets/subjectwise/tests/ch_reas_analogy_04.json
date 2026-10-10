@@ -93,6 +93,28 @@
     "subject_code": "REASONING",
     "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
     "topic_id": "reas_analogy",
+    "question": "निर्देश: दिए गए विकल्पों में से संबंधित शब्द का चयन करें:\nजापान : येन :: दक्षिण कोरिया : ?",
+    "options": {
+      "A": "वॉन",
+      "B": "डॉलर",
+      "C": "बात",
+      "D": "रिंगित"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र:\n• दक्षिण कोरिया की मुद्रा 'वॉन' (Won) है।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• सही उत्तर (A) है।",
+      "exam_tips": "चीन की आधिकारिक मुद्रा: रॅन्मिन्बी (युआन)।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_reas_analogy_04"
+  },
+  {
+    "id": 6,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+    "subject_code": "REASONING",
+    "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
+    "topic_id": "reas_analogy",
     "question": "श्रंखला को पूर्ण करें:\nKICK : LKFO :: JUMP : ?",
     "options": {
       "A": "KXNR",
@@ -110,7 +132,7 @@
     "test_id": "ch_reas_analogy_04"
   },
   {
-    "id": 6,
+    "id": 7,
     "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
     "subject_code": "REASONING",
     "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
@@ -132,7 +154,7 @@
     "test_id": "ch_reas_analogy_04"
   },
   {
-    "id": 7,
+    "id": 8,
     "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
     "subject_code": "REASONING",
     "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
@@ -154,7 +176,7 @@
     "test_id": "ch_reas_analogy_04"
   },
   {
-    "id": 8,
+    "id": 9,
     "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
     "subject_code": "REASONING",
     "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
@@ -176,7 +198,7 @@
     "test_id": "ch_reas_analogy_04"
   },
   {
-    "id": 9,
+    "id": 10,
     "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
     "subject_code": "REASONING",
     "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
@@ -193,28 +215,6 @@
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "मुख्य तथ्य / नियम / सूत्र: वर्णमाला का विपरीत अक्षर नियम (E ↔ V).",
       "exam_tips": "दोहराया गया प्रश्न; सही उत्तर (C) V है।"
-    },
-    "difficulty": "Medium",
-    "test_id": "ch_reas_analogy_04"
-  },
-  {
-    "id": 10,
-    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
-    "subject_code": "REASONING",
-    "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
-    "topic_id": "reas_analogy",
-    "question": "सादृश्य (एनालॉजी) पूर्ण करें:\nशब्द : अक्षर :: किताब : ?",
-    "options": {
-      "A": "पृष्ठ",
-      "B": "कविता",
-      "C": "अध्याय",
-      "D": "अनुच्छेद"
-    },
-    "correct": "A",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "मुख्य तथ्य / नियम / सूत्र: घटक-समग्र सादृश्यता (Component-Whole Analogy):\n• विवरण:\n• जिस प्रकार कई 'अक्षरों' (Letters) के संयोजन से एक 'शब्द' बनता है,\n• उसी प्रकार कई 'पृष्ठों' (Pages) के संयोजन से एक 'किताब' (Book) बनती है।\n• अतः किताब की सबसे मूलभूत भौतिक इकाई पृष्ठ (Page) है।",
-      "exam_tips": "अध्याय या कविताएँ पुस्तक के आंतरिक विभाजन हैं, जबकि पृष्ठ उसका भौतिक निर्माण घटक है।"
     },
     "difficulty": "Medium",
     "test_id": "ch_reas_analogy_04"

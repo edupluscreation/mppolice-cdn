@@ -5,6 +5,50 @@
     "subject_code": "MATH",
     "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
     "topic_id": "math_number_bodmas",
+    "question": "जनगणना 2011 के अनुसार, हिंदी के बाद भारत में किस भाषा समूह के सबसे अधिक वक्ता थे?",
+    "options": {
+      "A": "बंगाली",
+      "B": "तमिल",
+      "C": "तेलुगू",
+      "D": "मराठी"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र:\n• 2011 में हिंदी के बाद बंगाली दूसरे स्थान पर थी।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• अगले प्रश्न 935 में पूर्ण विकल्पों के साथ उत्तर बंगाली दिया गया है।\n• मूल फाइल में उत्तर पंक्ति छूटी है, 935 से मिलाकर पढ़ें।",
+      "exam_tips": "मराठी तीसरे, तेलुगु चौथे स्थान पर थी।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_math_number_bodmas_09"
+  },
+  {
+    "id": 2,
+    "subject": "सरल अंकगणित",
+    "subject_code": "MATH",
+    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
+    "topic_id": "math_number_bodmas",
+    "question": "यदि 4♣ = 6 और 6♣ = 9, तो 8♣ = ?",
+    "options": {
+      "A": "17",
+      "B": "18",
+      "C": "12",
+      "D": "20"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र:\n• ♣ का अर्थ ×1.5 है।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• 4 × 1.5 = 6, 6 × 1.5 = 9, 8 × 1.5 = 12।\n• अतः विकल्प (C) सही है।",
+      "exam_tips": "भिन्न नियम में पहले भाग देकर जाँचें।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_math_number_bodmas_09"
+  },
+  {
+    "id": 3,
+    "subject": "सरल अंकगणित",
+    "subject_code": "MATH",
+    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
+    "topic_id": "math_number_bodmas",
     "question": "{(48 ÷ 4) + (18 - 6)} × 2 का मान ज्ञात कीजिए।",
     "options": {
       "A": "52",
@@ -22,7 +66,7 @@
     "test_id": "ch_math_number_bodmas_09"
   },
   {
-    "id": 2,
+    "id": 4,
     "subject": "सरल अंकगणित",
     "subject_code": "MATH",
     "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
@@ -44,7 +88,7 @@
     "test_id": "ch_math_number_bodmas_09"
   },
   {
-    "id": 3,
+    "id": 5,
     "subject": "सरल अंकगणित",
     "subject_code": "MATH",
     "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
@@ -66,7 +110,7 @@
     "test_id": "ch_math_number_bodmas_09"
   },
   {
-    "id": 4,
+    "id": 6,
     "subject": "सरल अंकगणित",
     "subject_code": "MATH",
     "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
@@ -88,7 +132,7 @@
     "test_id": "ch_math_number_bodmas_09"
   },
   {
-    "id": 5,
+    "id": 7,
     "subject": "सरल अंकगणित",
     "subject_code": "MATH",
     "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
@@ -110,7 +154,7 @@
     "test_id": "ch_math_number_bodmas_09"
   },
   {
-    "id": 6,
+    "id": 8,
     "subject": "सरल अंकगणित",
     "subject_code": "MATH",
     "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
@@ -132,7 +176,7 @@
     "test_id": "ch_math_number_bodmas_09"
   },
   {
-    "id": 7,
+    "id": 9,
     "subject": "सरल अंकगणित",
     "subject_code": "MATH",
     "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
@@ -154,7 +198,7 @@
     "test_id": "ch_math_number_bodmas_09"
   },
   {
-    "id": 8,
+    "id": 10,
     "subject": "सरल अंकगणित",
     "subject_code": "MATH",
     "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
@@ -171,50 +215,6 @@
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "मुख्य तथ्य / नियम / सूत्र:\n• NROBO = BORON, PLEAP = APPLE, NXOEN = XENON, UMHIEL = HELIUM गैसें/फल हैं।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• OGARN = GROAN भिन्न है।\n• आधिकारिक कुंजी के अनुसार उत्तर OGARN, विकल्प (D) है।",
       "exam_tips": "अस्त-व्यस्त में पहले सुलझाकर देखें।"
-    },
-    "difficulty": "Medium",
-    "test_id": "ch_math_number_bodmas_09"
-  },
-  {
-    "id": 9,
-    "subject": "सरल अंकगणित",
-    "subject_code": "MATH",
-    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
-    "topic_id": "math_number_bodmas",
-    "question": "त्रिभुज ABC और DEF ऐसे हैं कि AB/DE = BC/EF = AC/DF । ये किस प्रकार के त्रिभुज हैं?",
-    "options": {
-      "A": "सर्वांगसम त्रिभुज",
-      "B": "समकोण त्रिभुज",
-      "C": "न तो सर्वांगसम और न ही समान",
-      "D": "समान त्रिभुज"
-    },
-    "correct": "D",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "मुख्य तथ्य / नियम / सूत्र:\n• भुजाएँ समानुपाती हों तो SSS समरूपता होती है।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• अतः समान त्रिभुज हैं, विकल्प (D) सही है।",
-      "exam_tips": "समरूप में कोण बराबर, भुजाएँ अनुपाती होती हैं।"
-    },
-    "difficulty": "Medium",
-    "test_id": "ch_math_number_bodmas_09"
-  },
-  {
-    "id": 10,
-    "subject": "सरल अंकगणित",
-    "subject_code": "MATH",
-    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
-    "topic_id": "math_number_bodmas",
-    "question": "फ्रीक्वेंसी पॉलीगॉन बनाने के लिए ग्राफ पर कौन-कौन से बिंदु प्लॉट किए जाते हैं?",
-    "options": {
-      "A": "वर्ग सीमाएँ और आवृत्ति",
-      "B": "वर्ग मध्य बिंदु और संचय आवृत्ति",
-      "C": "वर्ग मध्य बिंदु और आवृत्ति",
-      "D": "वर्ग सीमाएँ और आवृत्ति"
-    },
-    "correct": "C",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "मुख्य तथ्य / नियम / सूत्र:\n• मध्य बिंदु और आवृत्ति से पॉलीगॉन बनता है।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• अतः विकल्प (C) सही है।",
-      "exam_tips": "संचयी से ओजाइव बनता है।"
     },
     "difficulty": "Medium",
     "test_id": "ch_math_number_bodmas_09"

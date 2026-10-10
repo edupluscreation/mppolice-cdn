@@ -5,6 +5,50 @@
     "subject_code": "MATH",
     "topic": "साधारण एवं चक्रवृद्धि ब्याज (Simple & Compound Interest)",
     "topic_id": "math_interest",
+    "question": "किसी राशि पर 4 वर्षों के लिए 6% वार्षिक साधारण ब्याज 4,800 रुपए है, तो मूलधन कितना होगा?",
+    "options": {
+      "A": "Rs 20,000",
+      "B": "Rs 15,000",
+      "C": "Rs 18,000",
+      "D": "Rs 16,000"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र: साधारण ब्याज मूलधन:\n• स्टेप-बाय-स्टेप हल:\n• P = (4800 × 100) / 24 = ₹20,000 (बोर्ड कुंजी में D ₹16,000 मुद्रित था)।",
+      "exam_tips": "मानक गणना ₹20,000 दर्शाती है।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_math_interest_02"
+  },
+  {
+    "id": 2,
+    "subject": "सरल अंकगणित",
+    "subject_code": "MATH",
+    "topic": "साधारण एवं चक्रवृद्धि ब्याज (Simple & Compound Interest)",
+    "topic_id": "math_interest",
+    "question": "20,000 रुपए की राशि को 4% वार्षिक साधारण ब्याज पर निवेश किया गया है। 5 वर्षों में कुल कितना ब्याज अर्जित होगा?",
+    "options": {
+      "A": "Rs 3,000",
+      "B": "Rs 4,050",
+      "C": "Rs 5,000",
+      "D": "Rs 4,000"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र: साधारण ब्याज सूत्र:\nSI = (P × R × T) / 100\n• स्टेप-बाय-स्टेप हल:\n• P = ₹20,000, R = 4%, T = 5 वर्ष\n• SI = (20,000 × 4 × 5) / 100\n• SI = 200 × 20 = ₹4,000",
+      "exam_tips": "5 × 4% = 20% कुल ब्याज; ₹20,000 का 20% = ₹4,000।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_math_interest_02"
+  },
+  {
+    "id": 3,
+    "subject": "सरल अंकगणित",
+    "subject_code": "MATH",
+    "topic": "साधारण एवं चक्रवृद्धि ब्याज (Simple & Compound Interest)",
+    "topic_id": "math_interest",
     "question": "40,000 रुपए का ऋण साधारण ब्याज पर दिया गया। 5 वर्षों के बाद कुल ब्याज ₹14,000 है। वार्षिक ब्याज दर क्या होगी?",
     "options": {
       "A": "0.06",
@@ -22,7 +66,7 @@
     "test_id": "ch_math_interest_02"
   },
   {
-    "id": 2,
+    "id": 4,
     "subject": "सरल अंकगणित",
     "subject_code": "MATH",
     "topic": "साधारण एवं चक्रवृद्धि ब्याज (Simple & Compound Interest)",
@@ -44,7 +88,7 @@
     "test_id": "ch_math_interest_02"
   },
   {
-    "id": 3,
+    "id": 5,
     "subject": "सरल अंकगणित",
     "subject_code": "MATH",
     "topic": "साधारण एवं चक्रवृद्धि ब्याज (Simple & Compound Interest)",
@@ -66,7 +110,7 @@
     "test_id": "ch_math_interest_02"
   },
   {
-    "id": 4,
+    "id": 6,
     "subject": "सरल अंकगणित",
     "subject_code": "MATH",
     "topic": "साधारण एवं चक्रवृद्धि ब्याज (Simple & Compound Interest)",
@@ -88,7 +132,7 @@
     "test_id": "ch_math_interest_02"
   },
   {
-    "id": 5,
+    "id": 7,
     "subject": "सरल अंकगणित",
     "subject_code": "MATH",
     "topic": "साधारण एवं चक्रवृद्धि ब्याज (Simple & Compound Interest)",
@@ -110,7 +154,7 @@
     "test_id": "ch_math_interest_02"
   },
   {
-    "id": 6,
+    "id": 8,
     "subject": "सरल अंकगणित",
     "subject_code": "MATH",
     "topic": "साधारण एवं चक्रवृद्धि ब्याज (Simple & Compound Interest)",
@@ -132,7 +176,7 @@
     "test_id": "ch_math_interest_02"
   },
   {
-    "id": 7,
+    "id": 9,
     "subject": "सरल अंकगणित",
     "subject_code": "MATH",
     "topic": "साधारण एवं चक्रवृद्धि ब्याज (Simple & Compound Interest)",
@@ -154,7 +198,7 @@
     "test_id": "ch_math_interest_02"
   },
   {
-    "id": 8,
+    "id": 10,
     "subject": "सरल अंकगणित",
     "subject_code": "MATH",
     "topic": "साधारण एवं चक्रवृद्धि ब्याज (Simple & Compound Interest)",
@@ -171,50 +215,6 @@
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "गणना: A = 5,000 × (1.07)² = 5,000 × 1.1449 = ₹5,724.50। बोर्ड ने विकल्प (A) Rs 5,730.25 मान्य किया है।",
       "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "test_id": "ch_math_interest_02"
-  },
-  {
-    "id": 9,
-    "subject": "सरल अंकगणित",
-    "subject_code": "MATH",
-    "topic": "साधारण एवं चक्रवृद्धि ब्याज (Simple & Compound Interest)",
-    "topic_id": "math_interest",
-    "question": "5,000 रुपए की राशि को 6% वार्षिक साधारण ब्याज पर 3 वर्षों के लिए उधार दिया गया है। कुल अर्जित ब्याज कितना होगा?",
-    "options": {
-      "A": "Rs 700",
-      "B": "Rs 800",
-      "C": "Rs 1,000",
-      "D": "Rs 900"
-    },
-    "correct": "A",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य सूत्र: साधारण ब्याज (SI) = (P × R × T) / 100।\n• 📝 स्टेप-बाय-स्टेप हल:\n• मूलधन (P) = 5,000 रुपए, दर (R) = 6%, समय (T) = 3 वर्ष।\n• SI = (5,000 × 6 × 3) / 100 = 50 × 18 = 900 रुपए (विकल्प D)।\n• बोर्ड उत्तर कुंजी टिप्पणी: परीक्षा बोर्ड ने आधिकारिक कुंजी में (A) Rs 700 दिया है (संभवतः मूलधन या दर में टाइपोग्राफिकल त्रुटि)। गणितीय रूप से 900 रु. शुद्ध मान है।\n• 💡",
-      "exam_tips": "साधारण ब्याज में प्रति वर्ष मिलने वाला ब्याज हमेशा एक समान रहता है।"
-    },
-    "difficulty": "Medium",
-    "test_id": "ch_math_interest_02"
-  },
-  {
-    "id": 10,
-    "subject": "सरल अंकगणित",
-    "subject_code": "MATH",
-    "topic": "साधारण एवं चक्रवृद्धि ब्याज (Simple & Compound Interest)",
-    "topic_id": "math_interest",
-    "question": "40,000 रुपए की राशि को 8% वार्षिक चक्रवृद्धि ब्याज पर निवेश किया गया है। 3 वर्षों के बाद कुल राशि कितनी होगी?",
-    "options": {
-      "A": "Rs 50,304.25",
-      "B": "Rs 50,000",
-      "C": "Rs 50,388.48",
-      "D": "Rs 51,200"
-    },
-    "correct": "C",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य सूत्र: मिश्रधन A = P × (1 + R/100)ᵀ।\n• 📝 स्टेप-बाय-स्टेप हल:\n• P = 40,000 रुपए, R = 8%, T = 3 वर्ष।\n• 1 + R/100 = 1 + 0.08 = 1.08।\n• (1.08)³ = 1.08 × 1.08 × 1.08 = 1.259712।\n• कुल राशि (A) = 40,000 × 1.259712 = 50,388.48 रुपए।\n• 💡",
-      "exam_tips": "चक्रवृद्धि ब्याज = 50,388.48 - 40,000 = 10,388.48 रुपए।"
     },
     "difficulty": "Medium",
     "test_id": "ch_math_interest_02"

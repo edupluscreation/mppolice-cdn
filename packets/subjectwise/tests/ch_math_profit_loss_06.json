@@ -5,6 +5,72 @@
     "subject_code": "MATH",
     "topic": "लाभ-हानि एवं बट्टा (Profit, Loss & Discount)",
     "topic_id": "math_profit_loss",
+    "question": "एक मेज़ की अंकित कीमत 2000 है। दुकानदार 25% की छूट देता है। विक्रय मूल्य क्या होगा?",
+    "options": {
+      "A": "1500 Rs",
+      "B": "1450 Rs",
+      "C": "1400 Rs",
+      "D": "1550 Rs"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "सूत्र: विक्रय मूल्य (SP) = अंकित मूल्य (MP) × (1 - छूट% / 100)\n• गणना:\n• MP = ₹2000, छूट = 25%\n• SP = 2000 × (1 - 0.25) = 2000 × 0.75 = 1500 Rs\n• अतः विक्रय मूल्य 1500 रुपये होगा।",
+      "solution": "विस्तृत व्याख्या उपलब्ध है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_math_profit_loss_06"
+  },
+  {
+    "id": 2,
+    "subject": "सरल अंकगणित",
+    "subject_code": "MATH",
+    "topic": "लाभ-हानि एवं बट्टा (Profit, Loss & Discount)",
+    "topic_id": "math_profit_loss",
+    "question": "एक वस्तु को दो क्रमिक छूट - 20% और 10% - के साथ बेचा जाता है। इसके बराबर एकल छूट प्रतिशत क्या होगा?",
+    "options": {
+      "A": "27%",
+      "B": "28%",
+      "C": "29%",
+      "D": "30%"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "एकल समतुल्य छूट सूत्र: d = d₁ + d₂ - (d₁ × d₂)/100\n• गणना:\n• d = 20 + 10 - (20 × 10)/100 = 30 - 2 = 28%\n• अतः समतुल्य एकल छूट 28% होगी।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_math_profit_loss_06"
+  },
+  {
+    "id": 3,
+    "subject": "सरल अंकगणित",
+    "subject_code": "MATH",
+    "topic": "लाभ-हानि एवं बट्टा (Profit, Loss & Discount)",
+    "topic_id": "math_profit_loss",
+    "question": "एक वस्तु की अंकित कीमत 2500 है। यदि 20% की छूट दी जाती है, तो विक्रय मूल्य क्या होगा?",
+    "options": {
+      "A": "2050 Rs",
+      "B": "1900 Rs",
+      "C": "1950 Rs",
+      "D": "2000 Rs"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "विक्रय मूल्य:\n• अंकित मूल्य = ₹2500, छूट = 20%\n• SP = 2500 × (1 - 0.20) = 2500 × 0.80 = 2000 Rs\n• अतः विक्रय मूल्य 2000 रुपये होगा।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_math_profit_loss_06"
+  },
+  {
+    "id": 4,
+    "subject": "सरल अंकगणित",
+    "subject_code": "MATH",
+    "topic": "लाभ-हानि एवं बट्टा (Profit, Loss & Discount)",
+    "topic_id": "math_profit_loss",
     "question": "एक व्यापारी एक बैग 200 में खरीदता है और 250 में बेचता है। लाभ प्रतिशत क्या होगा?",
     "options": {
       "A": "20%",
@@ -22,7 +88,7 @@
     "test_id": "ch_math_profit_loss_06"
   },
   {
-    "id": 2,
+    "id": 5,
     "subject": "सरल अंकगणित",
     "subject_code": "MATH",
     "topic": "लाभ-हानि एवं बट्टा (Profit, Loss & Discount)",
@@ -44,7 +110,7 @@
     "test_id": "ch_math_profit_loss_06"
   },
   {
-    "id": 3,
+    "id": 6,
     "subject": "सरल अंकगणित",
     "subject_code": "MATH",
     "topic": "लाभ-हानि एवं बट्टा (Profit, Loss & Discount)",
@@ -66,7 +132,7 @@
     "test_id": "ch_math_profit_loss_06"
   },
   {
-    "id": 4,
+    "id": 7,
     "subject": "सरल अंकगणित",
     "subject_code": "MATH",
     "topic": "लाभ-हानि एवं बट्टा (Profit, Loss & Discount)",
@@ -88,7 +154,7 @@
     "test_id": "ch_math_profit_loss_06"
   },
   {
-    "id": 5,
+    "id": 8,
     "subject": "सरल अंकगणित",
     "subject_code": "MATH",
     "topic": "लाभ-हानि एवं बट्टा (Profit, Loss & Discount)",
@@ -110,7 +176,7 @@
     "test_id": "ch_math_profit_loss_06"
   },
   {
-    "id": 6,
+    "id": 9,
     "subject": "सरल अंकगणित",
     "subject_code": "MATH",
     "topic": "लाभ-हानि एवं बट्टा (Profit, Loss & Discount)",
@@ -132,88 +198,22 @@
     "test_id": "ch_math_profit_loss_06"
   },
   {
-    "id": 7,
-    "subject": "सरल अंकगणित",
-    "subject_code": "MATH",
-    "topic": "लाभ-हानि एवं बट्टा (Profit, Loss & Discount)",
-    "topic_id": "math_profit_loss",
-    "question": "एक दुकानदार क्रमशः 10% और फिर 20% की दो छूट देता है। इसके बराबर कुल एकल छूट प्रतिशत क्या होगा?",
-    "options": {
-      "A": "27%",
-      "B": "28%",
-      "C": "29%",
-      "D": "30%"
-    },
-    "correct": "B",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "एकल समतुल्य छूट सूत्र: d = d₁ + d₂ - (d₁ × d₂)/100\n• गणना:\n• d = 10 + 20 - (10 × 20)/100 = 30 - 2 = 28%\n• अतः सही उत्तर (B) 28% है।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "test_id": "ch_math_profit_loss_06"
-  },
-  {
-    "id": 8,
-    "subject": "सरल अंकगणित",
-    "subject_code": "MATH",
-    "topic": "लाभ-हानि एवं बट्टा (Profit, Loss & Discount)",
-    "topic_id": "math_profit_loss",
-    "question": "एक वस्तु की अंकित कीमत ₹2500 है। यदि इसे क्रमशः 10%, 15% और 20% की छूटों के बाद बेचा जाए, तो विक्रय मूल्य क्या होगा?",
-    "options": {
-      "A": "1512 Rs",
-      "B": "1528 Rs",
-      "C": "1530 Rs",
-      "D": "1540 Rs"
-    },
-    "correct": "A",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "तीन क्रमिक छूटों के बाद विक्रय मूल्य:\n• SP = 2500 × (1 - 0.10) × (1 - 0.15) × (1 - 0.20)\n• SP = 2500 × 0.90 × 0.85 × 0.80 = 2500 × 0.612 = Rs 1530\n• नोट: सटीक गणना से ₹1530 प्राप्त होता है। बोर्ड आधिकारिक कुंजी में (A) 1512 Rs दिया गया है।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "test_id": "ch_math_profit_loss_06"
-  },
-  {
-    "id": 9,
-    "subject": "सरल अंकगणित",
-    "subject_code": "MATH",
-    "topic": "लाभ-हानि एवं बट्टा (Profit, Loss & Discount)",
-    "topic_id": "math_profit_loss",
-    "question": "अदिति ने 720 रुपए में एक वस्तु बेची और उसे 20% की हानि हुई। लागत मूल्य क्या था?",
-    "options": {
-      "A": "Rs 880",
-      "B": "Rs 900",
-      "C": "Rs 860",
-      "D": "Rs 850"
-    },
-    "correct": "B",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "मुख्य सूत्र: क्रय मूल्य (लागत मूल्य) = विक्रय मूल्य / (1 - हानि प्रतिशत/100)\n• गणना:\n• विक्रय मूल्य (SP) = ₹720, हानि = 20%\n• क्रय मूल्य (CP) = 720 / (1 - 0.20) = 720 / 0.80 = ₹900",
-      "exam_tips": "20% हानि का अर्थ है कि वस्तु अपने लागत मूल्य के 80% पर बेची गई। अतः CP = 720 × (100 / 80) = ₹900।"
-    },
-    "difficulty": "Medium",
-    "test_id": "ch_math_profit_loss_06"
-  },
-  {
     "id": 10,
     "subject": "सरल अंकगणित",
     "subject_code": "MATH",
     "topic": "लाभ-हानि एवं बट्टा (Profit, Loss & Discount)",
     "topic_id": "math_profit_loss",
-    "question": "एक नोटबुक की अंकित कीमत 50 है। दुकानदार 5 की सीधी छूट देता है। विक्रय मूल्य क्या होगा?",
+    "question": "एक वस्तु की अंकित कीमत ₹2000 है। पहले उस पर 20% की छूट दी जाती है और फिर ₹100 की अतिरिक्त कटौती की जाती है। अंतिम विक्रय मूल्य क्या होगा?",
     "options": {
-      "A": "40 Rs",
-      "B": "42 Rs",
-      "C": "44 Rs",
-      "D": "45 Rs"
+      "A": "1500 Rs",
+      "B": "1520 Rs",
+      "C": "1540 Rs",
+      "D": "1560 Rs"
     },
-    "correct": "D",
+    "correct": "C",
     "explanation": {
-      "formula": "सूत्र: विक्रय मूल्य (SP) = अंकित मूल्य (MP) - छूट (Discount)\n• गणना: SP = 50 - 5 = ₹45\n• सही विकल्प: (D) 45 Rs।",
-      "solution": "विस्तृत व्याख्या उपलब्ध है।",
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "गणना: 2000 का 20% = 400 ➔ 1600 - 100 = 1500 रुपये। बोर्ड कुंजी में (C) 1540 Rs दिया गया है।",
       "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
     },
     "difficulty": "Medium",

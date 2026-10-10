@@ -5,6 +5,28 @@
     "subject_code": "MATH",
     "topic": "क्षेत्रमिति एवं ज्यामिति (Mensuration & Geometry)",
     "topic_id": "math_mensuration",
+    "question": "एक नियमित वर्गीय पिрамиड का आधार किनारा 8 सेमी है और ऊँचाई 15 सेमी है। यदि उसका तिरछा ऊँचाई 17 सेमी है, तो उसका कुल सतह क्षेत्रफल (वर्ग सेंटीमीटर में) कितना होगा?",
+    "options": {
+      "A": "336",
+      "B": "240",
+      "C": "324",
+      "D": "256"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र:\n• कुल पृष्ठ = आधार + 4 × त्रिभुज।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• आधार = 64, एक त्रिभुज = 1/2 × 8 × 17 = 68।\n• 64 + 272 = 336, अतः विकल्प (A) सही है।",
+      "exam_tips": "तिरछी ऊँचाई पार्श्व फलक की ऊँचाई है।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_math_mensuration_09"
+  },
+  {
+    "id": 2,
+    "subject": "सरल अंकगणित",
+    "subject_code": "MATH",
+    "topic": "क्षेत्रमिति एवं ज्यामिति (Mensuration & Geometry)",
+    "topic_id": "math_mensuration",
     "question": "प्रयोगशाला में दो बेलनाकार कंटेनर उपयोग किए जाते हैं। दी गई जानकारी के आधार पर उनके आयतन का अनुपात ज्ञात किया जा रहा है।\nकथन I: पहले बेलन का आयतन, उसकी त्रिज्या के वर्ग और उसकी ऊँचाई के समानुपाती होता है।\nकथन II: पहले बेलन की त्रिज्या, दूसरे बेलन की त्रिज्या से दोगुनी है, और उसकी ऊँचाई दूसरे बेलन की ऊँचाई की आधी है।\nपहले बेलन और दूसरे बेलन के आयतन का अनुपात ज्ञात कीजिए।",
     "options": {
       "A": "1:2",
@@ -22,7 +44,7 @@
     "test_id": "ch_math_mensuration_09"
   },
   {
-    "id": 2,
+    "id": 3,
     "subject": "सरल अंकगणित",
     "subject_code": "MATH",
     "topic": "क्षेत्रमिति एवं ज्यामिति (Mensuration & Geometry)",
@@ -44,7 +66,7 @@
     "test_id": "ch_math_mensuration_09"
   },
   {
-    "id": 3,
+    "id": 4,
     "subject": "सरल अंकगणित",
     "subject_code": "MATH",
     "topic": "क्षेत्रमिति एवं ज्यामिति (Mensuration & Geometry)",
@@ -66,7 +88,7 @@
     "test_id": "ch_math_mensuration_09"
   },
   {
-    "id": 4,
+    "id": 5,
     "subject": "सरल अंकगणित",
     "subject_code": "MATH",
     "topic": "क्षेत्रमिति एवं ज्यामिति (Mensuration & Geometry)",
@@ -88,7 +110,7 @@
     "test_id": "ch_math_mensuration_09"
   },
   {
-    "id": 5,
+    "id": 6,
     "subject": "सरल अंकगणित",
     "subject_code": "MATH",
     "topic": "क्षेत्रमिति एवं ज्यामिति (Mensuration & Geometry)",
@@ -110,7 +132,7 @@
     "test_id": "ch_math_mensuration_09"
   },
   {
-    "id": 6,
+    "id": 7,
     "subject": "सरल अंकगणित",
     "subject_code": "MATH",
     "topic": "क्षेत्रमिति एवं ज्यामिति (Mensuration & Geometry)",
@@ -132,7 +154,7 @@
     "test_id": "ch_math_mensuration_09"
   },
   {
-    "id": 7,
+    "id": 8,
     "subject": "सरल अंकगणित",
     "subject_code": "MATH",
     "topic": "क्षेत्रमिति एवं ज्यामिति (Mensuration & Geometry)",
@@ -154,7 +176,7 @@
     "test_id": "ch_math_mensuration_09"
   },
   {
-    "id": 8,
+    "id": 9,
     "subject": "सरल अंकगणित",
     "subject_code": "MATH",
     "topic": "क्षेत्रमिति एवं ज्यामिति (Mensuration & Geometry)",
@@ -176,7 +198,7 @@
     "test_id": "ch_math_mensuration_09"
   },
   {
-    "id": 9,
+    "id": 10,
     "subject": "सरल अंकगणित",
     "subject_code": "MATH",
     "topic": "क्षेत्रमिति एवं ज्यामिति (Mensuration & Geometry)",
@@ -193,28 +215,6 @@
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "मुख्य तथ्य / नियम / सूत्र:\n• आयतन = πr²h, h = 2r है।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• आधिकारिक कुंजी के अनुसार त्रिज्या 4 सेमी, विकल्प (B) है।",
       "exam_tips": "h = 2r रखकर समीकरण बनाएं।"
-    },
-    "difficulty": "Medium",
-    "test_id": "ch_math_mensuration_09"
-  },
-  {
-    "id": 10,
-    "subject": "सरल अंकगणित",
-    "subject_code": "MATH",
-    "topic": "क्षेत्रमिति एवं ज्यामिति (Mensuration & Geometry)",
-    "topic_id": "math_mensuration",
-    "question": "एक बेलनाकार टिन जिसका व्यास, 28 सेमी और ऊँचाई 45 सेमी है। यदि इसकी बाहरी सतह को रू 2 प्रति सेमी² की दर से रंगा जाता है, तो कुल लागत ज्ञात कीजिए।",
-    "options": {
-      "A": "Rs. 11,560",
-      "B": "Rs. 10,670",
-      "C": "Rs. 12,334",
-      "D": "Rs. 10,384"
-    },
-    "correct": "D",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "मुख्य तथ्य / नियम / सूत्र:\n• बाहरी पृष्ठ = 2πr(h+r)।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• 2 × 22/7 × 14 × 59 = 5192, ×2 = 10384।\n• अतः विकल्प (D) सही है।",
-      "exam_tips": "दर से गुणा करना न भूलें।"
     },
     "difficulty": "Medium",
     "test_id": "ch_math_mensuration_09"

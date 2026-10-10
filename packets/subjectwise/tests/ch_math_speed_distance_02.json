@@ -115,6 +115,28 @@
     "subject_code": "MATH",
     "topic": "चाल, दूरी, समय एवं रेलगाड़ी (Speed, Distance & Time)",
     "topic_id": "math_speed_distance",
+    "question": "विनय 4 किमी/घंटा की चाल से चलता है। वह 2.5 घंटे में कितनी दूरी तय करेगा?",
+    "options": {
+      "A": "10 किमी",
+      "B": "9 किमी",
+      "C": "8 किमी",
+      "D": "12 किमी"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "गणना: दूरी = चाल × समय = 4 × 2.5 = 10 किमी।\n• सही विकल्प: (A) 10 किमी।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_math_speed_distance_02"
+  },
+  {
+    "id": 7,
+    "subject": "सरल अंकगणित",
+    "subject_code": "MATH",
+    "topic": "चाल, दूरी, समय एवं रेलगाड़ी (Speed, Distance & Time)",
+    "topic_id": "math_speed_distance",
     "question": "एक परिवार पिकनिक स्थल तक 45 किलोमीटर की दूरी तय करता है और वहाँ 3 घंटे में पहुँचता है। कार की औसत चाल क्या थी?",
     "options": {
       "A": "h / 15 किमी/घंटा",
@@ -132,7 +154,7 @@
     "test_id": "ch_math_speed_distance_02"
   },
   {
-    "id": 7,
+    "id": 8,
     "subject": "सरल अंकगणित",
     "subject_code": "MATH",
     "topic": "चाल, दूरी, समय एवं रेलगाड़ी (Speed, Distance & Time)",
@@ -154,7 +176,7 @@
     "test_id": "ch_math_speed_distance_02"
   },
   {
-    "id": 8,
+    "id": 9,
     "subject": "सरल अंकगणित",
     "subject_code": "MATH",
     "topic": "चाल, दूरी, समय एवं रेलगाड़ी (Speed, Distance & Time)",
@@ -176,7 +198,7 @@
     "test_id": "ch_math_speed_distance_02"
   },
   {
-    "id": 9,
+    "id": 10,
     "subject": "सरल अंकगणित",
     "subject_code": "MATH",
     "topic": "चाल, दूरी, समय एवं रेलगाड़ी (Speed, Distance & Time)",
@@ -192,28 +214,6 @@
     "explanation": {
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "विपरीत दिशा में पार करने का समय: कुल लंबाई 300 मीटर तथा सापेक्ष चाल 35 मी/से। बोर्ड उत्तर कुंजी (A) 7.5 सेकंड है।\n• सही विकल्प: (A) 7.5 सेकंड।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "test_id": "ch_math_speed_distance_02"
-  },
-  {
-    "id": 10,
-    "subject": "सरल अंकगणित",
-    "subject_code": "MATH",
-    "topic": "चाल, दूरी, समय एवं रेलगाड़ी (Speed, Distance & Time)",
-    "topic_id": "math_speed_distance",
-    "question": "एक साइकिल चालक किसी निश्चित दूरी को 12 किमी/घंटा की चाल से तय करता है और वापसी में उसी दूरी को 8 किमी/घंटा की चाल से तय करता है। पूरी यात्रा की औसत चाल क्या होगी?",
-    "options": {
-      "A": "hr / 9.6 किमी/घंटा",
-      "B": "hr / 9.8 किमी/घंटा",
-      "C": "hr / 10 किमी/घंटा",
-      "D": "hr / 10.5 किमी/घंटा"
-    },
-    "correct": "A",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "औसत चाल सूत्र (समान दूरी हेतु): औसत चाल = 2S₁S₂ / (S₁ + S₂)\n• गणना:\n• चाल = (2 × 12 × 8) / (12 + 8) = 192 / 20 = 9.6 किमी/घंटा\n• सही विकल्प: (A) 9.6 किमी/घंटा।",
       "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
     },
     "difficulty": "Medium",

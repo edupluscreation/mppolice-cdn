@@ -181,6 +181,28 @@
     "subject_code": "REASONING",
     "topic": "शब्द निर्माण एवं शब्दकोश (Words & Dictionary)",
     "topic_id": "reas_words",
+    "question": "निम्नलिखित प्रश्न में, उस शब्द का चयन करें जिसे दिए गए शब्द के अक्षरों का उपयोग करके बनाया जा सकता है।\nIncremental",
+    "options": {
+      "A": "Invent",
+      "B": "Intranet",
+      "C": "Cream",
+      "D": "Come"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र: शब्द निर्माण परीक्षण (Word Formation):\n• स्टेप-बाय-स्टेप हल:\n• शब्द: INCREMENTAL\n• विकल्प (C) CREAM में C, R, E, A, M सभी वर्ण INCREMENTAL में मौजूद हैं।\n• विकल्प (D) COME में 'O' उपस्थित नहीं है।\n• विकल्प (B) INTRANET में दो 'T' की आवश्यकता है।\n(नोट: बोर्ड की उत्तर कुंजी में (D) Come दिया गया था, यद्यपि 'Cream' पूर्णतः निर्मित होता है।)",
+      "exam_tips": "प्रत्येक वर्ण की पुनरावृत्ति संख्या मूल शब्द में उपस्थित वर्णों से अधिक नहीं होनी चाहिए।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_reas_words_01"
+  },
+  {
+    "id": 10,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+    "subject_code": "REASONING",
+    "topic": "शब्द निर्माण एवं शब्दकोश (Words & Dictionary)",
+    "topic_id": "reas_words",
     "question": "\"M I T C O M E E T\" अक्षरों को पुनः व्यवस्थित करके एक वैध (सार्थक) अंग्रेज़ी शब्द बनाइए।",
     "options": {
       "A": "EMOTICEM",
@@ -193,28 +215,6 @@
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "मुख्य तथ्य / नियम / सूत्र: अंग्रेज़ी वर्तनी पुनर्गठन (Anagram Jumble):\n• स्टेप-बाय-स्टेप हल:\n• दिए गए अक्षर: M, I, T, C, O, M, E, E, T\n• अक्षरों की गिनती: C (1), O (1), M (2), I (1), T (2), E (2)\n• इन्हें मिलाकर बनने वाला शुद्ध सार्थक अंग्रेज़ी शब्द = COMMITTEE (समिति)\n• वर्तनी: C-O-M-M-I-T-T-E-E",
       "exam_tips": "Committee शब्द में double M, double T और double E का प्रयोग होता है।"
-    },
-    "difficulty": "Medium",
-    "test_id": "ch_reas_words_01"
-  },
-  {
-    "id": 10,
-    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
-    "subject_code": "REASONING",
-    "topic": "शब्द निर्माण एवं शब्दकोश (Words & Dictionary)",
-    "topic_id": "reas_words",
-    "question": "निम्नलिखित चार विकल्पों में अलग-अलग शब्द दिए गए हैं। उस शब्द को चिन्हित कीजिए जिसे \"VEGETATION\" शब्द के अक्षरों का उपयोग करके बनाया जा सकता है।",
-    "options": {
-      "A": "NEGOTIATED",
-      "B": "NEGATIVES",
-      "C": "VINTAGE",
-      "D": "VOTINGS"
-    },
-    "correct": "C",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "मुख्य तथ्य / नियम / सूत्र: शब्द निर्माण परीक्षण (Word Formation from 'VEGETATION'):\n• स्टेप-बाय-स्टेप हल:\n• मूल शब्द: V, E, G, E, T, A, T, I, O, N\n• विकल्प (C) VINTAGE: V, I, N, T, A, G, E\n• सभी 7 अक्षर VEGETATION में उपस्थित हैं।\n• विकल्प (A) NEGOTIATED में D अनुपस्थित है।\n• विकल्प (B) NEGATIVES और (D) VOTINGS में S अनुपस्थित है।\n• अतः केवल 'VINTAGE' बनाया जा सकता है।",
-      "exam_tips": "अनुपस्थित वर्णों को देखकर गलत विकल्पों को तुरंत छांटा जा सकता है।"
     },
     "difficulty": "Medium",
     "test_id": "ch_reas_words_01"
