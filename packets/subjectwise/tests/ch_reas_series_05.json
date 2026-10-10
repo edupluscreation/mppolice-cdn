@@ -1,11 +1,142 @@
 [
   {
     "id": 1,
-    "orig_id": 3207,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
     "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_series",
     "topic": "श्रृंखला एवं लुप्त पद (Series & Missing Terms)",
+    "topic_id": "reas_series",
+    "question": "निम्नलिखित प्रश्न में दी गई श्रृंखला से लुप्त संख्या का चयन कीजिए।\n169, 196, 225, 256, ?",
+    "options": {
+      "A": "289",
+      "B": "343",
+      "C": "441",
+      "D": "384"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "लगातार प्राकृतिक संख्याओं के वर्ग:\n• 13² = 169\n• 14² = 196\n• 15² = 225\n• 16² = 256\n• अगला पद: 17² =  289\n• अतः लुप्त संख्या 289 (विकल्प A) है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_reas_series_05"
+  },
+  {
+    "id": 2,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+    "subject_code": "REASONING",
+    "topic": "श्रृंखला एवं लुप्त पद (Series & Missing Terms)",
+    "topic_id": "reas_series",
+    "question": "निम्नलिखित श्रृंखला में प्रश्नवाचक चिन्ह (?) के स्थान पर कौन-सा अक्षर युग्म आएगा?\nAB, DE, GH, ?, MN",
+    "options": {
+      "A": "IJ",
+      "B": "JK",
+      "C": "KL",
+      "D": "KJ"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "अक्षर युग्म श्रृंखला (+1 अक्षर छोड़कर):\n• AB (छोड़ा C) ➔ DE (छोड़ा F) ➔ GH (छोड़ा I) ➔ JK (छोड़ा L) ➔ MN\n• नोट: तार्किक रूप से JK सही युग्म है; बोर्ड उत्तर कुंजी में (C) KL को स्वीकार किया गया है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_reas_series_05"
+  },
+  {
+    "id": 3,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+    "subject_code": "REASONING",
+    "topic": "श्रृंखला एवं लुप्त पद (Series & Missing Terms)",
+    "topic_id": "reas_series",
+    "question": "श्रृंखला में लुप्त पद ज्ञात कीजिए:\nAZ, BY, CX, DW, ?",
+    "options": {
+      "A": "EV",
+      "B": "FU",
+      "C": "GV",
+      "D": "EW"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "विपरीत अक्षर युग्म श्रृंखला (Opposite Letter Pairs):\n• A ↔ Z (1 + 26 = 27)\n• B ↔ Y (2 + 25 = 27)\n• C ↔ X (3 + 24 = 27)\n• D ↔ W (4 + 23 = 27)\n• अगला युग्म: E ↔ V (5 + 22 = 27)\n• अतः लुप्त पद EV (विकल्प A) है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_reas_series_05"
+  },
+  {
+    "id": 4,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+    "subject_code": "REASONING",
+    "topic": "श्रृंखला एवं लुप्त पद (Series & Missing Terms)",
+    "topic_id": "reas_series",
+    "question": "निम्नलिखित संख्या श्रृंखला में प्रश्नवाचक चिन्ह '?' के स्थान पर क्या आना चाहिए?\n9, 14, 24, 39, 59, ?, 114",
+    "options": {
+      "A": "69",
+      "B": "70",
+      "C": "89",
+      "D": "84"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "अंतर श्रृंखला (Step Differences):\n• 14 - 9 = +5\n• 24 - 14 = +10\n• 39 - 24 = +15\n• 59 - 39 = +20\n• अगला अंतर = +25\n• गणना: 59 + 25 = 84\n• सत्यापन: 84 + 30 = 114 (बिल्कुल सही)।\n• अतः लुप्त संख्या 84 है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_reas_series_05"
+  },
+  {
+    "id": 5,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+    "subject_code": "REASONING",
+    "topic": "श्रृंखला एवं लुप्त पद (Series & Missing Terms)",
+    "topic_id": "reas_series",
+    "question": "निम्न श्रृंखला को पूर्ण करें:\nB, D, G, K, ?",
+    "options": {
+      "A": "P",
+      "B": "M",
+      "C": "R",
+      "D": "Q"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "वर्णमाला वृद्धि क्रम:\n• B (2) + 2 = D (4)\n• D (4) + 3 = G (7)\n• G (7) + 4 = K (11)\n• K (11) + 5 = P (16)\n• अतः श्रृंखला का अगला अक्षर P है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_reas_series_05"
+  },
+  {
+    "id": 6,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+    "subject_code": "REASONING",
+    "topic": "श्रृंखला एवं लुप्त पद (Series & Missing Terms)",
+    "topic_id": "reas_series",
+    "question": "निम्नलिखित अक्षर श्रृंखला में अगला अक्षर क्या होगा?\nM, N, P, S, W, ?",
+    "options": {
+      "A": "B",
+      "B": "C",
+      "C": "A",
+      "D": "Z"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "वर्णमाला अंतराल:\n• M (13) + 1 = N (14)\n• N (14) + 2 = P (16)\n• P (16) + 3 = S (19)\n• S (19) + 4 = W (23)\n• W (23) + 5 = 28 ➔ 28 - 26 = B (2)\n• बोर्ड कुंजी में विकल्प (C) A अंकित है। गणना अनुसार B आता है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_reas_series_05"
+  },
+  {
+    "id": 7,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+    "subject_code": "REASONING",
+    "topic": "श्रृंखला एवं लुप्त पद (Series & Missing Terms)",
+    "topic_id": "reas_series",
     "question": "श्रृंखला में अगला अक्षर ज्ञात कीजिए:\nB, D, H, N, ?",
     "options": {
       "A": "V",
@@ -20,38 +151,36 @@
       "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
     },
     "difficulty": "Medium",
-    "mock_id": "ch_reas_series_05"
+    "test_id": "ch_reas_series_05"
   },
   {
-    "id": 2,
-    "orig_id": 3326,
+    "id": 8,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
     "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_series",
     "topic": "श्रृंखला एवं लुप्त पद (Series & Missing Terms)",
-    "question": "अक्षर श्रृंखला को पूर्ण करें:\nBE : HK :: LO : ?",
+    "topic_id": "reas_series",
+    "question": "श्रृंखला को पूरा कीजिए:\n3, 6, 12, 24, ?, 96",
     "options": {
-      "A": "PR",
-      "B": "RS",
-      "C": "RU",
-      "D": "QT"
+      "A": "48",
+      "B": "36",
+      "C": "40",
+      "D": "45"
     },
-    "correct": "C",
+    "correct": "A",
     "explanation": {
       "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "वर्णमाला अंतराल (+6):\n• B (2) + 6 = H (8), E (5) + 6 = K (11) ➔ BE : HK\n• इसी प्रकार LO के लिए:\n• L (12) + 6 = R (18)\n• O (15) + 6 = U (21)\n• कूट = RU\n• अतः सही उत्तर (C) RU है।",
+      "solution": "गुणोत्तर श्रृंखला (×2):\n• 3 × 2 = 6\n• 6 × 2 = 12\n• 12 × 2 = 24\n• 24 × 2 = 48\n• 48 × 2 = 96\n• अतः लुप्त संख्या 48 है।",
       "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
     },
     "difficulty": "Medium",
-    "mock_id": "ch_reas_series_05"
+    "test_id": "ch_reas_series_05"
   },
   {
-    "id": 3,
-    "orig_id": 3331,
+    "id": 9,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
     "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_series",
     "topic": "श्रृंखला एवं लुप्त पद (Series & Missing Terms)",
+    "topic_id": "reas_series",
     "question": "श्रृंखला में अगला अक्षर ज्ञात कीजिए:\nA, C, G, O, ?",
     "options": {
       "A": "B",
@@ -66,15 +195,14 @@
       "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
     },
     "difficulty": "Medium",
-    "mock_id": "ch_reas_series_05"
+    "test_id": "ch_reas_series_05"
   },
   {
-    "id": 4,
-    "orig_id": 3345,
+    "id": 10,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
     "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_series",
     "topic": "श्रृंखला एवं लुप्त पद (Series & Missing Terms)",
+    "topic_id": "reas_series",
     "question": "निम्नलिखित श्रृंखला में प्रश्नवाचक चिन्ह (?) के स्थान पर कौन-से अक्षर होंगे?\nATP, FOQ, KJR, ?, UZT",
     "options": {
       "A": "EHS",
@@ -89,144 +217,6 @@
       "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
     },
     "difficulty": "Medium",
-    "mock_id": "ch_reas_series_05"
-  },
-  {
-    "id": 5,
-    "orig_id": 3377,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_series",
-    "topic": "श्रृंखला एवं लुप्त पद (Series & Missing Terms)",
-    "question": "निम्नलिखित विकल्पों में से कौन-सा प्रश्नवाचक चिन्ह (?) को इस श्रृंखला में प्रतिस्थापित करेगा:\nZ1, X2, V3, T4, ?",
-    "options": {
-      "A": "R5",
-      "B": "S5",
-      "C": "P6",
-      "D": "Q5"
-    },
-    "correct": "A",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "अक्षर व अंक श्रृंखला:\n• अक्षर (-2): Z(26) ➔ X(24) ➔ V(22) ➔ T(20) ➔ R(18)\n• अंक (+1): 1 ➔ 2 ➔ 3 ➔ 4 ➔ 5\n• संयुक्त पद = R5\n• अतः सही उत्तर (A) R5 है।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_series_05"
-  },
-  {
-    "id": 6,
-    "orig_id": 3382,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_series",
-    "topic": "श्रृंखला एवं लुप्त पद (Series & Missing Terms)",
-    "question": "श्रृंखला में अनुपस्थित पद ज्ञात करें:\nA, B, D, H, ?",
-    "options": {
-      "A": "Q",
-      "B": "R",
-      "C": "P",
-      "D": "O"
-    },
-    "correct": "C",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "अक्षर स्थानीय मान का दोगुना होना:\n• A = 1\n• B = 2 (1 × 2)\n• D = 4 (2 × 2)\n• H = 8 (4 × 2)\n• अगला स्थानीय मान = 8 × 2 = 16 = P\n• अतः श्रृंखला का अगला अक्षर P है।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_series_05"
-  },
-  {
-    "id": 7,
-    "orig_id": 3449,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_series",
-    "topic": "श्रृंखला एवं लुप्त पद (Series & Missing Terms)",
-    "question": "श्रृंखला को पूर्ण करें:\nCAT : FDW :: DOG : ?",
-    "options": {
-      "A": "GRJ",
-      "B": "FQI",
-      "C": "GQJ",
-      "D": "FPH"
-    },
-    "correct": "C",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "अक्षर कोडिंग (+3):\n• C(+3)=F, A(+3)=D, T(+3)=W\n• D(+3)=G, O(+3)=R, G(+3)=J ➔ GRJ\n• बोर्ड संदर्भ: बोर्ड कुंजी में विकल्प (C) GQJ अंकित है।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_series_05"
-  },
-  {
-    "id": 8,
-    "orig_id": 3662,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_series",
-    "topic": "श्रृंखला एवं लुप्त पद (Series & Missing Terms)",
-    "question": "अक्षर श्रृंखला को पूर्ण करें:\nJUMP : KVOR :: FISH : ?",
-    "options": {
-      "A": "GJWL",
-      "B": "GJXL",
-      "C": "GJUJ",
-      "D": "GJVL"
-    },
-    "correct": "B",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "सादृश्यता कोडिंग:\n• J(10) + 1 = K(11)\n• U(21) + 1 = V(22)\n• M(13) + 2 = O(15)\n• P(16) + 2 = R(18)\n• FISH पर पैटर्न अनुप्रयोग:\n• F(6) + 1 = G(7)\n• I(9) + 1 = J(10)\n• बोर्ड उत्तर कुंजी के अनुसार GJXL (विकल्प B) निर्धारित किया गया है।\n• सही विकल्प: (B) GJXL।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_series_05"
-  },
-  {
-    "id": 9,
-    "orig_id": 3665,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_series",
-    "topic": "श्रृंखला एवं लुप्त पद (Series & Missing Terms)",
-    "question": "लुप्त संख्या ज्ञात कीजिए।\n24, 35, 46, 57, ?, 79",
-    "options": {
-      "A": "67",
-      "B": "69",
-      "C": "68",
-      "D": "70"
-    },
-    "correct": "C",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "संख्या श्रृंखला का अंतर (+11):\n• 24 + 11 = 35\n• 35 + 11 = 46\n• 46 + 11 = 57\n• 57 + 11 = 68\n• 68 + 11 = 79\n• सही विकल्प: (C) 68।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_series_05"
-  },
-  {
-    "id": 10,
-    "orig_id": 3674,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_series",
-    "topic": "श्रृंखला एवं लुप्त पद (Series & Missing Terms)",
-    "question": "निम्नलिखित श्रृंखला में प्रश्नवाचक चिन्ह (?) के स्थान पर कौन-से अक्षर आएंगे?\nAT, FP, KL, ?, UD",
-    "options": {
-      "A": "MH",
-      "B": "HP",
-      "C": "HG",
-      "D": "PH"
-    },
-    "correct": "B",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "अक्षर श्रृंखला विश्लेषण:\n• पहला अक्षर: A(1) + 5 = F(6) + 5 = K(11) + 5 = P(16) + 5 = U(21)\n• दूसरा अक्षर: T(20) - 4 = P(16) - 4 = L(12) - 4 = H(8) - 4 = D(4)\n• लुप्त पद: PH (वर्णमाला क्रमांक 16 और 8)\n• बोर्ड उत्तर कुंजी: बोर्ड ने विकल्प (B) HP को स्वीकार किया है (उल्टे क्रम संदर्भ)।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_series_05"
+    "test_id": "ch_reas_series_05"
   }
 ]

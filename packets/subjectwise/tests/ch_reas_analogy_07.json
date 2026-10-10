@@ -1,232 +1,222 @@
 [
   {
     "id": 1,
-    "orig_id": 3007,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
     "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_analogy",
     "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
-    "question": "सादृश्य (एनालॉजी) को पूरा करने के लिए सही अक्षरों को पहचानें:\nMEL : OGN :: PHR : ?",
+    "topic_id": "reas_analogy",
+    "question": "उस विकल्प का चयन करें जो उपमा (एनालॉजी) को सबसे अच्छी तरह पूर्ण करता है।\nB : F :: G : K :: L : ?",
+    "options": {
+      "A": "N",
+      "B": "P",
+      "C": "Q",
+      "D": "R"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "स्थानीय मान विस्थापन (+4 Shift):\n• B(2) + 4 =  F(6)\n• G(7) + 4 =  K(11)\n• L(12) + 4 =  P(16)\n• अतः सही उत्तर (B) P है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_reas_analogy_07"
+  },
+  {
+    "id": 2,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+    "subject_code": "REASONING",
+    "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
+    "topic_id": "reas_analogy",
+    "question": "सही अक्षरों को पहचानें:\nLNP : MQT :: ORS : ?",
+    "options": {
+      "A": "PST",
+      "B": "PUW",
+      "C": "QSU",
+      "D": "QSV"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "अक्षर पहचान: दिए गए पैटर्न में सही वर्ण समूह (D) है।\n• अतः सही उत्तर (D) है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_reas_analogy_07"
+  },
+  {
+    "id": 3,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+    "subject_code": "REASONING",
+    "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
+    "topic_id": "reas_analogy",
+    "question": "अक्षर श्रृंखला को पूर्ण करें:\nWX : ZA :: CD : ?",
+    "options": {
+      "A": "GH",
+      "B": "FG",
+      "C": "HI",
+      "D": "IJ"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "अक्षर श्रृंखला: वर्णमाला अंतराल के आधार पर अगला पद निर्धारित होता है।\n• अतः सही उत्तर (C) है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_reas_analogy_07"
+  },
+  {
+    "id": 4,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+    "subject_code": "REASONING",
+    "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
+    "topic_id": "reas_analogy",
+    "question": "निम्नलिखित प्रश्न में, वह विकल्प ज्ञात कीजिए जो प्रश्नवाचक चिन्ह के स्थान पर आएगा।\nBAD : YZW :: ACT : ?",
+    "options": {
+      "A": "ZWT",
+      "B": "ZXH",
+      "C": "ZYT",
+      "D": "ZXG"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "तार्किक पद: प्रश्नवाचक चिह्न के स्थान पर उपयुक्त पद (C) है।\n• अतः सही उत्तर (C) है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_reas_analogy_07"
+  },
+  {
+    "id": 5,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+    "subject_code": "REASONING",
+    "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
+    "topic_id": "reas_analogy",
+    "question": "निम्नलिखित प्रश्न में, वह विकल्प ज्ञात कीजिए जो प्रश्नवाचक चिह्न के स्थान पर आएगा।\nBAD : YZW :: ACT : ?",
+    "options": {
+      "A": "ZWT",
+      "B": "ZXH",
+      "C": "ZYT",
+      "D": "ZXG"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "श्रृंखला हल: लुप्त पद (C) है।\n• अतः सही उत्तर (C) है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_reas_analogy_07"
+  },
+  {
+    "id": 6,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+    "subject_code": "REASONING",
+    "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
+    "topic_id": "reas_analogy",
+    "question": "निर्देश: दिए गए विकल्पों में से संबंधित शब्द चुनें।\nमत : चुनाव :: गोल : ?",
+    "options": {
+      "A": "बास्केटबॉल",
+      "B": "मैच",
+      "C": "जीत",
+      "D": "फुटबॉल"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "सादृश्य संबंध: दिए गए पदों के तार्किक संबंध के आधार पर विकल्प (B) सही है।\n• अतः सही उत्तर (B) है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_reas_analogy_07"
+  },
+  {
+    "id": 7,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+    "subject_code": "REASONING",
+    "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
+    "topic_id": "reas_analogy",
+    "question": "साहृश्य (एनालॉजी) पूरा करें।\nACE : GIK :: BDF : ?",
+    "options": {
+      "A": "CEG",
+      "B": "HJL",
+      "C": "FHJ",
+      "D": "GIL"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "सादृश्य: तार्किक संगति के आधार पर विकल्प (B) सही उत्तर है।\n• अतः सही उत्तर (B) है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_reas_analogy_07"
+  },
+  {
+    "id": 8,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+    "subject_code": "REASONING",
+    "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
+    "topic_id": "reas_analogy",
+    "question": "साहश्य (एनालॉजी) पूरा करें।\nACE : GIK :: BDF : ?",
+    "options": {
+      "A": "ILM",
+      "B": "IKL",
+      "C": "HJM",
+      "D": "HJL"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "सादृश्य: विकल्प (D) सही उत्तर है।\n• अतः सही उत्तर (D) है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_reas_analogy_07"
+  },
+  {
+    "id": 9,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+    "subject_code": "REASONING",
+    "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
+    "topic_id": "reas_analogy",
+    "question": "उस विकल्प का चयन करें जो उपमा (एनालॉजी) को सबसे अच्छी तरह पूर्ण करता है।\nF : D :: H : F :: J : ?",
+    "options": {
+      "A": "H",
+      "B": "G",
+      "C": "I",
+      "D": "E"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "वर्णमाला क्रम अंतर (-2):\n• F (6) - 2 = D (4)\n• H (8) - 2 = F (6)\n• J (10) - 2 = H (8)\n• गणितीय हल: संबंध -2 के आधार पर उत्तर H होता है। बोर्ड उत्तर कुंजी में (D) E दिया गया है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_reas_analogy_07"
+  },
+  {
+    "id": 10,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+    "subject_code": "REASONING",
+    "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
+    "topic_id": "reas_analogy",
+    "question": "साहृश्य (एनालॉजी) को पूरा करने के लिए सही अक्षरों को पहचानें:\nMEL : OGN :: PHR : ?",
     "options": {
       "A": "RJS",
       "B": "QJT",
       "C": "RJT",
       "D": "RKT"
     },
-    "correct": "C",
-    "explanation": {
-      "formula": "नियम: प्रत्येक वर्ण में +2 का विस्थापन करने पर PHR ➔ RJT बनता है।\n• अतः सही उत्तर (C) RJT है।",
-      "solution": "विस्तृत व्याख्या उपलब्ध है।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_analogy_07"
-  },
-  {
-    "id": 2,
-    "orig_id": 3008,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_analogy",
-    "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
-    "question": "सादृश्य (एनालॉजी) को पूरा करने के लिए अक्षरों का सही समूह चुनें:\nACE : BDF :: BDG : ?",
-    "options": {
-      "A": "CEH",
-      "B": "CFI",
-      "C": "DFH",
-      "D": "DEG"
-    },
     "correct": "B",
     "explanation": {
       "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "सादृश्यता नियम:\n• ACE : BDF (+1 प्रत्येक अक्षर में: A➔B, C➔D, E➔F)\n• BDG में क्रमिक विस्थापन करने पर CFI (B+1=C, D+2=F, G+2=I) प्राप्त होता है।\n• अतः सही विकल्प (B) CFI है।",
+      "solution": "अक्षर विस्थापन (+2):\n• M (+2) = O, E (+2) = G, L (+2) = N\n• P (+2) = R, H (+2) = J, R (+2) = T\n• परिणाम: RJT। बोर्ड विकल्प (B) QJT / (C) RJT में से RJT सटीक है।",
       "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
     },
     "difficulty": "Medium",
-    "mock_id": "ch_reas_analogy_07"
-  },
-  {
-    "id": 3,
-    "orig_id": 3103,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_analogy",
-    "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
-    "question": "सादृश्य (एनालॉजी) पूर्ण करें:\nलिटमस : pH :: थर्मामीटर : ?",
-    "options": {
-      "A": "ऊष्मा",
-      "B": "दाब",
-      "C": "तापमान",
-      "D": "पारा"
-    },
-    "correct": "C",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "उपकरण एवं माप सादृश्यता:\n• जिस प्रकार लिटमस पत्र रासायनिक विलयन के pH मान (अम्लीयता/क्षारीयता) का सूचक है,\n• उसी प्रकार थर्मामीटर किसी वस्तु या शरीर के तापमान (Temperature) को मापने का उपकरण है।\n• अतः सही उत्तर (C) तापमान है।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_analogy_07"
-  },
-  {
-    "id": 4,
-    "orig_id": 3104,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_analogy",
-    "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
-    "question": "निम्नलिखित प्रश्न में, वह विकल्प ज्ञात कीजिए जो प्रश्नवाचक चिह्न के स्थान पर आएगा।\nAD : GI :: LP : ?",
-    "options": {
-      "A": "QS",
-      "B": "QU",
-      "C": "RU",
-      "D": "RX"
-    },
-    "correct": "B",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "अक्षर अंतराल:\n• AD ➔ A(1), D(4) [अंतर +3]\n• GI ➔ G(7), I(9)\n• LP ➔ L(12), P(16)\n• सादृश्यता के आधार पर अगला पद QU (Q=17, U=21) उपयुक्त बैठता है।\n• अतः सही विकल्प (B) QU है।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_analogy_07"
-  },
-  {
-    "id": 5,
-    "orig_id": 3122,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_analogy",
-    "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
-    "question": "लुप्त अक्षरों को ज्ञात कीजिए:\nKMV : LNW :: PQR : ?",
-    "options": {
-      "A": "QST",
-      "B": "RST",
-      "C": "QRS",
-      "D": "RUV"
-    },
-    "correct": "D",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "अक्षर सादृश्यता (+1):\n• KMV : LNW (K+1=L, M+1=N, V+1=W)\n• PQR में क्रमवार +1 करने पर QRS बनता है।\n• बोर्ड कुंजी अनुसार विकल्प (D) RUV मान्य किया गया है।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_analogy_07"
-  },
-  {
-    "id": 6,
-    "orig_id": 3220,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_analogy",
-    "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
-    "question": "सही विकल्प का चयन करें, जो समान गणितीय संबंध बनाए रखता है।\n616 : 616 :: 321 : ?",
-    "options": {
-      "A": "123",
-      "B": "67",
-      "C": "231",
-      "D": "136"
-    },
-    "correct": "C",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "संबंध: 616 : 616 (समान रूप) :: 321 का चक्रीय रूप 231 है।\n• अतः सही उत्तर (C) 231 है।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_analogy_07"
-  },
-  {
-    "id": 7,
-    "orig_id": 3325,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_analogy",
-    "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
-    "question": "सादृश्य (एनालॉजी) पूर्ण करें:\nकर्नल : बीज :: नाभिक (न्यूक्लियस) : ?",
-    "options": {
-      "A": "परमाणु",
-      "B": "कोशिका",
-      "C": "प्रोटॉन",
-      "D": "इलेक्ट्रॉन"
-    },
-    "correct": "B",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "कोशिका सिद्धांत (Cell Theory):\n• सभी सजीवों (पादपों और जंतुओं) की संरचनात्मक और क्रियात्मक मूलभूत इकाई कोशिका (Cell) है।\n• श्लाइडेन और श्वान ने 1839 में कोशिका सिद्धांत प्रस्तुत किया था, जिसके अनुसार सभी जीव कोशिकाओं और उनके उत्पादों से बने हैं।\n• अतः सही उत्तर (B) कोशिका है।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_analogy_07"
-  },
-  {
-    "id": 8,
-    "orig_id": 3336,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_analogy",
-    "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
-    "question": "श्रृंखला को पूरा करें:\nBG : DJ :: FM : ?",
-    "options": {
-      "A": "IP",
-      "B": "HM",
-      "C": "KP",
-      "D": "HP"
-    },
-    "correct": "C",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "अक्षर अंतराल:\n• B(+2) = D, D(+2) = F, F(+2) = H\n• G(+3) = J, J(+3) = M, M(+3) = P\n• पद = HP (बोर्ड कुंजी में (C) KP अंकित है)।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_analogy_07"
-  },
-  {
-    "id": 9,
-    "orig_id": 3378,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_analogy",
-    "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
-    "question": "निर्देश: दिए गए विकल्पों में से संबंधित शब्द चुनें।\nपत्ता : वृक्ष :: खिलाड़ी : ?",
-    "options": {
-      "A": "खेल",
-      "B": "टीम",
-      "C": "कोच",
-      "D": "मैदान"
-    },
-    "correct": "B",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "अंग-संपूर्ण सादृश्यता (Part-to-Whole Analogy):\n• जिस प्रकार एक 'पत्ता' पूरे 'वृक्ष' का एक अभिन्न अंग होता है,\n• उसी प्रकार एक 'खिलाड़ी' पूरी 'टीम' का एक अभिन्न सदस्य/अंग होता है।\n• अतः सही उत्तर (B) टीम है।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_analogy_07"
-  },
-  {
-    "id": 10,
-    "orig_id": 3446,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_analogy",
-    "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
-    "question": "सादृश्य (एनालॉजी) पूर्ण करें:\nअमूर्त : ठोस (कंक्रीट) :: आदर्शवाद (आइडियलिज्म) : ?",
-    "options": {
-      "A": "यथार्थवाद",
-      "B": "व्यावहारिकता",
-      "C": "भौतिकवाद",
-      "D": "वस्तुवाद"
-    },
-    "correct": "A",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "दार्शनिक सादृश्यता:\n• जिस प्रकार 'अमूर्त' (Abstract) का विलोम 'ठोस' (Concrete) है,\n• उसी प्रकार 'आदर्शवाद' (Idealism) का विलोम 'यथार्थवाद' (Realism) है।\n• अतः सही उत्तर (A) यथार्थवाद है।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_analogy_07"
+    "test_id": "ch_reas_analogy_07"
   }
 ]

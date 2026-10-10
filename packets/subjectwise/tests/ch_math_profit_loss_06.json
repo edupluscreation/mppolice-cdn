@@ -1,11 +1,54 @@
 [
   {
     "id": 1,
-    "orig_id": 3341,
+    "subject": "सरल अंकगणित",
     "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_profit_loss",
     "topic": "लाभ-हानि एवं बट्टा (Profit, Loss & Discount)",
+    "topic_id": "math_profit_loss",
+    "question": "एक व्यापारी एक बैग 200 में खरीदता है और 250 में बेचता है। लाभ प्रतिशत क्या होगा?",
+    "options": {
+      "A": "20%",
+      "B": "22%",
+      "C": "24%",
+      "D": "25%"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "लाभ प्रतिशत सूत्र: [(SP - CP) / CP] × 100\n• गणना:\n• लाभ = 250 - 200 = ₹50\n• लाभ% = (50 / 200) × 100 = 25%\n• अतः सही उत्तर (D) 25% है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_math_profit_loss_06"
+  },
+  {
+    "id": 2,
+    "subject": "सरल अंकगणित",
+    "subject_code": "MATH",
+    "topic": "लाभ-हानि एवं बट्टा (Profit, Loss & Discount)",
+    "topic_id": "math_profit_loss",
+    "question": "एक व्यापारी एक बैग ₨200 में खरीदता है और ₨250 में बेचता है। लाभ प्रतिशत क्या होगा?",
+    "options": {
+      "A": "20%",
+      "B": "22%",
+      "C": "24%",
+      "D": "25%"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "गणना: (50 / 200) × 100 = 25%।\n• अतः सही उत्तर (D) 25% है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_math_profit_loss_06"
+  },
+  {
+    "id": 3,
+    "subject": "सरल अंकगणित",
+    "subject_code": "MATH",
+    "topic": "लाभ-हानि एवं बट्टा (Profit, Loss & Discount)",
+    "topic_id": "math_profit_loss",
     "question": "एक व्यक्ति ने एक वस्तु 1200 रुपये में खरीदी और उसे 10% की हानि पर बेच दिया। विक्रय मूल्य क्या है?",
     "options": {
       "A": "1050 रुपये",
@@ -20,15 +63,14 @@
       "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
     },
     "difficulty": "Medium",
-    "mock_id": "ch_math_profit_loss_06"
+    "test_id": "ch_math_profit_loss_06"
   },
   {
-    "id": 2,
-    "orig_id": 3343,
+    "id": 4,
+    "subject": "सरल अंकगणित",
     "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_profit_loss",
     "topic": "लाभ-हानि एवं बट्टा (Profit, Loss & Discount)",
+    "topic_id": "math_profit_loss",
     "question": "एक दुकानदार किसी वस्तु के अंकित मूल्य पर 10% की छूट देता है लेकिन फिर भी उसे 20% का लाभ होता है। यदि अंकित मूल्य 600 रुपये है, तो क्रय मूल्य ज्ञात कीजिए।",
     "options": {
       "A": "480",
@@ -43,15 +85,14 @@
       "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
     },
     "difficulty": "Medium",
-    "mock_id": "ch_math_profit_loss_06"
+    "test_id": "ch_math_profit_loss_06"
   },
   {
-    "id": 3,
-    "orig_id": 3425,
+    "id": 5,
+    "subject": "सरल अंकगणित",
     "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_profit_loss",
     "topic": "लाभ-हानि एवं बट्टा (Profit, Loss & Discount)",
+    "topic_id": "math_profit_loss",
     "question": "एक व्यापारी लागत मूल्य से 40% अधिक पर वस्तु का मूल्य निर्धारित करता है और फिर 20% की छूट देता है। लाभ प्रतिशत क्या होगा?",
     "options": {
       "A": "10%",
@@ -66,15 +107,14 @@
       "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
     },
     "difficulty": "Medium",
-    "mock_id": "ch_math_profit_loss_06"
+    "test_id": "ch_math_profit_loss_06"
   },
   {
-    "id": 4,
-    "orig_id": 3427,
+    "id": 6,
+    "subject": "सरल अंकगणित",
     "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_profit_loss",
     "topic": "लाभ-हानि एवं बट्टा (Profit, Loss & Discount)",
+    "topic_id": "math_profit_loss",
     "question": "एक वस्तु की अंकित कीमत ₹2000 है। पहले उस पर 20% की छूट दी जाती है और फिर ₹100 की अतिरिक्त कटौती की जाती है। अंतिम विक्रय मूल्य क्या होगा?",
     "options": {
       "A": "1500 Rs",
@@ -89,15 +129,14 @@
       "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
     },
     "difficulty": "Medium",
-    "mock_id": "ch_math_profit_loss_06"
+    "test_id": "ch_math_profit_loss_06"
   },
   {
-    "id": 5,
-    "orig_id": 3430,
+    "id": 7,
+    "subject": "सरल अंकगणित",
     "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_profit_loss",
     "topic": "लाभ-हानि एवं बट्टा (Profit, Loss & Discount)",
+    "topic_id": "math_profit_loss",
     "question": "एक दुकानदार क्रमशः 10% और फिर 20% की दो छूट देता है। इसके बराबर कुल एकल छूट प्रतिशत क्या होगा?",
     "options": {
       "A": "27%",
@@ -112,15 +151,14 @@
       "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
     },
     "difficulty": "Medium",
-    "mock_id": "ch_math_profit_loss_06"
+    "test_id": "ch_math_profit_loss_06"
   },
   {
-    "id": 6,
-    "orig_id": 3431,
+    "id": 8,
+    "subject": "सरल अंकगणित",
     "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_profit_loss",
     "topic": "लाभ-हानि एवं बट्टा (Profit, Loss & Discount)",
+    "topic_id": "math_profit_loss",
     "question": "एक वस्तु की अंकित कीमत ₹2500 है। यदि इसे क्रमशः 10%, 15% और 20% की छूटों के बाद बेचा जाए, तो विक्रय मूल्य क्या होगा?",
     "options": {
       "A": "1512 Rs",
@@ -135,15 +173,14 @@
       "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
     },
     "difficulty": "Medium",
-    "mock_id": "ch_math_profit_loss_06"
+    "test_id": "ch_math_profit_loss_06"
   },
   {
-    "id": 7,
-    "orig_id": 3526,
+    "id": 9,
+    "subject": "सरल अंकगणित",
     "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_profit_loss",
     "topic": "लाभ-हानि एवं बट्टा (Profit, Loss & Discount)",
+    "topic_id": "math_profit_loss",
     "question": "अदिति ने 720 रुपए में एक वस्तु बेची और उसे 20% की हानि हुई। लागत मूल्य क्या था?",
     "options": {
       "A": "Rs 880",
@@ -158,15 +195,14 @@
       "exam_tips": "20% हानि का अर्थ है कि वस्तु अपने लागत मूल्य के 80% पर बेची गई। अतः CP = 720 × (100 / 80) = ₹900।"
     },
     "difficulty": "Medium",
-    "mock_id": "ch_math_profit_loss_06"
+    "test_id": "ch_math_profit_loss_06"
   },
   {
-    "id": 8,
-    "orig_id": 3641,
+    "id": 10,
+    "subject": "सरल अंकगणित",
     "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_profit_loss",
     "topic": "लाभ-हानि एवं बट्टा (Profit, Loss & Discount)",
+    "topic_id": "math_profit_loss",
     "question": "एक नोटबुक की अंकित कीमत 50 है। दुकानदार 5 की सीधी छूट देता है। विक्रय मूल्य क्या होगा?",
     "options": {
       "A": "40 Rs",
@@ -181,52 +217,6 @@
       "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
     },
     "difficulty": "Medium",
-    "mock_id": "ch_math_profit_loss_06"
-  },
-  {
-    "id": 9,
-    "orig_id": 3837,
-    "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_profit_loss",
-    "topic": "लाभ-हानि एवं बट्टा (Profit, Loss & Discount)",
-    "question": "एक दुकानदार 100 प्रति वस्तु की दर से वस्तुएं बेचता है और \"2 खरीदो, 1 मुफ्त पाओ\" का ऑफर देता है। प्रभावी छूट प्रतिशत क्या होगा?",
-    "options": {
-      "A": "25%",
-      "B": "30%",
-      "C": "33.33%",
-      "D": "40%"
-    },
-    "correct": "C",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "प्रभावी छूट प्रतिशत:\n• '2 खरीदो, 1 मुफ्त पाओ' (Buy 2 Get 1 Free):\n• कुल प्राप्त वस्तुएं = 2 + 1 = 3\n• मुफ्त वस्तुएं = 1\n• छूट% = (1 / 3) × 100 = 33.33%\n• सही विकल्प: (C) 33.33%।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_math_profit_loss_06"
-  },
-  {
-    "id": 10,
-    "orig_id": 3839,
-    "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_profit_loss",
-    "topic": "लाभ-हानि एवं बट्टा (Profit, Loss & Discount)",
-    "question": "एक व्यापारी 400 में सामान खरीदता है और 480 में बेचता है। लाभ प्रतिशत कितना है?",
-    "options": {
-      "A": "15%",
-      "B": "20%",
-      "C": "25%",
-      "D": "10%"
-    },
-    "correct": "B",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "लाभ प्रतिशत सूत्र: (लाभ / क्रय मूल्य) × 100\n• गणना: लाभ = 480 - 400 = ₹80 ⇒ लाभ% = (80 / 400) × 100 = 20%\n• सही विकल्प: (B) 20%।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_math_profit_loss_06"
+    "test_id": "ch_math_profit_loss_06"
   }
 ]

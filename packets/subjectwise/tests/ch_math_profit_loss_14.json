@@ -1,34 +1,10 @@
 [
   {
     "id": 1,
-    "orig_id": 7847,
+    "subject": "सरल अंकगणित",
     "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_profit_loss",
     "topic": "लाभ-हानि एवं बट्टा (Profit, Loss & Discount)",
-    "question": "एक फोन का मूल्य 10,000 रुपए है और उस पर 5% की छूट दी गई है। विक्रय मूल्य क्या होगा?",
-    "options": {
-      "A": "Rs 9000",
-      "B": "Rs 9500",
-      "C": "Rs 8500",
-      "D": "Rs 9200"
-    },
-    "correct": "B",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: छूट एवं अंतिम विक्रय मूल्य:\n• अंतिम मूल्य = अंकित मूल्य × (100 - छूट%) / 100\n• 📝 स्टेप-बाय-स्टेप हल:\n1. अंकित मूल्य = ₹10,000\n2. छूट = 5% = ₹500\n3. विक्रय मूल्य = 10,000 - 500 = ₹9,500\nअतः सही उत्तर (B) Rs 9500 है।\n• 💡",
-      "exam_tips": "10000 × 0.95 = 9500 रुपये।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_math_profit_loss_14"
-  },
-  {
-    "id": 2,
-    "orig_id": 7882,
-    "subject_code": "MATH",
-    "subject": "गणित",
     "topic_id": "math_profit_loss",
-    "topic": "लाभ-हानि एवं बट्टा (Profit, Loss & Discount)",
     "question": "एक दुकान 1200 मूल्य की वस्तु पर 15% की छूट देती है। छूट के बाद विक्रय मूल्य क्या होगा?",
     "options": {
       "A": "1000",
@@ -43,15 +19,14 @@
       "exam_tips": "1200 × 0.85 = 1020।"
     },
     "difficulty": "Medium",
-    "mock_id": "ch_math_profit_loss_14"
+    "test_id": "ch_math_profit_loss_14"
   },
   {
-    "id": 3,
-    "orig_id": 7886,
+    "id": 2,
+    "subject": "सरल अंकगणित",
     "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_profit_loss",
     "topic": "लाभ-हानि एवं बट्टा (Profit, Loss & Discount)",
+    "topic_id": "math_profit_loss",
     "question": "जैकेट, एक जोड़ी मोज़े और एक जोड़ी जूते के लागत मूल्य का अनुपात 2:3:4 है। जैकेट को 20% लाभ पर, मोज़ों को 25% लाभ पर, और जूतों को 10% हानि पर बेचा जाता है। इन तीनों लेन-देन को मिलाकर कुल लाभ या हानि प्रतिशत क्या होगा?",
     "options": {
       "A": "7.85%",
@@ -66,15 +41,14 @@
       "exam_tips": "भिन्न 1/12 = 8.33% (या 8⅓%)।"
     },
     "difficulty": "Medium",
-    "mock_id": "ch_math_profit_loss_14"
+    "test_id": "ch_math_profit_loss_14"
   },
   {
-    "id": 4,
-    "orig_id": 7950,
+    "id": 3,
+    "subject": "सरल अंकगणित",
     "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_profit_loss",
     "topic": "लाभ-हानि एवं बट्टा (Profit, Loss & Discount)",
+    "topic_id": "math_profit_loss",
     "question": "एक खरीददार को किसी वस्तु पर 20% की छूट मिलती है और वह 4800 रुपए का भुगतान करता है। तो, उस वस्तु का मूल अंकित मूल्य क्या था?",
     "options": {
       "A": "Rs 6,000",
@@ -89,15 +63,14 @@
       "exam_tips": "4800 × (5/4) = 1200 × 5 = ₹6000।"
     },
     "difficulty": "Medium",
-    "mock_id": "ch_math_profit_loss_14"
+    "test_id": "ch_math_profit_loss_14"
   },
   {
-    "id": 5,
-    "orig_id": 7956,
+    "id": 4,
+    "subject": "सरल अंकगणित",
     "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_profit_loss",
     "topic": "लाभ-हानि एवं बट्टा (Profit, Loss & Discount)",
+    "topic_id": "math_profit_loss",
     "question": "एक वस्तु की अंकित कीमत ₹5000 है। इसे पहले 20% की छूट और फिर अतिरिक्त 10% की छूट के साथ बेचा जाता है। अंतिम विक्रय मूल्य क्या होगा?",
     "options": {
       "A": "3600 Rs",
@@ -112,15 +85,14 @@
       "exam_tips": "समतुल्य बट्टा = 10 + 20 - (10 × 20)/100 = 28%। 5000 का 72% = ₹3600।"
     },
     "difficulty": "Medium",
-    "mock_id": "ch_math_profit_loss_14"
+    "test_id": "ch_math_profit_loss_14"
   },
   {
-    "id": 6,
-    "orig_id": 7987,
+    "id": 5,
+    "subject": "सरल अंकगणित",
     "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_profit_loss",
     "topic": "लाभ-हानि एवं बट्टा (Profit, Loss & Discount)",
+    "topic_id": "math_profit_loss",
     "question": "एक दुकानदार 120 पेन ₹5 में 4 पेन की दर से खरीदता है। वह अन्य 120 पेन ₹3 में 2 पेन की दर से खरीदता है। फिर वह सभी पेनों को मिलाकर ₹8 में 3 पेन की दर से बेचता है। उसका कुल लाभ या हानि प्रतिशत क्या होगा?",
     "options": {
       "A": "96%",
@@ -135,15 +107,14 @@
       "exam_tips": "क्रय मूल्य अलग-अलग दरों पर होने के कारण दोनों का अलग-अलग मूल्य निकालकर जोड़ना आवश्यक है।"
     },
     "difficulty": "Medium",
-    "mock_id": "ch_math_profit_loss_14"
+    "test_id": "ch_math_profit_loss_14"
   },
   {
-    "id": 7,
-    "orig_id": 7988,
+    "id": 6,
+    "subject": "सरल अंकगणित",
     "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_profit_loss",
     "topic": "लाभ-हानि एवं बट्टा (Profit, Loss & Discount)",
+    "topic_id": "math_profit_loss",
     "question": "एक व्यापारी गेहूं का मिश्रण तैयार करता है, जिसमें वह 800 किलोग्राम गेहूं (₹45 प्रति किलोग्राम की दर से) और 200 किलोग्राम गेहूं (₹70 प्रति किलोग्राम की दर से) मिलाता है। फिर वह पूरे मिश्रण को ₹58 प्रति किलोग्राम की दर से बेचता है। उसका कुल लाभ और कुल लाभ प्रतिशत कितना होगा?",
     "options": {
       "A": "₹8,000, 16%",
@@ -158,15 +129,14 @@
       "exam_tips": "8000/50000 = 16% सीधा लाभ है।"
     },
     "difficulty": "Medium",
-    "mock_id": "ch_math_profit_loss_14"
+    "test_id": "ch_math_profit_loss_14"
   },
   {
-    "id": 8,
-    "orig_id": 7989,
+    "id": 7,
+    "subject": "सरल अंकगणित",
     "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_profit_loss",
     "topic": "लाभ-हानि एवं बट्टा (Profit, Loss & Discount)",
+    "topic_id": "math_profit_loss",
     "question": "एक व्यापारी ₹45 प्रति किग्रा लागत वाले 800 किग्रा गेहूं को ₹70 प्रति किग्रा लागत वाले 200 किग्रा गेहूं के साथ मिलाकर एक मिश्रण बनाता है। फिर वह पूरे मिश्रण को ₹58 प्रति किग्रा की दर से बेचता है। उसका कुल लाभ और समग्र लाभ प्रतिशत क्या है?",
     "options": {
       "A": "₹8,000, 16%",
@@ -181,15 +151,14 @@
       "exam_tips": "इस प्रश्न में बोर्ड ने सही गणितीय विकल्प (A) को आधिकारिक कुंजी में मान्यता दी है।"
     },
     "difficulty": "Medium",
-    "mock_id": "ch_math_profit_loss_14"
+    "test_id": "ch_math_profit_loss_14"
   },
   {
-    "id": 9,
-    "orig_id": 8064,
+    "id": 8,
+    "subject": "सरल अंकगणित",
     "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_profit_loss",
     "topic": "लाभ-हानि एवं बट्टा (Profit, Loss & Discount)",
+    "topic_id": "math_profit_loss",
     "question": "एक वस्तु की अंकित कीमत ₹1000 है। यदि इसे क्रमशः 10% और 5% की दो छूटों के बाद बेचा जाए, तो विक्रय मूल्य क्या होगा?",
     "options": {
       "A": "860 Rs",
@@ -204,15 +173,14 @@
       "exam_tips": "एकल समतुल्य छूट = 10 + 5 - (10 × 5 / 100) = 15 - 0.5 = 14.5% छूट। विक्रय मूल्य = 1000 × (100 - 14.5)% = ₹855।"
     },
     "difficulty": "Medium",
-    "mock_id": "ch_math_profit_loss_14"
+    "test_id": "ch_math_profit_loss_14"
   },
   {
-    "id": 10,
-    "orig_id": 8087,
+    "id": 9,
+    "subject": "सरल अंकगणित",
     "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_profit_loss",
     "topic": "लाभ-हानि एवं बट्टा (Profit, Loss & Discount)",
+    "topic_id": "math_profit_loss",
     "question": "अगर एक शर्ट की कीमत 200 रुपये है और उसे 50 रुपये के लाभ पर बेचा जाता है, तो विक्रय मूल्य क्या होगा?",
     "options": {
       "A": "240 रुपये",
@@ -227,6 +195,28 @@
       "exam_tips": "इस प्रश्न में बोर्ड ने सही गणितीय विकल्प (B) को मान्य किया है।"
     },
     "difficulty": "Medium",
-    "mock_id": "ch_math_profit_loss_14"
+    "test_id": "ch_math_profit_loss_14"
+  },
+  {
+    "id": 10,
+    "subject": "सरल अंकगणित",
+    "subject_code": "MATH",
+    "topic": "लाभ-हानि एवं बट्टा (Profit, Loss & Discount)",
+    "topic_id": "math_profit_loss",
+    "question": "एक महिला ₹750 में एक पर्स खरीदती है और उसे ₹900 में बेचती है। उसका लाभ प्रतिशत क्या है?",
+    "options": {
+      "A": "20%",
+      "B": "22%",
+      "C": "15%",
+      "D": "30%"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: लाभ प्रतिशत सूत्र:\n• लाभ % = [(SP - CP) / CP] × 100\n• 📝 स्टेप-बाय-स्टेप हल:\n1. क्रय मूल्य (CP) = ₹750, विक्रय मूल्य (SP) = ₹900\n2. लाभ = 900 - 750 = ₹150\n3. लाभ प्रतिशत = (150 / 750) × 100 = (1 / 5) × 100 = 20%\nअतः सही उत्तर (A) 20% है।\n• 💡",
+      "exam_tips": "150/750 = 1/5 होता है, और 1/5 का प्रतिशत मान 20% है।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_math_profit_loss_14"
   }
 ]

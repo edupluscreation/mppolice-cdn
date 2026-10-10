@@ -1,11 +1,32 @@
 [
   {
     "id": 1,
-    "orig_id": 2799,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
     "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_clock_calendar",
     "topic": "घड़ी एवं कैलेंडर (Clock & Calendar)",
+    "topic_id": "reas_clock_calendar",
+    "question": "7 लगातार वर्षों की अवधि में कितने विषम दिन होते हैं जिसमें केवल एक अधिवर्ष शामिल है?",
+    "options": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "विषम दिनों की गणना:\n• 7 लगातार वर्षों में 1 लीप वर्ष और 6 साधारण वर्ष हैं।\n• 6 साधारण वर्ष = 6 × 1 = 6 विषम दिन\n• 1 लीप वर्ष = 1 × 2 = 2 विषम दिन\n• कुल दिन = 6 + 2 = 8 दिन \\equiv 8 - 7 = 1 विषम दिन (या 1+1=2 मानकर बोर्ड द्वारा B को स्वीकार किया गया है)।\n• अतः बोर्ड कुंजी अनुसार उत्तर (B) 2 है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_reas_clock_calendar_02"
+  },
+  {
+    "id": 2,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+    "subject_code": "REASONING",
+    "topic": "घड़ी एवं कैलेंडर (Clock & Calendar)",
+    "topic_id": "reas_clock_calendar",
     "question": "15 अगस्त 1947 को सप्ताह का कौन-सा दिन था?",
     "options": {
       "A": "गुरुवार",
@@ -20,15 +41,14 @@
       "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
     },
     "difficulty": "Medium",
-    "mock_id": "ch_reas_clock_calendar_02"
+    "test_id": "ch_reas_clock_calendar_02"
   },
   {
-    "id": 2,
-    "orig_id": 3041,
+    "id": 3,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
     "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_clock_calendar",
     "topic": "घड़ी एवं कैलेंडर (Clock & Calendar)",
+    "topic_id": "reas_clock_calendar",
     "question": "आज रविवार है। 1344 दिन बाद होगा (लीप वर्ष की गणना न करें):",
     "options": {
       "A": "रविवार",
@@ -43,15 +63,14 @@
       "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
     },
     "difficulty": "Medium",
-    "mock_id": "ch_reas_clock_calendar_02"
+    "test_id": "ch_reas_clock_calendar_02"
   },
   {
-    "id": 3,
-    "orig_id": 3247,
+    "id": 4,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
     "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_clock_calendar",
     "topic": "घड़ी एवं कैलेंडर (Clock & Calendar)",
+    "topic_id": "reas_clock_calendar",
     "question": "निम्नलिखित में से कैलेंडर के बारे में कौन-सा कथन गलत है?",
     "options": {
       "A": "हर शताब्दी वर्ष लीप वर्ष होता है।",
@@ -66,15 +85,14 @@
       "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
     },
     "difficulty": "Medium",
-    "mock_id": "ch_reas_clock_calendar_02"
+    "test_id": "ch_reas_clock_calendar_02"
   },
   {
-    "id": 4,
-    "orig_id": 3610,
+    "id": 5,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
     "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_clock_calendar",
     "topic": "घड़ी एवं कैलेंडर (Clock & Calendar)",
+    "topic_id": "reas_clock_calendar",
     "question": "यदि 1 जनवरी 2013 को मंगलवार था, तो 1 जनवरी 2023 कौन-सा दिन था?",
     "options": {
       "A": "रविवार",
@@ -89,15 +107,14 @@
       "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
     },
     "difficulty": "Medium",
-    "mock_id": "ch_reas_clock_calendar_02"
+    "test_id": "ch_reas_clock_calendar_02"
   },
   {
-    "id": 5,
-    "orig_id": 3611,
+    "id": 6,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
     "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_clock_calendar",
     "topic": "घड़ी एवं कैलेंडर (Clock & Calendar)",
+    "topic_id": "reas_clock_calendar",
     "question": "यदि 01 जनवरी 2004 को गुरुवार है, तो 01 मार्च 2003 को कौन-सा दिन होगा?",
     "options": {
       "A": "शुक्रवार",
@@ -112,15 +129,14 @@
       "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
     },
     "difficulty": "Medium",
-    "mock_id": "ch_reas_clock_calendar_02"
+    "test_id": "ch_reas_clock_calendar_02"
   },
   {
-    "id": 6,
-    "orig_id": 3900,
+    "id": 7,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
     "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_clock_calendar",
     "topic": "घड़ी एवं कैलेंडर (Clock & Calendar)",
+    "topic_id": "reas_clock_calendar",
     "question": "यदि लीप वर्ष का 1 जनवरी बुधवार है, तो उस वर्ष में कितने गुरुवार होंगे?",
     "options": {
       "A": "52",
@@ -135,15 +151,14 @@
       "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
     },
     "difficulty": "Medium",
-    "mock_id": "ch_reas_clock_calendar_02"
+    "test_id": "ch_reas_clock_calendar_02"
   },
   {
-    "id": 7,
-    "orig_id": 3925,
+    "id": 8,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
     "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_clock_calendar",
     "topic": "घड़ी एवं कैलेंडर (Clock & Calendar)",
+    "topic_id": "reas_clock_calendar",
     "question": "यदि घंटे और मिनट की सुई एक दिन (24 घंटे) में 22 बार मिलती हैं, तो उस दिन वे कितनी बार ठीक 180° के कोण पर होती हैं?",
     "options": {
       "A": "11",
@@ -158,15 +173,14 @@
       "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
     },
     "difficulty": "Medium",
-    "mock_id": "ch_reas_clock_calendar_02"
+    "test_id": "ch_reas_clock_calendar_02"
   },
   {
-    "id": 8,
-    "orig_id": 4019,
+    "id": 9,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
     "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_clock_calendar",
     "topic": "घड़ी एवं कैलेंडर (Clock & Calendar)",
+    "topic_id": "reas_clock_calendar",
     "question": "यदि कोई निश्चित तिथि सप्ताह के दिन के अनुसार हर 6 वर्षों में दोहराई जाती है, तो ऐसा सत्य होने के लिए उन 6 वर्षों की अवधि में कितने लीप वर्ष होने चाहिए?",
     "options": {
       "A": "1",
@@ -181,15 +195,14 @@
       "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
     },
     "difficulty": "Medium",
-    "mock_id": "ch_reas_clock_calendar_02"
+    "test_id": "ch_reas_clock_calendar_02"
   },
   {
-    "id": 9,
-    "orig_id": 4126,
+    "id": 10,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
     "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_clock_calendar",
     "topic": "घड़ी एवं कैलेंडर (Clock & Calendar)",
+    "topic_id": "reas_clock_calendar",
     "question": "यदि आज 15 अगस्त 2025 है और यह शुक्रवार है, तो 15 अगस्त 2026 को कौन-सा सप्ताह का दिन होगा?",
     "options": {
       "A": "शनिवार",
@@ -204,29 +217,6 @@
       "exam_tips": "लीप वर्ष पार करने पर 2 दिन आगे बढ़ते हैं, जबकि सामान्य वर्ष पार करने पर 1 दिन आगे बढ़ते हैं।"
     },
     "difficulty": "Medium",
-    "mock_id": "ch_reas_clock_calendar_02"
-  },
-  {
-    "id": 10,
-    "orig_id": 4385,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_clock_calendar",
-    "topic": "घड़ी एवं कैलेंडर (Clock & Calendar)",
-    "question": "सामान्य वर्ष का कौन-सा महीना लीप वर्ष में फरवरी के समान दिनों की संख्या रखता है?",
-    "options": {
-      "A": "मार्च",
-      "B": "अप्रैल",
-      "C": "कोई नहीं",
-      "D": "मई"
-    },
-    "correct": "C",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / कैलेंडर माह दिन:\n• 📝 विश्लेषण:\n• लीप वर्ष में फ़रवरी में 29 दिन होते हैं।\n• किसी सामान्य वर्ष (या किसी भी वर्ष) में अन्य कोई भी महीना 29 दिनों का नहीं होता (या तो 30 दिन होते हैं या 31 दिन, और साधारण फ़रवरी 28 दिन की होती है)।\n• अतः ऐसा 'कोई नहीं' (None) महीना है।\n• 💡",
-      "exam_tips": "30 दिनों वाले महीने: अप्रैल, जून, सितंबर, नवंबर। 31 दिनों वाले: जनवरी, मार्च, मई, जुलाई, अगस्त, अक्टूबर, दिसंबर।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_clock_calendar_02"
+    "test_id": "ch_reas_clock_calendar_02"
   }
 ]

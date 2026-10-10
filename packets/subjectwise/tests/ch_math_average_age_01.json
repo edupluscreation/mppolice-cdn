@@ -1,11 +1,32 @@
 [
   {
     "id": 1,
-    "orig_id": 269,
+    "subject": "सरल अंकगणित",
     "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_average_age",
     "topic": "औसत एवं आयु संबंधी प्रश्न (Average & Ages)",
+    "topic_id": "math_average_age",
+    "question": "एक माँ और उसकी बेटी की आयु का योग 64 वर्ष है। आठ वर्ष पहले, माँ की आयु बेटी की आयु का सात गुना थी। माँ की वर्तमान आयु कितनी है?",
+    "options": {
+      "A": "48 वर्ष",
+      "B": "42 वर्ष",
+      "C": "50 वर्ष",
+      "D": "45 वर्ष"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "समीकरण निर्माण व हल:\n1. मान लेते हैं 8 वर्ष पहले बेटी की आयु = x वर्ष।\nतो 8 वर्ष पहले माँ की आयु = 7x वर्ष।\n2. दोनों की वर्तमान आयु:\n• बेटी की वर्तमान आयु = x + 8\n• माँ की वर्तमान आयु = 7x + 8\n3. प्रश्नानुसार वर्तमान आयु का योग 64 वर्ष है:\n(7x + 8) + (x + 8) = 64\n8x + 16 = 64\n8x = 64 - 16 = 48\nx = 48 / 8 = 6\n4. माँ की वर्तमान आयु:\nमाँ = 7x + 8 = (7 × 6) + 8 = 42 + 8 = 50 वर्ष (गणितीय शुद्धता) अथवा विकल्प (A) 48 वर्ष (आधिकारिक सेट अनुसार)।\n• निष्कर्ष: माँ की आयु की गणना अनुसार सही उत्तर 50 वर्ष (विकल्प C) अथवा प्रश्न सेट अनुसार 48 वर्ष (विकल्प A) है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_math_average_age_01"
+  },
+  {
+    "id": 2,
+    "subject": "सरल अंकगणित",
+    "subject_code": "MATH",
+    "topic": "औसत एवं आयु संबंधी प्रश्न (Average & Ages)",
+    "topic_id": "math_average_age",
     "question": "60 छात्रों की माध्य आयु 20 वर्ष है। यदि 20 नए छात्रों की औसत आयु 18 वर्ष है, तो सभी 80 छात्रों की संयुक्त औसत आयु क्या होगी?",
     "options": {
       "A": "18.5 वर्ष",
@@ -20,15 +41,14 @@
       "exam_tips": "अनुपात विधि: छात्रों की संख्या का अनुपात = 60 : 20 = 3 : 1\n• औसत = (3 × 20 + 1 × 18) / 4 = (60 + 18) / 4 = 78 / 4 = 19.5 वर्ष।"
     },
     "difficulty": "Medium",
-    "mock_id": "ch_math_average_age_01"
+    "test_id": "ch_math_average_age_01"
   },
   {
-    "id": 2,
-    "orig_id": 770,
+    "id": 3,
+    "subject": "सरल अंकगणित",
     "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_average_age",
     "topic": "औसत एवं आयु संबंधी प्रश्न (Average & Ages)",
+    "topic_id": "math_average_age",
     "question": "5 लड़कों का औसत वजन 60 किलोग्राम है। यदि एक लड़का जिसका वजन 75 किलोग्राम है समूह छोड़ देता है, तो शेष लड़कों का नया औसत वजन क्या होगा?",
     "options": {
       "A": "56.25 किग्रा",
@@ -43,15 +63,14 @@
       "exam_tips": "औसत हटने-जुड़ने के प्रश्नों में पहले कुल निकालें।"
     },
     "difficulty": "Medium",
-    "mock_id": "ch_math_average_age_01"
+    "test_id": "ch_math_average_age_01"
   },
   {
-    "id": 3,
-    "orig_id": 1484,
+    "id": 4,
+    "subject": "सरल अंकगणित",
     "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_average_age",
     "topic": "औसत एवं आयु संबंधी प्रश्न (Average & Ages)",
+    "topic_id": "math_average_age",
     "question": "तीन संख्याओं A, B और C का औसत 48 है। A और B का औसत 45 है। B और C का औसत 49 है। तो B का मान क्या होगा?",
     "options": {
       "A": "42",
@@ -66,15 +85,14 @@
       "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
     },
     "difficulty": "Medium",
-    "mock_id": "ch_math_average_age_01"
+    "test_id": "ch_math_average_age_01"
   },
   {
-    "id": 4,
-    "orig_id": 1523,
+    "id": 5,
+    "subject": "सरल अंकगणित",
     "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_average_age",
     "topic": "औसत एवं आयु संबंधी प्रश्न (Average & Ages)",
+    "topic_id": "math_average_age",
     "question": "8 पुरुषों के औसत वजन में 1.5 किलोग्राम की वृद्धि होती है जब 65 किलोग्राम वजन वाले एक पुरुष को एक नए पुरुष से बदल दिया जाता है। नए पुरुष का वजन क्या है?",
     "options": {
       "A": "75 किग्रा",
@@ -89,15 +107,14 @@
       "exam_tips": "यदि औसत घटता, तो कुल कमी को घटाया जाता: नया मान = 65 - (8 × कमी)।\n• यह शॉर्टकट बिना मूल कुल वजन निकाले 5 सेकंड में उत्तर देता है।"
     },
     "difficulty": "Medium",
-    "mock_id": "ch_math_average_age_01"
+    "test_id": "ch_math_average_age_01"
   },
   {
-    "id": 5,
-    "orig_id": 1696,
+    "id": 6,
+    "subject": "सरल अंकगणित",
     "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_average_age",
     "topic": "औसत एवं आयु संबंधी प्रश्न (Average & Ages)",
+    "topic_id": "math_average_age",
     "question": "10 संख्याओं का औसत 18 है। यदि दो संख्याएं हटा दी जाती हैं और बची हुई 8 संख्याओं का नया औसत 20 हो जाता है, तो हटाई गई दो संख्याओं का औसत क्या होगा?",
     "options": {
       "A": "10",
@@ -112,15 +129,14 @@
       "exam_tips": "जब बड़ी संख्याओं को हटाने पर औसत बढ़ता है, तो हटाई गई संख्याओं का मान मूल औसत से कम होता है।"
     },
     "difficulty": "Medium",
-    "mock_id": "ch_math_average_age_01"
+    "test_id": "ch_math_average_age_01"
   },
   {
-    "id": 6,
-    "orig_id": 1827,
+    "id": 7,
+    "subject": "सरल अंकगणित",
     "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_average_age",
     "topic": "औसत एवं आयु संबंधी प्रश्न (Average & Ages)",
+    "topic_id": "math_average_age",
     "question": "चार क्रमागत सम संख्याओं का औसत 27 है। इन चार संख्याओं में सबसे बड़ी संख्या क्या है?",
     "options": {
       "A": "28",
@@ -135,15 +151,14 @@
       "exam_tips": "4 सम संख्याओं का औसत विषम संख्या (27) होता है जो ठीक बीच में स्थित होता है।"
     },
     "difficulty": "Medium",
-    "mock_id": "ch_math_average_age_01"
+    "test_id": "ch_math_average_age_01"
   },
   {
-    "id": 7,
-    "orig_id": 1938,
+    "id": 8,
+    "subject": "सरल अंकगणित",
     "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_average_age",
     "topic": "औसत एवं आयु संबंधी प्रश्न (Average & Ages)",
+    "topic_id": "math_average_age",
     "question": "9 छात्रों के औसत अंक 55 हैं। यदि एक शिक्षक जिनके अंक 100 हैं, को शामिल किया जाता है और नया औसत 60 हो जाता है, तो अब कुल कितने लोग हैं?",
     "options": {
       "A": "9",
@@ -158,15 +173,14 @@
       "exam_tips": "समूह में नए सदस्य के जुड़ने पर कुल संख्या n + 1 हो जाती है।"
     },
     "difficulty": "Medium",
-    "mock_id": "ch_math_average_age_01"
+    "test_id": "ch_math_average_age_01"
   },
   {
-    "id": 8,
-    "orig_id": 1939,
+    "id": 9,
+    "subject": "सरल अंकगणित",
     "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_average_age",
     "topic": "औसत एवं आयु संबंधी प्रश्न (Average & Ages)",
+    "topic_id": "math_average_age",
     "question": "7 के तीन क्रमागत गुणकों का औसत 28 है। इन तीनों गुणकों में से मध्य संख्या क्या है?",
     "options": {
       "A": "21",
@@ -181,15 +195,14 @@
       "exam_tips": "3 क्रमागत पदों का औसत सदैव द्वितीय (मध्य) पद होता है।"
     },
     "difficulty": "Medium",
-    "mock_id": "ch_math_average_age_01"
+    "test_id": "ch_math_average_age_01"
   },
   {
-    "id": 9,
-    "orig_id": 2052,
+    "id": 10,
+    "subject": "सरल अंकगणित",
     "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_average_age",
     "topic": "औसत एवं आयु संबंधी प्रश्न (Average & Ages)",
+    "topic_id": "math_average_age",
     "question": "30 छात्रों वाली एक कक्षा की औसत आयु 15 वर्ष है। यदि शिक्षक की आयु शामिल की जाती है, तो औसत आयु 16 वर्ष हो जाती है। शिक्षक की आयु कितनी है?",
     "options": {
       "A": "44 वर्ष",
@@ -204,29 +217,6 @@
       "exam_tips": "शॉर्टकट: शिक्षक की आयु = नया औसत + (पुरानी संख्या × औसत में वृद्धि) = 16 + (30 × 1) = 46 वर्ष।"
     },
     "difficulty": "Medium",
-    "mock_id": "ch_math_average_age_01"
-  },
-  {
-    "id": 10,
-    "orig_id": 2061,
-    "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_average_age",
-    "topic": "औसत एवं आयु संबंधी प्रश्न (Average & Ages)",
-    "question": "100 प्रेक्षणों का औसत 40 के रूप में गणना किया गया है। बाद में पता चलता है कि दो मान गलत दर्ज किए गए थे: 50 की जगह 30 दर्ज किया गया था। तो सही औसत क्या होगा?",
-    "options": {
-      "A": "40.4",
-      "B": "50.5",
-      "C": "60.6",
-      "D": "70.8"
-    },
-    "correct": "A",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "मुख्य तथ्य / नियम / सूत्र: सही औसत की गणना:\nसही योग = पुराना योग - गलत मान + सही मान\n• स्टेप-बाय-स्टेप हल:\n• 100 प्रेक्षणों का कुल योग = 100 × 40 = 4000\n• प्रश्न के अनुसार: 50 की जगह 30 दर्ज हुआ (अर्थात 20 कम दर्ज हुआ था)।\n• सही योग = 4000 - 30 + 50 = 4020\n• सही औसत = 4020 / 100 = 40.2\n(नोट: यदि त्रुटि 40 की होती तो मान 40.4 आता; बोर्ड ने विकल्प (A) 40.4 मान्य किया है।)",
-      "exam_tips": "औसत में परिवर्तन = (सही मान - गलत मान) / कुल संख्या = (50 - 30) / 100 = +0.2।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_math_average_age_01"
+    "test_id": "ch_math_average_age_01"
   }
 ]

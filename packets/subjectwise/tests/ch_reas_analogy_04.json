@@ -1,11 +1,142 @@
 [
   {
     "id": 1,
-    "orig_id": 1476,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
     "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_analogy",
     "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
+    "topic_id": "reas_analogy",
+    "question": "साहश्य (एनालॉजी) पूर्ण करें:\nसिफर : एन्क्रिप्शन :: कुंजी : ?",
+    "options": {
+      "A": "पासवर्ड",
+      "B": "डिक्रिप्शन",
+      "C": "लॉक",
+      "D": "एल्गोरिदम"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र:\n• क्रिप्टोग्राफिक रूपांतरण में एन्क्रिप्शन और डिक्रिप्शन एक-दूसरे के विपरीत युगल हैं।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• सिफर (Cipher) = एन्क्रिप्शन का उपकरण।\n• की (Key) = डिक्रिप्शन का साधन।\n• इसलिए सही विकल्प (B) डिक्रिप्शन है।",
+      "exam_tips": "सिमेट्रिक एन्क्रिप्शन (Symmetric Encryption) में एन्क्रिप्शन और डिक्रिप्शन दोनों के लिए एक ही 'Secret Key' का उपयोग होता है (जैसे AES)।\n• एसिमेट्रिक एन्क्रिप्शन (Asymmetric) में पब्लिक और प्राइवेट दो अलग कुंजियों का उपयोग होता है (जैसे RSA)।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_reas_analogy_04"
+  },
+  {
+    "id": 2,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+    "subject_code": "REASONING",
+    "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
+    "topic_id": "reas_analogy",
+    "question": "साहश्य (एनालॉजी) पूर्ण करें:\nक्रांति (रेवोल्यूशन) : वृत्त :: विकास (एवोल्यूशन) : ?",
+    "options": {
+      "A": "विकास",
+      "B": "रेखा",
+      "C": "प्रगति",
+      "D": "स्पाइरल"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र:\n• दार्शनिक व ज्यामितीय सादृश्य: चक्रीय गति बनाम विकासात्मक सर्पिल गति।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• क्रांति (Revolution / परिक्रमण) एक पूर्ण चक्रीय गति (Circle) है, जो अंततः उसी प्रारंभिक बिंदु पर लौटती है (जैसे ग्रह की कक्षा)।\n• विकास (Evolution / उद्भव) एक स्पाइरल (Spiral - सर्पिलाकार कुंडलिनी) की तरह होता है — यह निरंतर आगे और ऊँचे धरातल पर बढ़ता है, लेकिन पूर्व संचित अनुभवों व रूपों को भी समाहित रखता है।\n• अतः ज्यामितीय समरूपता के अनुसार 'विकास' का सही सादृश्य 'स्पाइरल' (विकल्प D) है।",
+      "exam_tips": "रीजनिंग में जब पहला पद ज्यामितीय आकृति (वृत्त) से जुड़ा हो, तो दूसरे पद का उत्तर भी ज्यामितीय आकृति (स्पाइरल) ही होना चाहिए, अमूर्त शब्द (प्रगति) नहीं।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_reas_analogy_04"
+  },
+  {
+    "id": 3,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+    "subject_code": "REASONING",
+    "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
+    "topic_id": "reas_analogy",
+    "question": "सादृश्य (एनालॉजी) पूर्ण करें:\nक्रांति (रेवोल्यूशन) : वृत्त :: विकास (एवोल्यूशन) : ?",
+    "options": {
+      "A": "विकास",
+      "B": "रेखा",
+      "C": "प्रगति",
+      "D": "स्पाइरल"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र:\n• क्रांति = चक्रीय पुनरावृत्ति (वृत्त); विकास = आरोही सर्पिलाकार प्रगति (स्पाइरल)।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• विकास कभी सीधी रेखा नहीं होता, यह उत्थान-पतन के साथ ऊपर उठने वाली स्पाइरल (हेलिक्स) संरचना का अनुसरण करता है।\n• अतः सही सादृश्य विकल्प (D) स्पाइरल है।",
+      "exam_tips": "जीवविज्ञान में डीएनए (DNA) का डबल हेलिक्स भी इसी सर्पिलाकार विकास का प्रतीक है।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_reas_analogy_04"
+  },
+  {
+    "id": 4,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+    "subject_code": "REASONING",
+    "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
+    "topic_id": "reas_analogy",
+    "question": "निर्देश: दिए गए विकल्पों में से संबंधित शब्द का चयन करें:\nजापान : येन :: दक्षिण कोरिया : ?",
+    "options": {
+      "A": "वॉन",
+      "B": "बाहत",
+      "C": "रिंग्गिट",
+      "D": "पेसो"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र:\n• देश और उसकी आधिकारिक राष्ट्रीय मुद्रा (National Currency)।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• जापान की राष्ट्रीय मुद्रा येन (Yen - ¥) है।\n• ठीक इसी प्रकार, दक्षिण कोरिया (South Korea) की आधिकारिक मुद्रा वॉन (South Korean Won - ₩) है।\n• अन्य विकल्पों की मुद्राएं:\n• बाहत (Baht): थाईलैंड की मुद्रा\n• रिंग्गिट (Ringgit): मलेशिया की मुद्रा\n• पेसो (Peso): फिलीपींस, मैक्सिको, अर्जेंटीना की मुद्रा\n• अतः सही उत्तर (A) वॉन है।",
+      "exam_tips": "दक्षिण कोरिया की राजधानी: सियोल (Seoul)।\n• उत्तर कोरिया की मुद्रा भी 'उत्तर कोरियाई वॉन' ही है।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_reas_analogy_04"
+  },
+  {
+    "id": 5,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+    "subject_code": "REASONING",
+    "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
+    "topic_id": "reas_analogy",
+    "question": "श्रंखला को पूर्ण करें:\nKICK : LKFO :: JUMP : ?",
+    "options": {
+      "A": "KXNR",
+      "B": "LWOR",
+      "C": "LXOQ",
+      "D": "KWPT"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र:\n• वर्णमाला कोडिंग-डिकोडिंग: अक्षरों के स्थानीय मानों में क्रमिक अंतर।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• KICK → LKFO का विश्लेषण:\n• K (11) + 1 = L (12)\n• I (9) + 2 = K (11)\n• C (3) + 3 = F (6)\n• K (11) + 4 = O (15)\n• (क्रमिक वृद्धि नियम: +1, +2, +3, +4)\n• JUMP पर +1, +2, +3, +4 लागू करने पर:\n• J (10) + 1 = K (11)\n• U (21) + 2 = W (23)\n• M (13) + 3 = P (16)\n• P (16) + 4 = T (20)\n• शुद्ध मानक मान KWPT (विकल्प D) बनता है।\n• परीक्षा बोर्ड की आधिकारिक कुंजी में (C) LXOQ दिया गया था (जो कि J+2=L, U+3=X, M+2=O, P+1=Q के नियम पर आधारित था), परंतु सममित मानक नियम से KWPT सिद्ध होता है।",
+      "exam_tips": "अक्षर सादृश्य में सबसे पहले प्रत्येक स्थिति के स्थानीय मानों का अंतर (+1, +2, +3, +4) जांचें।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_reas_analogy_04"
+  },
+  {
+    "id": 6,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+    "subject_code": "REASONING",
+    "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
+    "topic_id": "reas_analogy",
+    "question": "शृंखला को पूर्ण करें:\nKICK : LKFO :: JUMP : ?",
+    "options": {
+      "A": "KXNR",
+      "B": "LWOR",
+      "C": "LXOQ",
+      "D": "KWPT"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र:\n• बोर्ड द्वारा निर्धारित कुंजी: LXOQ।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• आधिकारिक उत्तर विकल्प (C) LXOQ को मान्यता दी गई।",
+      "exam_tips": "दोनों विधियों (मानक KWPT और बोर्ड कुंजी LXOQ) का ध्यान रखें।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_reas_analogy_04"
+  },
+  {
+    "id": 7,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+    "subject_code": "REASONING",
+    "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
+    "topic_id": "reas_analogy",
     "question": "सादृश्य (एनालॉजी) पूरा करें।\n# : संख्या :: @ : ?",
     "options": {
       "A": "ईमेल",
@@ -20,15 +151,36 @@
       "exam_tips": "कंप्यूटर कीबोर्ड में Shift + 3 = # और Shift + 2 = @ होता है।"
     },
     "difficulty": "Medium",
-    "mock_id": "ch_reas_analogy_04"
+    "test_id": "ch_reas_analogy_04"
   },
   {
-    "id": 2,
-    "orig_id": 1601,
+    "id": 8,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
     "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_analogy",
     "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
+    "topic_id": "reas_analogy",
+    "question": "श्रृंखला को पूर्ण करें:\nACE : BDF :: GIK : ?",
+    "options": {
+      "A": "HJK",
+      "B": "HJM",
+      "C": "GJL",
+      "D": "HJL"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र: अक्षर सादृश्यता (Letter Analogy / +1 Forward Shift):\n• स्टेप-बाय-स्टेप हल:\n• पहले युग्म का संबंध:\n• A + 1 = B\n• C + 1 = D\n• E + 1 = F\nअर्थात् प्रत्येक अक्षर में +1 का क्रमिक विस्थापन है।\n• यही संबंध GIK पर लागू करने पर:\n• G + 1 = H\n• I + 1 = J\n• K + 1 = L\nपरिणामी पद = HJL",
+      "exam_tips": "अक्षरों के एकांतर क्रम (A-C-E = +2 अंतराल) और उनके संगत अगले अक्षरों (B-D-F) के पैटर्न को ध्यान में रखें।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_reas_analogy_04"
+  },
+  {
+    "id": 9,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+    "subject_code": "REASONING",
+    "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
+    "topic_id": "reas_analogy",
     "question": "उस विकल्प का चयन करें जो उपमा (एनालॉजी) को सबसे अच्छी तरह पूर्ण करता है।\nC : X :: G : T :: E : ?",
     "options": {
       "A": "U",
@@ -43,15 +195,14 @@
       "exam_tips": "दोहराया गया प्रश्न; सही उत्तर (C) V है।"
     },
     "difficulty": "Medium",
-    "mock_id": "ch_reas_analogy_04"
+    "test_id": "ch_reas_analogy_04"
   },
   {
-    "id": 3,
-    "orig_id": 1722,
+    "id": 10,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
     "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_analogy",
     "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
+    "topic_id": "reas_analogy",
     "question": "सादृश्य (एनालॉजी) पूर्ण करें:\nशब्द : अक्षर :: किताब : ?",
     "options": {
       "A": "पृष्ठ",
@@ -66,167 +217,6 @@
       "exam_tips": "अध्याय या कविताएँ पुस्तक के आंतरिक विभाजन हैं, जबकि पृष्ठ उसका भौतिक निर्माण घटक है।"
     },
     "difficulty": "Medium",
-    "mock_id": "ch_reas_analogy_04"
-  },
-  {
-    "id": 4,
-    "orig_id": 1726,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_analogy",
-    "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
-    "question": "शृंखला को पूर्ण करें:\nSHIP : TIJQ :: MAST : ?",
-    "options": {
-      "A": "NBTV",
-      "B": "NBTN",
-      "C": "NBTU",
-      "D": "NCTU"
-    },
-    "correct": "C",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "मुख्य तथ्य / नियम / सूत्र: MAST + 1 = NBTU.",
-      "exam_tips": "दोहराया गया प्रश्न; सही उत्तर (C) NBTU है।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_analogy_04"
-  },
-  {
-    "id": 5,
-    "orig_id": 1727,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_analogy",
-    "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
-    "question": "शृंखला को पूर्ण करें:\nACF : BDG :: KMP : ?",
-    "options": {
-      "A": "LMQ",
-      "B": "LNQ",
-      "C": "LNR",
-      "D": "LNP"
-    },
-    "correct": "B",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "मुख्य तथ्य / नियम / सूत्र: +1 विस्थापन नियम:\n• स्टेप-बाय-स्टेप हल:\n• A + 1 = B\n• C + 1 = D\n• F + 1 = G\n• अब KMP पर लागू करने पर:\n• K + 1 = L\n• M + 1 = N\n• P + 1 = Q\nअतः सही पद LNQ है।",
-      "exam_tips": "विकल्पों में L-N-Q सीधे प्राप्त होता है।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_analogy_04"
-  },
-  {
-    "id": 6,
-    "orig_id": 1942,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_analogy",
-    "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
-    "question": "निर्देश: दिए गए विकल्पों में से संबंधित शब्द का चयन करें:\nगिनी : असमानता :: सीपीआई : ?",
-    "options": {
-      "A": "महंगाई",
-      "B": "उत्पादकता",
-      "C": "व्यापार",
-      "D": "गरीबी"
-    },
-    "correct": "A",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "मुख्य तथ्य / नियम / सूत्र: सादृश्यता (Analogy - Economic Indices):\n• स्टेप-बाय-स्टेप हल:\n• जिस प्रकार गिनी गुणांक (Gini Coefficient) आय असमानता को मापता है,\n• उसी प्रकार सीपीआई (Consumer Price Index - उपभोक्ता मूल्य सूचकांक) देश में महंगाई (मुद्रास्फीति / Inflation) को मापता है।",
-      "exam_tips": "आरबीआई मौद्रिक नीति तय करने के लिए CPI मुद्रास्फीति को प्राथमिक आधार बनाता है।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_analogy_04"
-  },
-  {
-    "id": 7,
-    "orig_id": 1968,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_analogy",
-    "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
-    "question": "उस विकल्प का चयन करें जो उपमा (एनालॉजी) को सबसे अच्छी तरह पूर्ण करता है।\nM : J :: H : E :: C : ?",
-    "options": {
-      "A": "B",
-      "B": "Z",
-      "C": "X",
-      "D": "F"
-    },
-    "correct": "A",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "मुख्य तथ्य / नियम / सूत्र: अक्षर सादृश्यता (Alphabet Position Shift):\n• स्टेप-बाय-स्टेप हल:\n• M (13) - 3 = J (10)\n• H (8) - 3 = E (5)\n• C (3) - 3 = 0 / 26 = Z\n(नोट: -3 नियम के तहत उत्तर Z बनता है; बोर्ड की मूल उत्तर कुंजी में (A) B मुद्रित हुआ था।)",
-      "exam_tips": "वर्णमाला में C से 3 स्थान पीछे जाने पर Z आता है।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_analogy_04"
-  },
-  {
-    "id": 8,
-    "orig_id": 1969,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_analogy",
-    "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
-    "question": "उस विकल्प का चयन करें जो उपमा (एनालॉजी) को सबसे अच्छी तरह पूर्ण करता है।\nD : W :: H : S :: F : ?",
-    "options": {
-      "A": "W",
-      "B": "V",
-      "C": "U",
-      "D": "T"
-    },
-    "correct": "A",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "मुख्य तथ्य / नियम / सूत्र: विपरीत अक्षर युग्म (Opposite Letter Pairs - Sum = 27):\n• स्टेप-बाय-स्टेप हल:\n• D (4) + W (23) = 27 (विपरीत वर्ण)\n• H (8) + S (19) = 27 (विपरीत वर्ण)\n• F (6) का विपरीत वर्ण = 27 - 6 = 21 = U\n(नोट: विपरीत अक्षर नियम से उत्तर U बनता है; बोर्ड कुंजी में (A) W अंकित था।)",
-      "exam_tips": "A-Z, B-Y, C-X, D-W, E-V, F-U, G-T, H-S याद रखने योग्य विपरीत युग्म हैं।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_analogy_04"
-  },
-  {
-    "id": 9,
-    "orig_id": 2069,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_analogy",
-    "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
-    "question": "सादृश्य (एनालॉजी) को पूरा कीजिए:\nDF : GI :: EJ : ?",
-    "options": {
-      "A": "FK",
-      "B": "HM",
-      "C": "GL",
-      "D": "DH"
-    },
-    "correct": "C",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "मुख्य तथ्य / नियम / सूत्र: अक्षर सादृश्यता (+3 फॉरवर्ड शिफ्ट):\n• स्टेप-बाय-स्टेप हल:\n• D (4) + 3 = G (7)\n• F (6) + 3 = I (9) ⇒ DF : GI\n• इसी प्रकार EJ के लिए:\n• E (5) + 3 = H (8)\n• J (10) + 3 = M (13)\n• तार्किक कूट = HM (विकल्प B)\n(नोट: +3 शिफ्ट से HM बनता है; बोर्ड की मूल कुंजी में (C) GL चिह्नित था।)",
-      "exam_tips": "दोनों अक्षरों में समान संख्या (+3) जोड़ी गई है।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_analogy_04"
-  },
-  {
-    "id": 10,
-    "orig_id": 2222,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_analogy",
-    "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
-    "question": "शृंखला को पूर्ण करें:\nPINE : RKPG :: MANGO : ?",
-    "options": {
-      "A": "OCQIP",
-      "B": "OCPIP",
-      "C": "OCQJO",
-      "D": "OCPIQ"
-    },
-    "correct": "A",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "मुख्य तथ्य / नियम / सूत्र: वर्णमाला फॉरवर्ड कोडिंग (+2 शिफ्ट):\n• स्टेप-बाय-स्टेप हल:\n• P (16) + 2 = R (18)\n• I (9) + 2 = K (11)\n• N (14) + 2 = P (16)\n• E (5) + 2 = G (7) ⇒ PINE : RKPG\n• MANGO पर +2 नियम लागू करने पर:\n• M (13) + 2 = O\n• A (1) + 2 = C\n• N (14) + 2 = P\n• G (7) + 2 = I\n• O (15) + 2 = Q\n• अभीष्ट कूट = OCPIQ (विकल्प D)\n(नोट: +2 शिफ्ट से OCPIQ बनता है; बोर्ड की मूल कुंजी में (A) OCQIP मुद्रित था।)",
-      "exam_tips": "प्रत्येक वर्ण में 2 स्थान आगे बढ़ा जाता है।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_analogy_04"
+    "test_id": "ch_reas_analogy_04"
   }
 ]

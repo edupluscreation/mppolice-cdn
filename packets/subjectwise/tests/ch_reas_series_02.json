@@ -1,11 +1,54 @@
 [
   {
     "id": 1,
-    "orig_id": 870,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
     "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_series",
     "topic": "श्रृंखला एवं लुप्त पद (Series & Missing Terms)",
+    "topic_id": "reas_series",
+    "question": "श्रृंखला में लुप्त पद ज्ञात कीजिए:\nB, H, N, T, ?",
+    "options": {
+      "A": "Y",
+      "B": "Z",
+      "C": "A",
+      "D": "B"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र:\n• प्रत्येक पद में +6 का अंतर है।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• B (2) +6 = H (8), H (8) +6 = N (14), N (14) +6 = T (20)।\n• T (20) +6 = Z (26), अतः विकल्प (B) सही है।",
+      "exam_tips": "+6 का अंतर दिखे तो वर्णमाला को चक्र में घुमाकर देखें।\n• Z के बाद A से पुनः शुरू होता है।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_reas_series_02"
+  },
+  {
+    "id": 2,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+    "subject_code": "REASONING",
+    "topic": "श्रृंखला एवं लुप्त पद (Series & Missing Terms)",
+    "topic_id": "reas_series",
+    "question": "श्रृंखला में लुप्त संख्या ज्ञात कीजिए:\n1, 1, 2, 3, 5, 8, ?",
+    "options": {
+      "A": "9",
+      "B": "10",
+      "C": "11",
+      "D": "13"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र:\n• यह फिबोनाची श्रृंखला है, अगला पद पिछले दो का योग है।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• 1+1 = 2, 1+2 = 3, 2+3 = 5, 3+5 = 8।\n• 5+8 = 13, अतः विकल्प (D) सही है।",
+      "exam_tips": "फिबोनाची प्रकृति में पत्तियों और फूलों में दिखती है।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_reas_series_02"
+  },
+  {
+    "id": 3,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+    "subject_code": "REASONING",
+    "topic": "श्रृंखला एवं लुप्त पद (Series & Missing Terms)",
+    "topic_id": "reas_series",
     "question": "श्रृंखला को पूरा कीजिए:\nC, F, I, L, ?",
     "options": {
       "A": "Q",
@@ -20,15 +63,58 @@
       "exam_tips": "+3 श्रृंखला में वर्णमाला चक्र याद रखें।"
     },
     "difficulty": "Medium",
-    "mock_id": "ch_reas_series_02"
+    "test_id": "ch_reas_series_02"
   },
   {
-    "id": 2,
-    "orig_id": 1077,
+    "id": 4,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
     "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_series",
     "topic": "श्रृंखला एवं लुप्त पद (Series & Missing Terms)",
+    "topic_id": "reas_series",
+    "question": "प्रश्न चिन्ह के स्थान पर क्या आयेगा?\n4, 8, 10, 14, 16, 20, 22, ?",
+    "options": {
+      "A": "26",
+      "B": "24",
+      "C": "28",
+      "D": "29"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र:\n• +4, +2 का वैकल्पिक नियम है।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• 4+4 = 8, +2 = 10, +4 = 14, +2 = 16, +4 = 20, +2 = 22।\n• आधिकारिक कुंजी के अनुसार अगला 24, विकल्प (B) है।\n• नोट: शुद्ध क्रम से +4 लेकर 26 बनता है, परीक्षा में कुंजी को अंतिम मानें।",
+      "exam_tips": "दोहरे अंतर में दोनों क्रम लिखें।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_reas_series_02"
+  },
+  {
+    "id": 5,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+    "subject_code": "REASONING",
+    "topic": "श्रृंखला एवं लुप्त पद (Series & Missing Terms)",
+    "topic_id": "reas_series",
+    "question": "श्रृंखला को पूरा कीजिए:\n1, 9, 65, 457, ?",
+    "options": {
+      "A": "4258",
+      "B": "3125",
+      "C": "3201",
+      "D": "5289"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र:\n• नियम ×7+2 है।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• 1×7+2 = 9, 9×7+2 = 65, 65×7+2 = 457, 457×7+2 = 3201।\n• अतः विकल्प (C) सही है।",
+      "exam_tips": "बड़ी वृद्धि में गुणा नियम देखें।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_reas_series_02"
+  },
+  {
+    "id": 6,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+    "subject_code": "REASONING",
+    "topic": "श्रृंखला एवं लुप्त पद (Series & Missing Terms)",
+    "topic_id": "reas_series",
     "question": "श्रृंखला में लुप्त संख्या ज्ञात कीजिए:\n2, 4, 12, 48, ?",
     "options": {
       "A": "200",
@@ -43,15 +129,14 @@
       "exam_tips": "गुणक बढ़ रहा हो तो क्रम लिखें।"
     },
     "difficulty": "Medium",
-    "mock_id": "ch_reas_series_02"
+    "test_id": "ch_reas_series_02"
   },
   {
-    "id": 3,
-    "orig_id": 1144,
+    "id": 7,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
     "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_series",
     "topic": "श्रृंखला एवं लुप्त पद (Series & Missing Terms)",
+    "topic_id": "reas_series",
     "question": "श्रृंखला में लुप्त पद ज्ञात कीजिए:\nM, K, I, G, ?",
     "options": {
       "A": "F",
@@ -66,15 +151,36 @@
       "exam_tips": "उल्टी वर्णमाला में अंतर देखें।"
     },
     "difficulty": "Medium",
-    "mock_id": "ch_reas_series_02"
+    "test_id": "ch_reas_series_02"
   },
   {
-    "id": 4,
-    "orig_id": 1221,
+    "id": 8,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
     "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_series",
     "topic": "श्रृंखला एवं लुप्त पद (Series & Missing Terms)",
+    "topic_id": "reas_series",
+    "question": "श्रृंखला को पूरा कीजिए:\n2, 3, 5, 8, 12, 17, ?",
+    "options": {
+      "A": "22",
+      "B": "23",
+      "C": "24",
+      "D": "21"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र:\n• अंतर +1, +2, +3, +4, +5, +6 है।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• 17+6 = 23, अतः विकल्प (B) सही है।",
+      "exam_tips": "बढ़ते अंतर में क्रम लिखें।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_reas_series_02"
+  },
+  {
+    "id": 9,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+    "subject_code": "REASONING",
+    "topic": "श्रृंखला एवं लुप्त पद (Series & Missing Terms)",
+    "topic_id": "reas_series",
     "question": "श्रृंख्ला में लुप्त अक्षर ज्ञात कीजिए।\nZ, W, T, Q, N, ?",
     "options": {
       "A": "J",
@@ -89,15 +195,14 @@
       "exam_tips": "उल्टी वर्णमाला में अंतर लिखें।"
     },
     "difficulty": "Medium",
-    "mock_id": "ch_reas_series_02"
+    "test_id": "ch_reas_series_02"
   },
   {
-    "id": 5,
-    "orig_id": 1222,
+    "id": 10,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
     "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_series",
     "topic": "श्रृंखला एवं लुप्त पद (Series & Missing Terms)",
+    "topic_id": "reas_series",
     "question": "श्रृंखला में लुप्त अक्षर ज्ञात कीजिए।\nZ, W, T, Q, N, ?",
     "options": {
       "A": "J",
@@ -112,121 +217,6 @@
       "exam_tips": "उल्टी वर्णमाला में अंतर लिखें।"
     },
     "difficulty": "Medium",
-    "mock_id": "ch_reas_series_02"
-  },
-  {
-    "id": 6,
-    "orig_id": 1226,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_series",
-    "topic": "श्रृंखला एवं लुप्त पद (Series & Missing Terms)",
-    "question": "नीचे दी गई श्रृंखला में प्रश्नवाचक चिह्न (?) के स्थान पर कौन-से अक्षर आएंगे?\nATZ, FOX, KJV, ?, UZR",
-    "options": {
-      "A": "EHT",
-      "B": "THP",
-      "C": "PET",
-      "D": "PTH"
-    },
-    "correct": "B",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "मुख्य तथ्य / नियम / सूत्र:\n• पहला +5, दूसरा -5, तीसरा -2 का नियम है।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• आधिकारिक कुंजी के अनुसार उत्तर THP, विकल्प (B) है।\n• अगले प्रश्न 1227 में उत्तर PET दिया गया है, तुलना देखें।",
-      "exam_tips": "तीनों अक्षरों को अलग-अलग जाँचें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_series_02"
-  },
-  {
-    "id": 7,
-    "orig_id": 1274,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_series",
-    "topic": "श्रृंखला एवं लुप्त पद (Series & Missing Terms)",
-    "question": "श्रृंखला में लुप्त पद ज्ञात कीजिए:\nE, J, O, T, ?",
-    "options": {
-      "A": "V",
-      "B": "W",
-      "C": "X",
-      "D": "Y"
-    },
-    "correct": "D",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "मुख्य तथ्य / नियम / सूत्र:\n• वर्णमाला में +5 के अंतर की श्रृंखला है।\n• E(5), J(10), O(15), T(20) — प्रत्येक 5 आगे है।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• T(20) + 5 = Y(25), अतः विकल्प (D) सही है।\n• V, W, X +5 नियम से मेल नहीं खाते।",
-      "exam_tips": "5 के गुणज (E, J, O, T, Y) याद रखें।\n• अंतर श्रृंखला में पहले अंतर लिखें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_series_02"
-  },
-  {
-    "id": 8,
-    "orig_id": 1350,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_series",
-    "topic": "श्रृंखला एवं लुप्त पद (Series & Missing Terms)",
-    "question": "प्रश्नवाचक चिन्ह (?) के स्थान पर कौन-सी संख्या आएगी?\n4, 9, 19, 39, ?",
-    "options": {
-      "A": "49",
-      "B": "59",
-      "C": "69",
-      "D": "79"
-    },
-    "correct": "D",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "मुख्य तथ्य / नियम / सूत्र:\n• श्रृंखला नियम: प्रत्येक पद अपने पूर्ववर्ती पद के दोगुने से 1 अधिक है अर्थात Tₙ = (2 × Tₙ₋₁) + 1।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• पहला पद = 4\n• दूसरा पद: (4 × 2) + 1 = 8 + 1 = 9\n• तीसरा पद: (9 × 2) + 1 = 18 + 1 = 19\n• चौथा पद: (19 × 2) + 1 = 38 + 1 = 39\n• पाँचवाँ पद: (39 × 2) + 1 = 78 + 1 = 79\n• वैकल्पिक विधि (अंतर का क्रम):\n• 9 - 4 = 5\n• 19 - 9 = 10 (5 × 2)\n• 39 - 19 = 20 (10 × 2)\n• अगला अंतर = 40 (20 × 2)\n• अभीष्ट संख्या = 39 + 40 = 79\n• अतः सही उत्तर (D) 79 है।",
-      "exam_tips": "गुणा और जोड़ वाली मिश्रित श्रृंखलाओं (Mixed Series) में अंतर का अंतर (Double Difference) देखने से पैटर्न तुरंत स्पष्ट हो जाता है।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_series_02"
-  },
-  {
-    "id": 9,
-    "orig_id": 1477,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_series",
-    "topic": "श्रृंखला एवं लुप्त पद (Series & Missing Terms)",
-    "question": "श्रृंखला में लुप्त संख्या का पता लगाइए।\n8, 13, 21, 34, 55, ?, 144",
-    "options": {
-      "A": "85",
-      "B": "84",
-      "C": "86",
-      "D": "89"
-    },
-    "correct": "D",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "मुख्य तथ्य / नियम / सूत्र: यह एक क्लासिक 'फाइबोनैचि श्रृंखला' (Fibonacci Series) है, जिसमें प्रत्येक अगला पद अपने पिछले दो पदों का योग होता है:\nTₙ = Tₙ₋₁ + Tₙ₋₂\n• स्टेप-बाय-स्टेप हल:\n• 8 + 13 = 21\n• 13 + 21 = 34\n• 21 + 34 = 55\n• 34 + 55 = 89 (लुप्त पद)\n• जाँच: 55 + 89 = 144 (अगला पद बिल्कुल सही है)\nअतः सही संख्या 89 है।",
-      "exam_tips": "फाइबोनैचि पैटर्न MP पुलिस कांस्टेबल परीक्षा के रीजनिंग सेक्शन में बार-बार पूछा जाता है।\n• जब पदों के बीच का अंतर पिछली संख्या के बराबर बढ़े, तो तुरंत दो पदों का जोड़ जाँचें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_series_02"
-  },
-  {
-    "id": 10,
-    "orig_id": 1479,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_series",
-    "topic": "श्रृंखला एवं लुप्त पद (Series & Missing Terms)",
-    "question": "शृंखला में लुप्त संख्या का पता लगाइए।\n8, 13, 21, 34, 55, ?, 144",
-    "options": {
-      "A": "85",
-      "B": "84",
-      "C": "86",
-      "D": "89"
-    },
-    "correct": "D",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "मुख्य तथ्य / नियम / सूत्र: फाइबोनैचि अनुक्रम का नियम: प्रत्येक पद पूर्ववर्ती दो पदों का जोड़ होता है।\n• स्टेप-बाय-स्टेप हल:\n• 8 + 13 = 21\n• 13 + 21 = 34\n• 21 + 34 = 55\n• 34 + 55 = 89\n• 55 + 89 = 144",
-      "exam_tips": "यह प्रश्न सेट में दोहराव के रूप में दर्ज है, इसका सही उत्तर विकल्प (D) 89 है।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_series_02"
+    "test_id": "ch_reas_series_02"
   }
 ]

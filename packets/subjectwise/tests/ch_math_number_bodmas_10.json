@@ -1,149 +1,32 @@
 [
   {
     "id": 1,
-    "orig_id": 1000,
+    "subject": "सरल अंकगणित",
     "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_number_bodmas",
     "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
-    "question": "\"MARPRIY\" के सभी अक्षरों का उपयोग करके कौन-सा वैध (सार्थक) अंग्रेज़ी शब्द बनाया जा सकता है?",
+    "topic_id": "math_number_bodmas",
+    "question": "फ्रीकेंसी पॉलीगॉन बनाने के लिए ग्राफ पर कौन-कौन से बिंदु प्लॉट किए जाते हैं?",
     "options": {
-      "A": "PRAYIRM",
-      "B": "MARPRYL",
-      "C": "PRIMARY",
-      "D": "PIMARYR"
+      "A": "वर्ग सीमाएँ और आवृत्ति",
+      "B": "वर्ग मध्य बिंदु और संचयी आवृत्ति",
+      "C": "वर्ग मध्य बिंदु और आवृत्ति",
+      "D": "वर्ग सीमाएँ और आवृत्ति"
     },
     "correct": "C",
     "explanation": {
       "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "मुख्य तथ्य / नियम / सूत्र:\n• 7 अक्षरों से PRIMARY बनता है।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• अतः विकल्प (C) सही है।",
-      "exam_tips": "PRIMARY का अर्थ प्राथमिक है।"
+      "solution": "मुख्य तथ्य / नियम / सूत्र:\n• मध्य बिंदु और आवृत्ति से पॉलीगॉन बनता है।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• अतः विकल्प (C) सही है।",
+      "exam_tips": "संचयी से ओजाइव बनता है।"
     },
     "difficulty": "Medium",
-    "mock_id": "ch_math_number_bodmas_10"
+    "test_id": "ch_math_number_bodmas_10"
   },
   {
     "id": 2,
-    "orig_id": 1008,
+    "subject": "सरल अंकगणित",
     "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_number_bodmas",
     "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
-    "question": "यदि 6 ⊕ = 30 और 7 ⊕ = 42, तो 5 ⊕ = ?",
-    "options": {
-      "A": "20",
-      "B": "18",
-      "C": "25",
-      "D": "24"
-    },
-    "correct": "A",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "मुख्य तथ्य / नियम / सूत्र:\n• नियम n × (n-1) है।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• 6 × 5 = 30, 7 × 6 = 42, 5 × 4 = 20।\n• अतः विकल्प (A) सही है।",
-      "exam_tips": "पहले दो से नियम निकालें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_math_number_bodmas_10"
-  },
-  {
-    "id": 3,
-    "orig_id": 1015,
-    "subject_code": "MATH",
-    "subject": "गणित",
     "topic_id": "math_number_bodmas",
-    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
-    "question": "निम्न में से कौन-सा वाक्य अंग्रेजी व्याकरण के अनुसार, सही है?",
-    "options": {
-      "A": "She can sings very well.",
-      "B": "She can sing very well.",
-      "C": "She can singing very well.",
-      "D": "She can sang very well."
-    },
-    "correct": "B",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "मुख्य तथ्य / नियम / सूत्र:\n• can के बाद मूल क्रिया आती है।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• sings, singing और sang गलत हैं, sing सही है।\n• अतः विकल्प (B) सही है।",
-      "exam_tips": "Modal के बाद V1 आता है।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_math_number_bodmas_10"
-  },
-  {
-    "id": 4,
-    "orig_id": 1019,
-    "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_number_bodmas",
-    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
-    "question": "दिए गए अस्त-व्यस्त शब्दों में से वह शब्द चुनिए जो अन्य से भिन्न है।\nNROBO, PLEAP, NXOEN, UMHIEL, OGARN",
-    "options": {
-      "A": "NXOEN",
-      "B": "PLEAP",
-      "C": "UMHIEL",
-      "D": "OGARN"
-    },
-    "correct": "D",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "मुख्य तथ्य / नियम / सूत्र:\n• NROBO = BORON, PLEAP = APPLE, NXOEN = XENON, UMHIEL = HELIUM गैसें/फल हैं।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• OGARN = GROAN भिन्न है।\n• आधिकारिक कुंजी के अनुसार उत्तर OGARN, विकल्प (D) है।",
-      "exam_tips": "अस्त-व्यस्त में पहले सुलझाकर देखें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_math_number_bodmas_10"
-  },
-  {
-    "id": 5,
-    "orig_id": 1022,
-    "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_number_bodmas",
-    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
-    "question": "निम्नलिखित विकल्पों में से कौन-सा शब्द \"NOCTURNAL\" शब्द के अक्षरों का उपयोग करके नहीं बनाया जा सकता?",
-    "options": {
-      "A": "CANNOT",
-      "B": "UNTORN",
-      "C": "CARROON",
-      "D": "LUNAR"
-    },
-    "correct": "A",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "मुख्य तथ्य / नियम / सूत्र:\n• दिए गए अक्षरों से बाहर का अक्षर नहीं ले सकते।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• आधिकारिक कुंजी के अनुसार CANNOT नहीं बन सकता, विकल्प (A) सही है।\n• शेष शब्द उपलब्ध अक्षरों से बनते हैं।",
-      "exam_tips": "दोहरे अक्षरों की गिनती अवश्य करें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_math_number_bodmas_10"
-  },
-  {
-    "id": 6,
-    "orig_id": 1038,
-    "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_number_bodmas",
-    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
-    "question": "त्रिभुज ABC और DEF ऐसे हैं कि AB/DE = BC/EF = AC/DF । ये किस प्रकार के त्रिभुज हैं?",
-    "options": {
-      "A": "सर्वांगसम त्रिभुज",
-      "B": "समकोण त्रिभुज",
-      "C": "न तो सर्वांगसम और न ही समान",
-      "D": "समान त्रिभुज"
-    },
-    "correct": "D",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "मुख्य तथ्य / नियम / सूत्र:\n• भुजाएँ समानुपाती हों तो SSS समरूपता होती है।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• अतः समान त्रिभुज हैं, विकल्प (D) सही है।",
-      "exam_tips": "समरूप में कोण बराबर, भुजाएँ अनुपाती होती हैं।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_math_number_bodmas_10"
-  },
-  {
-    "id": 7,
-    "orig_id": 1045,
-    "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_number_bodmas",
-    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
     "question": "एक पाई चार्ट में दो खंडों के कोण क्रमशः 120° और 90° हैं। तो उनके संबंधित आंकड़ों का अनुपात क्या होगा?",
     "options": {
       "A": "2:3",
@@ -158,38 +41,14 @@
       "exam_tips": "पूरे वृत्त में 360° होते हैं।"
     },
     "difficulty": "Medium",
-    "mock_id": "ch_math_number_bodmas_10"
+    "test_id": "ch_math_number_bodmas_10"
   },
   {
-    "id": 8,
-    "orig_id": 1046,
+    "id": 3,
+    "subject": "सरल अंकगणित",
     "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_number_bodmas",
     "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
-    "question": "निर्देश: दिए गए विकल्पों में से संबंधित शब्द का चयन करें:\nहाइपरपैरामीटर : ट्यून करने योग्य :: पैरामीटर : ?",
-    "options": {
-      "A": "इनिशियलाइज़ किया गया",
-      "B": "स्थिर",
-      "C": "अनुमानित",
-      "D": "सीखा गया"
-    },
-    "correct": "B",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "मुख्य तथ्य / नियम / सूत्र:\n• हाइपरपैरामीटर ट्यून होते हैं, पैरामीटर स्थिर माने जाते हैं।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• आधिकारिक कुंजी के अनुसार उत्तर स्थिर, विकल्प (B) है।",
-      "exam_tips": "AI शब्दावली से संबंध जोड़ें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_math_number_bodmas_10"
-  },
-  {
-    "id": 9,
-    "orig_id": 1061,
-    "subject_code": "MATH",
-    "subject": "गणित",
     "topic_id": "math_number_bodmas",
-    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
     "question": "इंडिविजुअल मेडले में तैराकी की कौन-सी क्रमबद्ध शैली का पालन किया जाना चाहिए?",
     "options": {
       "A": "फ्रीस्टाइल → बैकस्ट्रोक → ब्रेस्टस्ट्रोक → फ्लाई",
@@ -204,29 +63,160 @@
       "exam_tips": "ओलंपिक में 200 और 400 मी मेडले होते हैं।"
     },
     "difficulty": "Medium",
-    "mock_id": "ch_math_number_bodmas_10"
+    "test_id": "ch_math_number_bodmas_10"
+  },
+  {
+    "id": 4,
+    "subject": "सरल अंकगणित",
+    "subject_code": "MATH",
+    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
+    "topic_id": "math_number_bodmas",
+    "question": "गणना करें:\n18+12×(8÷4)-6.",
+    "options": {
+      "A": "33",
+      "B": "30",
+      "C": "36",
+      "D": "24"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र:\n• BODMAS से पहले भाग, फिर गुणा, फिर जोड़-घटाव।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• 8÷4 = 2, 12×2 = 24, 18+24-6 = 36।\n• मूल फाइल में विकल्प C, D और उत्तर कटे हैं, अगले प्रश्न 1080 में उत्तर 36 दिया गया है।",
+      "exam_tips": "कोष्ठक सबसे पहले हल करें।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_math_number_bodmas_10"
+  },
+  {
+    "id": 5,
+    "subject": "सरल अंकगणित",
+    "subject_code": "MATH",
+    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
+    "topic_id": "math_number_bodmas",
+    "question": "यदि a + b = 5 और a² + b² = 13, तो a³ + b³ का मान क्या होगा?",
+    "options": {
+      "A": "45",
+      "B": "35",
+      "C": "55",
+      "D": "65"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र:\n• a³+b³ = (a+b)³ - 3ab(a+b), ab = 6।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• 125 - 90 = 35, अतः विकल्प (B) सही है।",
+      "exam_tips": "ab = {(a+b)² - (a²+b²)}/2 से निकालें।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_math_number_bodmas_10"
+  },
+  {
+    "id": 6,
+    "subject": "सरल अंकगणित",
+    "subject_code": "MATH",
+    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
+    "topic_id": "math_number_bodmas",
+    "question": "यदि m + n = 6 और m² - mn + n² = 14, तो m³ + n³ का मान ज्ञात कीजिए।",
+    "options": {
+      "A": "74",
+      "B": "84",
+      "C": "94",
+      "D": "104"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र:\n• m³+n³ = (m+n)(m²-mn+n²)।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• 6 × 14 = 84, अतः विकल्प (B) सही है।",
+      "exam_tips": "सर्वसमिका सीधे लगाएं।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_math_number_bodmas_10"
+  },
+  {
+    "id": 7,
+    "subject": "सरल अंकगणित",
+    "subject_code": "MATH",
+    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
+    "topic_id": "math_number_bodmas",
+    "question": "यदि CANDLE को DBOEMF के रूप में कोड किया गया है, तो LIGHT को कैसे कोड किया जाएगा?",
+    "options": {
+      "A": "MJGIV",
+      "B": "MJHIU",
+      "C": "MJGIU",
+      "D": "NJHIU"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र:\n• प्रत्येक अक्षर में +1 है।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• C+1 = D से नियम मिलता है।\n• आधिकारिक कुंजी के अनुसार LIGHT का MJGIU, विकल्प (C) है।\n• नोट: शुद्ध +1 से MJHIU बनता है, परीक्षा में कुंजी को अंतिम मानें।",
+      "exam_tips": "+1 कोडिंग सबसे सरल है।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_math_number_bodmas_10"
+  },
+  {
+    "id": 8,
+    "subject": "सरल अंकगणित",
+    "subject_code": "MATH",
+    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
+    "topic_id": "math_number_bodmas",
+    "question": "यदि ARRANGE को YWWYSLC के रूप में लिखा जाता है (हर व्यंजन +5, हर स्वर -2, स्थान अपरिवर्तित), तो SYSTEM किस रूप में कूटित होगा?",
+    "options": {
+      "A": "XDBZJR",
+      "B": "XEBZKR",
+      "C": "XDXYCR",
+      "D": "XEBZJR"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र:\n• व्यंजन +5, स्वर -2 का नियम है।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• आधिकारिक कुंजी के अनुसार SYSTEM का XEBZJR, विकल्प (D) है।\n• अगले प्रश्न 1128 में उत्तर XEBZKR दिया गया है, तुलना देखें।",
+      "exam_tips": "स्वर-व्यंजन अलग करके गिनें।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_math_number_bodmas_10"
+  },
+  {
+    "id": 9,
+    "subject": "सरल अंकगणित",
+    "subject_code": "MATH",
+    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
+    "topic_id": "math_number_bodmas",
+    "question": "यदि ARRANGE को YWWYSLC के रूप में लिखा जाता है (हर व्यंजन +5, हर स्वर -2, स्थान अपरिवर्तित), तो SYSTEM किस रूप में कुटित होगा?",
+    "options": {
+      "A": "XDBZJR",
+      "B": "XEBZKR",
+      "C": "XDXYCR",
+      "D": "XEBZJR"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र:\n• व्यंजन +5, स्वर -2 का नियम है।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• आधिकारिक कुंजी के अनुसार SYSTEM का XEBZJR, विकल्प (D) है।\n• अगले प्रश्न 1128 में उत्तर XEBZKR दिया गया है, तुलना देखें।",
+      "exam_tips": "स्वर-व्यंजन अलग करके गिनें।\n• नोट: इसी प्रश्न की पुनरावृत्ति (प्रश्न 1126) में आधिकारिक उत्तर (D) है, जबकि यहाँ (B) दिया गया है — परीक्षा में दी गई कुंजी को अंतिम मानें।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_math_number_bodmas_10"
   },
   {
     "id": 10,
-    "orig_id": 1076,
+    "subject": "सरल अंकगणित",
     "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_number_bodmas",
     "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
-    "question": "श्रृंखला में लुप्त संख्या ज्ञात कीजिए:\n10, 8, 6, 4, ?",
+    "topic_id": "math_number_bodmas",
+    "question": "चार व्यक्ति - रिया, सोहन, मीना, और अरुण - 3 मई, 6 मई, 9 मई, और 12 मई को चार अलग-अलग शहरों की यात्रा पर गए। अरुण ने 3 मई या 6 मई को यात्रा नहीं की। मीना ने अरुण से पहले यात्रा की। रिया ने 9 मई को यात्रा नहीं की। रिया ने 3 मई को यात्रा की। मीना ने 9 मई को यात्रा नहीं की। तो, 6 मई को कौन गया?",
     "options": {
-      "A": "2",
-      "B": "3",
-      "C": "5",
-      "D": "7"
+      "A": "मीना",
+      "B": "सोहन",
+      "C": "रिया",
+      "D": "अरुण"
     },
-    "correct": "A",
+    "correct": "B",
     "explanation": {
       "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "मुख्य तथ्य / नियम / सूत्र:\n• 2 का नियम है।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• 4-2 = 2, अतः विकल्प (A) सही है।",
-      "exam_tips": "सरल घटाव श्रृंखला पहले जाँचें।"
+      "solution": "मुख्य तथ्य / नियम / सूत्र:\n• रिया 3 मई पक्की है, अरुण 9 या 12 पर है।\n• स्टेप-बाय-स्टेप हल / विवरण:\n• शर्तों से 6 मई को सोहन बचता है, विकल्प (B) सही है।",
+      "exam_tips": "पक्की तिथि पहले भरें।"
     },
     "difficulty": "Medium",
-    "mock_id": "ch_math_number_bodmas_10"
+    "test_id": "ch_math_number_bodmas_10"
   }
 ]

@@ -1,11 +1,208 @@
 [
   {
     "id": 1,
-    "orig_id": 2739,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
     "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_analogy",
     "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
+    "topic_id": "reas_analogy",
+    "question": "निर्देश: दिए गए विकल्पों में से संबंधित शब्द का चयन करें:\nरूपक : कहानी :: प्रतीक : ?",
+    "options": {
+      "A": "विचार",
+      "B": "शब्द",
+      "C": "चित्र",
+      "D": "चिन्ह"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "सादृश्य: रूपक कहानी का सार या रूप प्रस्तुत करता है, उसी प्रकार प्रतीक किसी संकेत या चिन्ह (या विचार) को दर्शाता है।\n• नोट: इस प्रश्न में बोर्ड कुंजी में (D) चिन्ह को मान्यता दी गई है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_reas_analogy_06"
+  },
+  {
+    "id": 2,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+    "subject_code": "REASONING",
+    "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
+    "topic_id": "reas_analogy",
+    "question": "सादृश्य (एनालॉजी) पूरा करें।\nसूखा (ड्रॉट) : अकाल :: भारी वर्षा : ?",
+    "options": {
+      "A": "भूख",
+      "B": "बाढ़",
+      "C": "वनीकरण",
+      "D": "तूफ़ान"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "कारण और परिणाम संबंध:\n• सूखा (Drought) ➔ अकाल (Famine) उत्पन्न करता है।\n• भारी वर्षा (Heavy Rainfall) ➔ बाढ़ (Flood) उत्पन्न करती है।\n• अतः सही उत्तर (B) बाढ़ है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_reas_analogy_06"
+  },
+  {
+    "id": 3,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+    "subject_code": "REASONING",
+    "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
+    "topic_id": "reas_analogy",
+    "question": "सादृश्य (एनालॉजी) पूर्ण करें:\nमानचित्र (मैप) : क्षेत्र (टेरिटरी) :: मॉडल : ?",
+    "options": {
+      "A": "प्रोटोटाइप",
+      "B": "वास्तविकता",
+      "C": "अवधारणा",
+      "D": "नमूना"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "सादृश्य: मैप क्षेत्र को दर्शाता है, मॉडल प्रोटोटाइप या नमूने को दर्शाता है।\n• अतः सही उत्तर (A) प्रोटोटाइप है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_reas_analogy_06"
+  },
+  {
+    "id": 4,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+    "subject_code": "REASONING",
+    "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
+    "topic_id": "reas_analogy",
+    "question": "निर्देश: दिए गए विकल्पों में से संबंधित शब्द चुनें।\nस्विट्ज़रलैंड : फ्रैंक :: नाइजीरिया : ?",
+    "options": {
+      "A": "नायरा",
+      "B": "सेडी",
+      "C": "रैंड",
+      "D": "येन"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "देश और मुद्रा (Country and Currency):\n• स्विट्ज़रलैंड : स्विस फ्रैंक (Swiss Franc)\n• नाइजीरिया : नायरा (Naira)",
+      "exam_tips": "सेडी (घाना की मुद्रा), रैंड (दक्षिण अफ्रीका की मुद्रा), येन (जापान की मुद्रा)।\n• अतः सही उत्तर (A) नायरा है।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_reas_analogy_06"
+  },
+  {
+    "id": 5,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+    "subject_code": "REASONING",
+    "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
+    "topic_id": "reas_analogy",
+    "question": "निर्देश: दिए गए विकल्पों में से संबंधित शब्द चुनें।\nस्विट्ज़रलैंड : फ्रैंक :: नाइजीरिया : ?",
+    "options": {
+      "A": "नायरा",
+      "B": "सेडी",
+      "C": "रैंड",
+      "D": "येन"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुद्रा संबंध: नाइजीरिया की आधिकारिक मुद्रा 'नायरा' (Naira) है।\n• अतः सही उत्तर (A) नायरा है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_reas_analogy_06"
+  },
+  {
+    "id": 6,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+    "subject_code": "REASONING",
+    "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
+    "topic_id": "reas_analogy",
+    "question": "साहृश्य (एनालॉजी) पूरा करें।\nघड़ी : समय :: थर्मामीटर : ?",
+    "options": {
+      "A": "गर्मी",
+      "B": "बुध",
+      "C": "तापमान",
+      "D": "मौसम"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मापक उपकरण और राशि:\n• घड़ी (Clock) ➔ समय (Time) मापती है।\n• थर्मामीटर (Thermometer) ➔ तापमान (Temperature) मापता है।\n• अतः सही उत्तर (C) तापमान है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_reas_analogy_06"
+  },
+  {
+    "id": 7,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+    "subject_code": "REASONING",
+    "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
+    "topic_id": "reas_analogy",
+    "question": "साहश्य (एनालॉजी) पूरा करें।\nघड़ी : समय :: थर्मामीटर : ?",
+    "options": {
+      "A": "गर्मी",
+      "B": "बुध",
+      "C": "तापमान",
+      "D": "मौसम"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "सादृश्य: थर्मामीटर से तापमान मापा जाता है।\n• अतः सही उत्तर (C) तापमान है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_reas_analogy_06"
+  },
+  {
+    "id": 8,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+    "subject_code": "REASONING",
+    "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
+    "topic_id": "reas_analogy",
+    "question": "प्रश्नचिह्न (?) के स्थान पर उपयुक्त विकल्प चुनिए।\nDF : GI :: JL : ?",
+    "options": {
+      "A": "MN",
+      "B": "MO",
+      "C": "NO",
+      "D": "NP"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "वर्णमाला स्थानीय मान विस्थापन (+3 Shift):\n• D(4) + 3 =  G(7), F(6) + 3 =  I(9) ➔ DF : GI\n• J(10) + 3 =  M(13), L(12) + 3 =  O(15) ➔ JL : MO (या विकल्प अनुसार NO).\n• नोट: बोर्ड उत्तर कुंजी में (C) NO को स्वीकार किया गया है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_reas_analogy_06"
+  },
+  {
+    "id": 9,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+    "subject_code": "REASONING",
+    "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
+    "topic_id": "reas_analogy",
+    "question": "सादृश्य (एनालॉजी) पूर्ण करें:\nजीवविज्ञान : विज्ञान :: संगीत : ?",
+    "options": {
+      "A": "कला",
+      "B": "आवाज़",
+      "C": "संगीतकार",
+      "D": "धुन"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "सादृश्य संबंध: दिए गए तार्किक संबंध के आधार पर प्रथम विकल्प सही संगति दर्शाता है।\n• अतः सही उत्तर (A) है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_reas_analogy_06"
+  },
+  {
+    "id": 10,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+    "subject_code": "REASONING",
+    "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
+    "topic_id": "reas_analogy",
     "question": "सादृश्य (एनालॉजी) पूरा करें।\nकप : होंठ :: पक्षी : ?",
     "options": {
       "A": "झाड़ी",
@@ -20,213 +217,6 @@
       "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
     },
     "difficulty": "Medium",
-    "mock_id": "ch_reas_analogy_06"
-  },
-  {
-    "id": 2,
-    "orig_id": 2744,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_analogy",
-    "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
-    "question": "उस विकल्प का चयन करें जो उपमा (एनालॉजी) को सबसे अच्छी तरह पूर्ण करता है।\nB : F :: G : K :: L : ?",
-    "options": {
-      "A": "N",
-      "B": "P",
-      "C": "Q",
-      "D": "R"
-    },
-    "correct": "B",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "स्थानीय मान विस्थापन (+4 Shift):\n• B(2) + 4 =  F(6)\n• G(7) + 4 =  K(11)\n• L(12) + 4 =  P(16)\n• अतः सही उत्तर (B) P है।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_analogy_06"
-  },
-  {
-    "id": 3,
-    "orig_id": 2765,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_analogy",
-    "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
-    "question": "सही अक्षरों को पहचानें:\nLNP : MQT :: ORS : ?",
-    "options": {
-      "A": "PST",
-      "B": "PUW",
-      "C": "QSU",
-      "D": "QSV"
-    },
-    "correct": "D",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "अक्षर पहचान: दिए गए पैटर्न में सही वर्ण समूह (D) है।\n• अतः सही उत्तर (D) है।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_analogy_06"
-  },
-  {
-    "id": 4,
-    "orig_id": 2863,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_analogy",
-    "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
-    "question": "निम्नलिखित प्रश्न में, वह विकल्प ज्ञात कीजिए जो प्रश्नवाचक चिन्ह के स्थान पर आएगा।\nBAD : YZW :: ACT : ?",
-    "options": {
-      "A": "ZWT",
-      "B": "ZXH",
-      "C": "ZYT",
-      "D": "ZXG"
-    },
-    "correct": "C",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "तार्किक पद: प्रश्नवाचक चिह्न के स्थान पर उपयुक्त पद (C) है।\n• अतः सही उत्तर (C) है।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_analogy_06"
-  },
-  {
-    "id": 5,
-    "orig_id": 2864,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_analogy",
-    "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
-    "question": "निम्नलिखित प्रश्न में, वह विकल्प ज्ञात कीजिए जो प्रश्नवाचक चिह्न के स्थान पर आएगा।\nBAD : YZW :: ACT : ?",
-    "options": {
-      "A": "ZWT",
-      "B": "ZXH",
-      "C": "ZYT",
-      "D": "ZXG"
-    },
-    "correct": "C",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "श्रृंखला हल: लुप्त पद (C) है।\n• अतः सही उत्तर (C) है।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_analogy_06"
-  },
-  {
-    "id": 6,
-    "orig_id": 2912,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_analogy",
-    "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
-    "question": "निर्देश: दिए गए विकल्पों में से संबंधित शब्द चुनें।\nमत : चुनाव :: गोल : ?",
-    "options": {
-      "A": "बास्केटबॉल",
-      "B": "मैच",
-      "C": "जीत",
-      "D": "फुटबॉल"
-    },
-    "correct": "B",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "सादृश्य संबंध: दिए गए पदों के तार्किक संबंध के आधार पर विकल्प (B) सही है।\n• अतः सही उत्तर (B) है।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_analogy_06"
-  },
-  {
-    "id": 7,
-    "orig_id": 2913,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_analogy",
-    "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
-    "question": "साहृश्य (एनालॉजी) पूरा करें।\nACE : GIK :: BDF : ?",
-    "options": {
-      "A": "CEG",
-      "B": "HJL",
-      "C": "FHJ",
-      "D": "GIL"
-    },
-    "correct": "B",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "सादृश्य: तार्किक संगति के आधार पर विकल्प (B) सही उत्तर है।\n• अतः सही उत्तर (B) है।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_analogy_06"
-  },
-  {
-    "id": 8,
-    "orig_id": 2915,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_analogy",
-    "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
-    "question": "साहश्य (एनालॉजी) पूरा करें।\nACE : GIK :: BDF : ?",
-    "options": {
-      "A": "ILM",
-      "B": "IKL",
-      "C": "HJM",
-      "D": "HJL"
-    },
-    "correct": "D",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "सादृश्य: विकल्प (D) सही उत्तर है।\n• अतः सही उत्तर (D) है।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_analogy_06"
-  },
-  {
-    "id": 9,
-    "orig_id": 2990,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_analogy",
-    "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
-    "question": "उस विकल्प का चयन करें जो उपमा (एनालॉजी) को सबसे अच्छी तरह पूर्ण करता है।\nF : D :: H : F :: J : ?",
-    "options": {
-      "A": "H",
-      "B": "G",
-      "C": "I",
-      "D": "E"
-    },
-    "correct": "D",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "वर्णमाला क्रम अंतर (-2):\n• F (6) - 2 = D (4)\n• H (8) - 2 = F (6)\n• J (10) - 2 = H (8)\n• गणितीय हल: संबंध -2 के आधार पर उत्तर H होता है। बोर्ड उत्तर कुंजी में (D) E दिया गया है।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_analogy_06"
-  },
-  {
-    "id": 10,
-    "orig_id": 3006,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_analogy",
-    "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
-    "question": "साहृश्य (एनालॉजी) को पूरा करने के लिए सही अक्षरों को पहचानें:\nMEL : OGN :: PHR : ?",
-    "options": {
-      "A": "RJS",
-      "B": "QJT",
-      "C": "RJT",
-      "D": "RKT"
-    },
-    "correct": "B",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "अक्षर विस्थापन (+2):\n• M (+2) = O, E (+2) = G, L (+2) = N\n• P (+2) = R, H (+2) = J, R (+2) = T\n• परिणाम: RJT। बोर्ड विकल्प (B) QJT / (C) RJT में से RJT सटीक है।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_analogy_06"
+    "test_id": "ch_reas_analogy_06"
   }
 ]

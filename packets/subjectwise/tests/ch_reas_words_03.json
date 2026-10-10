@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+    "subject_code": "REASONING",
+    "topic": "शब्द निर्माण एवं शब्दकोश (Words & Dictionary)",
+    "topic_id": "reas_words",
+    "question": "शब्दकोश में सबसे अंत में कौन-सा शब्द आता है?\nLATEST, LATER, LATEX, LATITUDE",
+    "options": {
+      "A": "LATEST",
+      "B": "LATER",
+      "C": "LATEX",
+      "D": "LATITUDE"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: शब्दकोश क्रम में अंतिम शब्द (Alphabetical Order - Last Word):\nशब्दों के पहले भिन्न होने वाले अक्षर के वर्णमाला क्रम की तुलना करना।\n• 📝 स्टेप-बाय-स्टेप हल:\n1. दिए गए शब्द: LATER, LATEST, LATEX, LATITUDE\n2. सभी शब्दों में पहले तीन अक्षर 'LAT' समान हैं।\n3. चौथे अक्षर की तुलना:\n• LATER में चौथा अक्षर 'E' है।\n• LATEST में चौथा अक्षर 'E' है।\n• LATEX में चौथा अक्षर 'E' है।\n• LATITUDE में चौथा अक्षर 'I' है।\n4. अंग्रेजी वर्णमाला में 'I', 'E' के बाद आता है।\n5. 'E' वाले सभी शब्द (LATER, LATEST, LATEX) पहले समाप्त हो जाएंगे और 'I' वाला शब्द 'LATITUDE' सबसे अंत में आएगा।\n6. अतः शब्दकोश में सबसे अंत में आने वाला शब्द 'LATITUDE' है।\n7. सही विकल्प (D) LATITUDE है।\n• 💡",
+      "exam_tips": "संपूर्ण क्रम: LATER (1st) → LATEST (2nd) → LATEX (3rd) → LATITUDE (4th/अंतिम)।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_reas_words_03"
+  },
+  {
+    "id": 2,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+    "subject_code": "REASONING",
+    "topic": "शब्द निर्माण एवं शब्दकोश (Words & Dictionary)",
+    "topic_id": "reas_words",
+    "question": "दिए गए शब्दों में से उस शब्द का चयन करें जिसे दिए गए शब्द के अक्षरों का उपयोग करके नहीं बनाया जा सकता है।\nPREACHER",
+    "options": {
+      "A": "RECAP",
+      "B": "PARCH",
+      "C": "PEACH",
+      "D": "CARES"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: शब्द न बनने का परीक्षण (Negative Word Formation Test):\nमूल शब्द PREACHER में अक्षरों की उपस्थिति की जांच।\n• 📝 स्टेप-बाय-स्टेप हल:\n1. मूल शब्द: P R E A C H E R\nउपलब्ध अक्षर: P(1), R(2), E(2), A(1), C(1), H(1)\n2. विकल्प (D) CARES की जांच:\nC - A - R - E - S\n3. शब्द CARES में 'S' अक्षर की आवश्यकता है, जबकि PREACHER में कहीं भी 'S' अक्षर नहीं है।\n4. अतः CARES शब्द नहीं बनाया जा सकता।\n5. सही विकल्प (D) CARES है।\n• 💡",
+      "exam_tips": "अनुपस्थित अक्षर 'S' तुरंत विकल्प (D) को सही उत्तर सिद्ध करता है।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_reas_words_03"
+  },
+  {
+    "id": 3,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+    "subject_code": "REASONING",
+    "topic": "शब्द निर्माण एवं शब्दकोश (Words & Dictionary)",
+    "topic_id": "reas_words",
+    "question": "दिए गए विकल्पों में से उस शब्द को चुनिए जिसे दिए गए शब्द के अक्षरों का उपयोग करके बनाया जा सकता है।\nमूल शब्द: INSTITUTION",
+    "options": {
+      "A": "STATION",
+      "B": "MOTION",
+      "C": "NATION",
+      "D": "Tuition"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: शब्द रचना (Word Formation):\nमूल शब्द INSTITUTION में उपलब्ध अक्षर: I(3), N(2), S(1), T(3), U(1), O(1)।\n• 📝 स्टेप-बाय-स्टेप हल:\n1. TUITION में आवश्यक अक्षर: T(2), U(1), I(2), O(1), N(1)।\n2. ये सभी अक्षर INSTITUTION में पर्याप्त संख्या में उपलब्ध हैं।\n3. अन्य विकल्पों में 'A' या 'M' जैसे अक्षर हैं जो मूल शब्द में अनुपस्थित हैं।\n4. अतः सही विकल्प (D) Tuition है।\n• 💡",
+      "exam_tips": "शब्द निर्माण में अनुपस्थित अक्षरों को तुरंत छांटकर सही उत्तर पाया जा सकता है।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_reas_words_03"
+  },
+  {
+    "id": 4,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+    "subject_code": "REASONING",
+    "topic": "शब्द निर्माण एवं शब्दकोश (Words & Dictionary)",
+    "topic_id": "reas_words",
+    "question": "दिए गए शब्दों को उस क्रम में व्यवस्थित कीजिए जिसमें वे शब्दकोश में आते हैं।\n1. Eagle\n2. Earth\n3. East\n4. Easy\n5. Early",
+    "options": {
+      "A": "15234",
+      "B": "12534",
+      "C": "15324",
+      "D": "51234"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: शब्दकोश क्रम (Dictionary Order):\nअक्षरों के वर्णमाला क्रम की तुलना।\n• 📝 स्टेप-बाय-स्टेप हल:\n1. सभी शब्द 'Ea' से शुरू होते हैं।\n2. तीसरा अक्षर देखें:\n• 1. Eagle ('g') -> सबसे पहले (1)\n• 5. Early ('r', चौथा 'l') -> दूसरा (5)\n• 2. Earth ('r', चौथा 't') -> तीसरा (2)\n• 3. East ('s', चौथा 't') -> चौथा (3)\n• 4. Easy ('s', चौथा 'y') -> पांचवां (4)\n3. सही क्रम: 1, 5, 2, 3, 4 (15234)।\n4. अतः सही विकल्प (A) 15234 है।\n• 💡",
+      "exam_tips": "Early में 'l' Earth के 't' से पहले आता है, इसलिए 5 पहले और 2 बाद में आएगा।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_reas_words_03"
+  },
+  {
+    "id": 5,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+    "subject_code": "REASONING",
+    "topic": "शब्द निर्माण एवं शब्दकोश (Words & Dictionary)",
+    "topic_id": "reas_words",
+    "question": "उन शब्दों का सही क्रम चुनें जो दिये गए शब्दों के सही क्रम को दर्शाते हैं जैसा कि वे अंग्रेजी शब्दकोश में दिखाई देंगे।\n1. Temple\n2. Temperature\n3. Temporary\n4. Tempest\n5. Temptation",
+    "options": {
+      "A": "2, 1, 4, 3, 5",
+      "B": "2, 4, 3, 1, 5",
+      "C": "2, 4, 1, 3, 5",
+      "D": "1, 2, 4, 3, 5"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: अंग्रेजी शब्दकोश क्रम (Alphabetical Ordering):\nप्रारंभिक उभयनिष्ठ अक्षरों के बाद के वर्णों की तुलना।\n• 📝 स्टेप-बाय-स्टेप हल:\n1. सभी शब्द 'Temp' से शुरू होते हैं।\n2. पांचवें अक्षर की तुलना:\n• Temperature ('e', छठा 'r', सातवां 'a') -> सबसे पहले (2)\n• Tempest ('e', छठा 's') -> दूसरा (4)\n• Temple ('l') -> तीसरा (1)\n• Temporary ('o') -> चौथा (3)\n• Temptation ('t') -> पांचवां (5)\n3. क्रम बनता है: 2, 4, 1, 3, 5\n4. अतः सही विकल्प (C) 2, 4, 1, 3, 5 है।\n• 💡",
+      "exam_tips": "e < l < o < t के आधार पर शब्दों की स्थिति निर्धारित होती है।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_reas_words_03"
+  },
+  {
+    "id": 6,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+    "subject_code": "REASONING",
+    "topic": "शब्द निर्माण एवं शब्दकोश (Words & Dictionary)",
+    "topic_id": "reas_words",
+    "question": "उस सही विकल्प का चयन करें जो दिए गए शब्दों को अंग्रेजी शब्दकोश में उनके क्रम के अनुसार व्यवस्थित करता है।\n1. Bright\n2. Brick\n3. Bridge\n4. Bribe\n5. Brilliant\n6. Bring",
+    "options": {
+      "A": "4, 3, 2, 1, 5, 6",
+      "B": "4, 2, 3, 1, 5, 6",
+      "C": "2, 4, 3, 1, 5, 6",
+      "D": "4, 2, 1, 3, 5, 6"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: शब्दकोश क्रम (Alphabetical Order):\nसभी शब्द 'Bri' से शुरू होते हैं।\n• 📝 स्टेप-बाय-स्टेप हल:\n1. चौथे अक्षर की तुलना:\n• 4. Bribe ('b') -> 1st\n• 2. Brick ('c', 5th 'k') -> 2nd\n• 3. Bridge ('d') -> 3rd\n• 1. Bright ('g') -> 4th\n• 5. Brilliant ('l') -> 5th\n• 6. Bring ('n') -> 6th\n2. सही क्रम: 4, 2, 3, 1, 5, 6\n3. अतः सही विकल्प (B) 4, 2, 3, 1, 5, 6 है।\n• 💡",
+      "exam_tips": "वर्णमाला क्रम: b < c < d < g < l < n।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_reas_words_03"
+  },
+  {
+    "id": 7,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+    "subject_code": "REASONING",
+    "topic": "शब्द निर्माण एवं शब्दकोश (Words & Dictionary)",
+    "topic_id": "reas_words",
+    "question": "निम्नलिखित विकल्पों में से उस एक शब्द को चुनिए जिसे \"PNEUMONIA\" शब्द के अक्षरों का उपयोग करके नहीं बनाया जा सकता।",
+    "options": {
+      "A": "NAME",
+      "B": "PIANOS",
+      "C": "MOON",
+      "D": "OPEN"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: शब्द निर्माण एवं अनुपस्थित वर्ण (Word Formation):\nमूल शब्द \"PNEUMONIA\" में उपलब्ध अक्षर: P, N(2), E, U, M, O, I, A।\n• 📝 स्टेप-बाय-स्टेप हल:\n1. शब्द PIANOS में अक्षर 'S' शामिल है।\n2. मूल शब्द PNEUMONIA में 'S' अक्षर कहीं भी उपस्थित नहीं है।\n3. अतः PIANOS नहीं बनाया जा सकता।\n4. सही विकल्प (B) PIANOS है।\n• 💡",
+      "exam_tips": "अनुपस्थित अक्षरों की शीघ्र पहचान से ऐसे प्रश्न सीधे हल होते हैं।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_reas_words_03"
+  },
+  {
+    "id": 8,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+    "subject_code": "REASONING",
+    "topic": "शब्द निर्माण एवं शब्दकोश (Words & Dictionary)",
+    "topic_id": "reas_words",
+    "question": "निम्नलिखित विकल्पों में से कौन-सा शब्द \"CONGRATULATIONS\" शब्द के अक्षरों का उपयोग करके बनाया जा सकता है?",
+    "options": {
+      "A": "GROAN",
+      "B": "CONSENT",
+      "C": "DANGER",
+      "D": "NATIONHOOD"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: अक्षरों की उपलब्धता:\nमूल शब्द CONGRATULATIONS में G, R, O, A, N सभी अक्षर उपस्थित हैं।\n• 📝 स्टेप-बाय-स्टेप हल:\n1. GROAN के अक्षर: G(उपलब्ध), R(उपलब्ध), O(उपलब्ध), A(उपलब्ध), N(उपलब्ध)।\n2. विकल्प (B) में 'E', (C) में 'E', (D) में 'H' और 'D' अनुपस्थित हैं।\n3. अतः केवल GROAN बनाया जा सकता है।\n4. सही विकल्प (A) GROAN है।\n• 💡",
+      "exam_tips": "शब्द के प्रत्येक अक्षर की आवृत्ति की तुलना करें।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_reas_words_03"
+  },
+  {
+    "id": 9,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+    "subject_code": "REASONING",
+    "topic": "शब्द निर्माण एवं शब्दकोश (Words & Dictionary)",
+    "topic_id": "reas_words",
+    "question": "दिए गए अंग्रेजी शब्दों को उस क्रम में व्यवस्थित करें जिस क्रम में वे अंग्रेजी शब्दकोश में आते हैं।\n1. Magnet\n2. Magnum\n3. Magic\n4. Magnolia\n5. Magnify",
+    "options": {
+      "A": "3, 1, 4, 5, 2",
+      "B": "3, 1, 5, 4, 2",
+      "C": "1, 3, 5, 4, 2",
+      "D": "3, 5, 1, 4, 2"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: शब्दकोश क्रम (Dictionary Order):\nसभी शब्द 'Mag' से प्रारंभ होते हैं।\n• 📝 स्टेप-बाय-स्टेप हल:\n1. चौथे अक्षर की तुलना:\n• 3. Magic ('i') -> सबसे पहले (3)\n• 1. Magnet ('n', 5th 'e') -> दूसरा (1)\n• 5. Magnify ('n', 5th 'i') -> तीसरा (5)\n• 4. Magnolia ('n', 5th 'o') -> चौथा (4)\n• 2. Magnum ('n', 5th 'u') -> पांचवां (2)\n2. सही क्रम: 3, 1, 5, 4, 2\n3. अतः सही विकल्प (B) 3, 1, 5, 4, 2 है।\n• 💡",
+      "exam_tips": "वर्णमाला क्रम: i < ne < ni < no < nu।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_reas_words_03"
+  },
+  {
+    "id": 10,
+    "subject": "बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+    "subject_code": "REASONING",
+    "topic": "शब्द निर्माण एवं शब्दकोश (Words & Dictionary)",
+    "topic_id": "reas_words",
+    "question": "\"R, A, C, E\" के सभी अक्षरों का प्रयोग करके कौन-सा सार्थक शब्द बनाया जा सकता है?",
+    "options": {
+      "A": "CARE",
+      "B": "RAEC",
+      "C": "CERA",
+      "D": "CEAR"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम: अक्षरों के पुनर्संयोजन से सार्थक अंग्रेजी शब्द निर्माण।\n• 📝 स्टेप-बाय-स्टेप हल:\n• अक्षर: R, A, C, E\n• विकल्पों में:\n• CARE (देखभाल/परवाह) एक पूर्णतः मान्य और अर्थपूर्ण अंग्रेजी शब्द है।\n• अन्य कोई भी विकल्प शब्दकोश में मान्य शब्द नहीं है।\n• 💡",
+      "exam_tips": "RACE और CARE एक-दूसरे के अनाग्राम (Anagrams) हैं।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_reas_words_03"
+  }
+]

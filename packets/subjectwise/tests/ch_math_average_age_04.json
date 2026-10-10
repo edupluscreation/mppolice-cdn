@@ -1,11 +1,32 @@
 [
   {
     "id": 1,
-    "orig_id": 3727,
+    "subject": "सरल अंकगणित",
     "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_average_age",
     "topic": "औसत एवं आयु संबंधी प्रश्न (Average & Ages)",
+    "topic_id": "math_average_age",
+    "question": "दो मित्रों A और B की वर्तमान आयु का अनुपात 2:3 है। चार साल पहले, उनकी आयु का अनुपात 5:8 था। वर्तमान में B की आयु कितनी है?",
+    "options": {
+      "A": "30 वर्ष",
+      "B": "32 वर्ष",
+      "C": "34 वर्ष",
+      "D": "36 वर्ष"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "आयु अनुपात गणना:\n• माना वर्तमान आयु A = 2x, B = 3x\n• 4 वर्ष पहले: (2x - 4) / (3x - 4) = 5 / 8\n• 8(2x - 4) = 5(3x - 4) ⇒ 16x - 32 = 15x - 20 ⇒ x = 12\n• वर्तमान में B की आयु = 3x = 3 × 12 = 36 वर्ष।\n• बोर्ड उत्तर कुंजी: बोर्ड ने विकल्प (B) 32 वर्ष को दर्ज किया है। गणितीय समीकरण से B की वास्तविक आयु 36 वर्ष (D) आती है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_math_average_age_04"
+  },
+  {
+    "id": 2,
+    "subject": "सरल अंकगणित",
+    "subject_code": "MATH",
+    "topic": "औसत एवं आयु संबंधी प्रश्न (Average & Ages)",
+    "topic_id": "math_average_age",
     "question": "A और B की आयु का अनुपात 7:5 है। 10 साल पहले उनकी आयु का योग 40 वर्ष था। B की वर्तमान आयु क्या है?",
     "options": {
       "A": "25 वर्ष",
@@ -20,15 +41,14 @@
       "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
     },
     "difficulty": "Medium",
-    "mock_id": "ch_math_average_age_04"
+    "test_id": "ch_math_average_age_04"
   },
   {
-    "id": 2,
-    "orig_id": 3744,
+    "id": 3,
+    "subject": "सरल अंकगणित",
     "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_average_age",
     "topic": "औसत एवं आयु संबंधी प्रश्न (Average & Ages)",
+    "topic_id": "math_average_age",
     "question": "पाँच क्रमागत विषम संख्याओं का औसत 35 है। इन संख्याओं में सबसे छोटी संख्या क्या है?",
     "options": {
       "A": "31",
@@ -43,15 +63,14 @@
       "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
     },
     "difficulty": "Medium",
-    "mock_id": "ch_math_average_age_04"
+    "test_id": "ch_math_average_age_04"
   },
   {
-    "id": 3,
-    "orig_id": 3776,
+    "id": 4,
+    "subject": "सरल अंकगणित",
     "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_average_age",
     "topic": "औसत एवं आयु संबंधी प्रश्न (Average & Ages)",
+    "topic_id": "math_average_age",
     "question": "A और B की आयु का अनुपात 3:4 है और 5 वर्ष बाद यह अनुपात 4:5 हो जाता है।\nA की वर्तमान आयु क्या है?",
     "options": {
       "A": "24",
@@ -66,15 +85,14 @@
       "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
     },
     "difficulty": "Medium",
-    "mock_id": "ch_math_average_age_04"
+    "test_id": "ch_math_average_age_04"
   },
   {
-    "id": 4,
-    "orig_id": 3812,
+    "id": 5,
+    "subject": "सरल अंकगणित",
     "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_average_age",
     "topic": "औसत एवं आयु संबंधी प्रश्न (Average & Ages)",
+    "topic_id": "math_average_age",
     "question": "3 दोस्तों की औसत आयु 12 वर्ष है। उनकी कुल आयु कितनी है?",
     "options": {
       "A": "34 वर्ष",
@@ -89,15 +107,14 @@
       "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
     },
     "difficulty": "Medium",
-    "mock_id": "ch_math_average_age_04"
+    "test_id": "ch_math_average_age_04"
   },
   {
-    "id": 5,
-    "orig_id": 3817,
+    "id": 6,
+    "subject": "सरल अंकगणित",
     "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_average_age",
     "topic": "औसत एवं आयु संबंधी प्रश्न (Average & Ages)",
+    "topic_id": "math_average_age",
     "question": "कक्षा के 20 लड़कों की औसत आयु 15 वर्ष है। यदि शिक्षक की आयु को भी शामिल किया जाए, तो औसत आयु 1 वर्ष बढ़ जाती है। शिक्षक की आयु क्या है?",
     "options": {
       "A": "36 वर्ष",
@@ -112,15 +129,14 @@
       "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
     },
     "difficulty": "Medium",
-    "mock_id": "ch_math_average_age_04"
+    "test_id": "ch_math_average_age_04"
   },
   {
-    "id": 6,
-    "orig_id": 3853,
+    "id": 7,
+    "subject": "सरल अंकगणित",
     "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_average_age",
     "topic": "औसत एवं आयु संबंधी प्रश्न (Average & Ages)",
+    "topic_id": "math_average_age",
     "question": "8 पुरुषों की औसत आयु 2 वर्ष बढ़ जाती है जब उनमें से एक, जिसकी आयु 30 वर्ष है, को एक नए पुरुष से बदल दिया जाता है। नए पुरुष की आयु क्या है?",
     "options": {
       "A": "44",
@@ -135,15 +151,14 @@
       "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
     },
     "difficulty": "Medium",
-    "mock_id": "ch_math_average_age_04"
+    "test_id": "ch_math_average_age_04"
   },
   {
-    "id": 7,
-    "orig_id": 3947,
+    "id": 8,
+    "subject": "सरल अंकगणित",
     "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_average_age",
     "topic": "औसत एवं आयु संबंधी प्रश्न (Average & Ages)",
+    "topic_id": "math_average_age",
     "question": "50 छात्रों के स्कोर का औसत 40 है। यदि दो छात्र जिनके स्कोर 20 और 30 हैं, हटा दिए जाएं, तो शेष 48 छात्रों का नया औसत क्या होगा?",
     "options": {
       "A": "≈ 40.6",
@@ -158,15 +173,14 @@
       "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
     },
     "difficulty": "Medium",
-    "mock_id": "ch_math_average_age_04"
+    "test_id": "ch_math_average_age_04"
   },
   {
-    "id": 8,
-    "orig_id": 3988,
+    "id": 9,
+    "subject": "सरल अंकगणित",
     "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_average_age",
     "topic": "औसत एवं आयु संबंधी प्रश्न (Average & Ages)",
+    "topic_id": "math_average_age",
     "question": "A और B की आयु का अनुपात 4 : 5 है। आठ वर्ष पहले, उनकी आयु का अनुपात 2 : 3 था। A की वर्तमान आयु क्या है?",
     "options": {
       "A": "12 वर्ष",
@@ -181,15 +195,14 @@
       "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
     },
     "difficulty": "Medium",
-    "mock_id": "ch_math_average_age_04"
+    "test_id": "ch_math_average_age_04"
   },
   {
-    "id": 9,
-    "orig_id": 3989,
+    "id": 10,
+    "subject": "सरल अंकगणित",
     "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_average_age",
     "topic": "औसत एवं आयु संबंधी प्रश्न (Average & Ages)",
+    "topic_id": "math_average_age",
     "question": "एक क्रिकेट टीम के 15 खिलाड़ियों की औसत आयु 22 वर्ष है। यदि कोच की आयु भी शामिल कर ली जाए, तो औसत आयु 23 वर्ष हो जाती है। कोच की आयु क्या है?",
     "options": {
       "A": "35 वर्ष",
@@ -204,29 +217,6 @@
       "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
     },
     "difficulty": "Medium",
-    "mock_id": "ch_math_average_age_04"
-  },
-  {
-    "id": 10,
-    "orig_id": 4103,
-    "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_average_age",
-    "topic": "औसत एवं आयु संबंधी प्रश्न (Average & Ages)",
-    "question": "30 छात्रों और एक शिक्षक की एक कक्षा की औसत आयु 16 वर्ष है। यदि शिक्षक की आयु 46 वर्ष है, तो छात्रों की औसत आयु क्या है?",
-    "options": {
-      "A": "15 वर्ष",
-      "B": "16 वर्ष",
-      "C": "17 वर्ष",
-      "D": "18 वर्ष"
-    },
-    "correct": "A",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य सूत्र: कुल आयु = औसत आयु × व्यक्तियों की संख्या।\n• 📝 स्टेप-बाय-स्टेप हल:\n• कुल व्यक्ति = 30 छात्र + 1 शिक्षक = 31 लोग।\n• 31 लोगों की कुल आयु = 31 × 16 = 496 वर्ष।\n• शिक्षक की आयु = 46 वर्ष।\n• 30 छात्रों की कुल आयु = 496 - 46 = 450 वर्ष।\n• छात्रों की औसत आयु = 450 / 30 = 15 वर्ष।\n• 💡",
-      "exam_tips": "विचलन विधि (Deviation Method): शिक्षक की अतिरिक्त आयु = 46 - 16 = 30 वर्ष। यह 30 वर्ष 30 छात्रों में बंटने से औसत 1 कम होकर 16 - 1 = 15 वर्ष हो जाएगा।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_math_average_age_04"
+    "test_id": "ch_math_average_age_04"
   }
 ]

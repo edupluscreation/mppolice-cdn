@@ -1,11 +1,54 @@
 [
   {
     "id": 1,
-    "orig_id": 4428,
+    "subject": "सरल अंकगणित",
     "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_profit_loss",
     "topic": "लाभ-हानि एवं बट्टा (Profit, Loss & Discount)",
+    "topic_id": "math_profit_loss",
+    "question": "एक लैपटॉप का अंकित मूल्य 50,000 रुपए है और उस पर 12% की छूट दी गई है। विक्रय मूल्य क्या होगा?",
+    "options": {
+      "A": "Rs 45,000",
+      "B": "Rs 44,000",
+      "C": "Rs 44,500",
+      "D": "Rs 43,000"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य सूत्र: SP = MP × (100 - छूट%) / 100।\n• 📝 स्टेप-बाय-स्टेप हल:\n• अंकित मूल्य (MP) = ₹50,000\n• छूट राशि = 50,000 का 12% = 500 × 12 = ₹6,000\n• विक्रय मूल्य = 50,000 - 6,000 = ₹44,000।\n• 💡",
+      "exam_tips": "SP = 50,000 × 0.88 = ₹44,000।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_math_profit_loss_08"
+  },
+  {
+    "id": 2,
+    "subject": "सरल अंकगणित",
+    "subject_code": "MATH",
+    "topic": "लाभ-हानि एवं बट्टा (Profit, Loss & Discount)",
+    "topic_id": "math_profit_loss",
+    "question": "एक व्यापारी एक वस्तु को 25% हानि पर बेचता है। यदि वह उसे ₹60 अधिक में बेचता, तो उसे 10% लाभ होता। क्रय मूल्य ज्ञात कीजिए।",
+    "options": {
+      "A": "₹211.4",
+      "B": "₹221.4",
+      "C": "₹171.4",
+      "D": "₹181.4"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / सूत्र:\n• यदि क्रय मूल्य (CP) = 100% हो:\n• 25% हानि पर विक्रय मूल्य = 75%\n• 10% लाभ पर विक्रय मूल्य = 110%\n• दोनों विक्रय मूल्यों में अंतर = 110% - 75% = 35%\n• 📝 स्टेप-बाय-स्टेप हल:\n• 35% = ₹60\n• वास्तविक क्रय मूल्य (100%) = (60 / 35) × 100 = 6000 / 35 = 1200 / 7 ≈ ₹171.43 (अर्थात ₹171.4, विकल्प C)।\n• 💡",
+      "exam_tips": "नोट (आधिकारिक उत्तर कुंजी): बोर्ड की आधिकारिक उत्तर कुंजी में विकल्प (B) ₹221.4 दिया गया है, जो प्रिंटिंग/गणना त्रुटि है। गणितीय रूप से शुद्ध मान ₹171.4 (विकल्प C) है।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_math_profit_loss_08"
+  },
+  {
+    "id": 3,
+    "subject": "सरल अंकगणित",
+    "subject_code": "MATH",
+    "topic": "लाभ-हानि एवं बट्टा (Profit, Loss & Discount)",
+    "topic_id": "math_profit_loss",
     "question": "एक जोड़ी जूते की अंकित कीमत ₹500 है लेकिन इसे ₹450 में बेचा गया। छूट का प्रतिशत क्या था?",
     "options": {
       "A": "8%",
@@ -20,15 +63,14 @@
       "exam_tips": "छूट हमेशा अंकित मूल्य (Marked Price) पर ही दी जाती है।"
     },
     "difficulty": "Medium",
-    "mock_id": "ch_math_profit_loss_08"
+    "test_id": "ch_math_profit_loss_08"
   },
   {
-    "id": 2,
-    "orig_id": 4527,
+    "id": 4,
+    "subject": "सरल अंकगणित",
     "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_profit_loss",
     "topic": "लाभ-हानि एवं बट्टा (Profit, Loss & Discount)",
+    "topic_id": "math_profit_loss",
     "question": "एक दुकानदार 15% की छूट देने के बाद एक मेज़ 425 Rs में बेचता है। मेज़ की अंकित कीमत क्या थी?",
     "options": {
       "A": "480 Rs",
@@ -43,15 +85,14 @@
       "exam_tips": "जांच: 500 का 15% = 75 → 500 - 75 = 425 (सत्यापित)।"
     },
     "difficulty": "Medium",
-    "mock_id": "ch_math_profit_loss_08"
+    "test_id": "ch_math_profit_loss_08"
   },
   {
-    "id": 3,
-    "orig_id": 4528,
+    "id": 5,
+    "subject": "सरल अंकगणित",
     "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_profit_loss",
     "topic": "लाभ-हानि एवं बट्टा (Profit, Loss & Discount)",
+    "topic_id": "math_profit_loss",
     "question": "एक वस्तु की अंकित कीमत 700 Rs है। यदि 30% की छूट दी जाती है, तो विक्रय मूल्य क्या होगा?",
     "options": {
       "A": "480 Rs",
@@ -66,15 +107,14 @@
       "exam_tips": "30% छूट का अर्थ है वस्तु को अंकित मूल्य के 70% मूल्य पर बेचना।"
     },
     "difficulty": "Medium",
-    "mock_id": "ch_math_profit_loss_08"
+    "test_id": "ch_math_profit_loss_08"
   },
   {
-    "id": 4,
-    "orig_id": 4566,
+    "id": 6,
+    "subject": "सरल अंकगणित",
     "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_profit_loss",
     "topic": "लाभ-हानि एवं बट्टा (Profit, Loss & Discount)",
+    "topic_id": "math_profit_loss",
     "question": "यदि 20 पेनों का क्रय मूल्य 16 पेनों के विक्रय मूल्य के बराबर है, तो लाभ प्रतिशत क्या है?",
     "options": {
       "A": "20%",
@@ -89,15 +129,14 @@
       "exam_tips": "लाभ या हानि हमेशा विक्रय की गई वस्तुओं की संख्या (y) पर आकलित की जाती है।"
     },
     "difficulty": "Medium",
-    "mock_id": "ch_math_profit_loss_08"
+    "test_id": "ch_math_profit_loss_08"
   },
   {
-    "id": 5,
-    "orig_id": 4636,
+    "id": 7,
+    "subject": "सरल अंकगणित",
     "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_profit_loss",
     "topic": "लाभ-हानि एवं बट्टा (Profit, Loss & Discount)",
+    "topic_id": "math_profit_loss",
     "question": "एक विक्रेता 2500 रुपए अंकित मूल्य वाली साड़ी पर दो क्रमिक छूट देता है - पहले 10% और फिर 15%। विक्रय मूल्य क्या होगा?",
     "options": {
       "A": "Rs 1915.60",
@@ -112,15 +151,14 @@
       "exam_tips": "समतुल्य एकल छूट = 10 + 15 - (10×15)/100 = 25 - 1.5 = 23.5%।"
     },
     "difficulty": "Medium",
-    "mock_id": "ch_math_profit_loss_08"
+    "test_id": "ch_math_profit_loss_08"
   },
   {
-    "id": 6,
-    "orig_id": 4639,
+    "id": 8,
+    "subject": "सरल अंकगणित",
     "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_profit_loss",
     "topic": "लाभ-हानि एवं बट्टा (Profit, Loss & Discount)",
+    "topic_id": "math_profit_loss",
     "question": "एक किराने की वस्तु की कीमत 80 रुपए है और उस पर 25% की छूट दी गई है। विक्रय मूल्य क्या होगा?",
     "options": {
       "A": "Rs 58",
@@ -135,15 +173,14 @@
       "exam_tips": "80 × 0.75 = 60 सीधे मौखिक रूप से हल किया जा सकता है।"
     },
     "difficulty": "Medium",
-    "mock_id": "ch_math_profit_loss_08"
+    "test_id": "ch_math_profit_loss_08"
   },
   {
-    "id": 7,
-    "orig_id": 4735,
+    "id": 9,
+    "subject": "सरल अंकगणित",
     "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_profit_loss",
     "topic": "लाभ-हानि एवं बट्टा (Profit, Loss & Discount)",
+    "topic_id": "math_profit_loss",
     "question": "एक वस्तु को लागत मूल्य से 25% अधिक पर अंकित किया गया है। यदि उस पर 12% की छूट दी जाती है, तो लागत मूल्य पर लाभ या हानि प्रतिशत क्या होगा?",
     "options": {
       "A": "10% लाभ",
@@ -158,15 +195,14 @@
       "exam_tips": "नोट (आधिकारिक उत्तर कुंजी): बोर्ड की कुंजी में विकल्प (D) 13% लाभ दिया गया है (सीधे 25 - 12 = 13 घटाने की त्रुटि के कारण)। शुद्ध गणितीय मान 10% लाभ है।"
     },
     "difficulty": "Medium",
-    "mock_id": "ch_math_profit_loss_08"
+    "test_id": "ch_math_profit_loss_08"
   },
   {
-    "id": 8,
-    "orig_id": 4858,
+    "id": 10,
+    "subject": "सरल अंकगणित",
     "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_profit_loss",
     "topic": "लाभ-हानि एवं बट्टा (Profit, Loss & Discount)",
+    "topic_id": "math_profit_loss",
     "question": "एक वस्तु को क्रमशः 10%, 20% और 30% की तीन छूटों के साथ बेचा जाता है। समतुल्य एकल छूट क्या है?",
     "options": {
       "A": "49.60%",
@@ -181,52 +217,6 @@
       "exam_tips": "क्रमिक छूटों का योग (10+20+30=60%) कभी भी समतुल्य छूट नहीं होता; वास्तविक छूट 49.60% है।"
     },
     "difficulty": "Medium",
-    "mock_id": "ch_math_profit_loss_08"
-  },
-  {
-    "id": 9,
-    "orig_id": 4982,
-    "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_profit_loss",
-    "topic": "लाभ-हानि एवं बट्टा (Profit, Loss & Discount)",
-    "question": "एक व्यक्ति 36 बैग ₹3600 में बेचता है, जिससे उसे 20% की हानि होती है। ₹2400 में 20% लाभ कमाने के लिए उसे कितने बैग बेचने चाहिए?",
-    "options": {
-      "A": "12",
-      "B": "16",
-      "C": "18",
-      "D": "20"
-    },
-    "correct": "B",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / लाभ और हानि मूल्य प्रति वस्तु:\n• 1 बैग का विक्रय मूल्य = 3600 / 36 = ₹100\n• 20% हानि पर क्रय मूल्य = 100 / 0.80 = ₹125\n• 📝 20% लाभ पर विक्रय मूल्य:\n• नया विक्रय मूल्य = 125 × 1.20 = ₹150 प्रति बैग।\n• ₹2400 में बेचे जाने वाले बैग = 2400 / 150 = 16 बैग।\n• 💡",
-      "exam_tips": "व्यक्ति को ₹2400 में 16 बैग बेचने होंगे।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_math_profit_loss_08"
-  },
-  {
-    "id": 10,
-    "orig_id": 4983,
-    "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_profit_loss",
-    "topic": "लाभ-हानि एवं बट्टा (Profit, Loss & Discount)",
-    "question": "आकांक्षा एक वस्तु को पूर्ण बाजार मूल्य पर बेचकर लागत मूल्य का कितने प्रतिशत लाभ कमाती है, यदि वह छूट न दे?",
-    "options": {
-      "A": "40%",
-      "B": "45%",
-      "C": "48%",
-      "D": "50%"
-    },
-    "correct": "C",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / अंकित मूल्य और लाभ प्रतिशत:\n• क्रय मूल्य और अंकित मूल्य के अनुपात के आधार पर लाभ की गणना।\n• 💡",
-      "exam_tips": "बोर्ड उत्तर कुंजी अनुसार लाभ 48% (विकल्प C) है।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_math_profit_loss_08"
+    "test_id": "ch_math_profit_loss_08"
   }
 ]

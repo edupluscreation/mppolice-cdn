@@ -1,232 +1,222 @@
 [
   {
     "id": 1,
-    "orig_id": 5164,
+    "subject": "सरल अंकगणित",
     "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_number_bodmas",
     "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
-    "question": "इस समीकरण को सही करने के लिए कौन-से दो गणितीय चिन्हों को बदला जाना चाहिए?\n16 + 4 ÷ 2 - 3 = 5",
+    "topic_id": "math_number_bodmas",
+    "question": "\"एक क्लर्क दो संख्याएँ लिखता है: 10 और 20। उनका औसत क्या है?\"",
     "options": {
-      "A": "+ और -",
-      "B": "× और ÷",
-      "C": "+ और ×",
-      "D": "÷ और +"
+      "A": "12",
+      "B": "15",
+      "C": "18",
+      "D": "20"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम: दो संख्याओं का समांतर माध्य: औसत = (a + b) / 2।\n• 📝 स्टेप-बाय-स्टेप हल:\n• दी गई संख्याएं: 10 और 20\n• औसत = (10 + 20) / 2 = 30 / 2 = 15\n• 💡",
+      "exam_tips": "दो संख्याओं का औसत ठीक उनके मध्य में स्थित होता है।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_math_number_bodmas_64"
+  },
+  {
+    "id": 2,
+    "subject": "सरल अंकगणित",
+    "subject_code": "MATH",
+    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
+    "topic_id": "math_number_bodmas",
+    "question": "सबसे छोटा धनात्मक पूर्णांक कौन-सा है, जो 14, 21 और 28 सभी से विभाजित होता है?",
+    "options": {
+      "A": "84",
+      "B": "126",
+      "C": "168",
+      "D": "196"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम: लघुत्तम समापवर्त्य (LCM) - वह सबसे छोटी संख्या जो दी गई सभी संख्याओं से पूर्णतः विभाज्य हो।\n• 📝 स्टेप-बाय-स्टेप हल:\n• 14 = 2 × 7\n• 21 = 3 × 7\n• 28 = 2² × 7\n• LCM = 2² × 3 × 7 = 4 × 21 = 84\n• 84, 14 से (84/14 = 6), 21 से (84/21 = 4) और 28 से (84/28 = 3) सभी से विभाजित होता है।\n• 💡",
+      "exam_tips": "सबसे बड़ी संख्या 28 के गुणजों (28, 56, 84...) की जांच करके LCM तेजी से निकाला जा सकता है।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_math_number_bodmas_64"
+  },
+  {
+    "id": 3,
+    "subject": "सरल अंकगणित",
+    "subject_code": "MATH",
+    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
+    "topic_id": "math_number_bodmas",
+    "question": "वह पता चुनें जो नीचे दिए गए पते के समान हो।\nD-14, New Friends Colony,\nSouth Delhi,\nDelhi - 110065",
+    "options": {
+      "A": "D-14, New Friends Colony, South Delhi, Delhi - 10065",
+      "B": "D-14, New Friends Colony, South Delhi, Uttar Pradesh - 110056",
+      "C": "D-14, New Friends Colony, South Delhi, Delhi - 110065",
+      "D": "D#14, New Friends Colony, South Delhi, Delhi - 110065"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम: लिपिकीय अभिरुचि (Clerical Aptitude) - वर्ण-दर-वर्ण सटीक मिलान।\n• 📝 स्टेप-बाय-स्टेप हल:\n• मूल पता: \"D-14, New Friends Colony, South Delhi, Delhi - 110065\"\n• विकल्प (A) में पिनकोड 10065 (गलत) है।\n• विकल्प (B) में राज्य Uttar Pradesh और पिनकोड 110056 (गलत) है।\n• विकल्प (D) में D#14 (गलत विराम चिह्न) है।\n• विकल्प (C) मूल पते के साथ शत-प्रतिशत समान है।\n• 💡",
+      "exam_tips": "पिन कोड, कॉमा, हाइफ़न और स्पेलिंग को अत्यंत सावधानीपूर्वक जांचना चाहिए।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_math_number_bodmas_64"
+  },
+  {
+    "id": 4,
+    "subject": "सरल अंकगणित",
+    "subject_code": "MATH",
+    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
+    "topic_id": "math_number_bodmas",
+    "question": "एक मशीन इनपुट-आउटपुट परीक्षण में हर चरण में संख्याओं को बढ़ते क्रम में व्यवस्थित करती है।\nअगर इनपुट है: \"5 7 3 9 1\" तो अंतिम आउटपुट में तीसरी संख्या क्या होगी?",
+    "options": {
+      "A": "3",
+      "B": "5",
+      "C": "7",
+      "D": "9"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम: मशीन इनपुट-आउटपुट (Machine Input-Output) - आरोही क्रम व्यवस्था।\n• 📝 स्टेप-बाय-स्टेप हल:\n• इनपुट: 5, 7, 3, 9, 1\n• बढ़ते (आरोही) क्रम में पूर्ण पुनर्व्यवस्था:\n• 1, 3, 5, 7, 9\n• बाएँ से तीसरी संख्या 5 (विकल्प B) होती है।\n• व्यापम कुंजी अंतर: बोर्ड उत्तर कुंजी में विकल्प (C) 7 दिया गया था (संभवतः दाईं ओर से तीसरी संख्या या घटते क्रम के मध्य पद के आधार पर)।\n• 💡",
+      "exam_tips": "आरोही क्रम में सबसे छोटी संख्या पहले और सबसे बड़ी संख्या अंत में आती है।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_math_number_bodmas_64"
+  },
+  {
+    "id": 5,
+    "subject": "सरल अंकगणित",
+    "subject_code": "MATH",
+    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
+    "topic_id": "math_number_bodmas",
+    "question": "एक मशीन इनपुट-आउटपुट परीक्षण में हर चरण में संख्याओं को बढ़ते क्रम में व्यवस्थित करती है।\nअगर इनपुट है: \"5 7 3 9 1\" तो अंतिम आउटपुट में तीसरी संख्या क्या होगी?",
+    "options": {
+      "A": "3",
+      "B": "5",
+      "C": "7",
+      "D": "9"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम: मशीन इनपुट सॉर्टिंग।\n• 📝 स्टेप-बाय-स्टेप हल:\n• संख्याओं को क्रमबद्ध करने पर 1, 3, 5, 7, 9 बनता है।\n• बोर्ड द्वारा विकल्प (C) 7 को उत्तर मान्य किया गया।\n• 💡",
+      "exam_tips": "इनपुट-आउटपुट प्रश्नों में मशीन के अंतिम चरण का पैटर्न देखा जाता है।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_math_number_bodmas_64"
+  },
+  {
+    "id": 6,
+    "subject": "सरल अंकगणित",
+    "subject_code": "MATH",
+    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
+    "topic_id": "math_number_bodmas",
+    "question": "नीचे दिए गए शब्दों को एक वाक्य के रूप में सही तरीके से व्यवस्थित करें:\nWords/शब्द:- book / the / interesting / is / very",
+    "options": {
+      "A": "The book is very interesting.",
+      "B": "Very interesting is the book.",
+      "C": "Is very interesting the book.",
+      "D": "The very book interesting is"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम: अंग्रेजी वाक्य संरचना: Subject + Helping Verb + Adverb + Adjective।\n• 📝 स्टेप-बाय-स्टेप हल:\n• Subject = The book\n• Verb = is\n• Adverb = very\n• Adjective = interesting\n• सही वाक्य: \"The book is very interesting.\"\n• 💡",
+      "exam_tips": "'Very' एक इंटेंसिफायर (Adverb) है जो Adjective (interesting) से ठीक पहले आता है।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_math_number_bodmas_64"
+  },
+  {
+    "id": 7,
+    "subject": "सरल अंकगणित",
+    "subject_code": "MATH",
+    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
+    "topic_id": "math_number_bodmas",
+    "question": "नीचे दिए गए प्रश्न में, वाक्य को 5-6 हिस्सों में तोड़ा गया है। आपको इन हिस्सों को सही क्रम में जोड़कर एक सही और सार्थक वाक्य बनाना है।\nParts / भाग: 1. speak 2. chance 3. everyone 4. got 5. to 6. the",
+    "options": {
+      "A": "625143",
+      "B": "346512",
+      "C": "346251",
+      "D": "321465"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम: अंग्रेजी वाक्य संयोजन (Sentence Reordering)।\n• 📝 स्टेप-बाय-स्टेप हल:\n• कर्ता: 3 (Everyone)\n• क्रिया: 4 (got)\n• कर्म: 6 (the) 2 (chance)\n• इंफिनिटिव: 5 (to) 1 (speak)\n• पूर्ण वाक्य: \"Everyone got the chance to speak.\"\n• संख्या क्रम: 3 - 4 - 6 - 2 - 5 - 1 (विकल्प C)।\n• 💡",
+      "exam_tips": "'Chance to speak' एक मानक संज्ञा-क्रिया संयोजन है।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_math_number_bodmas_64"
+  },
+  {
+    "id": 8,
+    "subject": "सरल अंकगणित",
+    "subject_code": "MATH",
+    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
+    "topic_id": "math_number_bodmas",
+    "question": "निम्नलिखित विकल्पों में से कौन-सा विकल्प मुख्य शब्द में न पाए जाने वाले एक अतिरिक्त अक्षर का उपयोग करता है?\nLANGUAGE",
+    "options": {
+      "A": "GANG",
+      "B": "GAUGE",
+      "C": "GLUE",
+      "D": "ANGER"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम: अक्षरों की उपस्थिति विश्लेषण।\n• 📝 स्टेप-बाय-स्टेप हल:\n• LANGUAGE में L, A, N, G, U, A, G, E मौजूद हैं।\n• व्यापम कुंजी अंतर: बोर्ड उत्तर कुंजी में विकल्प (B) GAUGE को मान्य किया गया था (यद्यपि ANGER में 'R' अनुपस्थित है)।\n• 💡",
+      "exam_tips": "विकल्प परीक्षण में अक्षरों के दोहराव को भी ध्यान में रखा जाता है।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_math_number_bodmas_64"
+  },
+  {
+    "id": 9,
+    "subject": "सरल अंकगणित",
+    "subject_code": "MATH",
+    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
+    "topic_id": "math_number_bodmas",
+    "question": "A, B, और C ने एक व्यवसाय में क्रमशः 20,000 रुपए, 30,000 रुपए, और 50,000 रुपए निवेश किए। 4 महीनों के बाद, B ने अपने निवेश में 20,000 रुपए और जोड़े। यदि एक वर्ष के अंत में कुल लाभ 60,000 रुपए है, तो B का लगभग हिस्सा कितना होगा?",
+    "options": {
+      "A": "Rs 18,000",
+      "B": "Rs 22,941",
+      "C": "Rs 24,321",
+      "D": "Rs 30,000"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम: साझेदारी में लाभ का अनुपात = (पूंजी × समयावधि) का अनुपात।\n• 📝 स्टेप-बाय-स्टेप हल:\n• A का प्रभावी निवेश = 20,000 × 12 = 2,40,000\n• B का प्रभावी निवेश = (30,000 × 4) + (50,000 × 8) = 1,20,000 + 4,00,000 = 5,20,000\n• C का प्रभावी निवेश = 50,000 × 12 = 6,00,000\n• अनुपात (A : B : C) = 24 : 52 : 60 = 6 : 13 : 15\n• अनुपाती योग = 6 + 13 + 15 = 34\n• B का लाभ में हिस्सा = 60,000 × (13 / 34)\n• = 7,80,000 / 34 ≈ ₹22,941.18 (विकल्प B)\n• 💡",
+      "exam_tips": "निवेश में बदलाव होने पर प्रत्येक अवधि की पूंजी को अलग-अलग गुणा करके जोड़ा जाता है।"
+    },
+    "difficulty": "Medium",
+    "test_id": "ch_math_number_bodmas_64"
+  },
+  {
+    "id": 10,
+    "subject": "सरल अंकगणित",
+    "subject_code": "MATH",
+    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
+    "topic_id": "math_number_bodmas",
+    "question": "12 कर्मचारियों का औसत मासिक वेतन 30,000 रुपए है। यदि एक कर्मचारी जिसका वेतन 40,000 रुपए है, नौकरी छोड़ देता है, तो नया औसत वेतन क्या होगा?",
+    "options": {
+      "A": "Rs 29,200",
+      "B": "Rs 28,032",
+      "C": "Rs 29,000",
+      "D": "Rs 29,091"
     },
     "correct": "D",
     "explanation": {
       "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / चिन्ह विनिमय जांच:\n• ÷ और + को आपस में बदलने पर:\n• 16 ÷ 4 + 2 - 3 = 4 + 2 - 3 = 6 - 3 = 3.\n• बोर्ड उत्तर कुंजी अनुसार विकल्प (D) को सही माना गया है।\n• 💡",
-      "exam_tips": "दोनों चिन्हों की अदला-बदली से संतुलित समीकरण प्राप्त होता है।"
+      "solution": "📌 मुख्य तथ्य / नियम: नया औसत = शेष कुल वेतन / शेष कर्मचारियों की संख्या।\n• 📝 स्टेप-बाय-स्टेप हल:\n• 12 कर्मचारियों का कुल वेतन = 12 × 30,000 = ₹3,60,000\n• 40,000 रुपए वेतन वाले कर्मचारी के जाने के बाद:\n• शेष कुल वेतन = 3,60,000 - 40,000 = ₹3,20,000\n• शेष कर्मचारी = 12 - 1 = 11\n• नया औसत वेतन = 3,20,000 / 11 ≈ ₹29,090.91 (लगभग ₹29,091)\n• अतः सही उत्तर विकल्प (D) Rs 29,091 है।\n• 💡",
+      "exam_tips": "जाने वाले का वेतन औसत से अधिक होने के कारण नया औसत घट जाता है।"
     },
     "difficulty": "Medium",
-    "mock_id": "ch_math_number_bodmas_64"
-  },
-  {
-    "id": 2,
-    "orig_id": 5165,
-    "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_number_bodmas",
-    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
-    "question": "यदि 'Z' का अर्थ है 'जोड़ना', 'X' का अर्थ है 'गुणा करना', 'Y' का अर्थ है 'घटाना', और 'W' का अर्थ है 'भाग देना', तो व्यंजक का मान क्या होगा:\n10 Z 4 X 3 = ?",
-    "options": {
-      "A": "22",
-      "B": "24",
-      "C": "20",
-      "D": "18"
-    },
-    "correct": "A",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / चिन्ह प्रतिस्थापन:\n• 10 + 4 × 3\n• 📝 स्टेप-बाय-स्टेप हल:\n• गुणा: 4 × 3 = 12\n• जोड़: 10 + 12 = 22.\n• 💡",
-      "exam_tips": "मान 22 प्राप्त होता है।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_math_number_bodmas_64"
-  },
-  {
-    "id": 3,
-    "orig_id": 5183,
-    "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_number_bodmas",
-    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
-    "question": "संख्याएँ 12, 16, 20, 24 और 28 का औसत क्या है?",
-    "options": {
-      "A": "18",
-      "B": "19",
-      "C": "20",
-      "D": "22"
-    },
-    "correct": "C",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / समांतर श्रेणी (A.P.) का औसत गुणधर्म:\n• जब पदों के बीच का अंतर समान हो (यहाँ सार्व-अंतर d = 4 है), तो पदों का औसत ठीक मध्य पद (Middle term) होता है।\n• 📝 स्टेप-बाय-स्टेप हल:\n• पद: 12, 16, [20], 24, 28\n• मध्य पद = 20.\n• (वैकल्पिक योग विधि: (12 + 16 + 20 + 24 + 28) / 5 = 100 / 5 = 20)।\n• 💡",
-      "exam_tips": "प्रथम और अंतिम पद का औसत: (12 + 28) / 2 = 40 / 2 = 20।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_math_number_bodmas_64"
-  },
-  {
-    "id": 4,
-    "orig_id": 5187,
-    "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_number_bodmas",
-    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
-    "question": "नीचे दिए गए पते से बिल्कुल मेल खाने वाला पता चुनें:\nB-104, Orchid Meadows,\nBannerghatta Road, Bengaluru,\nKarnataka - 560076",
-    "options": {
-      "A": "B-104, Orchid Meadow, Bannerghatta Road, Bengaluru, Karnataka - 560076",
-      "B": "B-104, Orchid Meadows, Bannerghatta Road, Bengaluru, Karnataka - 560076",
-      "C": "B-104, Orchid Meadows, Bannerghatta Road, Bangalore, Karnataka - 560076",
-      "D": "B-104, Orchid Meadows, Bannerghata Road, Bengaluru, Karnataka - 560076"
-    },
-    "correct": "B",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / पता मिलान (Address Matching) शुद्धता:\n• मूल पते के प्रत्येक अक्षर, वर्तनी और अल्पविराम का मिलान करें।\n• 📝 विकल्पों की जांच:\n• (A) में 'Meadow' एकवचन है (गलत)।\n• (C) में 'Bangalore' लिखा है, 'Bengaluru' नहीं (गलत)।\n• (D) में 'Bannerghata' में एकल 't' है (गलत)।\n• अतः विकल्प (B) शत-प्रतिशत सटीक प्रतिलिपि है।\n• 💡",
-      "exam_tips": "पिनकोड 560076 और दोहरे 'tt' की वर्तनी पर ध्यान दें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_math_number_bodmas_64"
-  },
-  {
-    "id": 5,
-    "orig_id": 5233,
-    "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_number_bodmas",
-    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
-    "question": "मोंटेग्यू-चेम्सफोर्ड सुधार, 1919 (भारत सरकार अधिनियम, 1919) के तहत प्रांतों में किस प्रणाली की शुरुआत की गई थी?",
-    "options": {
-      "A": "पूर्ण स्वतंत्रता",
-      "B": "प्रांतीय स्वायत्तता",
-      "C": "द्वैध शासन (Dyarchy)",
-      "D": "प्रत्यक्ष लोकतंत्र"
-    },
-    "correct": "C",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / मोंटेग्यू-चेम्सफोर्ड सुधार (1919):\n• इस अधिनियम द्वारा प्रांतीय विषयों को दो भागों में बांटा गया:\n• 1. आरक्षित विषय (Reserved Subjects - पुलिस, राजस्व, न्याय) जो गवर्नर की कार्यकारिणी परिषद के अधीन थे।\n• 2. हस्तांतरित विषय (Transferred Subjects - शिक्षा, स्वास्थ्य, स्थानीय स्वशासन) जो भारतीय मंत्रियों को सौंपे गए।\n• इस व्यवस्था को 'द्वैध शासन' (Dyarchy) कहा गया।\n• 💡",
-      "exam_tips": "भारत सरकार अधिनियम 1935 द्वारा प्रांतों में द्वैध शासन समाप्त कर केंद्र में लागू किया गया।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_math_number_bodmas_64"
-  },
-  {
-    "id": 6,
-    "orig_id": 5234,
-    "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_number_bodmas",
-    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
-    "question": "मोंटेग्यू-चेम्सफोर्ड सुधार, 1919 के तहत किस अवधारणा को प्रांतीय स्तर पर लागू किया गया था?",
-    "options": {
-      "A": "केंद्रवाद",
-      "B": "एकात्मक शासन",
-      "C": "द्वैध शासन",
-      "D": "संसदीय सर्वोच्चता"
-    },
-    "correct": "C",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / प्रशासनिक सुधार:\n• प्रांतीय स्तर पर द्वैध शासन प्रणाली।\n• 💡",
-      "exam_tips": "विकल्प (C) सही उत्तर है।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_math_number_bodmas_64"
-  },
-  {
-    "id": 7,
-    "orig_id": 5237,
-    "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_number_bodmas",
-    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
-    "question": "गुप्त काल में भारत आए चीनी बौद्ध यात्री फा-हिएन (Fa-Hien) के भारत आने का मुख्य उद्देश्य क्या था?",
-    "options": {
-      "A": "भारत पर आक्रमण की योजना बनाना",
-      "B": "बौद्ध ग्रंथों और अवशेषों को एकत्र करना",
-      "C": "व्यापारिक संबंध स्थापित करना",
-      "D": "हिंदू धर्म का अध्ययन करना"
-    },
-    "correct": "B",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / फा-हिएन की भारत यात्रा (399-414 ईस्वी):\n• फा-हिएन गुप्त सम्राट चंद्रगुप्त द्वितीय 'विक्रमादित्य' के शासनकाल में स्थल मार्ग से भारत आया।\n• 📝 यात्रा का उद्देश्य:\n• वह प्रामाणिक बौद्ध विनय पिटक (मठवासी नियमों के ग्रंथ) और पवित्र बौद्ध अवशेषों को एकत्र करने भारत आया था।\n• 💡",
-      "exam_tips": "उन्होंने अपने यात्रा वृत्तांत 'फो-क्यो-की' में मालवा की जलवायु को 'विश्व की सर्वश्रेष्ठ जलवायु' बताया था।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_math_number_bodmas_64"
-  },
-  {
-    "id": 8,
-    "orig_id": 5239,
-    "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_number_bodmas",
-    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
-    "question": "चीनी यात्री फा-हिएन मुख्य रूप से किस उद्देश्य से भारत आया था?",
-    "options": {
-      "A": "व्यापार विस्तार",
-      "B": "बौद्ध ग्रंथों और अवशेषों को एकत्र करने",
-      "C": "कूटनीतिक मिशन",
-      "D": "खगोल विज्ञान अध्ययन"
-    },
-    "correct": "B",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / चीनी यात्री का उद्देश्य:\n• मूल बौद्ध धार्मिक ग्रंथों की पांडुलिपियां एकत्र करना।\n• 💡",
-      "exam_tips": "विकल्प (B) सही उत्तर है।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_math_number_bodmas_64"
-  },
-  {
-    "id": 9,
-    "orig_id": 5246,
-    "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_number_bodmas",
-    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
-    "question": "रोहन पहले 3 महीनों में प्रति माह 1500 रुपये का औसत व्यय करता है और अगले महीनों में खर्च करता है। पूरे समय का औसत व्यय क्या है?",
-    "options": {
-      "A": "1600 Rs",
-      "B": "1687.5 Rs",
-      "C": "1700 Rs",
-      "D": "1750 Rs"
-    },
-    "correct": "B",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / भारित औसत व्यय गणना:\n• कुल व्यय को कुल महीनों की संख्या से भाग देने पर औसत प्राप्त होता है।\n• बोर्ड उत्तर कुंजी अनुसार औसत व्यय = Rs 1687.5 (विकल्प B)।\n• 💡",
-      "exam_tips": "मासिक भारित औसत का अनुप्रयोग।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_math_number_bodmas_64"
-  },
-  {
-    "id": 10,
-    "orig_id": 5247,
-    "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_number_bodmas",
-    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
-    "question": "427 रुपये की राशि को X, Y और Z के बीच इस प्रकार बाँटना है कि X का हिस्सा निर्धारित अनुपात में रहे। X का हिस्सा क्या होगा?",
-    "options": {
-      "A": "84 रुपये",
-      "B": "96 रुपये",
-      "C": "112 रुपये",
-      "D": "120 रुपये"
-    },
-    "correct": "A",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / आनुपातिक विभाजन:\n• बोर्ड उत्तर कुंजी अनुसार X का हिस्सा ₹84 (विकल्प A) प्राप्त होता है।\n• 💡",
-      "exam_tips": "अनुपात के आधार पर राशि का विभाजन।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_math_number_bodmas_64"
+    "test_id": "ch_math_number_bodmas_64"
   }
 ]
