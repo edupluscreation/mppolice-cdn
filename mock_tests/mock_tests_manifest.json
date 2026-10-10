@@ -1,0 +1,489 @@
+{
+  "totalTests": 20,
+  "freeTestsCount": 1,
+  "paidTestsCount": 19,
+  "questionsPerTest": 100,
+  "totalQuestions": 2000,
+  "tests": [
+    {
+      "id": "mock_01",
+      "title": "मॉक टेस्ट 01",
+      "subtitle": "100 प्रश्न • 120 मिनट • सम्पूर्ण सिलेबस",
+      "totalQuestions": 100,
+      "durationMinutes": 120,
+      "isFree": true,
+      "badge": "🆓 फ्री",
+      "file": "mock_01.json",
+      "sections": [
+        {
+          "name": "सेक्शन 1: सामान्य ज्ञान एवं तार्किक ज्ञान",
+          "questionsCount": 40
+        },
+        {
+          "name": "सेक्शन 2: बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+          "questionsCount": 30
+        },
+        {
+          "name": "सेक्शन 3: विज्ञान एवं सरल अंकगणित",
+          "questionsCount": 30
+        }
+      ]
+    },
+    {
+      "id": "mock_02",
+      "title": "मॉक टेस्ट 02",
+      "subtitle": "100 प्रश्न • 120 मिनट • सम्पूर्ण सिलेबस",
+      "totalQuestions": 100,
+      "durationMinutes": 120,
+      "isFree": false,
+      "badge": "🔒 VIP",
+      "file": "mock_02.json",
+      "sections": [
+        {
+          "name": "सेक्शन 1: सामान्य ज्ञान एवं तार्किक ज्ञान",
+          "questionsCount": 40
+        },
+        {
+          "name": "सेक्शन 2: बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+          "questionsCount": 30
+        },
+        {
+          "name": "सेक्शन 3: विज्ञान एवं सरल अंकगणित",
+          "questionsCount": 30
+        }
+      ]
+    },
+    {
+      "id": "mock_03",
+      "title": "मॉक टेस्ट 03",
+      "subtitle": "100 प्रश्न • 120 मिनट • सम्पूर्ण सिलेबस",
+      "totalQuestions": 100,
+      "durationMinutes": 120,
+      "isFree": false,
+      "badge": "🔒 VIP",
+      "file": "mock_03.json",
+      "sections": [
+        {
+          "name": "सेक्शन 1: सामान्य ज्ञान एवं तार्किक ज्ञान",
+          "questionsCount": 40
+        },
+        {
+          "name": "सेक्शन 2: बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+          "questionsCount": 30
+        },
+        {
+          "name": "सेक्शन 3: विज्ञान एवं सरल अंकगणित",
+          "questionsCount": 30
+        }
+      ]
+    },
+    {
+      "id": "mock_04",
+      "title": "मॉक टेस्ट 04",
+      "subtitle": "100 प्रश्न • 120 मिनट • सम्पूर्ण सिलेबस",
+      "totalQuestions": 100,
+      "durationMinutes": 120,
+      "isFree": false,
+      "badge": "🔒 VIP",
+      "file": "mock_04.json",
+      "sections": [
+        {
+          "name": "सेक्शन 1: सामान्य ज्ञान एवं तार्किक ज्ञान",
+          "questionsCount": 40
+        },
+        {
+          "name": "सेक्शन 2: बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+          "questionsCount": 30
+        },
+        {
+          "name": "सेक्शन 3: विज्ञान एवं सरल अंकगणित",
+          "questionsCount": 30
+        }
+      ]
+    },
+    {
+      "id": "mock_05",
+      "title": "मॉक टेस्ट 05",
+      "subtitle": "100 प्रश्न • 120 मिनट • सम्पूर्ण सिलेबस",
+      "totalQuestions": 100,
+      "durationMinutes": 120,
+      "isFree": false,
+      "badge": "🔒 VIP",
+      "file": "mock_05.json",
+      "sections": [
+        {
+          "name": "सेक्शन 1: सामान्य ज्ञान एवं तार्किक ज्ञान",
+          "questionsCount": 40
+        },
+        {
+          "name": "सेक्शन 2: बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+          "questionsCount": 30
+        },
+        {
+          "name": "सेक्शन 3: विज्ञान एवं सरल अंकगणित",
+          "questionsCount": 30
+        }
+      ]
+    },
+    {
+      "id": "mock_06",
+      "title": "मॉक टेस्ट 06",
+      "subtitle": "100 प्रश्न • 120 मिनट • सम्पूर्ण सिलेबस",
+      "totalQuestions": 100,
+      "durationMinutes": 120,
+      "isFree": false,
+      "badge": "🔒 VIP",
+      "file": "mock_06.json",
+      "sections": [
+        {
+          "name": "सेक्शन 1: सामान्य ज्ञान एवं तार्किक ज्ञान",
+          "questionsCount": 40
+        },
+        {
+          "name": "सेक्शन 2: बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+          "questionsCount": 30
+        },
+        {
+          "name": "सेक्शन 3: विज्ञान एवं सरल अंकगणित",
+          "questionsCount": 30
+        }
+      ]
+    },
+    {
+      "id": "mock_07",
+      "title": "मॉक टेस्ट 07",
+      "subtitle": "100 प्रश्न • 120 मिनट • सम्पूर्ण सिलेबस",
+      "totalQuestions": 100,
+      "durationMinutes": 120,
+      "isFree": false,
+      "badge": "🔒 VIP",
+      "file": "mock_07.json",
+      "sections": [
+        {
+          "name": "सेक्शन 1: सामान्य ज्ञान एवं तार्किक ज्ञान",
+          "questionsCount": 40
+        },
+        {
+          "name": "सेक्शन 2: बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+          "questionsCount": 30
+        },
+        {
+          "name": "सेक्शन 3: विज्ञान एवं सरल अंकगणित",
+          "questionsCount": 30
+        }
+      ]
+    },
+    {
+      "id": "mock_08",
+      "title": "मॉक टेस्ट 08",
+      "subtitle": "100 प्रश्न • 120 मिनट • सम्पूर्ण सिलेबस",
+      "totalQuestions": 100,
+      "durationMinutes": 120,
+      "isFree": false,
+      "badge": "🔒 VIP",
+      "file": "mock_08.json",
+      "sections": [
+        {
+          "name": "सेक्शन 1: सामान्य ज्ञान एवं तार्किक ज्ञान",
+          "questionsCount": 40
+        },
+        {
+          "name": "सेक्शन 2: बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+          "questionsCount": 30
+        },
+        {
+          "name": "सेक्शन 3: विज्ञान एवं सरल अंकगणित",
+          "questionsCount": 30
+        }
+      ]
+    },
+    {
+      "id": "mock_09",
+      "title": "मॉक टेस्ट 09",
+      "subtitle": "100 प्रश्न • 120 मिनट • सम्पूर्ण सिलेबस",
+      "totalQuestions": 100,
+      "durationMinutes": 120,
+      "isFree": false,
+      "badge": "🔒 VIP",
+      "file": "mock_09.json",
+      "sections": [
+        {
+          "name": "सेक्शन 1: सामान्य ज्ञान एवं तार्किक ज्ञान",
+          "questionsCount": 40
+        },
+        {
+          "name": "सेक्शन 2: बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+          "questionsCount": 30
+        },
+        {
+          "name": "सेक्शन 3: विज्ञान एवं सरल अंकगणित",
+          "questionsCount": 30
+        }
+      ]
+    },
+    {
+      "id": "mock_10",
+      "title": "मॉक टेस्ट 10",
+      "subtitle": "100 प्रश्न • 120 मिनट • सम्पूर्ण सिलेबस",
+      "totalQuestions": 100,
+      "durationMinutes": 120,
+      "isFree": false,
+      "badge": "🔒 VIP",
+      "file": "mock_10.json",
+      "sections": [
+        {
+          "name": "सेक्शन 1: सामान्य ज्ञान एवं तार्किक ज्ञान",
+          "questionsCount": 40
+        },
+        {
+          "name": "सेक्शन 2: बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+          "questionsCount": 30
+        },
+        {
+          "name": "सेक्शन 3: विज्ञान एवं सरल अंकगणित",
+          "questionsCount": 30
+        }
+      ]
+    },
+    {
+      "id": "mock_11",
+      "title": "मॉक टेस्ट 11",
+      "subtitle": "100 प्रश्न • 120 मिनट • सम्पूर्ण सिलेबस",
+      "totalQuestions": 100,
+      "durationMinutes": 120,
+      "isFree": false,
+      "badge": "🔒 VIP",
+      "file": "mock_11.json",
+      "sections": [
+        {
+          "name": "सेक्शन 1: सामान्य ज्ञान एवं तार्किक ज्ञान",
+          "questionsCount": 40
+        },
+        {
+          "name": "सेक्शन 2: बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+          "questionsCount": 30
+        },
+        {
+          "name": "सेक्शन 3: विज्ञान एवं सरल अंकगणित",
+          "questionsCount": 30
+        }
+      ]
+    },
+    {
+      "id": "mock_12",
+      "title": "मॉक टेस्ट 12",
+      "subtitle": "100 प्रश्न • 120 मिनट • सम्पूर्ण सिलेबस",
+      "totalQuestions": 100,
+      "durationMinutes": 120,
+      "isFree": false,
+      "badge": "🔒 VIP",
+      "file": "mock_12.json",
+      "sections": [
+        {
+          "name": "सेक्शन 1: सामान्य ज्ञान एवं तार्किक ज्ञान",
+          "questionsCount": 40
+        },
+        {
+          "name": "सेक्शन 2: बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+          "questionsCount": 30
+        },
+        {
+          "name": "सेक्शन 3: विज्ञान एवं सरल अंकगणित",
+          "questionsCount": 30
+        }
+      ]
+    },
+    {
+      "id": "mock_13",
+      "title": "मॉक टेस्ट 13",
+      "subtitle": "100 प्रश्न • 120 मिनट • सम्पूर्ण सिलेबस",
+      "totalQuestions": 100,
+      "durationMinutes": 120,
+      "isFree": false,
+      "badge": "🔒 VIP",
+      "file": "mock_13.json",
+      "sections": [
+        {
+          "name": "सेक्शन 1: सामान्य ज्ञान एवं तार्किक ज्ञान",
+          "questionsCount": 40
+        },
+        {
+          "name": "सेक्शन 2: बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+          "questionsCount": 30
+        },
+        {
+          "name": "सेक्शन 3: विज्ञान एवं सरल अंकगणित",
+          "questionsCount": 30
+        }
+      ]
+    },
+    {
+      "id": "mock_14",
+      "title": "मॉक टेस्ट 14",
+      "subtitle": "100 प्रश्न • 120 मिनट • सम्पूर्ण सिलेबस",
+      "totalQuestions": 100,
+      "durationMinutes": 120,
+      "isFree": false,
+      "badge": "🔒 VIP",
+      "file": "mock_14.json",
+      "sections": [
+        {
+          "name": "सेक्शन 1: सामान्य ज्ञान एवं तार्किक ज्ञान",
+          "questionsCount": 40
+        },
+        {
+          "name": "सेक्शन 2: बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+          "questionsCount": 30
+        },
+        {
+          "name": "सेक्शन 3: विज्ञान एवं सरल अंकगणित",
+          "questionsCount": 30
+        }
+      ]
+    },
+    {
+      "id": "mock_15",
+      "title": "मॉक टेस्ट 15",
+      "subtitle": "100 प्रश्न • 120 मिनट • सम्पूर्ण सिलेबस",
+      "totalQuestions": 100,
+      "durationMinutes": 120,
+      "isFree": false,
+      "badge": "🔒 VIP",
+      "file": "mock_15.json",
+      "sections": [
+        {
+          "name": "सेक्शन 1: सामान्य ज्ञान एवं तार्किक ज्ञान",
+          "questionsCount": 40
+        },
+        {
+          "name": "सेक्शन 2: बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+          "questionsCount": 30
+        },
+        {
+          "name": "सेक्शन 3: विज्ञान एवं सरल अंकगणित",
+          "questionsCount": 30
+        }
+      ]
+    },
+    {
+      "id": "mock_16",
+      "title": "मॉक टेस्ट 16",
+      "subtitle": "100 प्रश्न • 120 मिनट • सम्पूर्ण सिलेबस",
+      "totalQuestions": 100,
+      "durationMinutes": 120,
+      "isFree": false,
+      "badge": "🔒 VIP",
+      "file": "mock_16.json",
+      "sections": [
+        {
+          "name": "सेक्शन 1: सामान्य ज्ञान एवं तार्किक ज्ञान",
+          "questionsCount": 40
+        },
+        {
+          "name": "सेक्शन 2: बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+          "questionsCount": 30
+        },
+        {
+          "name": "सेक्शन 3: विज्ञान एवं सरल अंकगणित",
+          "questionsCount": 30
+        }
+      ]
+    },
+    {
+      "id": "mock_17",
+      "title": "मॉक टेस्ट 17",
+      "subtitle": "100 प्रश्न • 120 मिनट • सम्पूर्ण सिलेबस",
+      "totalQuestions": 100,
+      "durationMinutes": 120,
+      "isFree": false,
+      "badge": "🔒 VIP",
+      "file": "mock_17.json",
+      "sections": [
+        {
+          "name": "सेक्शन 1: सामान्य ज्ञान एवं तार्किक ज्ञान",
+          "questionsCount": 40
+        },
+        {
+          "name": "सेक्शन 2: बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+          "questionsCount": 30
+        },
+        {
+          "name": "सेक्शन 3: विज्ञान एवं सरल अंकगणित",
+          "questionsCount": 30
+        }
+      ]
+    },
+    {
+      "id": "mock_18",
+      "title": "मॉक टेस्ट 18",
+      "subtitle": "100 प्रश्न • 120 मिनट • सम्पूर्ण सिलेबस",
+      "totalQuestions": 100,
+      "durationMinutes": 120,
+      "isFree": false,
+      "badge": "🔒 VIP",
+      "file": "mock_18.json",
+      "sections": [
+        {
+          "name": "सेक्शन 1: सामान्य ज्ञान एवं तार्किक ज्ञान",
+          "questionsCount": 40
+        },
+        {
+          "name": "सेक्शन 2: बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+          "questionsCount": 30
+        },
+        {
+          "name": "सेक्शन 3: विज्ञान एवं सरल अंकगणित",
+          "questionsCount": 30
+        }
+      ]
+    },
+    {
+      "id": "mock_19",
+      "title": "मॉक टेस्ट 19",
+      "subtitle": "100 प्रश्न • 120 मिनट • सम्पूर्ण सिलेबस",
+      "totalQuestions": 100,
+      "durationMinutes": 120,
+      "isFree": false,
+      "badge": "🔒 VIP",
+      "file": "mock_19.json",
+      "sections": [
+        {
+          "name": "सेक्शन 1: सामान्य ज्ञान एवं तार्किक ज्ञान",
+          "questionsCount": 40
+        },
+        {
+          "name": "सेक्शन 2: बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+          "questionsCount": 30
+        },
+        {
+          "name": "सेक्शन 3: विज्ञान एवं सरल अंकगणित",
+          "questionsCount": 30
+        }
+      ]
+    },
+    {
+      "id": "mock_20",
+      "title": "मॉक टेस्ट 20",
+      "subtitle": "100 प्रश्न • 120 मिनट • सम्पूर्ण सिलेबस",
+      "totalQuestions": 100,
+      "durationMinutes": 120,
+      "isFree": false,
+      "badge": "🔒 VIP",
+      "file": "mock_20.json",
+      "sections": [
+        {
+          "name": "सेक्शन 1: सामान्य ज्ञान एवं तार्किक ज्ञान",
+          "questionsCount": 40
+        },
+        {
+          "name": "सेक्शन 2: बौद्धिक क्षमता एवं मानसिक अभिरुचि",
+          "questionsCount": 30
+        },
+        {
+          "name": "सेक्शन 3: विज्ञान एवं सरल अंकगणित",
+          "questionsCount": 30
+        }
+      ]
+    }
+  ]
+}
