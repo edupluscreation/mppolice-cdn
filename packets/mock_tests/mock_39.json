@@ -580,18 +580,18 @@
     "subject_code": "REASONING",
     "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
     "topic_id": "reas_coding",
-    "question": "Determine which of the figures in Image Y logically continues the series from Image X:",
+    "question": "किसी निश्चित कूट भाषा में यदि 'POLICE' को 'SROLFH' लिखा जाता है, तो उसी कूट भाषा में 'CONSTABLE' को कैसे लिखा जाएगा?",
     "options": {
-      "A": "Figura 1",
-      "B": "Figura 2",
-      "C": "Figura 3",
-      "D": "Figura 4"
+      "A": "FRQVWDEOH",
+      "B": "ERQVWDEOH",
+      "C": "FRQVWEEOH",
+      "D": "FPQVWDEOG"
     },
-    "correct": "D",
+    "correct": "A",
     "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / अशाब्दिक घूर्णन पैटर्न:\n• आकृतियों में तत्वों का 90° दक्षिणावर्त (Clockwise) घूर्णन और भुजाओं की संख्या में परिवर्तन।\n• 💡",
-      "exam_tips": "श्रृंखला का तार्किक विस्तार विकल्प (D) द्वारा होता है।"
+      "formula": "अक्षर विस्थापन नियम: प्रत्येक अक्षर में +3 की वृद्धि की गई है।",
+      "solution": "P(+3)=S, O(+3)=R, L(+3)=O, I(+3)=L, C(+3)=F, E(+3)=H।\nइसी प्रकार CONSTABLE:\nC(+3)=F, O(+3)=R, N(+3)=Q, S(+3)=V, T(+3)=W, A(+3)=D, B(+3)=E, L(+3)=O, E(+3)=H ⇒ FRQVWDEOH।",
+      "exam_tips": "अंग्रेजी वर्णमाला के स्थानीय मान (A=1, B=2 ... Z=26) याद रखें।"
     },
     "difficulty": "Medium",
     "section": "सेक्शन 1: सामान्य ज्ञान एवं तार्किक ज्ञान",

@@ -5,18 +5,18 @@
     "subject_code": "REASONING",
     "topic": "अशाब्दिक तर्क एवं प्रतिबिंब (Non-Verbal & Mirror Image)",
     "topic_id": "reas_nonverbal",
-    "question": "Pick the figure from Image Y that depicts the exact mirror image of Image X with the mirror on the left-hand side.",
+    "question": "अंग्रेजी वर्णमाला के बड़े अक्षरों (Capital Letters) में से ऐसे कितने अक्षर हैं, जिनका दर्पण प्रतिबिंब (Mirror Image) उनके मूल अक्षर के समान ही दिखाई देता है?",
     "options": {
-      "A": "(C)\n(D)\n• उत्तर: (B)\n• > 💡 व्याख्या (Explanation):",
-      "B": "(D)\n• उत्तर: (B)\n• > 💡 व्याख्या (Explanation):",
-      "C": "उत्तर: (B)\n• > 💡 व्याख्या (Explanation):",
-      "D": "उत्तर: (B)\n• > 💡 व्याख्या (Explanation):"
+      "A": "7 अक्षर",
+      "B": "11 अक्षर",
+      "C": "9 अक्षर",
+      "D": "13 अक्षर"
     },
     "correct": "B",
     "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "दर्पण प्रतिबिंब नियम: बाईं ओर दर्पण रखने पर आकृति का दायां भाग बाईं ओर और बायां भाग दाईं ओर परावर्तित होता है, ऊर्ध्वाधर स्थिति अपरिवर्तित रहती है। विकल्प (B) सही दर्पण छवि दर्शाता है।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+      "formula": "दर्पण प्रतिबिंब में ऊर्ध्वाधर समरूपता (Vertical Symmetry) वाले अक्षरों की छवि मूल अक्षर के समान रहती है।",
+      "solution": "अंग्रेजी वर्णमाला के 26 बड़े अक्षरों में 11 अक्षर ऐसे हैं जो दर्पण में नहीं बदलते: A, H, I, M, O, T, U, V, W, X, Y। अतः सही उत्तर 11 है।",
+      "exam_tips": "क्षैतिज समरूपता (Horizontal Symmetry) वाले 9 अक्षर हैं: B, C, D, E, H, I, K, O, X।"
     },
     "difficulty": "Medium",
     "test_id": "ch_reas_nonverbal_01"
@@ -203,18 +203,18 @@
     "subject_code": "REASONING",
     "topic": "अशाब्दिक तर्क एवं प्रतिबिंब (Non-Verbal & Mirror Image)",
     "topic_id": "reas_nonverbal",
-    "question": "Determine which of the figures in Image Y logically completes the analogy in Image X. / चित्र X में दी गई उपमा (एनालॉजी) को पूरा करने के लिए, चित्र Y में से कौन-सी छवि उपयुक्त होगी?",
+    "question": "दी गई श्रृंखला में अगला पद ज्ञात कीजिए: 4, 9, 25, 49, 121, ?",
     "options": {
-      "A": "A",
-      "B": "B",
-      "C": "C",
-      "D": "D"
+      "A": "144",
+      "B": "169",
+      "C": "196",
+      "D": "225"
     },
-    "correct": "A",
+    "correct": "B",
     "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: चित्रात्मक सादृश्यता (Figure Analogy):\n• 📝 स्टेप-बाय-स्टेप हल:\n1. चित्र X के पहले युग्म में तत्वों का घूर्णन (Rotation) और स्थिति परिवर्तन का जो नियम लागू हुआ है, वही नियम दूसरे युग्म पर लागू करने पर विकल्प 'A' की आकृति प्राप्त होती है।\nअतः सही उत्तर (A) A है।\n• 💡",
-      "exam_tips": "आकृति सादृश्यता में घूर्णन की दिशा (दक्षिणावर्त/वामावर्त) और कोण (45°, 90°, 180°) की जांच करें।"
+      "formula": "अभाज्य संख्याओं का वर्ग (Squares of Prime Numbers): 2², 3², 5², 7², 11², 13²",
+      "solution": "4 = 2², 9 = 3², 25 = 5², 49 = 7², 121 = 11²।\nअगली अभाज्य संख्या 13 है, अतः 13² = 169 होगा।",
+      "exam_tips": "ध्यान दें: 9 अभाज्य नहीं है लेकिन यहाँ आधार 2, 3, 5, 7, 11 सभी अभाज्य संख्याएँ हैं, इसलिए 13² (169) आएगा।"
     },
     "difficulty": "Medium",
     "test_id": "ch_reas_nonverbal_01"

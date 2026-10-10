@@ -1040,18 +1040,18 @@
     "subject_code": "REASONING",
     "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
     "topic_id": "reas_coding",
-    "question": "Select the CORRECT option from Image Y showing the resulting figures when the transparent sheet in Image X is folded along the dotted line.",
+    "question": "यदि 'WATER' का जल प्रतिबिंब (Water Image) देखा जाए, तो निम्न में से कौन-सा अक्षर जल में अपने मूल रूप के समान ही दिखाई देगा?",
     "options": {
-      "A": "A",
-      "B": "B",
-      "C": "C",
-      "D": "D"
+      "A": "W",
+      "B": "A",
+      "C": "T",
+      "D": "E"
     },
-    "correct": "B",
+    "correct": "D",
     "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: पारदर्शी शीट मोड़ना (Transparent Sheet Folding):\n• 📝 स्टेप-बाय-स्टेप हल:\n1. पारदर्शी शीट को बिंदीदार रेखा (Dotted line) के अनुदिश मोड़ने पर एक तरफ की आकृति दूसरी तरफ की आकृति पर अध्यारोपित (Overlap) हो जाती है।\n2. अध्यारोपण के बाद दोनों ज्यामितीय रेखाएं मिलकर विकल्प B में दर्शाई गई संयुक्त आकृति का निर्माण करती हैं।\nअतः सही उत्तर (B) B है।\n• 💡",
-      "exam_tips": "शीट मोड़ने पर बिंदीदार रेखा दर्पण का कार्य करती है और एक तरफ का चित्र परावर्तित होकर दूसरे पर आ जाता है।"
+      "formula": "जल प्रतिबिंब नियम: जल प्रतिबिंब में क्षैतिज समरूपता (Horizontal Inversion) होती है, शीर्ष और तल उलट जाते हैं।",
+      "solution": "अक्षर E में क्षैतिज समरूपता होती है, इसलिए जल में पलटने पर भी यह बिल्कुल वैसा ही (E) दिखाई देता है।\nW का M बन जाता है, A उल्टा हो जाता है, T उल्टा हो जाता है।",
+      "exam_tips": "C, D, E, H, I, K, O, X अक्षरों का जल प्रतिबिंब नहीं बदलता।"
     },
     "difficulty": "Medium",
     "section": "सेक्शन 2: बौद्धिक क्षमता एवं मानसिक अभिरुचि",

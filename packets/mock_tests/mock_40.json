@@ -718,18 +718,18 @@
     "subject_code": "REASONING",
     "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
     "topic_id": "reas_coding",
-    "question": "Choose the box from Image Y that matches the folded cube from Image X:",
+    "question": "एक पासे की दो अलग-अलग स्थितियां दी गई हैं। यदि पासे के निचले फलक पर संख्या 4 है, तो उसके शीर्ष फलक पर कौन-सी संख्या होगी, जब 1, 2, 3 और 1, 5, 6 दो स्थितियां दर्शाई गई हों (उभयनिष्ठ संख्या 1 है)?",
     "options": {
-      "A": "Figura A",
-      "B": "Figura B",
-      "C": "Figura C",
-      "D": "Figura D"
+      "A": "3",
+      "B": "4",
+      "C": "2",
+      "D": "1"
     },
-    "correct": "C",
+    "correct": "D",
     "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / खुला पासा (Open Dice) नियम:\n• एकांतर फलक (Alternate faces) एक-दूसरे के विपरीत होते हैं।\n• विपरीत फलक कभी भी एक साथ दिखाई नहीं दे सकते।\n• 💡",
-      "exam_tips": "विकल्प (C) में कोई भी विपरीत सतह एक साथ नहीं दिखती।"
+      "formula": "एक उभयनिष्ठ सतह वाला पासा नियम: उभयनिष्ठ फलक से दक्षिणावर्त घूमने पर विपरीत युग्म मिलते हैं।",
+      "solution": "उभयनिष्ठ अंक 1 से दक्षिणावर्त घूमने पर:\nस्थिति 1: 1 → 2 → 3\nस्थिति 2: 1 → 5 → 6\nविपरीत जोड़े: 2 ↔ 5, 3 ↔ 6।\nशेष बचा अंक 4 है, जो 1 के विपरीत होगा। इसलिए यदि निचले फलक पर 4 है, तो शीर्ष फलक पर 1 होगा।",
+      "exam_tips": "उभयनिष्ठ फलक का विपरीत वही अंक होता है जो दोनों स्थितियों में दिखाई नहीं दे रहा हो।"
     },
     "difficulty": "Medium",
     "section": "सेक्शन 1: सामान्य ज्ञान एवं तार्किक ज्ञान",
@@ -741,18 +741,18 @@
     "subject_code": "REASONING",
     "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
     "topic_id": "reas_coding",
-    "question": "From the given options in Image Y, select how the paper would look when unfolded:",
+    "question": "यदि किसी कूट भाषा में 'MADHYA' को 'ODFKBZ' लिखा जाता है, तो उसी कूट में 'BHOPAL' को किस प्रकार लिखा जाएगा?",
     "options": {
-      "A": "Figura A",
-      "B": "Figura B",
-      "C": "Figura C",
-      "D": "Figura D"
+      "A": "DJQRBN",
+      "B": "DJQSBN",
+      "C": "DIQRBN",
+      "D": "CJQRBN"
     },
-    "correct": "D",
+    "correct": "A",
     "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / कागज मोड़ना और काटना (Paper Folding & Cutting):\n• खोलने पर कट की गई आकृतियां मोड़ रेखा के सापेक्ष दर्पण प्रतिबिंब बनाती हैं।\n• 💡",
-      "exam_tips": "विकल्प (D) सही सममित संरचना प्रदर्शित करता है।"
+      "formula": "अक्षर विस्थापन: एकांतर रूप से +2 और +3 जोड़ा गया है।",
+      "solution": "M(+2)=O, A(+3)=D, D(+2)=F, H(+3)=K, Y(+2)=A, A(+3)=D।\nइसी प्रकार BHOPAL:\nB(+2)=D, H(+2)=J, O(+2)=Q, P(+2)=R, A(+1)=B, L(+2)=N ⇒ DJQRBN।",
+      "exam_tips": "विस्थापन के दोहराव पैटर्न की पहचान करें।"
     },
     "difficulty": "Medium",
     "section": "सेक्शन 1: सामान्य ज्ञान एवं तार्किक ज्ञान",

@@ -1040,18 +1040,18 @@
     "subject_code": "REASONING",
     "topic": "अशाब्दिक तर्क एवं प्रतिबिंब (Non-Verbal & Mirror Image)",
     "topic_id": "reas_nonverbal",
-    "question": "Pick the figure from Image Y that depicts the exact mirror image of Image X with the mirror on the left-hand side.",
+    "question": "अंग्रेजी वर्णमाला के बड़े अक्षरों (Capital Letters) में से ऐसे कितने अक्षर हैं, जिनका दर्पण प्रतिबिंब (Mirror Image) उनके मूल अक्षर के समान ही दिखाई देता है?",
     "options": {
-      "A": "(C)\n(D)\n• उत्तर: (B)\n• > 💡 व्याख्या (Explanation):",
-      "B": "(D)\n• उत्तर: (B)\n• > 💡 व्याख्या (Explanation):",
-      "C": "उत्तर: (B)\n• > 💡 व्याख्या (Explanation):",
-      "D": "उत्तर: (B)\n• > 💡 व्याख्या (Explanation):"
+      "A": "7 अक्षर",
+      "B": "11 अक्षर",
+      "C": "9 अक्षर",
+      "D": "13 अक्षर"
     },
     "correct": "B",
     "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "दर्पण प्रतिबिंब नियम: बाईं ओर दर्पण रखने पर आकृति का दायां भाग बाईं ओर और बायां भाग दाईं ओर परावर्तित होता है, ऊर्ध्वाधर स्थिति अपरिवर्तित रहती है। विकल्प (B) सही दर्पण छवि दर्शाता है।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+      "formula": "दर्पण प्रतिबिंब में ऊर्ध्वाधर समरूपता (Vertical Symmetry) वाले अक्षरों की छवि मूल अक्षर के समान रहती है।",
+      "solution": "अंग्रेजी वर्णमाला के 26 बड़े अक्षरों में 11 अक्षर ऐसे हैं जो दर्पण में नहीं बदलते: A, H, I, M, O, T, U, V, W, X, Y। अतः सही उत्तर 11 है।",
+      "exam_tips": "क्षैतिज समरूपता (Horizontal Symmetry) वाले 9 अक्षर हैं: B, C, D, E, H, I, K, O, X।"
     },
     "difficulty": "Medium",
     "section": "सेक्शन 2: बौद्धिक क्षमता एवं मानसिक अभिरुचि",
