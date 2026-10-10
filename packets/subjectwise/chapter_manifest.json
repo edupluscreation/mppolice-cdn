@@ -2060,7 +2060,7 @@
     {
       "topicId": "reas_critical",
       "topicName": "तार्किक विश्लेषण एवं निर्णय क्षमता (Critical Reasoning)",
-      "totalQuestions": 75,
+      "totalQuestions": 76,
       "totalTests": 8,
       "testPrefix": "ch_reas_critical",
       "tests": [
@@ -3091,8 +3091,8 @@
     {
       "topicId": "math_percentage",
       "topicName": "प्रतिशत (Percentage)",
-      "totalQuestions": 105,
-      "totalTests": 11,
+      "totalQuestions": 100,
+      "totalTests": 10,
       "testPrefix": "ch_math_percentage",
       "tests": [
         {
@@ -3144,19 +3144,14 @@
           "testId": "ch_math_percentage_10",
           "testTitle": "प्रतिशत (Percentage) • अभ्यास टेस्ट #10",
           "questionCount": 10
-        },
-        {
-          "testId": "ch_math_percentage_11",
-          "testTitle": "प्रतिशत (Percentage) • अभ्यास टेस्ट #11",
-          "questionCount": 10
         }
       ]
     },
     {
       "topicId": "math_profit_loss",
       "topicName": "लाभ-हानि एवं बट्टा (Profit, Loss & Discount)",
-      "totalQuestions": 160,
-      "totalTests": 16,
+      "totalQuestions": 164,
+      "totalTests": 17,
       "testPrefix": "ch_math_profit_loss",
       "tests": [
         {
@@ -3237,6 +3232,11 @@
         {
           "testId": "ch_math_profit_loss_16",
           "testTitle": "लाभ-हानि एवं बट्टा (Profit, Loss & Discount) • अभ्यास टेस्ट #16",
+          "questionCount": 10
+        },
+        {
+          "testId": "ch_math_profit_loss_17",
+          "testTitle": "लाभ-हानि एवं बट्टा (Profit, Loss & Discount) • अभ्यास टेस्ट #17",
           "questionCount": 10
         }
       ]

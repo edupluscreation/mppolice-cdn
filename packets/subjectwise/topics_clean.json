@@ -48,7 +48,7 @@
     ]
   },
   "REASONING": {
-    "totalQuestions": 2739,
+    "totalQuestions": 2740,
     "totalTests": 280,
     "topics": [
       {
@@ -82,7 +82,7 @@
       {
         "topicId": "reas_critical",
         "topicName": "तार्किक विश्लेषण एवं निर्णय क्षमता (Critical Reasoning)",
-        "totalQuestions": 75,
+        "totalQuestions": 76,
         "totalTests": 8,
         "testPrefix": "ch_reas_critical"
       },
@@ -131,7 +131,7 @@
     ]
   },
   "MATH": {
-    "totalQuestions": 1857,
+    "totalQuestions": 1856,
     "totalTests": 189,
     "topics": [
       {
@@ -165,15 +165,15 @@
       {
         "topicId": "math_percentage",
         "topicName": "प्रतिशत (Percentage)",
-        "totalQuestions": 105,
-        "totalTests": 11,
+        "totalQuestions": 100,
+        "totalTests": 10,
         "testPrefix": "ch_math_percentage"
       },
       {
         "topicId": "math_profit_loss",
         "topicName": "लाभ-हानि एवं बट्टा (Profit, Loss & Discount)",
-        "totalQuestions": 160,
-        "totalTests": 16,
+        "totalQuestions": 164,
+        "totalTests": 17,
         "testPrefix": "ch_math_profit_loss"
       },
       {
