@@ -1,5 +1,5 @@
 {
-  "total_mocks": 20,
+  "total_mocks": 50,
   "questions_per_mock": 100,
   "duration_minutes": 120,
   "mocks": [
@@ -7,121 +7,351 @@
       "id": "mock_01",
       "title": "MP Police कांस्टेबल फुल मॉक टेस्ट #01",
       "questions_count": 100,
+      "duration_minutes": 120,
       "file": "packets/mock_tests/mock_01.json"
     },
     {
       "id": "mock_02",
       "title": "MP Police कांस्टेबल फुल मॉक टेस्ट #02",
       "questions_count": 100,
+      "duration_minutes": 120,
       "file": "packets/mock_tests/mock_02.json"
     },
     {
       "id": "mock_03",
       "title": "MP Police कांस्टेबल फुल मॉक टेस्ट #03",
       "questions_count": 100,
+      "duration_minutes": 120,
       "file": "packets/mock_tests/mock_03.json"
     },
     {
       "id": "mock_04",
       "title": "MP Police कांस्टेबल फुल मॉक टेस्ट #04",
       "questions_count": 100,
+      "duration_minutes": 120,
       "file": "packets/mock_tests/mock_04.json"
     },
     {
       "id": "mock_05",
       "title": "MP Police कांस्टेबल फुल मॉक टेस्ट #05",
       "questions_count": 100,
+      "duration_minutes": 120,
       "file": "packets/mock_tests/mock_05.json"
     },
     {
       "id": "mock_06",
       "title": "MP Police कांस्टेबल फुल मॉक टेस्ट #06",
       "questions_count": 100,
+      "duration_minutes": 120,
       "file": "packets/mock_tests/mock_06.json"
     },
     {
       "id": "mock_07",
       "title": "MP Police कांस्टेबल फुल मॉक टेस्ट #07",
       "questions_count": 100,
+      "duration_minutes": 120,
       "file": "packets/mock_tests/mock_07.json"
     },
     {
       "id": "mock_08",
       "title": "MP Police कांस्टेबल फुल मॉक टेस्ट #08",
       "questions_count": 100,
+      "duration_minutes": 120,
       "file": "packets/mock_tests/mock_08.json"
     },
     {
       "id": "mock_09",
       "title": "MP Police कांस्टेबल फुल मॉक टेस्ट #09",
       "questions_count": 100,
+      "duration_minutes": 120,
       "file": "packets/mock_tests/mock_09.json"
     },
     {
       "id": "mock_10",
       "title": "MP Police कांस्टेबल फुल मॉक टेस्ट #10",
       "questions_count": 100,
+      "duration_minutes": 120,
       "file": "packets/mock_tests/mock_10.json"
     },
     {
       "id": "mock_11",
       "title": "MP Police कांस्टेबल फुल मॉक टेस्ट #11",
       "questions_count": 100,
+      "duration_minutes": 120,
       "file": "packets/mock_tests/mock_11.json"
     },
     {
       "id": "mock_12",
       "title": "MP Police कांस्टेबल फुल मॉक टेस्ट #12",
       "questions_count": 100,
+      "duration_minutes": 120,
       "file": "packets/mock_tests/mock_12.json"
     },
     {
       "id": "mock_13",
       "title": "MP Police कांस्टेबल फुल मॉक टेस्ट #13",
       "questions_count": 100,
+      "duration_minutes": 120,
       "file": "packets/mock_tests/mock_13.json"
     },
     {
       "id": "mock_14",
       "title": "MP Police कांस्टेबल फुल मॉक टेस्ट #14",
       "questions_count": 100,
+      "duration_minutes": 120,
       "file": "packets/mock_tests/mock_14.json"
     },
     {
       "id": "mock_15",
       "title": "MP Police कांस्टेबल फुल मॉक टेस्ट #15",
       "questions_count": 100,
+      "duration_minutes": 120,
       "file": "packets/mock_tests/mock_15.json"
     },
     {
       "id": "mock_16",
       "title": "MP Police कांस्टेबल फुल मॉक टेस्ट #16",
       "questions_count": 100,
+      "duration_minutes": 120,
       "file": "packets/mock_tests/mock_16.json"
     },
     {
       "id": "mock_17",
       "title": "MP Police कांस्टेबल फुल मॉक टेस्ट #17",
       "questions_count": 100,
+      "duration_minutes": 120,
       "file": "packets/mock_tests/mock_17.json"
     },
     {
       "id": "mock_18",
       "title": "MP Police कांस्टेबल फुल मॉक टेस्ट #18",
       "questions_count": 100,
+      "duration_minutes": 120,
       "file": "packets/mock_tests/mock_18.json"
     },
     {
       "id": "mock_19",
       "title": "MP Police कांस्टेबल फुल मॉक टेस्ट #19",
       "questions_count": 100,
+      "duration_minutes": 120,
       "file": "packets/mock_tests/mock_19.json"
     },
     {
       "id": "mock_20",
       "title": "MP Police कांस्टेबल फुल मॉक टेस्ट #20",
       "questions_count": 100,
+      "duration_minutes": 120,
       "file": "packets/mock_tests/mock_20.json"
+    },
+    {
+      "id": "mock_21",
+      "title": "MP Police कांस्टेबल फुल मॉक टेस्ट #21",
+      "questions_count": 100,
+      "duration_minutes": 120,
+      "file": "packets/mock_tests/mock_21.json"
+    },
+    {
+      "id": "mock_22",
+      "title": "MP Police कांस्टेबल फुल मॉक टेस्ट #22",
+      "questions_count": 100,
+      "duration_minutes": 120,
+      "file": "packets/mock_tests/mock_22.json"
+    },
+    {
+      "id": "mock_23",
+      "title": "MP Police कांस्टेबल फुल मॉक टेस्ट #23",
+      "questions_count": 100,
+      "duration_minutes": 120,
+      "file": "packets/mock_tests/mock_23.json"
+    },
+    {
+      "id": "mock_24",
+      "title": "MP Police कांस्टेबल फुल मॉक टेस्ट #24",
+      "questions_count": 100,
+      "duration_minutes": 120,
+      "file": "packets/mock_tests/mock_24.json"
+    },
+    {
+      "id": "mock_25",
+      "title": "MP Police कांस्टेबल फुल मॉक टेस्ट #25",
+      "questions_count": 100,
+      "duration_minutes": 120,
+      "file": "packets/mock_tests/mock_25.json"
+    },
+    {
+      "id": "mock_26",
+      "title": "MP Police कांस्टेबल फुल मॉक टेस्ट #26",
+      "questions_count": 100,
+      "duration_minutes": 120,
+      "file": "packets/mock_tests/mock_26.json"
+    },
+    {
+      "id": "mock_27",
+      "title": "MP Police कांस्टेबल फुल मॉक टेस्ट #27",
+      "questions_count": 100,
+      "duration_minutes": 120,
+      "file": "packets/mock_tests/mock_27.json"
+    },
+    {
+      "id": "mock_28",
+      "title": "MP Police कांस्टेबल फुल मॉक टेस्ट #28",
+      "questions_count": 100,
+      "duration_minutes": 120,
+      "file": "packets/mock_tests/mock_28.json"
+    },
+    {
+      "id": "mock_29",
+      "title": "MP Police कांस्टेबल फुल मॉक टेस्ट #29",
+      "questions_count": 100,
+      "duration_minutes": 120,
+      "file": "packets/mock_tests/mock_29.json"
+    },
+    {
+      "id": "mock_30",
+      "title": "MP Police कांस्टेबल फुल मॉक टेस्ट #30",
+      "questions_count": 100,
+      "duration_minutes": 120,
+      "file": "packets/mock_tests/mock_30.json"
+    },
+    {
+      "id": "mock_31",
+      "title": "MP Police कांस्टेबल फुल मॉक टेस्ट #31",
+      "questions_count": 100,
+      "duration_minutes": 120,
+      "file": "packets/mock_tests/mock_31.json"
+    },
+    {
+      "id": "mock_32",
+      "title": "MP Police कांस्टेबल फुल मॉक टेस्ट #32",
+      "questions_count": 100,
+      "duration_minutes": 120,
+      "file": "packets/mock_tests/mock_32.json"
+    },
+    {
+      "id": "mock_33",
+      "title": "MP Police कांस्टेबल फुल मॉक टेस्ट #33",
+      "questions_count": 100,
+      "duration_minutes": 120,
+      "file": "packets/mock_tests/mock_33.json"
+    },
+    {
+      "id": "mock_34",
+      "title": "MP Police कांस्टेबल फुल मॉक टेस्ट #34",
+      "questions_count": 100,
+      "duration_minutes": 120,
+      "file": "packets/mock_tests/mock_34.json"
+    },
+    {
+      "id": "mock_35",
+      "title": "MP Police कांस्टेबल फुल मॉक टेस्ट #35",
+      "questions_count": 100,
+      "duration_minutes": 120,
+      "file": "packets/mock_tests/mock_35.json"
+    },
+    {
+      "id": "mock_36",
+      "title": "MP Police कांस्टेबल फुल मॉक टेस्ट #36",
+      "questions_count": 100,
+      "duration_minutes": 120,
+      "file": "packets/mock_tests/mock_36.json"
+    },
+    {
+      "id": "mock_37",
+      "title": "MP Police कांस्टेबल फुल मॉक टेस्ट #37",
+      "questions_count": 100,
+      "duration_minutes": 120,
+      "file": "packets/mock_tests/mock_37.json"
+    },
+    {
+      "id": "mock_38",
+      "title": "MP Police कांस्टेबल फुल मॉक टेस्ट #38",
+      "questions_count": 100,
+      "duration_minutes": 120,
+      "file": "packets/mock_tests/mock_38.json"
+    },
+    {
+      "id": "mock_39",
+      "title": "MP Police कांस्टेबल फुल मॉक टेस्ट #39",
+      "questions_count": 100,
+      "duration_minutes": 120,
+      "file": "packets/mock_tests/mock_39.json"
+    },
+    {
+      "id": "mock_40",
+      "title": "MP Police कांस्टेबल फुल मॉक टेस्ट #40",
+      "questions_count": 100,
+      "duration_minutes": 120,
+      "file": "packets/mock_tests/mock_40.json"
+    },
+    {
+      "id": "mock_41",
+      "title": "MP Police कांस्टेबल फुल मॉक टेस्ट #41",
+      "questions_count": 100,
+      "duration_minutes": 120,
+      "file": "packets/mock_tests/mock_41.json"
+    },
+    {
+      "id": "mock_42",
+      "title": "MP Police कांस्टेबल फुल मॉक टेस्ट #42",
+      "questions_count": 100,
+      "duration_minutes": 120,
+      "file": "packets/mock_tests/mock_42.json"
+    },
+    {
+      "id": "mock_43",
+      "title": "MP Police कांस्टेबल फुल मॉक टेस्ट #43",
+      "questions_count": 100,
+      "duration_minutes": 120,
+      "file": "packets/mock_tests/mock_43.json"
+    },
+    {
+      "id": "mock_44",
+      "title": "MP Police कांस्टेबल फुल मॉक टेस्ट #44",
+      "questions_count": 100,
+      "duration_minutes": 120,
+      "file": "packets/mock_tests/mock_44.json"
+    },
+    {
+      "id": "mock_45",
+      "title": "MP Police कांस्टेबल फुल मॉक टेस्ट #45",
+      "questions_count": 100,
+      "duration_minutes": 120,
+      "file": "packets/mock_tests/mock_45.json"
+    },
+    {
+      "id": "mock_46",
+      "title": "MP Police कांस्टेबल फुल मॉक टेस्ट #46",
+      "questions_count": 100,
+      "duration_minutes": 120,
+      "file": "packets/mock_tests/mock_46.json"
+    },
+    {
+      "id": "mock_47",
+      "title": "MP Police कांस्टेबल फुल मॉक टेस्ट #47",
+      "questions_count": 100,
+      "duration_minutes": 120,
+      "file": "packets/mock_tests/mock_47.json"
+    },
+    {
+      "id": "mock_48",
+      "title": "MP Police कांस्टेबल फुल मॉक टेस्ट #48",
+      "questions_count": 100,
+      "duration_minutes": 120,
+      "file": "packets/mock_tests/mock_48.json"
+    },
+    {
+      "id": "mock_49",
+      "title": "MP Police कांस्टेबल फुल मॉक टेस्ट #49",
+      "questions_count": 100,
+      "duration_minutes": 120,
+      "file": "packets/mock_tests/mock_49.json"
+    },
+    {
+      "id": "mock_50",
+      "title": "MP Police कांस्टेबल फुल मॉक टेस्ट #50",
+      "questions_count": 100,
+      "duration_minutes": 120,
+      "file": "packets/mock_tests/mock_50.json"
     }
   ]
 }
