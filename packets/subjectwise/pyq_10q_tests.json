@@ -1,0 +1,2036 @@
+{
+  "title": "MP Police पिछले वर्षों के प्रश्न (PYQ 2025) - 10-10 प्रश्नों के टेस्ट",
+  "totalSubjects": 4,
+  "totalTests": 400,
+  "totalQuestions": 4000,
+  "subjects": {
+    "SCIENCE": {
+      "subjectCode": "SCIENCE",
+      "subjectName": "सामान्य विज्ञान",
+      "totalTests": 100,
+      "tests": [
+        {
+          "testId": "science_001",
+          "testTitle": "सामान्य विज्ञान टेस्ट #01",
+          "questionCount": 10
+        },
+        {
+          "testId": "science_002",
+          "testTitle": "सामान्य विज्ञान टेस्ट #02",
+          "questionCount": 10
+        },
+        {
+          "testId": "science_003",
+          "testTitle": "सामान्य विज्ञान टेस्ट #03",
+          "questionCount": 10
+        },
+        {
+          "testId": "science_004",
+          "testTitle": "सामान्य विज्ञान टेस्ट #04",
+          "questionCount": 10
+        },
+        {
+          "testId": "science_005",
+          "testTitle": "सामान्य विज्ञान टेस्ट #05",
+          "questionCount": 10
+        },
+        {
+          "testId": "science_006",
+          "testTitle": "सामान्य विज्ञान टेस्ट #06",
+          "questionCount": 10
+        },
+        {
+          "testId": "science_007",
+          "testTitle": "सामान्य विज्ञान टेस्ट #07",
+          "questionCount": 10
+        },
+        {
+          "testId": "science_008",
+          "testTitle": "सामान्य विज्ञान टेस्ट #08",
+          "questionCount": 10
+        },
+        {
+          "testId": "science_009",
+          "testTitle": "सामान्य विज्ञान टेस्ट #09",
+          "questionCount": 10
+        },
+        {
+          "testId": "science_010",
+          "testTitle": "सामान्य विज्ञान टेस्ट #10",
+          "questionCount": 10
+        },
+        {
+          "testId": "science_011",
+          "testTitle": "सामान्य विज्ञान टेस्ट #11",
+          "questionCount": 10
+        },
+        {
+          "testId": "science_012",
+          "testTitle": "सामान्य विज्ञान टेस्ट #12",
+          "questionCount": 10
+        },
+        {
+          "testId": "science_013",
+          "testTitle": "सामान्य विज्ञान टेस्ट #13",
+          "questionCount": 10
+        },
+        {
+          "testId": "science_014",
+          "testTitle": "सामान्य विज्ञान टेस्ट #14",
+          "questionCount": 10
+        },
+        {
+          "testId": "science_015",
+          "testTitle": "सामान्य विज्ञान टेस्ट #15",
+          "questionCount": 10
+        },
+        {
+          "testId": "science_016",
+          "testTitle": "सामान्य विज्ञान टेस्ट #16",
+          "questionCount": 10
+        },
+        {
+          "testId": "science_017",
+          "testTitle": "सामान्य विज्ञान टेस्ट #17",
+          "questionCount": 10
+        },
+        {
+          "testId": "science_018",
+          "testTitle": "सामान्य विज्ञान टेस्ट #18",
+          "questionCount": 10
+        },
+        {
+          "testId": "science_019",
+          "testTitle": "सामान्य विज्ञान टेस्ट #19",
+          "questionCount": 10
+        },
+        {
+          "testId": "science_020",
+          "testTitle": "सामान्य विज्ञान टेस्ट #20",
+          "questionCount": 10
+        },
+        {
+          "testId": "science_021",
+          "testTitle": "सामान्य विज्ञान टेस्ट #21",
+          "questionCount": 10
+        },
+        {
+          "testId": "science_022",
+          "testTitle": "सामान्य विज्ञान टेस्ट #22",
+          "questionCount": 10
+        },
+        {
+          "testId": "science_023",
+          "testTitle": "सामान्य विज्ञान टेस्ट #23",
+          "questionCount": 10
+        },
+        {
+          "testId": "science_024",
+          "testTitle": "सामान्य विज्ञान टेस्ट #24",
+          "questionCount": 10
+        },
+        {
+          "testId": "science_025",
+          "testTitle": "सामान्य विज्ञान टेस्ट #25",
+          "questionCount": 10
+        },
+        {
+          "testId": "science_026",
+          "testTitle": "सामान्य विज्ञान टेस्ट #26",
+          "questionCount": 10
+        },
+        {
+          "testId": "science_027",
+          "testTitle": "सामान्य विज्ञान टेस्ट #27",
+          "questionCount": 10
+        },
+        {
+          "testId": "science_028",
+          "testTitle": "सामान्य विज्ञान टेस्ट #28",
+          "questionCount": 10
+        },
+        {
+          "testId": "science_029",
+          "testTitle": "सामान्य विज्ञान टेस्ट #29",
+          "questionCount": 10
+        },
+        {
+          "testId": "science_030",
+          "testTitle": "सामान्य विज्ञान टेस्ट #30",
+          "questionCount": 10
+        },
+        {
+          "testId": "science_031",
+          "testTitle": "सामान्य विज्ञान टेस्ट #31",
+          "questionCount": 10
+        },
+        {
+          "testId": "science_032",
+          "testTitle": "सामान्य विज्ञान टेस्ट #32",
+          "questionCount": 10
+        },
+        {
+          "testId": "science_033",
+          "testTitle": "सामान्य विज्ञान टेस्ट #33",
+          "questionCount": 10
+        },
+        {
+          "testId": "science_034",
+          "testTitle": "सामान्य विज्ञान टेस्ट #34",
+          "questionCount": 10
+        },
+        {
+          "testId": "science_035",
+          "testTitle": "सामान्य विज्ञान टेस्ट #35",
+          "questionCount": 10
+        },
+        {
+          "testId": "science_036",
+          "testTitle": "सामान्य विज्ञान टेस्ट #36",
+          "questionCount": 10
+        },
+        {
+          "testId": "science_037",
+          "testTitle": "सामान्य विज्ञान टेस्ट #37",
+          "questionCount": 10
+        },
+        {
+          "testId": "science_038",
+          "testTitle": "सामान्य विज्ञान टेस्ट #38",
+          "questionCount": 10
+        },
+        {
+          "testId": "science_039",
+          "testTitle": "सामान्य विज्ञान टेस्ट #39",
+          "questionCount": 10
+        },
+        {
+          "testId": "science_040",
+          "testTitle": "सामान्य विज्ञान टेस्ट #40",
+          "questionCount": 10
+        },
+        {
+          "testId": "science_041",
+          "testTitle": "सामान्य विज्ञान टेस्ट #41",
+          "questionCount": 10
+        },
+        {
+          "testId": "science_042",
+          "testTitle": "सामान्य विज्ञान टेस्ट #42",
+          "questionCount": 10
+        },
+        {
+          "testId": "science_043",
+          "testTitle": "सामान्य विज्ञान टेस्ट #43",
+          "questionCount": 10
+        },
+        {
+          "testId": "science_044",
+          "testTitle": "सामान्य विज्ञान टेस्ट #44",
+          "questionCount": 10
+        },
+        {
+          "testId": "science_045",
+          "testTitle": "सामान्य विज्ञान टेस्ट #45",
+          "questionCount": 10
+        },
+        {
+          "testId": "science_046",
+          "testTitle": "सामान्य विज्ञान टेस्ट #46",
+          "questionCount": 10
+        },
+        {
+          "testId": "science_047",
+          "testTitle": "सामान्य विज्ञान टेस्ट #47",
+          "questionCount": 10
+        },
+        {
+          "testId": "science_048",
+          "testTitle": "सामान्य विज्ञान टेस्ट #48",
+          "questionCount": 10
+        },
+        {
+          "testId": "science_049",
+          "testTitle": "सामान्य विज्ञान टेस्ट #49",
+          "questionCount": 10
+        },
+        {
+          "testId": "science_050",
+          "testTitle": "सामान्य विज्ञान टेस्ट #50",
+          "questionCount": 10
+        },
+        {
+          "testId": "science_051",
+          "testTitle": "सामान्य विज्ञान टेस्ट #51",
+          "questionCount": 10
+        },
+        {
+          "testId": "science_052",
+          "testTitle": "सामान्य विज्ञान टेस्ट #52",
+          "questionCount": 10
+        },
+        {
+          "testId": "science_053",
+          "testTitle": "सामान्य विज्ञान टेस्ट #53",
+          "questionCount": 10
+        },
+        {
+          "testId": "science_054",
+          "testTitle": "सामान्य विज्ञान टेस्ट #54",
+          "questionCount": 10
+        },
+        {
+          "testId": "science_055",
+          "testTitle": "सामान्य विज्ञान टेस्ट #55",
+          "questionCount": 10
+        },
+        {
+          "testId": "science_056",
+          "testTitle": "सामान्य विज्ञान टेस्ट #56",
+          "questionCount": 10
+        },
+        {
+          "testId": "science_057",
+          "testTitle": "सामान्य विज्ञान टेस्ट #57",
+          "questionCount": 10
+        },
+        {
+          "testId": "science_058",
+          "testTitle": "सामान्य विज्ञान टेस्ट #58",
+          "questionCount": 10
+        },
+        {
+          "testId": "science_059",
+          "testTitle": "सामान्य विज्ञान टेस्ट #59",
+          "questionCount": 10
+        },
+        {
+          "testId": "science_060",
+          "testTitle": "सामान्य विज्ञान टेस्ट #60",
+          "questionCount": 10
+        },
+        {
+          "testId": "science_061",
+          "testTitle": "सामान्य विज्ञान टेस्ट #61",
+          "questionCount": 10
+        },
+        {
+          "testId": "science_062",
+          "testTitle": "सामान्य विज्ञान टेस्ट #62",
+          "questionCount": 10
+        },
+        {
+          "testId": "science_063",
+          "testTitle": "सामान्य विज्ञान टेस्ट #63",
+          "questionCount": 10
+        },
+        {
+          "testId": "science_064",
+          "testTitle": "सामान्य विज्ञान टेस्ट #64",
+          "questionCount": 10
+        },
+        {
+          "testId": "science_065",
+          "testTitle": "सामान्य विज्ञान टेस्ट #65",
+          "questionCount": 10
+        },
+        {
+          "testId": "science_066",
+          "testTitle": "सामान्य विज्ञान टेस्ट #66",
+          "questionCount": 10
+        },
+        {
+          "testId": "science_067",
+          "testTitle": "सामान्य विज्ञान टेस्ट #67",
+          "questionCount": 10
+        },
+        {
+          "testId": "science_068",
+          "testTitle": "सामान्य विज्ञान टेस्ट #68",
+          "questionCount": 10
+        },
+        {
+          "testId": "science_069",
+          "testTitle": "सामान्य विज्ञान टेस्ट #69",
+          "questionCount": 10
+        },
+        {
+          "testId": "science_070",
+          "testTitle": "सामान्य विज्ञान टेस्ट #70",
+          "questionCount": 10
+        },
+        {
+          "testId": "science_071",
+          "testTitle": "सामान्य विज्ञान टेस्ट #71",
+          "questionCount": 10
+        },
+        {
+          "testId": "science_072",
+          "testTitle": "सामान्य विज्ञान टेस्ट #72",
+          "questionCount": 10
+        },
+        {
+          "testId": "science_073",
+          "testTitle": "सामान्य विज्ञान टेस्ट #73",
+          "questionCount": 10
+        },
+        {
+          "testId": "science_074",
+          "testTitle": "सामान्य विज्ञान टेस्ट #74",
+          "questionCount": 10
+        },
+        {
+          "testId": "science_075",
+          "testTitle": "सामान्य विज्ञान टेस्ट #75",
+          "questionCount": 10
+        },
+        {
+          "testId": "science_076",
+          "testTitle": "सामान्य विज्ञान टेस्ट #76",
+          "questionCount": 10
+        },
+        {
+          "testId": "science_077",
+          "testTitle": "सामान्य विज्ञान टेस्ट #77",
+          "questionCount": 10
+        },
+        {
+          "testId": "science_078",
+          "testTitle": "सामान्य विज्ञान टेस्ट #78",
+          "questionCount": 10
+        },
+        {
+          "testId": "science_079",
+          "testTitle": "सामान्य विज्ञान टेस्ट #79",
+          "questionCount": 10
+        },
+        {
+          "testId": "science_080",
+          "testTitle": "सामान्य विज्ञान टेस्ट #80",
+          "questionCount": 10
+        },
+        {
+          "testId": "science_081",
+          "testTitle": "सामान्य विज्ञान टेस्ट #81",
+          "questionCount": 10
+        },
+        {
+          "testId": "science_082",
+          "testTitle": "सामान्य विज्ञान टेस्ट #82",
+          "questionCount": 10
+        },
+        {
+          "testId": "science_083",
+          "testTitle": "सामान्य विज्ञान टेस्ट #83",
+          "questionCount": 10
+        },
+        {
+          "testId": "science_084",
+          "testTitle": "सामान्य विज्ञान टेस्ट #84",
+          "questionCount": 10
+        },
+        {
+          "testId": "science_085",
+          "testTitle": "सामान्य विज्ञान टेस्ट #85",
+          "questionCount": 10
+        },
+        {
+          "testId": "science_086",
+          "testTitle": "सामान्य विज्ञान टेस्ट #86",
+          "questionCount": 10
+        },
+        {
+          "testId": "science_087",
+          "testTitle": "सामान्य विज्ञान टेस्ट #87",
+          "questionCount": 10
+        },
+        {
+          "testId": "science_088",
+          "testTitle": "सामान्य विज्ञान टेस्ट #88",
+          "questionCount": 10
+        },
+        {
+          "testId": "science_089",
+          "testTitle": "सामान्य विज्ञान टेस्ट #89",
+          "questionCount": 10
+        },
+        {
+          "testId": "science_090",
+          "testTitle": "सामान्य विज्ञान टेस्ट #90",
+          "questionCount": 10
+        },
+        {
+          "testId": "science_091",
+          "testTitle": "सामान्य विज्ञान टेस्ट #91",
+          "questionCount": 10
+        },
+        {
+          "testId": "science_092",
+          "testTitle": "सामान्य विज्ञान टेस्ट #92",
+          "questionCount": 10
+        },
+        {
+          "testId": "science_093",
+          "testTitle": "सामान्य विज्ञान टेस्ट #93",
+          "questionCount": 10
+        },
+        {
+          "testId": "science_094",
+          "testTitle": "सामान्य विज्ञान टेस्ट #94",
+          "questionCount": 10
+        },
+        {
+          "testId": "science_095",
+          "testTitle": "सामान्य विज्ञान टेस्ट #95",
+          "questionCount": 10
+        },
+        {
+          "testId": "science_096",
+          "testTitle": "सामान्य विज्ञान टेस्ट #96",
+          "questionCount": 10
+        },
+        {
+          "testId": "science_097",
+          "testTitle": "सामान्य विज्ञान टेस्ट #97",
+          "questionCount": 10
+        },
+        {
+          "testId": "science_098",
+          "testTitle": "सामान्य विज्ञान टेस्ट #98",
+          "questionCount": 10
+        },
+        {
+          "testId": "science_099",
+          "testTitle": "सामान्य विज्ञान टेस्ट #99",
+          "questionCount": 10
+        },
+        {
+          "testId": "science_100",
+          "testTitle": "सामान्य विज्ञान टेस्ट #100",
+          "questionCount": 10
+        }
+      ]
+    },
+    "MATH": {
+      "subjectCode": "MATH",
+      "subjectName": "गणित (अंकगणित)",
+      "totalTests": 100,
+      "tests": [
+        {
+          "testId": "math_001",
+          "testTitle": "गणित (अंकगणित) टेस्ट #01",
+          "questionCount": 10
+        },
+        {
+          "testId": "math_002",
+          "testTitle": "गणित (अंकगणित) टेस्ट #02",
+          "questionCount": 10
+        },
+        {
+          "testId": "math_003",
+          "testTitle": "गणित (अंकगणित) टेस्ट #03",
+          "questionCount": 10
+        },
+        {
+          "testId": "math_004",
+          "testTitle": "गणित (अंकगणित) टेस्ट #04",
+          "questionCount": 10
+        },
+        {
+          "testId": "math_005",
+          "testTitle": "गणित (अंकगणित) टेस्ट #05",
+          "questionCount": 10
+        },
+        {
+          "testId": "math_006",
+          "testTitle": "गणित (अंकगणित) टेस्ट #06",
+          "questionCount": 10
+        },
+        {
+          "testId": "math_007",
+          "testTitle": "गणित (अंकगणित) टेस्ट #07",
+          "questionCount": 10
+        },
+        {
+          "testId": "math_008",
+          "testTitle": "गणित (अंकगणित) टेस्ट #08",
+          "questionCount": 10
+        },
+        {
+          "testId": "math_009",
+          "testTitle": "गणित (अंकगणित) टेस्ट #09",
+          "questionCount": 10
+        },
+        {
+          "testId": "math_010",
+          "testTitle": "गणित (अंकगणित) टेस्ट #10",
+          "questionCount": 10
+        },
+        {
+          "testId": "math_011",
+          "testTitle": "गणित (अंकगणित) टेस्ट #11",
+          "questionCount": 10
+        },
+        {
+          "testId": "math_012",
+          "testTitle": "गणित (अंकगणित) टेस्ट #12",
+          "questionCount": 10
+        },
+        {
+          "testId": "math_013",
+          "testTitle": "गणित (अंकगणित) टेस्ट #13",
+          "questionCount": 10
+        },
+        {
+          "testId": "math_014",
+          "testTitle": "गणित (अंकगणित) टेस्ट #14",
+          "questionCount": 10
+        },
+        {
+          "testId": "math_015",
+          "testTitle": "गणित (अंकगणित) टेस्ट #15",
+          "questionCount": 10
+        },
+        {
+          "testId": "math_016",
+          "testTitle": "गणित (अंकगणित) टेस्ट #16",
+          "questionCount": 10
+        },
+        {
+          "testId": "math_017",
+          "testTitle": "गणित (अंकगणित) टेस्ट #17",
+          "questionCount": 10
+        },
+        {
+          "testId": "math_018",
+          "testTitle": "गणित (अंकगणित) टेस्ट #18",
+          "questionCount": 10
+        },
+        {
+          "testId": "math_019",
+          "testTitle": "गणित (अंकगणित) टेस्ट #19",
+          "questionCount": 10
+        },
+        {
+          "testId": "math_020",
+          "testTitle": "गणित (अंकगणित) टेस्ट #20",
+          "questionCount": 10
+        },
+        {
+          "testId": "math_021",
+          "testTitle": "गणित (अंकगणित) टेस्ट #21",
+          "questionCount": 10
+        },
+        {
+          "testId": "math_022",
+          "testTitle": "गणित (अंकगणित) टेस्ट #22",
+          "questionCount": 10
+        },
+        {
+          "testId": "math_023",
+          "testTitle": "गणित (अंकगणित) टेस्ट #23",
+          "questionCount": 10
+        },
+        {
+          "testId": "math_024",
+          "testTitle": "गणित (अंकगणित) टेस्ट #24",
+          "questionCount": 10
+        },
+        {
+          "testId": "math_025",
+          "testTitle": "गणित (अंकगणित) टेस्ट #25",
+          "questionCount": 10
+        },
+        {
+          "testId": "math_026",
+          "testTitle": "गणित (अंकगणित) टेस्ट #26",
+          "questionCount": 10
+        },
+        {
+          "testId": "math_027",
+          "testTitle": "गणित (अंकगणित) टेस्ट #27",
+          "questionCount": 10
+        },
+        {
+          "testId": "math_028",
+          "testTitle": "गणित (अंकगणित) टेस्ट #28",
+          "questionCount": 10
+        },
+        {
+          "testId": "math_029",
+          "testTitle": "गणित (अंकगणित) टेस्ट #29",
+          "questionCount": 10
+        },
+        {
+          "testId": "math_030",
+          "testTitle": "गणित (अंकगणित) टेस्ट #30",
+          "questionCount": 10
+        },
+        {
+          "testId": "math_031",
+          "testTitle": "गणित (अंकगणित) टेस्ट #31",
+          "questionCount": 10
+        },
+        {
+          "testId": "math_032",
+          "testTitle": "गणित (अंकगणित) टेस्ट #32",
+          "questionCount": 10
+        },
+        {
+          "testId": "math_033",
+          "testTitle": "गणित (अंकगणित) टेस्ट #33",
+          "questionCount": 10
+        },
+        {
+          "testId": "math_034",
+          "testTitle": "गणित (अंकगणित) टेस्ट #34",
+          "questionCount": 10
+        },
+        {
+          "testId": "math_035",
+          "testTitle": "गणित (अंकगणित) टेस्ट #35",
+          "questionCount": 10
+        },
+        {
+          "testId": "math_036",
+          "testTitle": "गणित (अंकगणित) टेस्ट #36",
+          "questionCount": 10
+        },
+        {
+          "testId": "math_037",
+          "testTitle": "गणित (अंकगणित) टेस्ट #37",
+          "questionCount": 10
+        },
+        {
+          "testId": "math_038",
+          "testTitle": "गणित (अंकगणित) टेस्ट #38",
+          "questionCount": 10
+        },
+        {
+          "testId": "math_039",
+          "testTitle": "गणित (अंकगणित) टेस्ट #39",
+          "questionCount": 10
+        },
+        {
+          "testId": "math_040",
+          "testTitle": "गणित (अंकगणित) टेस्ट #40",
+          "questionCount": 10
+        },
+        {
+          "testId": "math_041",
+          "testTitle": "गणित (अंकगणित) टेस्ट #41",
+          "questionCount": 10
+        },
+        {
+          "testId": "math_042",
+          "testTitle": "गणित (अंकगणित) टेस्ट #42",
+          "questionCount": 10
+        },
+        {
+          "testId": "math_043",
+          "testTitle": "गणित (अंकगणित) टेस्ट #43",
+          "questionCount": 10
+        },
+        {
+          "testId": "math_044",
+          "testTitle": "गणित (अंकगणित) टेस्ट #44",
+          "questionCount": 10
+        },
+        {
+          "testId": "math_045",
+          "testTitle": "गणित (अंकगणित) टेस्ट #45",
+          "questionCount": 10
+        },
+        {
+          "testId": "math_046",
+          "testTitle": "गणित (अंकगणित) टेस्ट #46",
+          "questionCount": 10
+        },
+        {
+          "testId": "math_047",
+          "testTitle": "गणित (अंकगणित) टेस्ट #47",
+          "questionCount": 10
+        },
+        {
+          "testId": "math_048",
+          "testTitle": "गणित (अंकगणित) टेस्ट #48",
+          "questionCount": 10
+        },
+        {
+          "testId": "math_049",
+          "testTitle": "गणित (अंकगणित) टेस्ट #49",
+          "questionCount": 10
+        },
+        {
+          "testId": "math_050",
+          "testTitle": "गणित (अंकगणित) टेस्ट #50",
+          "questionCount": 10
+        },
+        {
+          "testId": "math_051",
+          "testTitle": "गणित (अंकगणित) टेस्ट #51",
+          "questionCount": 10
+        },
+        {
+          "testId": "math_052",
+          "testTitle": "गणित (अंकगणित) टेस्ट #52",
+          "questionCount": 10
+        },
+        {
+          "testId": "math_053",
+          "testTitle": "गणित (अंकगणित) टेस्ट #53",
+          "questionCount": 10
+        },
+        {
+          "testId": "math_054",
+          "testTitle": "गणित (अंकगणित) टेस्ट #54",
+          "questionCount": 10
+        },
+        {
+          "testId": "math_055",
+          "testTitle": "गणित (अंकगणित) टेस्ट #55",
+          "questionCount": 10
+        },
+        {
+          "testId": "math_056",
+          "testTitle": "गणित (अंकगणित) टेस्ट #56",
+          "questionCount": 10
+        },
+        {
+          "testId": "math_057",
+          "testTitle": "गणित (अंकगणित) टेस्ट #57",
+          "questionCount": 10
+        },
+        {
+          "testId": "math_058",
+          "testTitle": "गणित (अंकगणित) टेस्ट #58",
+          "questionCount": 10
+        },
+        {
+          "testId": "math_059",
+          "testTitle": "गणित (अंकगणित) टेस्ट #59",
+          "questionCount": 10
+        },
+        {
+          "testId": "math_060",
+          "testTitle": "गणित (अंकगणित) टेस्ट #60",
+          "questionCount": 10
+        },
+        {
+          "testId": "math_061",
+          "testTitle": "गणित (अंकगणित) टेस्ट #61",
+          "questionCount": 10
+        },
+        {
+          "testId": "math_062",
+          "testTitle": "गणित (अंकगणित) टेस्ट #62",
+          "questionCount": 10
+        },
+        {
+          "testId": "math_063",
+          "testTitle": "गणित (अंकगणित) टेस्ट #63",
+          "questionCount": 10
+        },
+        {
+          "testId": "math_064",
+          "testTitle": "गणित (अंकगणित) टेस्ट #64",
+          "questionCount": 10
+        },
+        {
+          "testId": "math_065",
+          "testTitle": "गणित (अंकगणित) टेस्ट #65",
+          "questionCount": 10
+        },
+        {
+          "testId": "math_066",
+          "testTitle": "गणित (अंकगणित) टेस्ट #66",
+          "questionCount": 10
+        },
+        {
+          "testId": "math_067",
+          "testTitle": "गणित (अंकगणित) टेस्ट #67",
+          "questionCount": 10
+        },
+        {
+          "testId": "math_068",
+          "testTitle": "गणित (अंकगणित) टेस्ट #68",
+          "questionCount": 10
+        },
+        {
+          "testId": "math_069",
+          "testTitle": "गणित (अंकगणित) टेस्ट #69",
+          "questionCount": 10
+        },
+        {
+          "testId": "math_070",
+          "testTitle": "गणित (अंकगणित) टेस्ट #70",
+          "questionCount": 10
+        },
+        {
+          "testId": "math_071",
+          "testTitle": "गणित (अंकगणित) टेस्ट #71",
+          "questionCount": 10
+        },
+        {
+          "testId": "math_072",
+          "testTitle": "गणित (अंकगणित) टेस्ट #72",
+          "questionCount": 10
+        },
+        {
+          "testId": "math_073",
+          "testTitle": "गणित (अंकगणित) टेस्ट #73",
+          "questionCount": 10
+        },
+        {
+          "testId": "math_074",
+          "testTitle": "गणित (अंकगणित) टेस्ट #74",
+          "questionCount": 10
+        },
+        {
+          "testId": "math_075",
+          "testTitle": "गणित (अंकगणित) टेस्ट #75",
+          "questionCount": 10
+        },
+        {
+          "testId": "math_076",
+          "testTitle": "गणित (अंकगणित) टेस्ट #76",
+          "questionCount": 10
+        },
+        {
+          "testId": "math_077",
+          "testTitle": "गणित (अंकगणित) टेस्ट #77",
+          "questionCount": 10
+        },
+        {
+          "testId": "math_078",
+          "testTitle": "गणित (अंकगणित) टेस्ट #78",
+          "questionCount": 10
+        },
+        {
+          "testId": "math_079",
+          "testTitle": "गणित (अंकगणित) टेस्ट #79",
+          "questionCount": 10
+        },
+        {
+          "testId": "math_080",
+          "testTitle": "गणित (अंकगणित) टेस्ट #80",
+          "questionCount": 10
+        },
+        {
+          "testId": "math_081",
+          "testTitle": "गणित (अंकगणित) टेस्ट #81",
+          "questionCount": 10
+        },
+        {
+          "testId": "math_082",
+          "testTitle": "गणित (अंकगणित) टेस्ट #82",
+          "questionCount": 10
+        },
+        {
+          "testId": "math_083",
+          "testTitle": "गणित (अंकगणित) टेस्ट #83",
+          "questionCount": 10
+        },
+        {
+          "testId": "math_084",
+          "testTitle": "गणित (अंकगणित) टेस्ट #84",
+          "questionCount": 10
+        },
+        {
+          "testId": "math_085",
+          "testTitle": "गणित (अंकगणित) टेस्ट #85",
+          "questionCount": 10
+        },
+        {
+          "testId": "math_086",
+          "testTitle": "गणित (अंकगणित) टेस्ट #86",
+          "questionCount": 10
+        },
+        {
+          "testId": "math_087",
+          "testTitle": "गणित (अंकगणित) टेस्ट #87",
+          "questionCount": 10
+        },
+        {
+          "testId": "math_088",
+          "testTitle": "गणित (अंकगणित) टेस्ट #88",
+          "questionCount": 10
+        },
+        {
+          "testId": "math_089",
+          "testTitle": "गणित (अंकगणित) टेस्ट #89",
+          "questionCount": 10
+        },
+        {
+          "testId": "math_090",
+          "testTitle": "गणित (अंकगणित) टेस्ट #90",
+          "questionCount": 10
+        },
+        {
+          "testId": "math_091",
+          "testTitle": "गणित (अंकगणित) टेस्ट #91",
+          "questionCount": 10
+        },
+        {
+          "testId": "math_092",
+          "testTitle": "गणित (अंकगणित) टेस्ट #92",
+          "questionCount": 10
+        },
+        {
+          "testId": "math_093",
+          "testTitle": "गणित (अंकगणित) टेस्ट #93",
+          "questionCount": 10
+        },
+        {
+          "testId": "math_094",
+          "testTitle": "गणित (अंकगणित) टेस्ट #94",
+          "questionCount": 10
+        },
+        {
+          "testId": "math_095",
+          "testTitle": "गणित (अंकगणित) टेस्ट #95",
+          "questionCount": 10
+        },
+        {
+          "testId": "math_096",
+          "testTitle": "गणित (अंकगणित) टेस्ट #96",
+          "questionCount": 10
+        },
+        {
+          "testId": "math_097",
+          "testTitle": "गणित (अंकगणित) टेस्ट #97",
+          "questionCount": 10
+        },
+        {
+          "testId": "math_098",
+          "testTitle": "गणित (अंकगणित) टेस्ट #98",
+          "questionCount": 10
+        },
+        {
+          "testId": "math_099",
+          "testTitle": "गणित (अंकगणित) टेस्ट #99",
+          "questionCount": 10
+        },
+        {
+          "testId": "math_100",
+          "testTitle": "गणित (अंकगणित) टेस्ट #100",
+          "questionCount": 10
+        }
+      ]
+    },
+    "REASONING": {
+      "subjectCode": "REASONING",
+      "subjectName": "तार्किक क्षमता (रीजनिंग)",
+      "totalTests": 100,
+      "tests": [
+        {
+          "testId": "reasoning_001",
+          "testTitle": "तार्किक क्षमता (रीजनिंग) टेस्ट #01",
+          "questionCount": 10
+        },
+        {
+          "testId": "reasoning_002",
+          "testTitle": "तार्किक क्षमता (रीजनिंग) टेस्ट #02",
+          "questionCount": 10
+        },
+        {
+          "testId": "reasoning_003",
+          "testTitle": "तार्किक क्षमता (रीजनिंग) टेस्ट #03",
+          "questionCount": 10
+        },
+        {
+          "testId": "reasoning_004",
+          "testTitle": "तार्किक क्षमता (रीजनिंग) टेस्ट #04",
+          "questionCount": 10
+        },
+        {
+          "testId": "reasoning_005",
+          "testTitle": "तार्किक क्षमता (रीजनिंग) टेस्ट #05",
+          "questionCount": 10
+        },
+        {
+          "testId": "reasoning_006",
+          "testTitle": "तार्किक क्षमता (रीजनिंग) टेस्ट #06",
+          "questionCount": 10
+        },
+        {
+          "testId": "reasoning_007",
+          "testTitle": "तार्किक क्षमता (रीजनिंग) टेस्ट #07",
+          "questionCount": 10
+        },
+        {
+          "testId": "reasoning_008",
+          "testTitle": "तार्किक क्षमता (रीजनिंग) टेस्ट #08",
+          "questionCount": 10
+        },
+        {
+          "testId": "reasoning_009",
+          "testTitle": "तार्किक क्षमता (रीजनिंग) टेस्ट #09",
+          "questionCount": 10
+        },
+        {
+          "testId": "reasoning_010",
+          "testTitle": "तार्किक क्षमता (रीजनिंग) टेस्ट #10",
+          "questionCount": 10
+        },
+        {
+          "testId": "reasoning_011",
+          "testTitle": "तार्किक क्षमता (रीजनिंग) टेस्ट #11",
+          "questionCount": 10
+        },
+        {
+          "testId": "reasoning_012",
+          "testTitle": "तार्किक क्षमता (रीजनिंग) टेस्ट #12",
+          "questionCount": 10
+        },
+        {
+          "testId": "reasoning_013",
+          "testTitle": "तार्किक क्षमता (रीजनिंग) टेस्ट #13",
+          "questionCount": 10
+        },
+        {
+          "testId": "reasoning_014",
+          "testTitle": "तार्किक क्षमता (रीजनिंग) टेस्ट #14",
+          "questionCount": 10
+        },
+        {
+          "testId": "reasoning_015",
+          "testTitle": "तार्किक क्षमता (रीजनिंग) टेस्ट #15",
+          "questionCount": 10
+        },
+        {
+          "testId": "reasoning_016",
+          "testTitle": "तार्किक क्षमता (रीजनिंग) टेस्ट #16",
+          "questionCount": 10
+        },
+        {
+          "testId": "reasoning_017",
+          "testTitle": "तार्किक क्षमता (रीजनिंग) टेस्ट #17",
+          "questionCount": 10
+        },
+        {
+          "testId": "reasoning_018",
+          "testTitle": "तार्किक क्षमता (रीजनिंग) टेस्ट #18",
+          "questionCount": 10
+        },
+        {
+          "testId": "reasoning_019",
+          "testTitle": "तार्किक क्षमता (रीजनिंग) टेस्ट #19",
+          "questionCount": 10
+        },
+        {
+          "testId": "reasoning_020",
+          "testTitle": "तार्किक क्षमता (रीजनिंग) टेस्ट #20",
+          "questionCount": 10
+        },
+        {
+          "testId": "reasoning_021",
+          "testTitle": "तार्किक क्षमता (रीजनिंग) टेस्ट #21",
+          "questionCount": 10
+        },
+        {
+          "testId": "reasoning_022",
+          "testTitle": "तार्किक क्षमता (रीजनिंग) टेस्ट #22",
+          "questionCount": 10
+        },
+        {
+          "testId": "reasoning_023",
+          "testTitle": "तार्किक क्षमता (रीजनिंग) टेस्ट #23",
+          "questionCount": 10
+        },
+        {
+          "testId": "reasoning_024",
+          "testTitle": "तार्किक क्षमता (रीजनिंग) टेस्ट #24",
+          "questionCount": 10
+        },
+        {
+          "testId": "reasoning_025",
+          "testTitle": "तार्किक क्षमता (रीजनिंग) टेस्ट #25",
+          "questionCount": 10
+        },
+        {
+          "testId": "reasoning_026",
+          "testTitle": "तार्किक क्षमता (रीजनिंग) टेस्ट #26",
+          "questionCount": 10
+        },
+        {
+          "testId": "reasoning_027",
+          "testTitle": "तार्किक क्षमता (रीजनिंग) टेस्ट #27",
+          "questionCount": 10
+        },
+        {
+          "testId": "reasoning_028",
+          "testTitle": "तार्किक क्षमता (रीजनिंग) टेस्ट #28",
+          "questionCount": 10
+        },
+        {
+          "testId": "reasoning_029",
+          "testTitle": "तार्किक क्षमता (रीजनिंग) टेस्ट #29",
+          "questionCount": 10
+        },
+        {
+          "testId": "reasoning_030",
+          "testTitle": "तार्किक क्षमता (रीजनिंग) टेस्ट #30",
+          "questionCount": 10
+        },
+        {
+          "testId": "reasoning_031",
+          "testTitle": "तार्किक क्षमता (रीजनिंग) टेस्ट #31",
+          "questionCount": 10
+        },
+        {
+          "testId": "reasoning_032",
+          "testTitle": "तार्किक क्षमता (रीजनिंग) टेस्ट #32",
+          "questionCount": 10
+        },
+        {
+          "testId": "reasoning_033",
+          "testTitle": "तार्किक क्षमता (रीजनिंग) टेस्ट #33",
+          "questionCount": 10
+        },
+        {
+          "testId": "reasoning_034",
+          "testTitle": "तार्किक क्षमता (रीजनिंग) टेस्ट #34",
+          "questionCount": 10
+        },
+        {
+          "testId": "reasoning_035",
+          "testTitle": "तार्किक क्षमता (रीजनिंग) टेस्ट #35",
+          "questionCount": 10
+        },
+        {
+          "testId": "reasoning_036",
+          "testTitle": "तार्किक क्षमता (रीजनिंग) टेस्ट #36",
+          "questionCount": 10
+        },
+        {
+          "testId": "reasoning_037",
+          "testTitle": "तार्किक क्षमता (रीजनिंग) टेस्ट #37",
+          "questionCount": 10
+        },
+        {
+          "testId": "reasoning_038",
+          "testTitle": "तार्किक क्षमता (रीजनिंग) टेस्ट #38",
+          "questionCount": 10
+        },
+        {
+          "testId": "reasoning_039",
+          "testTitle": "तार्किक क्षमता (रीजनिंग) टेस्ट #39",
+          "questionCount": 10
+        },
+        {
+          "testId": "reasoning_040",
+          "testTitle": "तार्किक क्षमता (रीजनिंग) टेस्ट #40",
+          "questionCount": 10
+        },
+        {
+          "testId": "reasoning_041",
+          "testTitle": "तार्किक क्षमता (रीजनिंग) टेस्ट #41",
+          "questionCount": 10
+        },
+        {
+          "testId": "reasoning_042",
+          "testTitle": "तार्किक क्षमता (रीजनिंग) टेस्ट #42",
+          "questionCount": 10
+        },
+        {
+          "testId": "reasoning_043",
+          "testTitle": "तार्किक क्षमता (रीजनिंग) टेस्ट #43",
+          "questionCount": 10
+        },
+        {
+          "testId": "reasoning_044",
+          "testTitle": "तार्किक क्षमता (रीजनिंग) टेस्ट #44",
+          "questionCount": 10
+        },
+        {
+          "testId": "reasoning_045",
+          "testTitle": "तार्किक क्षमता (रीजनिंग) टेस्ट #45",
+          "questionCount": 10
+        },
+        {
+          "testId": "reasoning_046",
+          "testTitle": "तार्किक क्षमता (रीजनिंग) टेस्ट #46",
+          "questionCount": 10
+        },
+        {
+          "testId": "reasoning_047",
+          "testTitle": "तार्किक क्षमता (रीजनिंग) टेस्ट #47",
+          "questionCount": 10
+        },
+        {
+          "testId": "reasoning_048",
+          "testTitle": "तार्किक क्षमता (रीजनिंग) टेस्ट #48",
+          "questionCount": 10
+        },
+        {
+          "testId": "reasoning_049",
+          "testTitle": "तार्किक क्षमता (रीजनिंग) टेस्ट #49",
+          "questionCount": 10
+        },
+        {
+          "testId": "reasoning_050",
+          "testTitle": "तार्किक क्षमता (रीजनिंग) टेस्ट #50",
+          "questionCount": 10
+        },
+        {
+          "testId": "reasoning_051",
+          "testTitle": "तार्किक क्षमता (रीजनिंग) टेस्ट #51",
+          "questionCount": 10
+        },
+        {
+          "testId": "reasoning_052",
+          "testTitle": "तार्किक क्षमता (रीजनिंग) टेस्ट #52",
+          "questionCount": 10
+        },
+        {
+          "testId": "reasoning_053",
+          "testTitle": "तार्किक क्षमता (रीजनिंग) टेस्ट #53",
+          "questionCount": 10
+        },
+        {
+          "testId": "reasoning_054",
+          "testTitle": "तार्किक क्षमता (रीजनिंग) टेस्ट #54",
+          "questionCount": 10
+        },
+        {
+          "testId": "reasoning_055",
+          "testTitle": "तार्किक क्षमता (रीजनिंग) टेस्ट #55",
+          "questionCount": 10
+        },
+        {
+          "testId": "reasoning_056",
+          "testTitle": "तार्किक क्षमता (रीजनिंग) टेस्ट #56",
+          "questionCount": 10
+        },
+        {
+          "testId": "reasoning_057",
+          "testTitle": "तार्किक क्षमता (रीजनिंग) टेस्ट #57",
+          "questionCount": 10
+        },
+        {
+          "testId": "reasoning_058",
+          "testTitle": "तार्किक क्षमता (रीजनिंग) टेस्ट #58",
+          "questionCount": 10
+        },
+        {
+          "testId": "reasoning_059",
+          "testTitle": "तार्किक क्षमता (रीजनिंग) टेस्ट #59",
+          "questionCount": 10
+        },
+        {
+          "testId": "reasoning_060",
+          "testTitle": "तार्किक क्षमता (रीजनिंग) टेस्ट #60",
+          "questionCount": 10
+        },
+        {
+          "testId": "reasoning_061",
+          "testTitle": "तार्किक क्षमता (रीजनिंग) टेस्ट #61",
+          "questionCount": 10
+        },
+        {
+          "testId": "reasoning_062",
+          "testTitle": "तार्किक क्षमता (रीजनिंग) टेस्ट #62",
+          "questionCount": 10
+        },
+        {
+          "testId": "reasoning_063",
+          "testTitle": "तार्किक क्षमता (रीजनिंग) टेस्ट #63",
+          "questionCount": 10
+        },
+        {
+          "testId": "reasoning_064",
+          "testTitle": "तार्किक क्षमता (रीजनिंग) टेस्ट #64",
+          "questionCount": 10
+        },
+        {
+          "testId": "reasoning_065",
+          "testTitle": "तार्किक क्षमता (रीजनिंग) टेस्ट #65",
+          "questionCount": 10
+        },
+        {
+          "testId": "reasoning_066",
+          "testTitle": "तार्किक क्षमता (रीजनिंग) टेस्ट #66",
+          "questionCount": 10
+        },
+        {
+          "testId": "reasoning_067",
+          "testTitle": "तार्किक क्षमता (रीजनिंग) टेस्ट #67",
+          "questionCount": 10
+        },
+        {
+          "testId": "reasoning_068",
+          "testTitle": "तार्किक क्षमता (रीजनिंग) टेस्ट #68",
+          "questionCount": 10
+        },
+        {
+          "testId": "reasoning_069",
+          "testTitle": "तार्किक क्षमता (रीजनिंग) टेस्ट #69",
+          "questionCount": 10
+        },
+        {
+          "testId": "reasoning_070",
+          "testTitle": "तार्किक क्षमता (रीजनिंग) टेस्ट #70",
+          "questionCount": 10
+        },
+        {
+          "testId": "reasoning_071",
+          "testTitle": "तार्किक क्षमता (रीजनिंग) टेस्ट #71",
+          "questionCount": 10
+        },
+        {
+          "testId": "reasoning_072",
+          "testTitle": "तार्किक क्षमता (रीजनिंग) टेस्ट #72",
+          "questionCount": 10
+        },
+        {
+          "testId": "reasoning_073",
+          "testTitle": "तार्किक क्षमता (रीजनिंग) टेस्ट #73",
+          "questionCount": 10
+        },
+        {
+          "testId": "reasoning_074",
+          "testTitle": "तार्किक क्षमता (रीजनिंग) टेस्ट #74",
+          "questionCount": 10
+        },
+        {
+          "testId": "reasoning_075",
+          "testTitle": "तार्किक क्षमता (रीजनिंग) टेस्ट #75",
+          "questionCount": 10
+        },
+        {
+          "testId": "reasoning_076",
+          "testTitle": "तार्किक क्षमता (रीजनिंग) टेस्ट #76",
+          "questionCount": 10
+        },
+        {
+          "testId": "reasoning_077",
+          "testTitle": "तार्किक क्षमता (रीजनिंग) टेस्ट #77",
+          "questionCount": 10
+        },
+        {
+          "testId": "reasoning_078",
+          "testTitle": "तार्किक क्षमता (रीजनिंग) टेस्ट #78",
+          "questionCount": 10
+        },
+        {
+          "testId": "reasoning_079",
+          "testTitle": "तार्किक क्षमता (रीजनिंग) टेस्ट #79",
+          "questionCount": 10
+        },
+        {
+          "testId": "reasoning_080",
+          "testTitle": "तार्किक क्षमता (रीजनिंग) टेस्ट #80",
+          "questionCount": 10
+        },
+        {
+          "testId": "reasoning_081",
+          "testTitle": "तार्किक क्षमता (रीजनिंग) टेस्ट #81",
+          "questionCount": 10
+        },
+        {
+          "testId": "reasoning_082",
+          "testTitle": "तार्किक क्षमता (रीजनिंग) टेस्ट #82",
+          "questionCount": 10
+        },
+        {
+          "testId": "reasoning_083",
+          "testTitle": "तार्किक क्षमता (रीजनिंग) टेस्ट #83",
+          "questionCount": 10
+        },
+        {
+          "testId": "reasoning_084",
+          "testTitle": "तार्किक क्षमता (रीजनिंग) टेस्ट #84",
+          "questionCount": 10
+        },
+        {
+          "testId": "reasoning_085",
+          "testTitle": "तार्किक क्षमता (रीजनिंग) टेस्ट #85",
+          "questionCount": 10
+        },
+        {
+          "testId": "reasoning_086",
+          "testTitle": "तार्किक क्षमता (रीजनिंग) टेस्ट #86",
+          "questionCount": 10
+        },
+        {
+          "testId": "reasoning_087",
+          "testTitle": "तार्किक क्षमता (रीजनिंग) टेस्ट #87",
+          "questionCount": 10
+        },
+        {
+          "testId": "reasoning_088",
+          "testTitle": "तार्किक क्षमता (रीजनिंग) टेस्ट #88",
+          "questionCount": 10
+        },
+        {
+          "testId": "reasoning_089",
+          "testTitle": "तार्किक क्षमता (रीजनिंग) टेस्ट #89",
+          "questionCount": 10
+        },
+        {
+          "testId": "reasoning_090",
+          "testTitle": "तार्किक क्षमता (रीजनिंग) टेस्ट #90",
+          "questionCount": 10
+        },
+        {
+          "testId": "reasoning_091",
+          "testTitle": "तार्किक क्षमता (रीजनिंग) टेस्ट #91",
+          "questionCount": 10
+        },
+        {
+          "testId": "reasoning_092",
+          "testTitle": "तार्किक क्षमता (रीजनिंग) टेस्ट #92",
+          "questionCount": 10
+        },
+        {
+          "testId": "reasoning_093",
+          "testTitle": "तार्किक क्षमता (रीजनिंग) टेस्ट #93",
+          "questionCount": 10
+        },
+        {
+          "testId": "reasoning_094",
+          "testTitle": "तार्किक क्षमता (रीजनिंग) टेस्ट #94",
+          "questionCount": 10
+        },
+        {
+          "testId": "reasoning_095",
+          "testTitle": "तार्किक क्षमता (रीजनिंग) टेस्ट #95",
+          "questionCount": 10
+        },
+        {
+          "testId": "reasoning_096",
+          "testTitle": "तार्किक क्षमता (रीजनिंग) टेस्ट #96",
+          "questionCount": 10
+        },
+        {
+          "testId": "reasoning_097",
+          "testTitle": "तार्किक क्षमता (रीजनिंग) टेस्ट #97",
+          "questionCount": 10
+        },
+        {
+          "testId": "reasoning_098",
+          "testTitle": "तार्किक क्षमता (रीजनिंग) टेस्ट #98",
+          "questionCount": 10
+        },
+        {
+          "testId": "reasoning_099",
+          "testTitle": "तार्किक क्षमता (रीजनिंग) टेस्ट #99",
+          "questionCount": 10
+        },
+        {
+          "testId": "reasoning_100",
+          "testTitle": "तार्किक क्षमता (रीजनिंग) टेस्ट #100",
+          "questionCount": 10
+        }
+      ]
+    },
+    "GK": {
+      "subjectCode": "GK",
+      "subjectName": "सामान्य ज्ञान एवं MP GK",
+      "totalTests": 100,
+      "tests": [
+        {
+          "testId": "gk_001",
+          "testTitle": "सामान्य ज्ञान एवं MP GK टेस्ट #01",
+          "questionCount": 10
+        },
+        {
+          "testId": "gk_002",
+          "testTitle": "सामान्य ज्ञान एवं MP GK टेस्ट #02",
+          "questionCount": 10
+        },
+        {
+          "testId": "gk_003",
+          "testTitle": "सामान्य ज्ञान एवं MP GK टेस्ट #03",
+          "questionCount": 10
+        },
+        {
+          "testId": "gk_004",
+          "testTitle": "सामान्य ज्ञान एवं MP GK टेस्ट #04",
+          "questionCount": 10
+        },
+        {
+          "testId": "gk_005",
+          "testTitle": "सामान्य ज्ञान एवं MP GK टेस्ट #05",
+          "questionCount": 10
+        },
+        {
+          "testId": "gk_006",
+          "testTitle": "सामान्य ज्ञान एवं MP GK टेस्ट #06",
+          "questionCount": 10
+        },
+        {
+          "testId": "gk_007",
+          "testTitle": "सामान्य ज्ञान एवं MP GK टेस्ट #07",
+          "questionCount": 10
+        },
+        {
+          "testId": "gk_008",
+          "testTitle": "सामान्य ज्ञान एवं MP GK टेस्ट #08",
+          "questionCount": 10
+        },
+        {
+          "testId": "gk_009",
+          "testTitle": "सामान्य ज्ञान एवं MP GK टेस्ट #09",
+          "questionCount": 10
+        },
+        {
+          "testId": "gk_010",
+          "testTitle": "सामान्य ज्ञान एवं MP GK टेस्ट #10",
+          "questionCount": 10
+        },
+        {
+          "testId": "gk_011",
+          "testTitle": "सामान्य ज्ञान एवं MP GK टेस्ट #11",
+          "questionCount": 10
+        },
+        {
+          "testId": "gk_012",
+          "testTitle": "सामान्य ज्ञान एवं MP GK टेस्ट #12",
+          "questionCount": 10
+        },
+        {
+          "testId": "gk_013",
+          "testTitle": "सामान्य ज्ञान एवं MP GK टेस्ट #13",
+          "questionCount": 10
+        },
+        {
+          "testId": "gk_014",
+          "testTitle": "सामान्य ज्ञान एवं MP GK टेस्ट #14",
+          "questionCount": 10
+        },
+        {
+          "testId": "gk_015",
+          "testTitle": "सामान्य ज्ञान एवं MP GK टेस्ट #15",
+          "questionCount": 10
+        },
+        {
+          "testId": "gk_016",
+          "testTitle": "सामान्य ज्ञान एवं MP GK टेस्ट #16",
+          "questionCount": 10
+        },
+        {
+          "testId": "gk_017",
+          "testTitle": "सामान्य ज्ञान एवं MP GK टेस्ट #17",
+          "questionCount": 10
+        },
+        {
+          "testId": "gk_018",
+          "testTitle": "सामान्य ज्ञान एवं MP GK टेस्ट #18",
+          "questionCount": 10
+        },
+        {
+          "testId": "gk_019",
+          "testTitle": "सामान्य ज्ञान एवं MP GK टेस्ट #19",
+          "questionCount": 10
+        },
+        {
+          "testId": "gk_020",
+          "testTitle": "सामान्य ज्ञान एवं MP GK टेस्ट #20",
+          "questionCount": 10
+        },
+        {
+          "testId": "gk_021",
+          "testTitle": "सामान्य ज्ञान एवं MP GK टेस्ट #21",
+          "questionCount": 10
+        },
+        {
+          "testId": "gk_022",
+          "testTitle": "सामान्य ज्ञान एवं MP GK टेस्ट #22",
+          "questionCount": 10
+        },
+        {
+          "testId": "gk_023",
+          "testTitle": "सामान्य ज्ञान एवं MP GK टेस्ट #23",
+          "questionCount": 10
+        },
+        {
+          "testId": "gk_024",
+          "testTitle": "सामान्य ज्ञान एवं MP GK टेस्ट #24",
+          "questionCount": 10
+        },
+        {
+          "testId": "gk_025",
+          "testTitle": "सामान्य ज्ञान एवं MP GK टेस्ट #25",
+          "questionCount": 10
+        },
+        {
+          "testId": "gk_026",
+          "testTitle": "सामान्य ज्ञान एवं MP GK टेस्ट #26",
+          "questionCount": 10
+        },
+        {
+          "testId": "gk_027",
+          "testTitle": "सामान्य ज्ञान एवं MP GK टेस्ट #27",
+          "questionCount": 10
+        },
+        {
+          "testId": "gk_028",
+          "testTitle": "सामान्य ज्ञान एवं MP GK टेस्ट #28",
+          "questionCount": 10
+        },
+        {
+          "testId": "gk_029",
+          "testTitle": "सामान्य ज्ञान एवं MP GK टेस्ट #29",
+          "questionCount": 10
+        },
+        {
+          "testId": "gk_030",
+          "testTitle": "सामान्य ज्ञान एवं MP GK टेस्ट #30",
+          "questionCount": 10
+        },
+        {
+          "testId": "gk_031",
+          "testTitle": "सामान्य ज्ञान एवं MP GK टेस्ट #31",
+          "questionCount": 10
+        },
+        {
+          "testId": "gk_032",
+          "testTitle": "सामान्य ज्ञान एवं MP GK टेस्ट #32",
+          "questionCount": 10
+        },
+        {
+          "testId": "gk_033",
+          "testTitle": "सामान्य ज्ञान एवं MP GK टेस्ट #33",
+          "questionCount": 10
+        },
+        {
+          "testId": "gk_034",
+          "testTitle": "सामान्य ज्ञान एवं MP GK टेस्ट #34",
+          "questionCount": 10
+        },
+        {
+          "testId": "gk_035",
+          "testTitle": "सामान्य ज्ञान एवं MP GK टेस्ट #35",
+          "questionCount": 10
+        },
+        {
+          "testId": "gk_036",
+          "testTitle": "सामान्य ज्ञान एवं MP GK टेस्ट #36",
+          "questionCount": 10
+        },
+        {
+          "testId": "gk_037",
+          "testTitle": "सामान्य ज्ञान एवं MP GK टेस्ट #37",
+          "questionCount": 10
+        },
+        {
+          "testId": "gk_038",
+          "testTitle": "सामान्य ज्ञान एवं MP GK टेस्ट #38",
+          "questionCount": 10
+        },
+        {
+          "testId": "gk_039",
+          "testTitle": "सामान्य ज्ञान एवं MP GK टेस्ट #39",
+          "questionCount": 10
+        },
+        {
+          "testId": "gk_040",
+          "testTitle": "सामान्य ज्ञान एवं MP GK टेस्ट #40",
+          "questionCount": 10
+        },
+        {
+          "testId": "gk_041",
+          "testTitle": "सामान्य ज्ञान एवं MP GK टेस्ट #41",
+          "questionCount": 10
+        },
+        {
+          "testId": "gk_042",
+          "testTitle": "सामान्य ज्ञान एवं MP GK टेस्ट #42",
+          "questionCount": 10
+        },
+        {
+          "testId": "gk_043",
+          "testTitle": "सामान्य ज्ञान एवं MP GK टेस्ट #43",
+          "questionCount": 10
+        },
+        {
+          "testId": "gk_044",
+          "testTitle": "सामान्य ज्ञान एवं MP GK टेस्ट #44",
+          "questionCount": 10
+        },
+        {
+          "testId": "gk_045",
+          "testTitle": "सामान्य ज्ञान एवं MP GK टेस्ट #45",
+          "questionCount": 10
+        },
+        {
+          "testId": "gk_046",
+          "testTitle": "सामान्य ज्ञान एवं MP GK टेस्ट #46",
+          "questionCount": 10
+        },
+        {
+          "testId": "gk_047",
+          "testTitle": "सामान्य ज्ञान एवं MP GK टेस्ट #47",
+          "questionCount": 10
+        },
+        {
+          "testId": "gk_048",
+          "testTitle": "सामान्य ज्ञान एवं MP GK टेस्ट #48",
+          "questionCount": 10
+        },
+        {
+          "testId": "gk_049",
+          "testTitle": "सामान्य ज्ञान एवं MP GK टेस्ट #49",
+          "questionCount": 10
+        },
+        {
+          "testId": "gk_050",
+          "testTitle": "सामान्य ज्ञान एवं MP GK टेस्ट #50",
+          "questionCount": 10
+        },
+        {
+          "testId": "gk_051",
+          "testTitle": "सामान्य ज्ञान एवं MP GK टेस्ट #51",
+          "questionCount": 10
+        },
+        {
+          "testId": "gk_052",
+          "testTitle": "सामान्य ज्ञान एवं MP GK टेस्ट #52",
+          "questionCount": 10
+        },
+        {
+          "testId": "gk_053",
+          "testTitle": "सामान्य ज्ञान एवं MP GK टेस्ट #53",
+          "questionCount": 10
+        },
+        {
+          "testId": "gk_054",
+          "testTitle": "सामान्य ज्ञान एवं MP GK टेस्ट #54",
+          "questionCount": 10
+        },
+        {
+          "testId": "gk_055",
+          "testTitle": "सामान्य ज्ञान एवं MP GK टेस्ट #55",
+          "questionCount": 10
+        },
+        {
+          "testId": "gk_056",
+          "testTitle": "सामान्य ज्ञान एवं MP GK टेस्ट #56",
+          "questionCount": 10
+        },
+        {
+          "testId": "gk_057",
+          "testTitle": "सामान्य ज्ञान एवं MP GK टेस्ट #57",
+          "questionCount": 10
+        },
+        {
+          "testId": "gk_058",
+          "testTitle": "सामान्य ज्ञान एवं MP GK टेस्ट #58",
+          "questionCount": 10
+        },
+        {
+          "testId": "gk_059",
+          "testTitle": "सामान्य ज्ञान एवं MP GK टेस्ट #59",
+          "questionCount": 10
+        },
+        {
+          "testId": "gk_060",
+          "testTitle": "सामान्य ज्ञान एवं MP GK टेस्ट #60",
+          "questionCount": 10
+        },
+        {
+          "testId": "gk_061",
+          "testTitle": "सामान्य ज्ञान एवं MP GK टेस्ट #61",
+          "questionCount": 10
+        },
+        {
+          "testId": "gk_062",
+          "testTitle": "सामान्य ज्ञान एवं MP GK टेस्ट #62",
+          "questionCount": 10
+        },
+        {
+          "testId": "gk_063",
+          "testTitle": "सामान्य ज्ञान एवं MP GK टेस्ट #63",
+          "questionCount": 10
+        },
+        {
+          "testId": "gk_064",
+          "testTitle": "सामान्य ज्ञान एवं MP GK टेस्ट #64",
+          "questionCount": 10
+        },
+        {
+          "testId": "gk_065",
+          "testTitle": "सामान्य ज्ञान एवं MP GK टेस्ट #65",
+          "questionCount": 10
+        },
+        {
+          "testId": "gk_066",
+          "testTitle": "सामान्य ज्ञान एवं MP GK टेस्ट #66",
+          "questionCount": 10
+        },
+        {
+          "testId": "gk_067",
+          "testTitle": "सामान्य ज्ञान एवं MP GK टेस्ट #67",
+          "questionCount": 10
+        },
+        {
+          "testId": "gk_068",
+          "testTitle": "सामान्य ज्ञान एवं MP GK टेस्ट #68",
+          "questionCount": 10
+        },
+        {
+          "testId": "gk_069",
+          "testTitle": "सामान्य ज्ञान एवं MP GK टेस्ट #69",
+          "questionCount": 10
+        },
+        {
+          "testId": "gk_070",
+          "testTitle": "सामान्य ज्ञान एवं MP GK टेस्ट #70",
+          "questionCount": 10
+        },
+        {
+          "testId": "gk_071",
+          "testTitle": "सामान्य ज्ञान एवं MP GK टेस्ट #71",
+          "questionCount": 10
+        },
+        {
+          "testId": "gk_072",
+          "testTitle": "सामान्य ज्ञान एवं MP GK टेस्ट #72",
+          "questionCount": 10
+        },
+        {
+          "testId": "gk_073",
+          "testTitle": "सामान्य ज्ञान एवं MP GK टेस्ट #73",
+          "questionCount": 10
+        },
+        {
+          "testId": "gk_074",
+          "testTitle": "सामान्य ज्ञान एवं MP GK टेस्ट #74",
+          "questionCount": 10
+        },
+        {
+          "testId": "gk_075",
+          "testTitle": "सामान्य ज्ञान एवं MP GK टेस्ट #75",
+          "questionCount": 10
+        },
+        {
+          "testId": "gk_076",
+          "testTitle": "सामान्य ज्ञान एवं MP GK टेस्ट #76",
+          "questionCount": 10
+        },
+        {
+          "testId": "gk_077",
+          "testTitle": "सामान्य ज्ञान एवं MP GK टेस्ट #77",
+          "questionCount": 10
+        },
+        {
+          "testId": "gk_078",
+          "testTitle": "सामान्य ज्ञान एवं MP GK टेस्ट #78",
+          "questionCount": 10
+        },
+        {
+          "testId": "gk_079",
+          "testTitle": "सामान्य ज्ञान एवं MP GK टेस्ट #79",
+          "questionCount": 10
+        },
+        {
+          "testId": "gk_080",
+          "testTitle": "सामान्य ज्ञान एवं MP GK टेस्ट #80",
+          "questionCount": 10
+        },
+        {
+          "testId": "gk_081",
+          "testTitle": "सामान्य ज्ञान एवं MP GK टेस्ट #81",
+          "questionCount": 10
+        },
+        {
+          "testId": "gk_082",
+          "testTitle": "सामान्य ज्ञान एवं MP GK टेस्ट #82",
+          "questionCount": 10
+        },
+        {
+          "testId": "gk_083",
+          "testTitle": "सामान्य ज्ञान एवं MP GK टेस्ट #83",
+          "questionCount": 10
+        },
+        {
+          "testId": "gk_084",
+          "testTitle": "सामान्य ज्ञान एवं MP GK टेस्ट #84",
+          "questionCount": 10
+        },
+        {
+          "testId": "gk_085",
+          "testTitle": "सामान्य ज्ञान एवं MP GK टेस्ट #85",
+          "questionCount": 10
+        },
+        {
+          "testId": "gk_086",
+          "testTitle": "सामान्य ज्ञान एवं MP GK टेस्ट #86",
+          "questionCount": 10
+        },
+        {
+          "testId": "gk_087",
+          "testTitle": "सामान्य ज्ञान एवं MP GK टेस्ट #87",
+          "questionCount": 10
+        },
+        {
+          "testId": "gk_088",
+          "testTitle": "सामान्य ज्ञान एवं MP GK टेस्ट #88",
+          "questionCount": 10
+        },
+        {
+          "testId": "gk_089",
+          "testTitle": "सामान्य ज्ञान एवं MP GK टेस्ट #89",
+          "questionCount": 10
+        },
+        {
+          "testId": "gk_090",
+          "testTitle": "सामान्य ज्ञान एवं MP GK टेस्ट #90",
+          "questionCount": 10
+        },
+        {
+          "testId": "gk_091",
+          "testTitle": "सामान्य ज्ञान एवं MP GK टेस्ट #91",
+          "questionCount": 10
+        },
+        {
+          "testId": "gk_092",
+          "testTitle": "सामान्य ज्ञान एवं MP GK टेस्ट #92",
+          "questionCount": 10
+        },
+        {
+          "testId": "gk_093",
+          "testTitle": "सामान्य ज्ञान एवं MP GK टेस्ट #93",
+          "questionCount": 10
+        },
+        {
+          "testId": "gk_094",
+          "testTitle": "सामान्य ज्ञान एवं MP GK टेस्ट #94",
+          "questionCount": 10
+        },
+        {
+          "testId": "gk_095",
+          "testTitle": "सामान्य ज्ञान एवं MP GK टेस्ट #95",
+          "questionCount": 10
+        },
+        {
+          "testId": "gk_096",
+          "testTitle": "सामान्य ज्ञान एवं MP GK टेस्ट #96",
+          "questionCount": 10
+        },
+        {
+          "testId": "gk_097",
+          "testTitle": "सामान्य ज्ञान एवं MP GK टेस्ट #97",
+          "questionCount": 10
+        },
+        {
+          "testId": "gk_098",
+          "testTitle": "सामान्य ज्ञान एवं MP GK टेस्ट #98",
+          "questionCount": 10
+        },
+        {
+          "testId": "gk_099",
+          "testTitle": "सामान्य ज्ञान एवं MP GK टेस्ट #99",
+          "questionCount": 10
+        },
+        {
+          "testId": "gk_100",
+          "testTitle": "सामान्य ज्ञान एवं MP GK टेस्ट #100",
+          "questionCount": 10
+        }
+      ]
+    }
+  }
+}

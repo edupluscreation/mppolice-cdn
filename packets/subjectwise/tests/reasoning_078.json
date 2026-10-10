@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "orig_id": 2268,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic": "रक्त संबंध (Blood Relations)",
+    "question": "A कहता है, \"B, C की बेटी है। D, C का इकलौता भाई है। E, C का पति है। F, D की माँ है। G, E का बेटा है।\" तो B का F से क्या संबंध है?",
+    "options": {
+      "A": "पोती",
+      "B": "बेटी",
+      "C": "नीस",
+      "D": "बहन"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र: पारिवारिक वंशावली:\n• स्टेप-बाय-स्टेप हल:\n• B, F की पोती / नातिन है।",
+      "exam_tips": "दोहराया गया प्रश्न; सही उत्तर विकल्प (A) पोती है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "reasoning_078"
+  },
+  {
+    "id": 2,
+    "orig_id": 2270,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic": "दिशा और दूरी परीक्षण (Direction & Distance)",
+    "question": "विषम चुनें।\nलखनऊ, कानपुर, वाराणसी, जयपुर, आगरा",
+    "options": {
+      "A": "वाराणसी",
+      "B": "लखनऊ",
+      "C": "जयपुर",
+      "D": "कानपुर"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र: भौगोलिक राज्य वर्गीकरण (State Capital & State Location):\n• स्टेप-बाय-स्टेप हल:\n• कानपुर, वाराणसी, आगरा और लखनऊ उत्तर प्रदेश के शहर हैं।\n• जयपुर राजस्थान राज्य की राजधानी है (अन्य राज्य)।\n• (बोर्ड की उत्तर कुंजी में राज्य की राजधानी के रूप में (B) लखनऊ को भिन्न माना गया था)।",
+      "exam_tips": "लखनऊ उत्तर प्रदेश की प्रशासनिक राजधानी है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "reasoning_078"
+  },
+  {
+    "id": 3,
+    "orig_id": 2271,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic": "दिशा और दूरी परीक्षण (Direction & Distance)",
+    "question": "विषम चुनें।\nनरेंद्र मोदी, राहुल गांधी, अमित शाह, अरविंद केजरीवाल",
+    "options": {
+      "A": "नरेंद्र मोदी",
+      "B": "राहुल गांधी",
+      "C": "अमित शाह",
+      "D": "अरविंद केजरीवाल"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र: राजनीतिक पद वर्गीकरण:\n• स्टेप-बाय-स्टेप हल:\n• नरेंद्र मोदी (प्रधानमंत्री/पूर्व सीएम), अरविंद केजरीवाल (मुख्यमंत्री), राहुल गांधी (सांसद) और अमित शाह (गृह मंत्री) में पदों के आधार पर वर्गीकरण किया गया है।\n• बोर्ड कुंजी में अमित शाह / राहुल गांधी को चिह्नित किया गया।",
+      "exam_tips": "संवैधानिक पदों की तुलना से वर्गीकरण होता है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "reasoning_078"
+  },
+  {
+    "id": 4,
+    "orig_id": 2272,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic": "दिशा और दूरी परीक्षण (Direction & Distance)",
+    "question": "विषम चुनें।\nनरेंद्र मोदी, राहुल गांधी, अमित शाह, अरविंद केजरीवाल",
+    "options": {
+      "A": "नरेंद्र मोदी",
+      "B": "राहुल गांधी",
+      "C": "अमित शाह",
+      "D": "अरविंद केजरीवाल"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र: वर्गीकरण:\n• स्टेप-बाय-स्टेप हल:\n• राहुल गांधी ने कभी कोई मंत्री पद या मुख्यमंत्री पद धारण नहीं किया है (अन्य तीनों सरकार के मुखिया/गृह मंत्री रहे हैं)।",
+      "exam_tips": "दोहराया गया प्रश्न; सही उत्तर विकल्प (B) राहुल गांधी है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "reasoning_078"
+  },
+  {
+    "id": 5,
+    "orig_id": 2274,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic": "तार्किक विश्लेषण एवं निर्णय क्षमता (Critical Reasoning & Decision Making)",
+    "question": "निर्देश: निम्नलिखित वस्तुओं को देखें और सही विकल्प चुनें।\nफावड़ा, पोलआर्म्स्, कुल्हाड़ियाँ, कटार",
+    "options": {
+      "A": "फावड़ा",
+      "B": "पोलआर्म्स्",
+      "C": "पिस्तौल",
+      "D": "कटारें"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र: हथियारों का वर्गीकरण (Melee Weapons vs Firearm):\n• स्टेप-बाय-स्टेप हल:\n• फावड़ा, पोलआर्म्स (लंबी लाठी वाले भाले), कुल्हाड़ियाँ और कटारें प्राचीन/पारंपरिक धारदार या भारी प्रहारक हथियार व औजार हैं।\n• जबकि पिस्तौल (Pistol) आधुनिक बारूदी आग्नेयास्त्र (Firearm) है।\n• अतः पिस्तौल अन्य सभी से सर्वथा भिन्न है।",
+      "exam_tips": "धारदार हथियार बनाम आग्नेयास्त्र का वर्गीकरण।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "reasoning_078"
+  },
+  {
+    "id": 6,
+    "orig_id": 2278,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic": "घड़ी एवं कैलेंडर (Clock & Calendar)",
+    "question": "5:00 बजे घड़ी की सुइयों के बीच का सबसे छोटा कोण कितना होता है?",
+    "options": {
+      "A": "90 डिग्री",
+      "B": "180 डिग्री",
+      "C": "150 डिग्री",
+      "D": "120 डिग्री"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र: पूरे घंटे पर घड़ी की सुइयों का कोण:\nकोण = घंटे की संख्या × 30°\n• स्टेप-बाय-स्टेप हल:\n• 5:00 बजे घंटे की सुई 5 पर और मिनट की सुई 12 पर होती है।\n• कोण = 5 × 30° = 150°",
+      "exam_tips": "घड़ी का प्रत्येक घंटा अंतराल 360° / 12 = 30° का कोण बनाता है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "reasoning_078"
+  },
+  {
+    "id": 7,
+    "orig_id": 2280,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic": "श्रृंखला एवं लुप्त पद (Series & Missing Terms)",
+    "question": "शब्द MIGRATION में स्वरों को हटाने पर कौन सा अक्षर ठीक बीच में आता है?",
+    "options": {
+      "A": "G",
+      "B": "R",
+      "C": "A",
+      "D": "T"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र: वर्णमाला व्यंजन छँटाई (Consonant Center Letter):\n• स्टेप-बाय-स्टेप हल:\n• शब्द: M I G R A T I O N\n• स्वर (Vowels) = I, A, I, O (कुल 4 स्वर)\n• स्वर हटाने पर शेष व्यंजन = M, G, R, T, N (कुल 5 व्यंजन)\n• 5 व्यंजनों में ठीक बीच का (तीसरा) अक्षर = R\n• अतः ठीक मध्य में आने वाला अक्षर R है।",
+      "exam_tips": "M, G, [R], T, N का मध्य मान R है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "reasoning_078"
+  },
+  {
+    "id": 8,
+    "orig_id": 2281,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic": "दिशा और दूरी परीक्षण (Direction & Distance)",
+    "question": "शब्द MIGRATION में स्वरों को हटाने पर कौन सा अक्षर ठीक बीच में आता है?",
+    "options": {
+      "A": "G",
+      "B": "R",
+      "C": "A",
+      "D": "T"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र: मध्य अक्षर निर्धारण:\n• स्टेप-बाय-स्टेप हल:\n• M, G, R, T, N में मध्य अक्षर = R।",
+      "exam_tips": "दोहराया गया प्रश्न; सही उत्तर विकल्प (B) R है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "reasoning_078"
+  },
+  {
+    "id": 9,
+    "orig_id": 2283,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic": "रक्त संबंध (Blood Relations)",
+    "question": "एक छह सदस्यीय परिवार में A, B, C, D, E, और F हैं, जहाँ दो विवाहित जोड़े हैं। D, A का पिता और C का दादा है। B, D की पत्नी है। E, F का पिता है। E, A का भाई/बहन है। यदि F पुरुष है, तो F, A से क्या संबंधित है?",
+    "options": {
+      "A": "बहन",
+      "B": "भाई",
+      "C": "नेफ्यू (भतीजा)",
+      "D": "बेटा"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र: पारिवारिक वंशावली संबंध:\n• स्टेप-बाय-स्टेप हल:\n• D (पिता) → संतानें A और E।\n• E का पुत्र F है (F पुरुष है)।\n• भाई/बहन का पुत्र (F) A का भतीजा / नेफ्यू (Nephew) कहलाता है।\n• अतः F, A का नेफ्यू है।",
+      "exam_tips": "सहोदर की संतान को नेफ्यू (पुत्र) या नीस (पुत्री) कहा जाता है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "reasoning_078"
+  },
+  {
+    "id": 10,
+    "orig_id": 2284,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic": "तार्किक विश्लेषण एवं निर्णय क्षमता (Critical Reasoning & Decision Making)",
+    "question": "अंग्रेजी भाषा में, निम्नलिखित हिस्सों को एक सार्थक वाक्य बनाने के लिए व्यवस्थित कीजिए:",
+    "options": {
+      "A": "the feedback (B) was shared (C) with the team (D) after the review\nसही क्रम चुनें:\n• (A) A-B-C-D",
+      "B": "was shared (C) with the team (D) after the review\nसही क्रम चुनें:\n• (A) A-B-C-D\n(B) B-A-C-D",
+      "C": "with the team (D) after the review\nसही क्रम चुनें:\n• (A) A-B-C-D\n(B) B-A-C-D\n(C) C-D-A-B",
+      "D": "after the review\nसही क्रम चुनें:\n• (A) A-B-C-D\n(B) B-A-C-D\n(C) C-D-A-B\n(D) D-C-B-A"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र: अंग्रेज़ी वाक्य संरचना (Passive Voice Structure):\n• स्टेप-बाय-स्टेप हल:\n• (A) The feedback (Subject)\n• (B) was shared (Passive Verb)\n• (C) with the team (Prepositional Phrase - Agent/Recipient)\n• (D) after the review (Time Phrase)\n• पूर्ण वाक्य: \"The feedback was shared with the team after the review.\"\n• सही क्रम = A - B - C - D",
+      "exam_tips": "Subject + auxiliary verb + past participle + adjuncts।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "reasoning_078"
+  }
+]

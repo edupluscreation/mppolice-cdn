@@ -1,489 +1,127 @@
 {
-  "totalTests": 20,
-  "freeTestsCount": 1,
-  "paidTestsCount": 19,
-  "questionsPerTest": 100,
-  "totalQuestions": 2000,
-  "tests": [
+  "total_mocks": 20,
+  "questions_per_mock": 100,
+  "duration_minutes": 120,
+  "mocks": [
     {
       "id": "mock_01",
-      "title": "मॉक टेस्ट 01",
-      "subtitle": "100 प्रश्न • 120 मिनट • सम्पूर्ण सिलेबस",
-      "totalQuestions": 100,
-      "durationMinutes": 120,
-      "isFree": true,
-      "badge": "🆓 फ्री",
-      "file": "mock_01.json",
-      "sections": [
-        {
-          "name": "सेक्शन 1: सामान्य ज्ञान एवं तार्किक ज्ञान",
-          "questionsCount": 40
-        },
-        {
-          "name": "सेक्शन 2: बौद्धिक क्षमता एवं मानसिक अभिरुचि",
-          "questionsCount": 30
-        },
-        {
-          "name": "सेक्शन 3: विज्ञान एवं सरल अंकगणित",
-          "questionsCount": 30
-        }
-      ]
+      "title": "MP Police कांस्टेबल फुल मॉक टेस्ट #01",
+      "questions_count": 100,
+      "file": "packets/mock_tests/mock_01.json"
     },
     {
       "id": "mock_02",
-      "title": "मॉक टेस्ट 02",
-      "subtitle": "100 प्रश्न • 120 मिनट • सम्पूर्ण सिलेबस",
-      "totalQuestions": 100,
-      "durationMinutes": 120,
-      "isFree": false,
-      "badge": "🔒 VIP",
-      "file": "mock_02.json",
-      "sections": [
-        {
-          "name": "सेक्शन 1: सामान्य ज्ञान एवं तार्किक ज्ञान",
-          "questionsCount": 40
-        },
-        {
-          "name": "सेक्शन 2: बौद्धिक क्षमता एवं मानसिक अभिरुचि",
-          "questionsCount": 30
-        },
-        {
-          "name": "सेक्शन 3: विज्ञान एवं सरल अंकगणित",
-          "questionsCount": 30
-        }
-      ]
+      "title": "MP Police कांस्टेबल फुल मॉक टेस्ट #02",
+      "questions_count": 100,
+      "file": "packets/mock_tests/mock_02.json"
     },
     {
       "id": "mock_03",
-      "title": "मॉक टेस्ट 03",
-      "subtitle": "100 प्रश्न • 120 मिनट • सम्पूर्ण सिलेबस",
-      "totalQuestions": 100,
-      "durationMinutes": 120,
-      "isFree": false,
-      "badge": "🔒 VIP",
-      "file": "mock_03.json",
-      "sections": [
-        {
-          "name": "सेक्शन 1: सामान्य ज्ञान एवं तार्किक ज्ञान",
-          "questionsCount": 40
-        },
-        {
-          "name": "सेक्शन 2: बौद्धिक क्षमता एवं मानसिक अभिरुचि",
-          "questionsCount": 30
-        },
-        {
-          "name": "सेक्शन 3: विज्ञान एवं सरल अंकगणित",
-          "questionsCount": 30
-        }
-      ]
+      "title": "MP Police कांस्टेबल फुल मॉक टेस्ट #03",
+      "questions_count": 100,
+      "file": "packets/mock_tests/mock_03.json"
     },
     {
       "id": "mock_04",
-      "title": "मॉक टेस्ट 04",
-      "subtitle": "100 प्रश्न • 120 मिनट • सम्पूर्ण सिलेबस",
-      "totalQuestions": 100,
-      "durationMinutes": 120,
-      "isFree": false,
-      "badge": "🔒 VIP",
-      "file": "mock_04.json",
-      "sections": [
-        {
-          "name": "सेक्शन 1: सामान्य ज्ञान एवं तार्किक ज्ञान",
-          "questionsCount": 40
-        },
-        {
-          "name": "सेक्शन 2: बौद्धिक क्षमता एवं मानसिक अभिरुचि",
-          "questionsCount": 30
-        },
-        {
-          "name": "सेक्शन 3: विज्ञान एवं सरल अंकगणित",
-          "questionsCount": 30
-        }
-      ]
+      "title": "MP Police कांस्टेबल फुल मॉक टेस्ट #04",
+      "questions_count": 100,
+      "file": "packets/mock_tests/mock_04.json"
     },
     {
       "id": "mock_05",
-      "title": "मॉक टेस्ट 05",
-      "subtitle": "100 प्रश्न • 120 मिनट • सम्पूर्ण सिलेबस",
-      "totalQuestions": 100,
-      "durationMinutes": 120,
-      "isFree": false,
-      "badge": "🔒 VIP",
-      "file": "mock_05.json",
-      "sections": [
-        {
-          "name": "सेक्शन 1: सामान्य ज्ञान एवं तार्किक ज्ञान",
-          "questionsCount": 40
-        },
-        {
-          "name": "सेक्शन 2: बौद्धिक क्षमता एवं मानसिक अभिरुचि",
-          "questionsCount": 30
-        },
-        {
-          "name": "सेक्शन 3: विज्ञान एवं सरल अंकगणित",
-          "questionsCount": 30
-        }
-      ]
+      "title": "MP Police कांस्टेबल फुल मॉक टेस्ट #05",
+      "questions_count": 100,
+      "file": "packets/mock_tests/mock_05.json"
     },
     {
       "id": "mock_06",
-      "title": "मॉक टेस्ट 06",
-      "subtitle": "100 प्रश्न • 120 मिनट • सम्पूर्ण सिलेबस",
-      "totalQuestions": 100,
-      "durationMinutes": 120,
-      "isFree": false,
-      "badge": "🔒 VIP",
-      "file": "mock_06.json",
-      "sections": [
-        {
-          "name": "सेक्शन 1: सामान्य ज्ञान एवं तार्किक ज्ञान",
-          "questionsCount": 40
-        },
-        {
-          "name": "सेक्शन 2: बौद्धिक क्षमता एवं मानसिक अभिरुचि",
-          "questionsCount": 30
-        },
-        {
-          "name": "सेक्शन 3: विज्ञान एवं सरल अंकगणित",
-          "questionsCount": 30
-        }
-      ]
+      "title": "MP Police कांस्टेबल फुल मॉक टेस्ट #06",
+      "questions_count": 100,
+      "file": "packets/mock_tests/mock_06.json"
     },
     {
       "id": "mock_07",
-      "title": "मॉक टेस्ट 07",
-      "subtitle": "100 प्रश्न • 120 मिनट • सम्पूर्ण सिलेबस",
-      "totalQuestions": 100,
-      "durationMinutes": 120,
-      "isFree": false,
-      "badge": "🔒 VIP",
-      "file": "mock_07.json",
-      "sections": [
-        {
-          "name": "सेक्शन 1: सामान्य ज्ञान एवं तार्किक ज्ञान",
-          "questionsCount": 40
-        },
-        {
-          "name": "सेक्शन 2: बौद्धिक क्षमता एवं मानसिक अभिरुचि",
-          "questionsCount": 30
-        },
-        {
-          "name": "सेक्शन 3: विज्ञान एवं सरल अंकगणित",
-          "questionsCount": 30
-        }
-      ]
+      "title": "MP Police कांस्टेबल फुल मॉक टेस्ट #07",
+      "questions_count": 100,
+      "file": "packets/mock_tests/mock_07.json"
     },
     {
       "id": "mock_08",
-      "title": "मॉक टेस्ट 08",
-      "subtitle": "100 प्रश्न • 120 मिनट • सम्पूर्ण सिलेबस",
-      "totalQuestions": 100,
-      "durationMinutes": 120,
-      "isFree": false,
-      "badge": "🔒 VIP",
-      "file": "mock_08.json",
-      "sections": [
-        {
-          "name": "सेक्शन 1: सामान्य ज्ञान एवं तार्किक ज्ञान",
-          "questionsCount": 40
-        },
-        {
-          "name": "सेक्शन 2: बौद्धिक क्षमता एवं मानसिक अभिरुचि",
-          "questionsCount": 30
-        },
-        {
-          "name": "सेक्शन 3: विज्ञान एवं सरल अंकगणित",
-          "questionsCount": 30
-        }
-      ]
+      "title": "MP Police कांस्टेबल फुल मॉक टेस्ट #08",
+      "questions_count": 100,
+      "file": "packets/mock_tests/mock_08.json"
     },
     {
       "id": "mock_09",
-      "title": "मॉक टेस्ट 09",
-      "subtitle": "100 प्रश्न • 120 मिनट • सम्पूर्ण सिलेबस",
-      "totalQuestions": 100,
-      "durationMinutes": 120,
-      "isFree": false,
-      "badge": "🔒 VIP",
-      "file": "mock_09.json",
-      "sections": [
-        {
-          "name": "सेक्शन 1: सामान्य ज्ञान एवं तार्किक ज्ञान",
-          "questionsCount": 40
-        },
-        {
-          "name": "सेक्शन 2: बौद्धिक क्षमता एवं मानसिक अभिरुचि",
-          "questionsCount": 30
-        },
-        {
-          "name": "सेक्शन 3: विज्ञान एवं सरल अंकगणित",
-          "questionsCount": 30
-        }
-      ]
+      "title": "MP Police कांस्टेबल फुल मॉक टेस्ट #09",
+      "questions_count": 100,
+      "file": "packets/mock_tests/mock_09.json"
     },
     {
       "id": "mock_10",
-      "title": "मॉक टेस्ट 10",
-      "subtitle": "100 प्रश्न • 120 मिनट • सम्पूर्ण सिलेबस",
-      "totalQuestions": 100,
-      "durationMinutes": 120,
-      "isFree": false,
-      "badge": "🔒 VIP",
-      "file": "mock_10.json",
-      "sections": [
-        {
-          "name": "सेक्शन 1: सामान्य ज्ञान एवं तार्किक ज्ञान",
-          "questionsCount": 40
-        },
-        {
-          "name": "सेक्शन 2: बौद्धिक क्षमता एवं मानसिक अभिरुचि",
-          "questionsCount": 30
-        },
-        {
-          "name": "सेक्शन 3: विज्ञान एवं सरल अंकगणित",
-          "questionsCount": 30
-        }
-      ]
+      "title": "MP Police कांस्टेबल फुल मॉक टेस्ट #10",
+      "questions_count": 100,
+      "file": "packets/mock_tests/mock_10.json"
     },
     {
       "id": "mock_11",
-      "title": "मॉक टेस्ट 11",
-      "subtitle": "100 प्रश्न • 120 मिनट • सम्पूर्ण सिलेबस",
-      "totalQuestions": 100,
-      "durationMinutes": 120,
-      "isFree": false,
-      "badge": "🔒 VIP",
-      "file": "mock_11.json",
-      "sections": [
-        {
-          "name": "सेक्शन 1: सामान्य ज्ञान एवं तार्किक ज्ञान",
-          "questionsCount": 40
-        },
-        {
-          "name": "सेक्शन 2: बौद्धिक क्षमता एवं मानसिक अभिरुचि",
-          "questionsCount": 30
-        },
-        {
-          "name": "सेक्शन 3: विज्ञान एवं सरल अंकगणित",
-          "questionsCount": 30
-        }
-      ]
+      "title": "MP Police कांस्टेबल फुल मॉक टेस्ट #11",
+      "questions_count": 100,
+      "file": "packets/mock_tests/mock_11.json"
     },
     {
       "id": "mock_12",
-      "title": "मॉक टेस्ट 12",
-      "subtitle": "100 प्रश्न • 120 मिनट • सम्पूर्ण सिलेबस",
-      "totalQuestions": 100,
-      "durationMinutes": 120,
-      "isFree": false,
-      "badge": "🔒 VIP",
-      "file": "mock_12.json",
-      "sections": [
-        {
-          "name": "सेक्शन 1: सामान्य ज्ञान एवं तार्किक ज्ञान",
-          "questionsCount": 40
-        },
-        {
-          "name": "सेक्शन 2: बौद्धिक क्षमता एवं मानसिक अभिरुचि",
-          "questionsCount": 30
-        },
-        {
-          "name": "सेक्शन 3: विज्ञान एवं सरल अंकगणित",
-          "questionsCount": 30
-        }
-      ]
+      "title": "MP Police कांस्टेबल फुल मॉक टेस्ट #12",
+      "questions_count": 100,
+      "file": "packets/mock_tests/mock_12.json"
     },
     {
       "id": "mock_13",
-      "title": "मॉक टेस्ट 13",
-      "subtitle": "100 प्रश्न • 120 मिनट • सम्पूर्ण सिलेबस",
-      "totalQuestions": 100,
-      "durationMinutes": 120,
-      "isFree": false,
-      "badge": "🔒 VIP",
-      "file": "mock_13.json",
-      "sections": [
-        {
-          "name": "सेक्शन 1: सामान्य ज्ञान एवं तार्किक ज्ञान",
-          "questionsCount": 40
-        },
-        {
-          "name": "सेक्शन 2: बौद्धिक क्षमता एवं मानसिक अभिरुचि",
-          "questionsCount": 30
-        },
-        {
-          "name": "सेक्शन 3: विज्ञान एवं सरल अंकगणित",
-          "questionsCount": 30
-        }
-      ]
+      "title": "MP Police कांस्टेबल फुल मॉक टेस्ट #13",
+      "questions_count": 100,
+      "file": "packets/mock_tests/mock_13.json"
     },
     {
       "id": "mock_14",
-      "title": "मॉक टेस्ट 14",
-      "subtitle": "100 प्रश्न • 120 मिनट • सम्पूर्ण सिलेबस",
-      "totalQuestions": 100,
-      "durationMinutes": 120,
-      "isFree": false,
-      "badge": "🔒 VIP",
-      "file": "mock_14.json",
-      "sections": [
-        {
-          "name": "सेक्शन 1: सामान्य ज्ञान एवं तार्किक ज्ञान",
-          "questionsCount": 40
-        },
-        {
-          "name": "सेक्शन 2: बौद्धिक क्षमता एवं मानसिक अभिरुचि",
-          "questionsCount": 30
-        },
-        {
-          "name": "सेक्शन 3: विज्ञान एवं सरल अंकगणित",
-          "questionsCount": 30
-        }
-      ]
+      "title": "MP Police कांस्टेबल फुल मॉक टेस्ट #14",
+      "questions_count": 100,
+      "file": "packets/mock_tests/mock_14.json"
     },
     {
       "id": "mock_15",
-      "title": "मॉक टेस्ट 15",
-      "subtitle": "100 प्रश्न • 120 मिनट • सम्पूर्ण सिलेबस",
-      "totalQuestions": 100,
-      "durationMinutes": 120,
-      "isFree": false,
-      "badge": "🔒 VIP",
-      "file": "mock_15.json",
-      "sections": [
-        {
-          "name": "सेक्शन 1: सामान्य ज्ञान एवं तार्किक ज्ञान",
-          "questionsCount": 40
-        },
-        {
-          "name": "सेक्शन 2: बौद्धिक क्षमता एवं मानसिक अभिरुचि",
-          "questionsCount": 30
-        },
-        {
-          "name": "सेक्शन 3: विज्ञान एवं सरल अंकगणित",
-          "questionsCount": 30
-        }
-      ]
+      "title": "MP Police कांस्टेबल फुल मॉक टेस्ट #15",
+      "questions_count": 100,
+      "file": "packets/mock_tests/mock_15.json"
     },
     {
       "id": "mock_16",
-      "title": "मॉक टेस्ट 16",
-      "subtitle": "100 प्रश्न • 120 मिनट • सम्पूर्ण सिलेबस",
-      "totalQuestions": 100,
-      "durationMinutes": 120,
-      "isFree": false,
-      "badge": "🔒 VIP",
-      "file": "mock_16.json",
-      "sections": [
-        {
-          "name": "सेक्शन 1: सामान्य ज्ञान एवं तार्किक ज्ञान",
-          "questionsCount": 40
-        },
-        {
-          "name": "सेक्शन 2: बौद्धिक क्षमता एवं मानसिक अभिरुचि",
-          "questionsCount": 30
-        },
-        {
-          "name": "सेक्शन 3: विज्ञान एवं सरल अंकगणित",
-          "questionsCount": 30
-        }
-      ]
+      "title": "MP Police कांस्टेबल फुल मॉक टेस्ट #16",
+      "questions_count": 100,
+      "file": "packets/mock_tests/mock_16.json"
     },
     {
       "id": "mock_17",
-      "title": "मॉक टेस्ट 17",
-      "subtitle": "100 प्रश्न • 120 मिनट • सम्पूर्ण सिलेबस",
-      "totalQuestions": 100,
-      "durationMinutes": 120,
-      "isFree": false,
-      "badge": "🔒 VIP",
-      "file": "mock_17.json",
-      "sections": [
-        {
-          "name": "सेक्शन 1: सामान्य ज्ञान एवं तार्किक ज्ञान",
-          "questionsCount": 40
-        },
-        {
-          "name": "सेक्शन 2: बौद्धिक क्षमता एवं मानसिक अभिरुचि",
-          "questionsCount": 30
-        },
-        {
-          "name": "सेक्शन 3: विज्ञान एवं सरल अंकगणित",
-          "questionsCount": 30
-        }
-      ]
+      "title": "MP Police कांस्टेबल फुल मॉक टेस्ट #17",
+      "questions_count": 100,
+      "file": "packets/mock_tests/mock_17.json"
     },
     {
       "id": "mock_18",
-      "title": "मॉक टेस्ट 18",
-      "subtitle": "100 प्रश्न • 120 मिनट • सम्पूर्ण सिलेबस",
-      "totalQuestions": 100,
-      "durationMinutes": 120,
-      "isFree": false,
-      "badge": "🔒 VIP",
-      "file": "mock_18.json",
-      "sections": [
-        {
-          "name": "सेक्शन 1: सामान्य ज्ञान एवं तार्किक ज्ञान",
-          "questionsCount": 40
-        },
-        {
-          "name": "सेक्शन 2: बौद्धिक क्षमता एवं मानसिक अभिरुचि",
-          "questionsCount": 30
-        },
-        {
-          "name": "सेक्शन 3: विज्ञान एवं सरल अंकगणित",
-          "questionsCount": 30
-        }
-      ]
+      "title": "MP Police कांस्टेबल फुल मॉक टेस्ट #18",
+      "questions_count": 100,
+      "file": "packets/mock_tests/mock_18.json"
     },
     {
       "id": "mock_19",
-      "title": "मॉक टेस्ट 19",
-      "subtitle": "100 प्रश्न • 120 मिनट • सम्पूर्ण सिलेबस",
-      "totalQuestions": 100,
-      "durationMinutes": 120,
-      "isFree": false,
-      "badge": "🔒 VIP",
-      "file": "mock_19.json",
-      "sections": [
-        {
-          "name": "सेक्शन 1: सामान्य ज्ञान एवं तार्किक ज्ञान",
-          "questionsCount": 40
-        },
-        {
-          "name": "सेक्शन 2: बौद्धिक क्षमता एवं मानसिक अभिरुचि",
-          "questionsCount": 30
-        },
-        {
-          "name": "सेक्शन 3: विज्ञान एवं सरल अंकगणित",
-          "questionsCount": 30
-        }
-      ]
+      "title": "MP Police कांस्टेबल फुल मॉक टेस्ट #19",
+      "questions_count": 100,
+      "file": "packets/mock_tests/mock_19.json"
     },
     {
       "id": "mock_20",
-      "title": "मॉक टेस्ट 20",
-      "subtitle": "100 प्रश्न • 120 मिनट • सम्पूर्ण सिलेबस",
-      "totalQuestions": 100,
-      "durationMinutes": 120,
-      "isFree": false,
-      "badge": "🔒 VIP",
-      "file": "mock_20.json",
-      "sections": [
-        {
-          "name": "सेक्शन 1: सामान्य ज्ञान एवं तार्किक ज्ञान",
-          "questionsCount": 40
-        },
-        {
-          "name": "सेक्शन 2: बौद्धिक क्षमता एवं मानसिक अभिरुचि",
-          "questionsCount": 30
-        },
-        {
-          "name": "सेक्शन 3: विज्ञान एवं सरल अंकगणित",
-          "questionsCount": 30
-        }
-      ]
+      "title": "MP Police कांस्टेबल फुल मॉक टेस्ट #20",
+      "questions_count": 100,
+      "file": "packets/mock_tests/mock_20.json"
     }
   ]
 }

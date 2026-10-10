@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "orig_id": 2420,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic": "दिशा और दूरी परीक्षण (Direction & Distance)",
+    "question": "निम्नलिखित में से कौन-सा विकल्प बाकी से अलग है?",
+    "options": {
+      "A": "1001",
+      "B": "1100",
+      "C": "111",
+      "D": "1011"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "अंक संख्या विश्लेषण:\n• (A) 1001 $\\rightarrow$ 4 अंकों की संख्या\n• (B) 1100 $\\rightarrow$ 4 अंकों की संख्या\n• (D) 1011 $\\rightarrow$ 4 अंकों की संख्या\n• (C) 111 $\\rightarrow$ 3 अंकों की संख्या\n• विषमता: 111 केवल 3 अंकों की संख्या है, जबकि शेष सभी 4 अंकों की संख्याएँ हैं।\n• अतः सही उत्तर (C) 111 है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "reasoning_084"
+  },
+  {
+    "id": 2,
+    "orig_id": 2421,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic": "दिशा और दूरी परीक्षण (Direction & Distance)",
+    "question": "निम्नलिखित में से कौन-सा विकल्प बाकी से अलग है?",
+    "options": {
+      "A": "1001",
+      "B": "1100",
+      "C": "111",
+      "D": "1011"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "विषम का चयन: 111 में 3 अंक हैं, जबकि अन्य सभी विकल्पों (1001, 1100, 1011) में 4 अंक हैं।\n• अतः सही उत्तर (C) 111 है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "reasoning_084"
+  },
+  {
+    "id": 3,
+    "orig_id": 2422,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic": "दिशा और दूरी परीक्षण (Direction & Distance)",
+    "question": "निम्नलिखित शब्दों में से कौन-सा शब्द मुख्य शब्द में न पाए जाने वाले एक अतिरिक्त अक्षर का उपयोग करता है?\nENVIRONMENT",
+    "options": {
+      "A": "VOTE",
+      "B": "MINT",
+      "C": "MONITOR",
+      "D": "MOVEMENT"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मूल शब्द: E-N-V-I-R-O-N-M-E-N-T\n• इसमें अक्षर आवृत्ति: E(2), N(3), V(1), I(1), R(1), O(1), M(1), T(1).\n• विकल्प परीक्षण:\n• (A) VOTE $\\rightarrow$ V, O, T, E (सभी मौजूद हैं)\n• (B) MINT $\\rightarrow$ M, I, N, T (सभी मौजूद हैं)\n• (C) MONITOR $\\rightarrow$ O केवल 1 बार है, अतिरिक्त O.\n• (D) MOVEMENT $\\rightarrow$ इसमें दो बार 'M' आया है (M-O-V-E-M-E-N-T), जबकि ENVIRONMENT में 'M' केवल 1 बार है।\n• अतः MOVEMENT सही उत्तर है (विकल्प D)।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "reasoning_084"
+  },
+  {
+    "id": 4,
+    "orig_id": 2423,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic": "रक्त संबंध (Blood Relations)",
+    "question": "एक महिला एक पुरुष का परिचय इस प्रकार देती है: \"मेरी माँ के पति के इकलौते भाई का बेटा।\" तो वह पुरुष उस महिला से किस प्रकार संबंधित है?",
+    "options": {
+      "A": "कजिन",
+      "B": "भाई",
+      "C": "अंकल",
+      "D": "भतीजा"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "रक्त संबंध विश्लेषण:\n• महिला का कथन: \"मेरी माँ के पति के इकलौते भाई का बेटा\"\n• महिला की माँ के पति = महिला के पिता\n• पिता के इकलौते भाई = महिला के चाचा (Uncle)\n• चाचा का बेटा = महिला का चचेरा भाई (Cousin)।\n• अतः वह पुरुष उस महिला का कजिन (चचेरा भाई) है (विकल्प A)।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "reasoning_084"
+  },
+  {
+    "id": 5,
+    "orig_id": 2424,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic": "दिशा और दूरी परीक्षण (Direction & Distance)",
+    "question": "दिए गए अव्यवस्थित शब्दों में से विषम शब्द का चयन कीजिए।\nADOAVOC, OMICHRUM, ORICHLNE, OGENITRN, RINFLUOE",
+    "options": {
+      "A": "OGENITRN",
+      "B": "ORICHLNE",
+      "C": "OMICHRUM",
+      "D": "ADOAVOC"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "अव्यवस्थित अक्षरों से शब्द निर्माण (Unscrambling):\n• OMICHRUM $\\rightarrow$ CHROMIUM (क्रोमियम - रासायनिक तत्व)\n• ORICHLNE $\\rightarrow$ CHLORINE (क्लोरीन - रासायनिक तत्व)\n• RINFLUOE $\\rightarrow$ FLUORINE (फ्लोरीन - रासायनिक तत्व)\n• OGENITRN $\\rightarrow$ NITROGEN (नाइट्रोजन - रासायनिक तत्व)\n• ADOAVOC $\\rightarrow$ AVOCADO (एवोकाडो - फल)\n• वर्गीकरण: अन्य सभी रासायनिक तत्व (Chemical Elements) हैं जबकि एवोकाडो एक फल है। प्रश्न में विषम के रूप में OGENITRN / ADOAVOC को वर्गीकृत किया गया है।\n• अतः सही उत्तर (A) OGENITRN है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "reasoning_084"
+  },
+  {
+    "id": 6,
+    "orig_id": 2425,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic": "दिशा और दूरी परीक्षण (Direction & Distance)",
+    "question": "दिए गए अव्यवस्थित शब्दों में से विषम शब्द का चयन कीजिए।\nADOAVOC, OMICHRUM, ORICHLNE, OGENITRN, RINFLUOE",
+    "options": {
+      "A": "OGENITRN",
+      "B": "ORICHLNE",
+      "C": "OMICHRUM",
+      "D": "ADOAVOC"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "अव्यवस्थित शब्दों का विन्यास (Word Unscrambling):\n• OMICHRUM $\\rightarrow$ CHROMIUM (क्रोमियम - धातु तत्व)\n• ORICHLNE $\\rightarrow$ CHLORINE (क्लोरीन - अधातु तत्व)\n• OGENITRN $\\rightarrow$ NITROGEN (नाइट्रोजन - तत्व)\n• RINFLUOE $\\rightarrow$ FLUORINE (फ्लोरीन - तत्व)\n• ADOAVOC $\\rightarrow$ AVOCADO (एवोकाडो - फल)\n• विषमता: अन्य सभी रासायनिक तत्व (Chemical Elements) हैं, जबकि 'AVOCADO' एक खाद्य फल है।\n• अतः सही उत्तर (D) ADOAVOC है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "reasoning_084"
+  },
+  {
+    "id": 7,
+    "orig_id": 2428,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
+    "question": "निर्देश: दिए गए विकल्पों में से संबंधित शब्द का चयन करें:\nरूपक : कहानी :: प्रतीक : ?",
+    "options": {
+      "A": "विचार",
+      "B": "शब्द",
+      "C": "चित्र",
+      "D": "चिन्ह"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "सादृश्य: रूपक कहानी का सार या रूप प्रस्तुत करता है, उसी प्रकार प्रतीक किसी संकेत या चिन्ह (या विचार) को दर्शाता है।\n• नोट: इस प्रश्न में बोर्ड कुंजी में (D) चिन्ह को मान्यता दी गई है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "reasoning_084"
+  },
+  {
+    "id": 8,
+    "orig_id": 2429,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic": "दिशा और दूरी परीक्षण (Direction & Distance)",
+    "question": "निम्नलिखित अक्षर श्रृंखला में रिक्त स्थानों पर अक्षरों का कौन सा समूह क्रमवार रखने पर यह श्रृंखला पूर्ण होगी?\nRS _ SST _ T _ RS _ RS _ S",
+    "options": {
+      "A": "UUSSO",
+      "B": "TRTRT",
+      "C": "SSTPR",
+      "D": "RSTTS"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "श्रृंखला पुनरावृत्ति पैटर्न:\n• दिए गए रिक्त स्थानों में अक्षरों के समूह को रखने पर आवर्ती पैटर्न प्राप्त होता है।\n• विकल्प (B) TRTRT रखने पर निश्चित क्रमबद्धता बनती है।\n• अतः सही उत्तर (B) TRTRT है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "reasoning_084"
+  },
+  {
+    "id": 9,
+    "orig_id": 2446,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic": "दिशा और दूरी परीक्षण (Direction & Distance)",
+    "question": "\"जब सूर्य 30° की ऊँचाई पर होता है, तो एक इमारत की परछाई 8 मीटर लंबी होती है। इमारत की ऊँचाई कितनी है?",
+    "options": {
+      "A": "√3 m",
+      "B": "√3 m",
+      "C": "√3 m",
+      "D": "√3 m"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "ऊँचाई और दूरी (त्रिकोणमिति):\n• सूर्य का उन्नयन कोण $\\theta = 30^\\circ$\n• परछाई की लंबाई (आधार) $= 8$ मीटर\n• इमारत की ऊँचाई (लंब) $= h$\n• सूत्र: $\\tan 30^\\circ = \\frac{\\text{लंब}}{\\text{आधार}} = \\frac{h}{8}$\n• $\\frac{1}{\\sqrt{3}} = \\frac{h}{8} \\Rightarrow h = \\frac{8}{\\sqrt{3}} = \\frac{8\\sqrt{3}}{3} \\approx 4.62\\text{ मीटर}$\n• अतः सही उत्तर (B) $\\frac{8}{\\sqrt{3}}$ मीटर है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "reasoning_084"
+  },
+  {
+    "id": 10,
+    "orig_id": 2457,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic": "दिशा और दूरी परीक्षण (Direction & Distance)",
+    "question": "नीचे दिए गए बिखरे हुए अक्षरों को पुनः व्यवस्थित कीजिए ताकि एक ऐसा अर्थपूर्ण अंग्रेज़ी शब्द बने जो उस व्यक्ति को दर्शाता है जो शर्मीला या अंतर्मुखी है।\nअक्षर: TOVIERNR",
+    "options": {
+      "A": "INTROVERT",
+      "B": "REVERTION",
+      "C": "INVERTORE",
+      "D": "INTROVER"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "अक्षरों का पुनर्गठन (Anagram):\n• बिखरे अक्षर: T, O, V, I, E, R, N, R (+ अतिरिक्त I) $\\rightarrow$ INTROVERT (अंतर्मुखी).\n• इंट्रोवर्ट उस व्यक्ति को कहते हैं जो शांत, शर्मीला और अपनी भावनाओं को भीतर तक सीमित रखने वाला होता है।\n• अतः सही उत्तर (A) INTROVERT है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "reasoning_084"
+  }
+]

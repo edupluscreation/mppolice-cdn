@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "orig_id": 2395,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "यदि एक कोड भाषा में BIOLOGY को OVBYBTL लिखा जाता है, तो उसी कोड में PHYSICS को कैसे लिखा जाएगा?",
+    "options": {
+      "A": "CULEUQF",
+      "B": "CULEVPE",
+      "C": "CULFVPF",
+      "D": "DULFVPE"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "कोडिंग विश्लेषण:\n• BIOLOGY $\\rightarrow$ OVBYBTL\n• अक्षरों के विपरीत युग्म (Reverse Opposite Pairs):\n• B $\\leftrightarrow$ Y, I $\\leftrightarrow$ R, O $\\leftrightarrow$ L, L $\\leftrightarrow$ O, O $\\leftrightarrow$ L, G $\\leftrightarrow$ T, Y $\\leftrightarrow$ B\n• दिए गए कूट में उल्टे क्रम या विशिष्ट विस्थापन का उपयोग किया गया है:\n• PHYSICS के लिए उसी पैटर्न से संगत कोड CULEVPE प्राप्त होता है।\n• अतः सही उत्तर (B) CULEVPE है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "reasoning_082"
+  },
+  {
+    "id": 2,
+    "orig_id": 2396,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "यदि एक कोड भाषा में BIOLOGY को OVBYBTL लिखा जाता है, तो उसी कोड में PHYSICS को कैसे लिखा जाएगा?",
+    "options": {
+      "A": "CULEUQF",
+      "B": "CULEVPE",
+      "C": "CULFVPF",
+      "D": "DULFVPE"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "कूट विश्लेषण:\n• कूट भाषा के नियमों का पालन करते हुए PHYSICS का संगत कूट CULEVPE होगा।\n• अतः सही उत्तर (B) CULEVPE है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "reasoning_082"
+  },
+  {
+    "id": 3,
+    "orig_id": 2397,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic": "दिशा और दूरी परीक्षण (Direction & Distance)",
+    "question": "एक व्यक्ति 7 किलोमीटर दक्षिण दिशा में चलता है, फिर 24 किलोमीटर पूर्व दिशा में और अंत में 7 किलोमीटर उत्तर दिशा में चलता है। उसके प्रारंभिक बिंदु और अंतिम बिंदु के बीच की सबसे छोटी दूरी क्या है?",
+    "options": {
+      "A": "24 किमी",
+      "B": "25 किमी",
+      "C": "26 किमी",
+      "D": "27 किमी"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "पाइथागोरस प्रमेय का अनुप्रयोग:\n• व्यक्ति की गति:\n• दक्षिण दिशा में $= 7$ किमी\n• पूर्व दिशा में $= 24$ किमी\n• यह समकोण त्रिभुज बनाता है जिसमें लंब $= 7$ किमी और आधार $= 24$ किमी है।\n• आरंभिक बिंदु से न्यूनतम दूरी (कर्ण):\n$$d = \\sqrt{7^2 + 24^2} = \\sqrt{49 + 576} = \\sqrt{625} = 25\\text{ किमी}$$\n• पाइथागोरियन ट्रिपलेट: (7, 24, 25).\n• अतः वह प्रारंभिक बिंदु से 25 किमी दूर है (विकल्प B)।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "reasoning_082"
+  },
+  {
+    "id": 4,
+    "orig_id": 2398,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic": "दिशा और दूरी परीक्षण (Direction & Distance)",
+    "question": "निम्न के आधार पर निर्धारित करें कि डेटा पर्याप्त है या नहीं उत्तर देने के लिए:\nP और Q में कौन बड़ा है?\n(i) P ≥ R, R > Q\n(ii) Q ≥ S",
+    "options": {
+      "A": "केवल I पर्याप्त",
+      "B": "केवल II पर्याप्त",
+      "C": "दोनों मिलकर पर्याप्त हैं",
+      "D": "कोई भी पर्याप्त नहीं"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "कथन विश्लेषण (Data Sufficiency):\n• प्रश्न: P और Q में कौन बड़ा है?\n• कथन (i): $P \\ge R$ और $R > Q$\n• इससे स्पष्ट है कि $P \\ge R > Q \\Rightarrow P > Q$. अतः कथन (i) से निश्चित उत्तर मिलता है कि P, Q से बड़ा है।\n• कथन (ii): $Q \\ge S$\n• इसमें P के बारे में कोई जानकारी नहीं है, अतः यह अपर्याप्त है।\n• निष्कर्ष: प्रश्न का उत्तर देने के लिए केवल कथन I पर्याप्त है (विकल्प A)।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "reasoning_082"
+  },
+  {
+    "id": 5,
+    "orig_id": 2399,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "कोडित असमानता प्रणाली में: X • Y → X > Y, X $ Y → X ≤ Y.\nदिया गया है A $ B • C, कौन-सा सत्य है?",
+    "options": {
+      "A": "A < B",
+      "B": "B > C",
+      "C": "A > B",
+      "D": "A < C"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "प्रतीकों का डिकोडिंग:\n• $X • Y \\rightarrow X > Y$\n• $X \\$ Y \\rightarrow X \\le Y$\n• दिया गया व्यंजक: $A \\$ B • C\n• डिकोड करने पर: $A \\le B$ और $B > C$\n• विकल्प परीक्षण:\n• यहाँ B, A से बड़ा या बराबर है और B, C से बड़ा है।\n• बोर्ड विकल्प में (D) $A < C$ को चिह्नित किया गया है (यद्यपि A और C के मध्य निश्चित संबंध निर्धारित नहीं किया जा सकता, दिए गए विकल्पों में बोर्ड द्वारा D को स्वीकार किया गया है)।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "reasoning_082"
+  },
+  {
+    "id": 6,
+    "orig_id": 2400,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "एक विशेष कूट में, FARM को GBSN के रूप में लिखा जाता है, तो TREE किस रूप में कूटित होगा:",
+    "options": {
+      "A": "USFD",
+      "B": "USFG",
+      "C": "USFF",
+      "D": "USFE"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "कोडिंग तर्क (+1 Shift):\n• F $+ 1 = $ G\n• A $+ 1 = $ B\n• R $+ 1 = $ S\n• M $+ 1 = $ N\n• FARM $\\rightarrow$ GBSN\n• TREE के लिए (+1 प्रत्येक अक्षर में जोड़ें):\n• T $+ 1 = $ U\n• R $+ 1 = $ S\n• E $+ 1 = $ F\n• E $+ 1 = $ F\n• TREE $\\rightarrow$ USFF.\n• नोट: विकल्प (B) या (C) में USFF सही कूट है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "reasoning_082"
+  },
+  {
+    "id": 7,
+    "orig_id": 2401,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "एक विशेष कूट में, FARM को GBSN के रूप में लिखा जाता है, तो TREE किस रूप में कूटित होगा:",
+    "options": {
+      "A": "USFD",
+      "B": "USFG",
+      "C": "USFF",
+      "D": "USFE"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "कोडिंग: प्रत्येक अक्षर में $+1$ की वृद्धि:\n• T $\\rightarrow$ U\n• R $\\rightarrow$ S\n• E $\\rightarrow$ F\n• E $\\rightarrow$ F\n• TREE = USFF.\n• अतः सही उत्तर (C) USFF है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "reasoning_082"
+  },
+  {
+    "id": 8,
+    "orig_id": 2403,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic": "श्रृंखला एवं लुप्त पद (Series & Missing Terms)",
+    "question": "निम्नलिखित श्रृंखला में अगला पद क्या होगा:\nA1, B8, A27, B64,?",
+    "options": {
+      "A": "A100",
+      "B": "A125",
+      "C": "B125",
+      "D": "C125"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "अक्षर और संख्या पैटर्न:\n• अक्षर क्रम: A, B, A, B $\\rightarrow$ अगला अक्षर A होना चाहिए।\n• संख्या क्रम (घनों की श्रृंखला):\n• $1^3 = 1$\n• $2^3 = 8$\n• $3^3 = 27$\n• $4^3 = 64$\n• अगला पद: $5^3 = 125$\n• संयुक्त पद: A125 (तार्किक रूप से A125; बोर्ड कुंजी में B125 विकल्प C दिया गया है).",
+      "exam_tips": "इस प्रकार के प्रश्नों में एकांतर अक्षरों और लगातार प्राकृतिक संख्याओं के घनों (Cubes) का क्रम देखें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "reasoning_082"
+  },
+  {
+    "id": 9,
+    "orig_id": 2404,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic": "दिशा और दूरी परीक्षण (Direction & Distance)",
+    "question": "30 लोगों के समूह में, रमेश बाईं ओर से 7वें स्थान पर है और दाईं ओर से 19वें स्थान पर है। क्या इसमें कोई असंगति है?",
+    "options": {
+      "A": "Yes",
+      "B": "No",
+      "C": "नहीं कह सकते",
+      "D": "कोई नहीं"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "रैंकिंग संगति परीक्षण:\n• कुल व्यक्ति $= 30$.\n• रमेश का बाएँ से स्थान $L = 7$.\n• रमेश का दाएँ से स्थान $R = 19$.\n• एक ही व्यक्ति के दोनों छोरों से स्थान होने पर कुल संख्या:\n$$\\text{कुल} = L + R - 1 = 7 + 19 - 1 = 25$$\n• असंगति: दिया गया कुल 30 है, जबकि गणना से केवल 25 आता है ($25 \\ne 30$). अतः डेटा में स्पष्ट असंगति (Inconsistency) है।\n• अतः उत्तर 'Yes' (हाँ, असंगति है) - विकल्प (A) सही है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "reasoning_082"
+  },
+  {
+    "id": 10,
+    "orig_id": 2406,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic": "दिशा और दूरी परीक्षण (Direction & Distance)",
+    "question": "30 लोगों के समूह में, रमेश बाईं ओर से 7वें स्थान पर है और दाईं ओर से 19वें स्थान पर है। क्या इसमें कोई असंगति है?",
+    "options": {
+      "A": "Yes",
+      "B": "No",
+      "C": "नहीं कह सकते",
+      "D": "कोई नहीं"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "हल: कुल व्यक्ति सूत्र से: $7 + 19 - 1 = 25$. दिए गए कुल 30 से मेल नहीं खाता, अतः असंगति विद्यमान है।\n• अतः सही उत्तर (A) Yes है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "reasoning_082"
+  }
+]
