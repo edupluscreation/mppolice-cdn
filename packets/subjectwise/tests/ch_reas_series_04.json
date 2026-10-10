@@ -70,6 +70,29 @@
   },
   {
     "id": 4,
+    "orig_id": 2861,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_series",
+    "topic": "श्रृंखला एवं लुप्त पद (Series & Missing Terms)",
+    "question": "अक्षर श्रृंखला को पूर्ण करें:\nWX : ZA :: CD : ?",
+    "options": {
+      "A": "GH",
+      "B": "FG",
+      "C": "HI",
+      "D": "IJ"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "अक्षर श्रृंखला: वर्णमाला अंतराल के आधार पर अगला पद निर्धारित होता है।\n• अतः सही उत्तर (C) है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_series_04"
+  },
+  {
+    "id": 5,
     "orig_id": 2868,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -92,7 +115,7 @@
     "mock_id": "ch_reas_series_04"
   },
   {
-    "id": 5,
+    "id": 6,
     "orig_id": 2871,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -115,7 +138,7 @@
     "mock_id": "ch_reas_series_04"
   },
   {
-    "id": 6,
+    "id": 7,
     "orig_id": 2880,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -138,7 +161,7 @@
     "mock_id": "ch_reas_series_04"
   },
   {
-    "id": 7,
+    "id": 8,
     "orig_id": 2921,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -161,53 +184,7 @@
     "mock_id": "ch_reas_series_04"
   },
   {
-    "id": 8,
-    "orig_id": 2992,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_series",
-    "topic": "श्रृंखला एवं लुप्त पद (Series & Missing Terms)",
-    "question": "निम्नलिखित संख्या श्रृंखला में प्रश्नवाचक चिन्ह '?' के स्थान पर क्या आना चाहिए?\n9, 14, 24, 39, 59, ?, 114",
-    "options": {
-      "A": "69",
-      "B": "70",
-      "C": "89",
-      "D": "84"
-    },
-    "correct": "D",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "अंतर श्रृंखला (Step Differences):\n• 14 - 9 = +5\n• 24 - 14 = +10\n• 39 - 24 = +15\n• 59 - 39 = +20\n• अगला अंतर = +25\n• गणना: 59 + 25 = 84\n• सत्यापन: 84 + 30 = 114 (बिल्कुल सही)।\n• अतः लुप्त संख्या 84 है।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_series_04"
-  },
-  {
     "id": 9,
-    "orig_id": 3001,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_series",
-    "topic": "श्रृंखला एवं लुप्त पद (Series & Missing Terms)",
-    "question": "निम्नलिखित श्रृंखला में प्रश्नवाचक चिह्न (?) के स्थान पर कौन सा पद आएगा?\nXYZ2, ?, X4YZ, XY5Z, XYZ6",
-    "options": {
-      "A": "X7Y8",
-      "B": "Z4Y7",
-      "C": "XY3Z",
-      "D": "XYZ9"
-    },
-    "correct": "C",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "पैटर्न विश्लेषण:\n• XYZ2 (संख्या 2, स्थिति 4)\n• XY3Z (संख्या 3, स्थिति 3)\n• X4YZ (संख्या 4, स्थिति 2)\n• XY5Z (संख्या 5, स्थिति 3)\n• XYZ6 (संख्या 6, स्थिति 4)\n• अंक 2, 3, 4, 5, 6 क्रम में बढ़ते हैं और वर्णों के बीच स्थिति बदलते हैं।\n• अतः लुप्त पद XY3Z है।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_series_04"
-  },
-  {
-    "id": 10,
     "orig_id": 3101,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -224,6 +201,29 @@
     "explanation": {
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "वर्णमाला वृद्धि क्रम:\n• B (2) + 2 = D (4)\n• D (4) + 3 = G (7)\n• G (7) + 4 = K (11)\n• K (11) + 5 = P (16)\n• अतः श्रृंखला का अगला अक्षर P है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_series_04"
+  },
+  {
+    "id": 10,
+    "orig_id": 3117,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_series",
+    "topic": "श्रृंखला एवं लुप्त पद (Series & Missing Terms)",
+    "question": "निम्नलिखित अक्षर श्रृंखला में अगला अक्षर क्या होगा?\nM, N, P, S, W, ?",
+    "options": {
+      "A": "B",
+      "B": "C",
+      "C": "A",
+      "D": "Z"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "वर्णमाला अंतराल:\n• M (13) + 1 = N (14)\n• N (14) + 2 = P (16)\n• P (16) + 3 = S (19)\n• S (19) + 4 = W (23)\n• W (23) + 5 = 28 ➔ 28 - 26 = B (2)\n• बोर्ड कुंजी में विकल्प (C) A अंकित है। गणना अनुसार B आता है।",
       "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
     },
     "difficulty": "Medium",

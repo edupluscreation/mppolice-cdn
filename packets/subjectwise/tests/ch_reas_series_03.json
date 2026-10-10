@@ -1,29 +1,6 @@
 [
   {
     "id": 1,
-    "orig_id": 1479,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_series",
-    "topic": "श्रृंखला एवं लुप्त पद (Series & Missing Terms)",
-    "question": "शृंखला में लुप्त संख्या का पता लगाइए।\n8, 13, 21, 34, 55, ?, 144",
-    "options": {
-      "A": "85",
-      "B": "84",
-      "C": "86",
-      "D": "89"
-    },
-    "correct": "D",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "मुख्य तथ्य / नियम / सूत्र: फाइबोनैचि अनुक्रम का नियम: प्रत्येक पद पूर्ववर्ती दो पदों का जोड़ होता है।\n• स्टेप-बाय-स्टेप हल:\n• 8 + 13 = 21\n• 13 + 21 = 34\n• 21 + 34 = 55\n• 34 + 55 = 89\n• 55 + 89 = 144",
-      "exam_tips": "यह प्रश्न सेट में दोहराव के रूप में दर्ज है, इसका सही उत्तर विकल्प (D) 89 है।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_series_03"
-  },
-  {
-    "id": 2,
     "orig_id": 1538,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -41,6 +18,29 @@
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "मुख्य तथ्य / नियम / सूत्र: श्रेणी वर्गीकरण (Semantic Category Classification):\n• विवरण:\n• टेबल, कुर्सी, सोफा, बिस्तर - ये सभी 'फर्नीचर' (Furniture / लकड़ी/धातु के फर्नीचर) की श्रेणी में आते हैं।\n• विकल्पों में 'शेल्फ / रैक' (Shelf/Rack) भी भंडारण हेतु प्रयुक्त होने वाला फर्नीचर है।\n• खिड़की, दरवाजा और वॉलपेपर घर की संरचना/सजावट का हिस्सा हैं, फर्नीचर नहीं।",
       "exam_tips": "सादृश्यता एवं वर्गीकरण में वस्तुओं के उपयोग और व्यापक समूह (Superordinate Category) की पहचान करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_series_03"
+  },
+  {
+    "id": 2,
+    "orig_id": 1597,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_series",
+    "topic": "श्रृंखला एवं लुप्त पद (Series & Missing Terms)",
+    "question": "श्रृंखला को पूर्ण करें:\nACE : BDF :: GIK : ?",
+    "options": {
+      "A": "HJK",
+      "B": "HJM",
+      "C": "GJL",
+      "D": "HJL"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र: अक्षर सादृश्यता (Letter Analogy / +1 Forward Shift):\n• स्टेप-बाय-स्टेप हल:\n• पहले युग्म का संबंध:\n• A + 1 = B\n• C + 1 = D\n• E + 1 = F\nअर्थात् प्रत्येक अक्षर में +1 का क्रमिक विस्थापन है।\n• यही संबंध GIK पर लागू करने पर:\n• G + 1 = H\n• I + 1 = J\n• K + 1 = L\nपरिणामी पद = HJL",
+      "exam_tips": "अक्षरों के एकांतर क्रम (A-C-E = +2 अंतराल) और उनके संगत अगले अक्षरों (B-D-F) के पैटर्न को ध्यान में रखें।"
     },
     "difficulty": "Medium",
     "mock_id": "ch_reas_series_03"
@@ -70,6 +70,29 @@
   },
   {
     "id": 4,
+    "orig_id": 1724,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_series",
+    "topic": "श्रृंखला एवं लुप्त पद (Series & Missing Terms)",
+    "question": "श्रृंखला को पूर्ण करें:\nSHIP : TIJQ :: MAST : ?",
+    "options": {
+      "A": "NBTV",
+      "B": "NBTN",
+      "C": "NBTU",
+      "D": "NCTU"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र: वर्णमाला में प्रत्येक अक्षर में +1 का क्रमिक विस्थापन:\n• स्टेप-बाय-स्टेप हल:\n• S + 1 = T, H + 1 = I, I + 1 = J, P + 1 = Q (SHIP → TIJQ)\n• MAST के लिए:\n• M + 1 = N\n• A + 1 = B\n• S + 1 = T\n• T + 1 = U\nकोड = NBTU",
+      "exam_tips": "+1 अग्रगामी कोडिंग सबसे बुनियादी सादृश्यता है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_series_03"
+  },
+  {
+    "id": 5,
     "orig_id": 1732,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -92,7 +115,30 @@
     "mock_id": "ch_reas_series_03"
   },
   {
-    "id": 5,
+    "id": 6,
+    "orig_id": 1854,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_series",
+    "topic": "श्रृंखला एवं लुप्त पद (Series & Missing Terms)",
+    "question": "श्रृंखला को पूर्ण करें:\nECG : DBF :: ICE : ?",
+    "options": {
+      "A": "HBD",
+      "B": "BDH",
+      "C": "GCD",
+      "D": "IBD"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "मुख्य तथ्य / नियम / सूत्र: प्रत्येक अक्षर में -1 का विस्थापन:\n• स्टेप-बाय-स्टेप हल:\n• E - 1 = D, C - 1 = B, G - 1 = F (ECG → DBF)\n• ICE के लिए:\n• I - 1 = H\n• C - 1 = B\n• E - 1 = D\n• पद = HBD",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_series_03"
+  },
+  {
+    "id": 7,
     "orig_id": 1984,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -115,7 +161,7 @@
     "mock_id": "ch_reas_series_03"
   },
   {
-    "id": 6,
+    "id": 8,
     "orig_id": 2091,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -138,30 +184,7 @@
     "mock_id": "ch_reas_series_03"
   },
   {
-    "id": 7,
-    "orig_id": 2224,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_series",
-    "topic": "श्रृंखला एवं लुप्त पद (Series & Missing Terms)",
-    "question": "शृंखला को पूर्ण करें:\nY, W, ?, M, E",
-    "options": {
-      "A": "S",
-      "B": "T",
-      "C": "R",
-      "D": "Q"
-    },
-    "correct": "B",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "मुख्य तथ्य / नियम / सूत्र: पश्च वर्णमाला शृंखला (Reverse Alphabet Shift):\n• स्टेप-बाय-स्टेप हल:\n• Y (25) - 2 = W (23)\n• W (23) - 3 = T (20)\n• T (20) - 7 = M (13)\n• M (13) - 8 = E (5)\n• लुप्त पद = T (विकल्प B)",
-      "exam_tips": "अंग्रेजी वर्णमाला में उल्टे क्रम में स्थिति मान घटाया गया है।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_series_03"
-  },
-  {
-    "id": 8,
+    "id": 9,
     "orig_id": 2225,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -179,29 +202,6 @@
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "मुख्य तथ्य / नियम / सूत्र: वर्णमाला शृंखला अंतर:\n• स्टेप-बाय-स्टेप हल:\n• Y(25), W(23), ? , M(13), E(5)\n• स्थानीय मानों में घटता क्रम: 25 - 2 = 23; 23 - 5 = 18 (R); 18 - 5 = 13 (M); 13 - 8 = 5 (E)\n• अतः लुप्त पद = R (विकल्प C) / T।",
       "exam_tips": "वर्णमाला के स्थानीय मान लिखकर अंतर का क्रम देखा जाता है।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_series_03"
-  },
-  {
-    "id": 9,
-    "orig_id": 2343,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_series",
-    "topic": "श्रृंखला एवं लुप्त पद (Series & Missing Terms)",
-    "question": "यदि 2 -> 10, 3 -> 20, 4 -> 30, तो 6 -> ?",
-    "options": {
-      "A": "40",
-      "B": "50",
-      "C": "60",
-      "D": "70"
-    },
-    "correct": "B",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "पैटर्न: n ➔ (n - 1) × 10\n• 2 ➔ (2 - 1) × 10 = 10\n• 3 ➔ (3 - 1) × 10 = 20\n• 4 ➔ (4 - 1) × 10 = 30\n• 6 ➔ (6 - 1) × 10 = 50\n• निष्कर्ष: लुप्त संख्या 50 (विकल्प B) है।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
     },
     "difficulty": "Medium",
     "mock_id": "ch_reas_series_03"

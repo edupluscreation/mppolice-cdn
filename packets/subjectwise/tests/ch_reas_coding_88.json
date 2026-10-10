@@ -1,104 +1,150 @@
 [
   {
     "id": 1,
-    "orig_id": 4935,
+    "orig_id": 3809,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
     "topic_id": "reas_coding",
     "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "निम्नलिखित श्रृंखला में अगला पद क्या होगा?\nB2, D4, F6, ?",
+    "question": "निम्नलिखित श्रृंखला में अगला पद क्या होना चाहिए?\nZ73, Y79, X83, W89, ?",
     "options": {
-      "A": "K8",
-      "B": "J8",
-      "C": "H8",
-      "D": "I10"
+      "A": "V79",
+      "B": "V97",
+      "C": "U89",
+      "D": "U97"
     },
-    "correct": "A",
+    "correct": "D",
     "explanation": {
       "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / बोर्ड उत्तर कुंजी नोट:\n• आधिकारिक कुंजी में विकल्प (A) K8 दर्ज है।\n• 💡",
-      "exam_tips": "संख्या घटक 8 है।"
+      "solution": "अक्षर और अभाज्य संख्या पैटर्न:\n• अक्षर: Z, Y, X, W ➔ अगला अक्षर V\n• संख्याएं: 73, 79, 83, 89 ➔ अगली अभाज्य संख्या 97\n• पद = V97\n• बोर्ड उत्तर कुंजी: बोर्ड ने विकल्प (D) U97 चिह्नित किया है। सही तार्किक पद V97 (B) है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
     },
     "difficulty": "Medium",
     "mock_id": "ch_reas_coding_88"
   },
   {
     "id": 2,
-    "orig_id": 4936,
+    "orig_id": 3811,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
     "topic_id": "reas_coding",
     "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "यदि 70 लोगों की एक पंक्ति में सुनीता बाएँ से 14वें स्थान पर है और रीता दाएँ से 20वें स्थान पर है, तो उनके बीच कितने लोग हैं?",
+    "question": "चार मित्र - रितू, कबीर, शिल्पा और आदित्य - ने अप्रैल महीने की 4, 11, 18 और 25 तारीख को एक शहर की यात्रा की। कबीर ने शिल्पा से ठीक एक सप्ताह पहले यात्रा की। आदित्य ने 25 तारीख को यात्रा नहीं की। रितू ने शिल्पा के बाद यात्रा की। आदित्य ने 18 अप्रैल को यात्रा की। तो 11 अप्रैल को किसने यात्रा की?",
     "options": {
-      "A": "35 लोग",
-      "B": "36 लोग",
-      "C": "37 लोग",
-      "D": "34 लोग"
+      "A": "रितू",
+      "B": "कबीर",
+      "C": "शिल्पा",
+      "D": "आदित्य"
     },
-    "correct": "B",
+    "correct": "C",
     "explanation": {
       "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / गैर-ओवरलैपिंग रैंकिंग सूत्र:\n• जब (बायां स्थान + दायां स्थान) < कुल संख्या हो:\n• बीच के लोग = कुल संख्या - (L + R)\n• 📝 स्टेप-बाय-स्टेप हल:\n• कुल लोग = 70\n• बायां स्थान L = 14\n• दायां स्थान R = 20\n• L + R = 14 + 20 = 34\n• बीच के लोग = 70 - 34 = 36 लोग।\n• 💡",
-      "exam_tips": "चूंकि 34 < 70, इसलिए यह सरल गैर-ओवरलैपिंग स्थिति है।"
+      "solution": "कैलेंडर पहेली (4, 11, 18, 25 अप्रैल):\n• आदित्य = 18 अप्रैल।\n• कबीर, शिल्पा से ठीक एक सप्ताह (7 दिन) पहले यात्रा करता है ⇒ कबीर = 4 अप्रैल, शिल्पा = 11 अप्रैल।\n• रितू, शिल्पा के बाद ➔ रितू = 25 अप्रैल।\n• अतः 11 अप्रैल को शिल्पा ने यात्रा की।\n• सही विकल्प: (C) शिल्पा।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
     },
     "difficulty": "Medium",
     "mock_id": "ch_reas_coding_88"
   },
   {
     "id": 3,
-    "orig_id": 4937,
+    "orig_id": 3814,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
     "topic_id": "reas_coding",
     "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "Arrange the following sentences to form a coherent paragraph:\nA. It provides nourishment to all living beings.\nB. Water is essential for the survival of life on Earth.\nC. Without it, ecosystems would collapse.\nD. Therefore, conserving water is our utmost responsibility.",
+    "question": "कोई आपके काम की तारीफ़ करता है। सामाजिक रूप से सबसे बुद्धिमान वाली बात क्या होगी?",
     "options": {
-      "A": "ABCD",
-      "B": "BCAD",
-      "C": "BCDA",
-      "D": "CABD"
+      "A": "उनकी तारीफ़ को नज़रअंदाज़ करें और विषय बदल दें।",
+      "B": "उन्हें ईमानदारी से धन्यवाद दें और विनम्रतापूर्वक स्वीकार करें",
+      "C": "कहें कि यह कोई बड़ी बात नहीं थी और अपने प्रयास को छोटा दिखाएं।",
+      "D": "अहंकार दिखाएं और तुरंत खुद को श्रेष्ठ साबित करें।"
     },
     "correct": "B",
     "explanation": {
       "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / पैरा जम्बल (Sentence Rearrangement):\n• प्रारंभिक वाक्य (Topic Sentence): B (Water is essential...) से विषय की शुरुआत होती है।\n• 📝 तार्किक क्रम:\n• B के बाद प्रभाव: C (Without it, ecosystems would collapse).\n• इसके बाद सकारात्मक भूमिका: A (It provides nourishment...).\n• अंतिम निष्कर्ष: D (Therefore, conserving water is our utmost responsibility).\n• सही संयोजन = B-C-A-D (विकल्प B)।\n• 💡",
-      "exam_tips": "'Therefore' निष्कर्ष दर्शाता है जो हमेशा अंत में आता है।"
+      "solution": "सामाजिक शिष्टाचार: प्रशंसा मिलने पर उसे विनम्रता से स्वीकार करना और ईमानदारी से धन्यवाद देना सामाजिक रूप से परिपक्व व्यवहार है।\n• सही विकल्प: (B)।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
     },
     "difficulty": "Medium",
     "mock_id": "ch_reas_coding_88"
   },
   {
     "id": 4,
-    "orig_id": 4938,
+    "orig_id": 3816,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
     "topic_id": "reas_coding",
     "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "Determine which of the figures in Image Y logically continues the series from Image X:",
+    "question": "आपका दोस्त चाहता है कि आप परीक्षा के दौरान अपने उत्तर साझा करें। आपको क्या करना चाहिए?",
     "options": {
-      "A": "Figura 1",
-      "B": "Figura 2",
-      "C": "Figura 3",
-      "D": "Figura 4"
+      "A": "दृढ़ता से ना कहना",
+      "B": "गुप्त रूप से उनकी मदद करना",
+      "C": "कुछ साझा करना, सब नहीं",
+      "D": "तुरंत उत्तर साझा करना"
     },
-    "correct": "D",
+    "correct": "A",
     "explanation": {
       "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / अशाब्दिक घूर्णन पैटर्न:\n• आकृतियों में तत्वों का 90° दक्षिणावर्त (Clockwise) घूर्णन और भुजाओं की संख्या में परिवर्तन।\n• 💡",
-      "exam_tips": "श्रृंखला का तार्किक विस्तार विकल्प (D) द्वारा होता है।"
+      "solution": "परीक्षा अखंडता: परीक्षा में नकल कराना या उत्तर साझा करना अनुचित साधन है, इसके लिए दृढ़ता से मना करना चाहिए।\n• सही विकल्प: (A) दृढ़ता से ना कहना।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
     },
     "difficulty": "Medium",
     "mock_id": "ch_reas_coding_88"
   },
   {
     "id": 5,
-    "orig_id": 4939,
+    "orig_id": 3818,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
     "topic_id": "reas_coding",
     "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "What is the total number of words that begin with a vowel in the given passage?",
+    "question": "A, B और C का पिता है। B, C का भाई है। D, की माँ है। E, D का बेटा है। तो E, A से किस प्रकार संबंधित है?",
+    "options": {
+      "A": "बेटा",
+      "B": "भाई",
+      "C": "अंकल",
+      "D": "पिता"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "रक्त संबंध:\n• A पिता है और D माँ है (A और D पति-पत्नी हैं)।\n• E, D का बेटा है, अतः E, A का भी बेटा (Son) है।\n• सही विकल्प: (A) बेटा।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_88"
+  },
+  {
+    "id": 6,
+    "orig_id": 3819,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "दिए गए अस्त-व्यस्त शब्दों में से वह शब्द चुनिए जो अन्य से भिन्न है।\nRBCAON, AGNOM, NXOEN, UMHIEL, OGARN",
+    "options": {
+      "A": "OGARN",
+      "B": "UMHIEL",
+      "C": "NXOEN",
+      "D": "AGNOM"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "अनावृत शब्द:\n• RBCAON = CARBON (तत्व)\n• AGNOM = MANGO (फल)\n• NXOEN = XENON (तत्व)\n• UMHIEL = HELIUM (तत्व)\n• OGARN = ARGON (तत्व)\n• बोर्ड उत्तर कुंजी: बोर्ड ने विकल्प (B) UMHIEL को विषम माना है। अर्थ के आधार पर फल (MANGO) भिन्न है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_88"
+  },
+  {
+    "id": 7,
+    "orig_id": 3823,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "जब टाइटेनियम टेट्राक्लोराइड मैग्नीशियम के साथ अभिक्रिया करके टाइटेनियम और मैग्नीशियम क्लोराइड बनाता है, तो सभी गुणांकों का योग क्या होता है ?",
     "options": {
       "A": "5",
       "B": "6",
@@ -108,123 +154,77 @@
     "correct": "C",
     "explanation": {
       "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / स्वर पहचान (Vowels: A, E, I, O, U):\n• गद्यांश में स्वर से प्रारंभ होने वाले शब्दों की कुल संख्या 7 है।\n• 💡",
-      "exam_tips": "सही गणना 7 है।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_88"
-  },
-  {
-    "id": 6,
-    "orig_id": 4941,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "बॉटल बंद पानी की बिक्री पूरे क्षेत्र में अचानक बढ़ गई। इसका सबसे संभावित तात्कालिक कारण क्या हो सकता है?",
-    "options": {
-      "A": "पानी की बोतलों के दाम अचानक बढ़ गए",
-      "B": "लोगों ने पानी पीना कम कर दिया",
-      "C": "स्थानीय पानी के स्रोतों में भारी मात्रा में मिलावट / संदूषण",
-      "D": "वर्षा अत्यधिक मात्रा में हुई"
-    },
-    "correct": "C",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / कारण और प्रभाव (Cause and Effect):\n• जब नगर पालिका या स्थानीय जल स्रोतों का पानी दूषित/असुरक्षित हो जाता है, तो नागरिक स्वास्थ्य सुरक्षा हेतु पैकेज्ड बोतलबंद पानी की ओर रुख करते हैं।\n• 💡",
-      "exam_tips": "जल संदूषण (कारण) → बोतलबंद पानी की मांग में उछाल (प्रभाव)।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_coding_88"
-  },
-  {
-    "id": 7,
-    "orig_id": 4942,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_coding",
-    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "निम्नलिखित प्रश्न में, उस शब्द का चयन करें जिसे दिए गए अक्षरों से बनाया जा सकता है:",
-    "options": {
-      "A": "SUMMER",
-      "B": "WINTER",
-      "C": "AUTUMN",
-      "D": "SPRING"
-    },
-    "correct": "A",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / शब्द निर्माण:\n• दिए गए मूल अक्षर समूह से केवल 'SUMMER' के सभी अक्षर मेल खाते हैं।\n• 💡",
-      "exam_tips": "विकल्प (A) सही उत्तर है।"
+      "solution": "क्रोल विधि (Kroll Process) समीकरण:\n• TiCl₄ + 2Mg → Ti + 2MgCl₂\n• रससमीकरणमितीय गुणांक: 1 + 2 + 1 + 2 = 6\n• बोर्ड उत्तर कुंजी: बोर्ड ने विकल्प (C) 7 को उत्तर माना है। मानक संतुलित समीकरण में गुणांकों का योग 6 होता है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
     },
     "difficulty": "Medium",
     "mock_id": "ch_reas_coding_88"
   },
   {
     "id": 8,
-    "orig_id": 4943,
+    "orig_id": 3828,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
     "topic_id": "reas_coding",
     "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "सही क्रम में अक्षरों को चुनिए और एक उपयुक्त अर्थपूर्ण शब्द बनाइए:\n1:R, 2:A, 3:B, 4:N, 5:H, 6:C",
+    "question": "एक ट्रेन को एक प्लेटफॉर्म पार करने में 45 सेकंड लगते हैं और एक आदमी को पार करने में 30 सेकंड लगते हैं। यदि ट्रेन की लंबाई 180 मीटर है, तो प्लेटफॉर्म की लंबाई क्या होगी?",
     "options": {
-      "A": "321456",
-      "B": "312465",
-      "C": "123456",
-      "D": "314265"
+      "A": "100 m",
+      "B": "90 m",
+      "C": "180 m",
+      "D": "150 m"
     },
-    "correct": "B",
+    "correct": "C",
     "explanation": {
       "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / सार्थक शब्द निर्माण:\n• अक्षर: B(3), R(1), A(2), N(4), C(6), H(5)\n• बनने वाला शब्द = B-R-A-N-C-H (अर्थ: शाखा)।\n• संख्यात्मक क्रम = 3, 1, 2, 4, 6, 5 (विकल्प B)।\n• 💡",
-      "exam_tips": "BRANCH एक मानक अर्थपूर्ण अंग्रेजी शब्द है।"
+      "solution": "ट्रेन व प्लेटफार्म की लंबाई:\n• ट्रेन की चाल (व्यक्ति को पार करने से) = 180 मी / 30 से = 6 मी/से\n• 45 सेकंड में तय कुल दूरी = 6 × 45 = 270 मीटर\n• प्लेटफार्म की लंबाई = कुल दूरी - ट्रेन की लंबाई = 270 - 180 = 90 मीटर।\n• बोर्ड उत्तर कुंजी: बोर्ड ने विकल्प (C) 180 m चिह्नित किया है। वास्तविक भौतिकी गणना में प्लेटफार्म की लंबाई 90 मीटर (B) है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
     },
     "difficulty": "Medium",
     "mock_id": "ch_reas_coding_88"
   },
   {
     "id": 9,
-    "orig_id": 4944,
+    "orig_id": 3831,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
     "topic_id": "reas_coding",
     "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "उस आइटम को चुनें जो नियम का उल्लंघन करता है।",
+    "question": "6) A triangle has angles in the ratio 2:3:4. What is the largest angle in degrees?",
     "options": {
-      "A": "I10",
-      "B": "A1",
-      "C": "C3",
-      "D": "E5"
+      "A": "120°",
+      "B": "90°",
+      "C": "100°",
+      "D": "80°"
     },
-    "correct": "A",
+    "correct": "D",
     "explanation": {
       "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / वर्णमाला स्थानीय मान मिलान:\n• A = 1 (A1 - सही)\n• C = 3 (C3 - सही)\n• E = 5 (E5 - सही)\n• I = 9 होता है, जबकि यहाँ I10 लिखा गया है।\n• 💡",
-      "exam_tips": "I10 नियम का उल्लंघन करता है (अक्षर का वर्णमाला क्रमांक 9 है, 10 नहीं)।"
+      "solution": "त्रिभुज के कोणों का योग: 2x + 3x + 4x = 9x = 180° ⇒ x = 20°\n• सबसे बड़ा कोण = 4x = 4 × 20° = 80°\n• सही विकल्प: (D) 80°।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
     },
     "difficulty": "Medium",
     "mock_id": "ch_reas_coding_88"
   },
   {
     "id": 10,
-    "orig_id": 4954,
+    "orig_id": 3832,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
     "topic_id": "reas_coding",
     "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-    "question": "शब्द \"CHARACTERISTICS\" के पाँचवें और बारहवें अक्षर को आपस में बदलें, फिर नए विन्यास का चयन करें:",
+    "question": "7) In an irrigation canal shaped like a circular arc, the angle subtended by a chord AB at the centre is 45°. If the angle subtended at any point on the remaining arc is measured, what would it be?",
     "options": {
-      "A": "CIATSIRETRAHC",
-      "B": "CHARACTERISTICS",
-      "C": "CHARACTIRISTECS",
-      "D": "CHARACTARISTEES"
+      "A": "22.5°",
+      "B": "45°",
+      "C": "90°",
+      "D": "135°"
     },
-    "correct": "A",
+    "correct": "D",
     "explanation": {
       "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / अक्षर स्थानांतरण एवं व्युत्क्रमण:\n• बोर्ड द्वारा विकल्प (A) CIATSIRETRAHC को उत्तर माना गया है।\n• 💡",
-      "exam_tips": "स्थिति विनिमय आधारित रीजनिंग प्रश्न।"
+      "solution": "वृत्त प्रमेय: किसी चाप द्वारा केंद्र पर अंतरित कोण, शेष वृत्त खंड पर अंतरित कोण का दोगुना होता है।\n• केंद्र पर कोण = 45°\n• दीर्घ चाप पर कोण = 45° / 2 = 22.5°\n• बोर्ड उत्तर कुंजी: बोर्ड ने विकल्प (D) 135° को चिह्नित किया है (180° - 45° संपूरक आधार पर)। वृत्त प्रमेय अनुसार कोण 22.5° (A) होता है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
     },
     "difficulty": "Medium",
     "mock_id": "ch_reas_coding_88"

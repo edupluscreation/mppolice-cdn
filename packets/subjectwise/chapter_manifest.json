@@ -3,8 +3,8 @@
     {
       "topicId": "gk_culture",
       "topicName": "कला, संस्कृति, मेले एवं खेल (Art, Culture & Sports)",
-      "totalQuestions": 135,
-      "totalTests": 14,
+      "totalQuestions": 100,
+      "totalTests": 10,
       "testPrefix": "ch_gk_culture",
       "tests": [
         {
@@ -56,34 +56,14 @@
           "testId": "ch_gk_culture_10",
           "testTitle": "कला, संस्कृति, मेले एवं खेल (Art, Culture & Sports) • अभ्यास टेस्ट #10",
           "questionCount": 10
-        },
-        {
-          "testId": "ch_gk_culture_11",
-          "testTitle": "कला, संस्कृति, मेले एवं खेल (Art, Culture & Sports) • अभ्यास टेस्ट #11",
-          "questionCount": 10
-        },
-        {
-          "testId": "ch_gk_culture_12",
-          "testTitle": "कला, संस्कृति, मेले एवं खेल (Art, Culture & Sports) • अभ्यास टेस्ट #12",
-          "questionCount": 10
-        },
-        {
-          "testId": "ch_gk_culture_13",
-          "testTitle": "कला, संस्कृति, मेले एवं खेल (Art, Culture & Sports) • अभ्यास टेस्ट #13",
-          "questionCount": 10
-        },
-        {
-          "testId": "ch_gk_culture_14",
-          "testTitle": "कला, संस्कृति, मेले एवं खेल (Art, Culture & Sports) • अभ्यास टेस्ट #14",
-          "questionCount": 10
         }
       ]
     },
     {
       "topicId": "gk_economy",
       "topicName": "भारतीय अर्थव्यवस्था (Economy)",
-      "totalQuestions": 60,
-      "totalTests": 6,
+      "totalQuestions": 27,
+      "totalTests": 3,
       "testPrefix": "ch_gk_economy",
       "tests": [
         {
@@ -100,29 +80,14 @@
           "testId": "ch_gk_economy_03",
           "testTitle": "भारतीय अर्थव्यवस्था (Economy) • अभ्यास टेस्ट #03",
           "questionCount": 10
-        },
-        {
-          "testId": "ch_gk_economy_04",
-          "testTitle": "भारतीय अर्थव्यवस्था (Economy) • अभ्यास टेस्ट #04",
-          "questionCount": 10
-        },
-        {
-          "testId": "ch_gk_economy_05",
-          "testTitle": "भारतीय अर्थव्यवस्था (Economy) • अभ्यास टेस्ट #05",
-          "questionCount": 10
-        },
-        {
-          "testId": "ch_gk_economy_06",
-          "testTitle": "भारतीय अर्थव्यवस्था (Economy) • अभ्यास टेस्ट #06",
-          "questionCount": 10
         }
       ]
     },
     {
       "topicId": "gk_geography",
       "topicName": "भारत एवं विश्व का भूगोल (Geography)",
-      "totalQuestions": 47,
-      "totalTests": 5,
+      "totalQuestions": 30,
+      "totalTests": 3,
       "testPrefix": "ch_gk_geography",
       "tests": [
         {
@@ -139,24 +104,14 @@
           "testId": "ch_gk_geography_03",
           "testTitle": "भारत एवं विश्व का भूगोल (Geography) • अभ्यास टेस्ट #03",
           "questionCount": 10
-        },
-        {
-          "testId": "ch_gk_geography_04",
-          "testTitle": "भारत एवं विश्व का भूगोल (Geography) • अभ्यास टेस्ट #04",
-          "questionCount": 10
-        },
-        {
-          "testId": "ch_gk_geography_05",
-          "testTitle": "भारत एवं विश्व का भूगोल (Geography) • अभ्यास टेस्ट #05",
-          "questionCount": 10
         }
       ]
     },
     {
       "topicId": "gk_history",
       "topicName": "भारतीय इतिहास (History)",
-      "totalQuestions": 122,
-      "totalTests": 13,
+      "totalQuestions": 98,
+      "totalTests": 10,
       "testPrefix": "ch_gk_history",
       "tests": [
         {
@@ -208,29 +163,14 @@
           "testId": "ch_gk_history_10",
           "testTitle": "भारतीय इतिहास (History) • अभ्यास टेस्ट #10",
           "questionCount": 10
-        },
-        {
-          "testId": "ch_gk_history_11",
-          "testTitle": "भारतीय इतिहास (History) • अभ्यास टेस्ट #11",
-          "questionCount": 10
-        },
-        {
-          "testId": "ch_gk_history_12",
-          "testTitle": "भारतीय इतिहास (History) • अभ्यास टेस्ट #12",
-          "questionCount": 10
-        },
-        {
-          "testId": "ch_gk_history_13",
-          "testTitle": "भारतीय इतिहास (History) • अभ्यास टेस्ट #13",
-          "questionCount": 10
         }
       ]
     },
     {
       "topicId": "gk_mpgk",
       "topicName": "मध्य प्रदेश सामान्य ज्ञान (MP GK)",
-      "totalQuestions": 982,
-      "totalTests": 99,
+      "totalQuestions": 1060,
+      "totalTests": 106,
       "testPrefix": "ch_gk_mpgk",
       "tests": [
         {
@@ -727,14 +667,49 @@
           "testId": "ch_gk_mpgk_99",
           "testTitle": "मध्य प्रदेश सामान्य ज्ञान (MP GK) • अभ्यास टेस्ट #99",
           "questionCount": 10
+        },
+        {
+          "testId": "ch_gk_mpgk_100",
+          "testTitle": "मध्य प्रदेश सामान्य ज्ञान (MP GK) • अभ्यास टेस्ट #100",
+          "questionCount": 10
+        },
+        {
+          "testId": "ch_gk_mpgk_101",
+          "testTitle": "मध्य प्रदेश सामान्य ज्ञान (MP GK) • अभ्यास टेस्ट #101",
+          "questionCount": 10
+        },
+        {
+          "testId": "ch_gk_mpgk_102",
+          "testTitle": "मध्य प्रदेश सामान्य ज्ञान (MP GK) • अभ्यास टेस्ट #102",
+          "questionCount": 10
+        },
+        {
+          "testId": "ch_gk_mpgk_103",
+          "testTitle": "मध्य प्रदेश सामान्य ज्ञान (MP GK) • अभ्यास टेस्ट #103",
+          "questionCount": 10
+        },
+        {
+          "testId": "ch_gk_mpgk_104",
+          "testTitle": "मध्य प्रदेश सामान्य ज्ञान (MP GK) • अभ्यास टेस्ट #104",
+          "questionCount": 10
+        },
+        {
+          "testId": "ch_gk_mpgk_105",
+          "testTitle": "मध्य प्रदेश सामान्य ज्ञान (MP GK) • अभ्यास टेस्ट #105",
+          "questionCount": 10
+        },
+        {
+          "testId": "ch_gk_mpgk_106",
+          "testTitle": "मध्य प्रदेश सामान्य ज्ञान (MP GK) • अभ्यास टेस्ट #106",
+          "questionCount": 10
         }
       ]
     },
     {
       "topicId": "gk_polity",
       "topicName": "भारतीय राजव्यवस्था एवं संविधान (Polity)",
-      "totalQuestions": 177,
-      "totalTests": 18,
+      "totalQuestions": 143,
+      "totalTests": 15,
       "testPrefix": "ch_gk_polity",
       "tests": [
         {
@@ -811,21 +786,6 @@
           "testId": "ch_gk_polity_15",
           "testTitle": "भारतीय राजव्यवस्था एवं संविधान (Polity) • अभ्यास टेस्ट #15",
           "questionCount": 10
-        },
-        {
-          "testId": "ch_gk_polity_16",
-          "testTitle": "भारतीय राजव्यवस्था एवं संविधान (Polity) • अभ्यास टेस्ट #16",
-          "questionCount": 10
-        },
-        {
-          "testId": "ch_gk_polity_17",
-          "testTitle": "भारतीय राजव्यवस्था एवं संविधान (Polity) • अभ्यास टेस्ट #17",
-          "questionCount": 10
-        },
-        {
-          "testId": "ch_gk_polity_18",
-          "testTitle": "भारतीय राजव्यवस्था एवं संविधान (Polity) • अभ्यास टेस्ट #18",
-          "questionCount": 10
         }
       ]
     }
@@ -834,8 +794,8 @@
     {
       "topicId": "reas_analogy",
       "topicName": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out)",
-      "totalQuestions": 152,
-      "totalTests": 16,
+      "totalQuestions": 202,
+      "totalTests": 21,
       "testPrefix": "ch_reas_analogy",
       "tests": [
         {
@@ -917,94 +877,89 @@
           "testId": "ch_reas_analogy_16",
           "testTitle": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out) • अभ्यास टेस्ट #16",
           "questionCount": 10
+        },
+        {
+          "testId": "ch_reas_analogy_17",
+          "testTitle": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out) • अभ्यास टेस्ट #17",
+          "questionCount": 10
+        },
+        {
+          "testId": "ch_reas_analogy_18",
+          "testTitle": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out) • अभ्यास टेस्ट #18",
+          "questionCount": 10
+        },
+        {
+          "testId": "ch_reas_analogy_19",
+          "testTitle": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out) • अभ्यास टेस्ट #19",
+          "questionCount": 10
+        },
+        {
+          "testId": "ch_reas_analogy_20",
+          "testTitle": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out) • अभ्यास टेस्ट #20",
+          "questionCount": 10
+        },
+        {
+          "testId": "ch_reas_analogy_21",
+          "testTitle": "सादृश्यता एवं वर्गीकरण (Analogy & Odd One Out) • अभ्यास टेस्ट #21",
+          "questionCount": 10
         }
       ]
     },
     {
       "topicId": "reas_blood",
-      "topicName": "रक्त संबंध (Blood Relations)",
-      "totalQuestions": 154,
-      "totalTests": 16,
+      "topicName": "रक्त संबंध (Blood Relation)",
+      "totalQuestions": 97,
+      "totalTests": 10,
       "testPrefix": "ch_reas_blood",
       "tests": [
         {
           "testId": "ch_reas_blood_01",
-          "testTitle": "रक्त संबंध (Blood Relations) • अभ्यास टेस्ट #01",
+          "testTitle": "रक्त संबंध (Blood Relation) • अभ्यास टेस्ट #01",
           "questionCount": 10
         },
         {
           "testId": "ch_reas_blood_02",
-          "testTitle": "रक्त संबंध (Blood Relations) • अभ्यास टेस्ट #02",
+          "testTitle": "रक्त संबंध (Blood Relation) • अभ्यास टेस्ट #02",
           "questionCount": 10
         },
         {
           "testId": "ch_reas_blood_03",
-          "testTitle": "रक्त संबंध (Blood Relations) • अभ्यास टेस्ट #03",
+          "testTitle": "रक्त संबंध (Blood Relation) • अभ्यास टेस्ट #03",
           "questionCount": 10
         },
         {
           "testId": "ch_reas_blood_04",
-          "testTitle": "रक्त संबंध (Blood Relations) • अभ्यास टेस्ट #04",
+          "testTitle": "रक्त संबंध (Blood Relation) • अभ्यास टेस्ट #04",
           "questionCount": 10
         },
         {
           "testId": "ch_reas_blood_05",
-          "testTitle": "रक्त संबंध (Blood Relations) • अभ्यास टेस्ट #05",
+          "testTitle": "रक्त संबंध (Blood Relation) • अभ्यास टेस्ट #05",
           "questionCount": 10
         },
         {
           "testId": "ch_reas_blood_06",
-          "testTitle": "रक्त संबंध (Blood Relations) • अभ्यास टेस्ट #06",
+          "testTitle": "रक्त संबंध (Blood Relation) • अभ्यास टेस्ट #06",
           "questionCount": 10
         },
         {
           "testId": "ch_reas_blood_07",
-          "testTitle": "रक्त संबंध (Blood Relations) • अभ्यास टेस्ट #07",
+          "testTitle": "रक्त संबंध (Blood Relation) • अभ्यास टेस्ट #07",
           "questionCount": 10
         },
         {
           "testId": "ch_reas_blood_08",
-          "testTitle": "रक्त संबंध (Blood Relations) • अभ्यास टेस्ट #08",
+          "testTitle": "रक्त संबंध (Blood Relation) • अभ्यास टेस्ट #08",
           "questionCount": 10
         },
         {
           "testId": "ch_reas_blood_09",
-          "testTitle": "रक्त संबंध (Blood Relations) • अभ्यास टेस्ट #09",
+          "testTitle": "रक्त संबंध (Blood Relation) • अभ्यास टेस्ट #09",
           "questionCount": 10
         },
         {
           "testId": "ch_reas_blood_10",
-          "testTitle": "रक्त संबंध (Blood Relations) • अभ्यास टेस्ट #10",
-          "questionCount": 10
-        },
-        {
-          "testId": "ch_reas_blood_11",
-          "testTitle": "रक्त संबंध (Blood Relations) • अभ्यास टेस्ट #11",
-          "questionCount": 10
-        },
-        {
-          "testId": "ch_reas_blood_12",
-          "testTitle": "रक्त संबंध (Blood Relations) • अभ्यास टेस्ट #12",
-          "questionCount": 10
-        },
-        {
-          "testId": "ch_reas_blood_13",
-          "testTitle": "रक्त संबंध (Blood Relations) • अभ्यास टेस्ट #13",
-          "questionCount": 10
-        },
-        {
-          "testId": "ch_reas_blood_14",
-          "testTitle": "रक्त संबंध (Blood Relations) • अभ्यास टेस्ट #14",
-          "questionCount": 10
-        },
-        {
-          "testId": "ch_reas_blood_15",
-          "testTitle": "रक्त संबंध (Blood Relations) • अभ्यास टेस्ट #15",
-          "questionCount": 10
-        },
-        {
-          "testId": "ch_reas_blood_16",
-          "testTitle": "रक्त संबंध (Blood Relations) • अभ्यास टेस्ट #16",
+          "testTitle": "रक्त संबंध (Blood Relation) • अभ्यास टेस्ट #10",
           "questionCount": 10
         }
       ]
@@ -1012,8 +967,8 @@
     {
       "topicId": "reas_clock_calendar",
       "topicName": "घड़ी एवं कैलेंडर (Clock & Calendar)",
-      "totalQuestions": 88,
-      "totalTests": 9,
+      "totalQuestions": 32,
+      "totalTests": 4,
       "testPrefix": "ch_reas_clock_calendar",
       "tests": [
         {
@@ -1035,39 +990,14 @@
           "testId": "ch_reas_clock_calendar_04",
           "testTitle": "घड़ी एवं कैलेंडर (Clock & Calendar) • अभ्यास टेस्ट #04",
           "questionCount": 10
-        },
-        {
-          "testId": "ch_reas_clock_calendar_05",
-          "testTitle": "घड़ी एवं कैलेंडर (Clock & Calendar) • अभ्यास टेस्ट #05",
-          "questionCount": 10
-        },
-        {
-          "testId": "ch_reas_clock_calendar_06",
-          "testTitle": "घड़ी एवं कैलेंडर (Clock & Calendar) • अभ्यास टेस्ट #06",
-          "questionCount": 10
-        },
-        {
-          "testId": "ch_reas_clock_calendar_07",
-          "testTitle": "घड़ी एवं कैलेंडर (Clock & Calendar) • अभ्यास टेस्ट #07",
-          "questionCount": 10
-        },
-        {
-          "testId": "ch_reas_clock_calendar_08",
-          "testTitle": "घड़ी एवं कैलेंडर (Clock & Calendar) • अभ्यास टेस्ट #08",
-          "questionCount": 10
-        },
-        {
-          "testId": "ch_reas_clock_calendar_09",
-          "testTitle": "घड़ी एवं कैलेंडर (Clock & Calendar) • अभ्यास टेस्ट #09",
-          "questionCount": 10
         }
       ]
     },
     {
       "topicId": "reas_coding",
       "topicName": "कोडिंग-डिकोडिंग (Coding-Decoding)",
-      "totalQuestions": 1598,
-      "totalTests": 160,
+      "totalQuestions": 2104,
+      "totalTests": 211,
       "testPrefix": "ch_reas_coding",
       "tests": [
         {
@@ -1869,14 +1799,269 @@
           "testId": "ch_reas_coding_160",
           "testTitle": "कोडिंग-डिकोडिंग (Coding-Decoding) • अभ्यास टेस्ट #160",
           "questionCount": 10
+        },
+        {
+          "testId": "ch_reas_coding_161",
+          "testTitle": "कोडिंग-डिकोडिंग (Coding-Decoding) • अभ्यास टेस्ट #161",
+          "questionCount": 10
+        },
+        {
+          "testId": "ch_reas_coding_162",
+          "testTitle": "कोडिंग-डिकोडिंग (Coding-Decoding) • अभ्यास टेस्ट #162",
+          "questionCount": 10
+        },
+        {
+          "testId": "ch_reas_coding_163",
+          "testTitle": "कोडिंग-डिकोडिंग (Coding-Decoding) • अभ्यास टेस्ट #163",
+          "questionCount": 10
+        },
+        {
+          "testId": "ch_reas_coding_164",
+          "testTitle": "कोडिंग-डिकोडिंग (Coding-Decoding) • अभ्यास टेस्ट #164",
+          "questionCount": 10
+        },
+        {
+          "testId": "ch_reas_coding_165",
+          "testTitle": "कोडिंग-डिकोडिंग (Coding-Decoding) • अभ्यास टेस्ट #165",
+          "questionCount": 10
+        },
+        {
+          "testId": "ch_reas_coding_166",
+          "testTitle": "कोडिंग-डिकोडिंग (Coding-Decoding) • अभ्यास टेस्ट #166",
+          "questionCount": 10
+        },
+        {
+          "testId": "ch_reas_coding_167",
+          "testTitle": "कोडिंग-डिकोडिंग (Coding-Decoding) • अभ्यास टेस्ट #167",
+          "questionCount": 10
+        },
+        {
+          "testId": "ch_reas_coding_168",
+          "testTitle": "कोडिंग-डिकोडिंग (Coding-Decoding) • अभ्यास टेस्ट #168",
+          "questionCount": 10
+        },
+        {
+          "testId": "ch_reas_coding_169",
+          "testTitle": "कोडिंग-डिकोडिंग (Coding-Decoding) • अभ्यास टेस्ट #169",
+          "questionCount": 10
+        },
+        {
+          "testId": "ch_reas_coding_170",
+          "testTitle": "कोडिंग-डिकोडिंग (Coding-Decoding) • अभ्यास टेस्ट #170",
+          "questionCount": 10
+        },
+        {
+          "testId": "ch_reas_coding_171",
+          "testTitle": "कोडिंग-डिकोडिंग (Coding-Decoding) • अभ्यास टेस्ट #171",
+          "questionCount": 10
+        },
+        {
+          "testId": "ch_reas_coding_172",
+          "testTitle": "कोडिंग-डिकोडिंग (Coding-Decoding) • अभ्यास टेस्ट #172",
+          "questionCount": 10
+        },
+        {
+          "testId": "ch_reas_coding_173",
+          "testTitle": "कोडिंग-डिकोडिंग (Coding-Decoding) • अभ्यास टेस्ट #173",
+          "questionCount": 10
+        },
+        {
+          "testId": "ch_reas_coding_174",
+          "testTitle": "कोडिंग-डिकोडिंग (Coding-Decoding) • अभ्यास टेस्ट #174",
+          "questionCount": 10
+        },
+        {
+          "testId": "ch_reas_coding_175",
+          "testTitle": "कोडिंग-डिकोडिंग (Coding-Decoding) • अभ्यास टेस्ट #175",
+          "questionCount": 10
+        },
+        {
+          "testId": "ch_reas_coding_176",
+          "testTitle": "कोडिंग-डिकोडिंग (Coding-Decoding) • अभ्यास टेस्ट #176",
+          "questionCount": 10
+        },
+        {
+          "testId": "ch_reas_coding_177",
+          "testTitle": "कोडिंग-डिकोडिंग (Coding-Decoding) • अभ्यास टेस्ट #177",
+          "questionCount": 10
+        },
+        {
+          "testId": "ch_reas_coding_178",
+          "testTitle": "कोडिंग-डिकोडिंग (Coding-Decoding) • अभ्यास टेस्ट #178",
+          "questionCount": 10
+        },
+        {
+          "testId": "ch_reas_coding_179",
+          "testTitle": "कोडिंग-डिकोडिंग (Coding-Decoding) • अभ्यास टेस्ट #179",
+          "questionCount": 10
+        },
+        {
+          "testId": "ch_reas_coding_180",
+          "testTitle": "कोडिंग-डिकोडिंग (Coding-Decoding) • अभ्यास टेस्ट #180",
+          "questionCount": 10
+        },
+        {
+          "testId": "ch_reas_coding_181",
+          "testTitle": "कोडिंग-डिकोडिंग (Coding-Decoding) • अभ्यास टेस्ट #181",
+          "questionCount": 10
+        },
+        {
+          "testId": "ch_reas_coding_182",
+          "testTitle": "कोडिंग-डिकोडिंग (Coding-Decoding) • अभ्यास टेस्ट #182",
+          "questionCount": 10
+        },
+        {
+          "testId": "ch_reas_coding_183",
+          "testTitle": "कोडिंग-डिकोडिंग (Coding-Decoding) • अभ्यास टेस्ट #183",
+          "questionCount": 10
+        },
+        {
+          "testId": "ch_reas_coding_184",
+          "testTitle": "कोडिंग-डिकोडिंग (Coding-Decoding) • अभ्यास टेस्ट #184",
+          "questionCount": 10
+        },
+        {
+          "testId": "ch_reas_coding_185",
+          "testTitle": "कोडिंग-डिकोडिंग (Coding-Decoding) • अभ्यास टेस्ट #185",
+          "questionCount": 10
+        },
+        {
+          "testId": "ch_reas_coding_186",
+          "testTitle": "कोडिंग-डिकोडिंग (Coding-Decoding) • अभ्यास टेस्ट #186",
+          "questionCount": 10
+        },
+        {
+          "testId": "ch_reas_coding_187",
+          "testTitle": "कोडिंग-डिकोडिंग (Coding-Decoding) • अभ्यास टेस्ट #187",
+          "questionCount": 10
+        },
+        {
+          "testId": "ch_reas_coding_188",
+          "testTitle": "कोडिंग-डिकोडिंग (Coding-Decoding) • अभ्यास टेस्ट #188",
+          "questionCount": 10
+        },
+        {
+          "testId": "ch_reas_coding_189",
+          "testTitle": "कोडिंग-डिकोडिंग (Coding-Decoding) • अभ्यास टेस्ट #189",
+          "questionCount": 10
+        },
+        {
+          "testId": "ch_reas_coding_190",
+          "testTitle": "कोडिंग-डिकोडिंग (Coding-Decoding) • अभ्यास टेस्ट #190",
+          "questionCount": 10
+        },
+        {
+          "testId": "ch_reas_coding_191",
+          "testTitle": "कोडिंग-डिकोडिंग (Coding-Decoding) • अभ्यास टेस्ट #191",
+          "questionCount": 10
+        },
+        {
+          "testId": "ch_reas_coding_192",
+          "testTitle": "कोडिंग-डिकोडिंग (Coding-Decoding) • अभ्यास टेस्ट #192",
+          "questionCount": 10
+        },
+        {
+          "testId": "ch_reas_coding_193",
+          "testTitle": "कोडिंग-डिकोडिंग (Coding-Decoding) • अभ्यास टेस्ट #193",
+          "questionCount": 10
+        },
+        {
+          "testId": "ch_reas_coding_194",
+          "testTitle": "कोडिंग-डिकोडिंग (Coding-Decoding) • अभ्यास टेस्ट #194",
+          "questionCount": 10
+        },
+        {
+          "testId": "ch_reas_coding_195",
+          "testTitle": "कोडिंग-डिकोडिंग (Coding-Decoding) • अभ्यास टेस्ट #195",
+          "questionCount": 10
+        },
+        {
+          "testId": "ch_reas_coding_196",
+          "testTitle": "कोडिंग-डिकोडिंग (Coding-Decoding) • अभ्यास टेस्ट #196",
+          "questionCount": 10
+        },
+        {
+          "testId": "ch_reas_coding_197",
+          "testTitle": "कोडिंग-डिकोडिंग (Coding-Decoding) • अभ्यास टेस्ट #197",
+          "questionCount": 10
+        },
+        {
+          "testId": "ch_reas_coding_198",
+          "testTitle": "कोडिंग-डिकोडिंग (Coding-Decoding) • अभ्यास टेस्ट #198",
+          "questionCount": 10
+        },
+        {
+          "testId": "ch_reas_coding_199",
+          "testTitle": "कोडिंग-डिकोडिंग (Coding-Decoding) • अभ्यास टेस्ट #199",
+          "questionCount": 10
+        },
+        {
+          "testId": "ch_reas_coding_200",
+          "testTitle": "कोडिंग-डिकोडिंग (Coding-Decoding) • अभ्यास टेस्ट #200",
+          "questionCount": 10
+        },
+        {
+          "testId": "ch_reas_coding_201",
+          "testTitle": "कोडिंग-डिकोडिंग (Coding-Decoding) • अभ्यास टेस्ट #201",
+          "questionCount": 10
+        },
+        {
+          "testId": "ch_reas_coding_202",
+          "testTitle": "कोडिंग-डिकोडिंग (Coding-Decoding) • अभ्यास टेस्ट #202",
+          "questionCount": 10
+        },
+        {
+          "testId": "ch_reas_coding_203",
+          "testTitle": "कोडिंग-डिकोडिंग (Coding-Decoding) • अभ्यास टेस्ट #203",
+          "questionCount": 10
+        },
+        {
+          "testId": "ch_reas_coding_204",
+          "testTitle": "कोडिंग-डिकोडिंग (Coding-Decoding) • अभ्यास टेस्ट #204",
+          "questionCount": 10
+        },
+        {
+          "testId": "ch_reas_coding_205",
+          "testTitle": "कोडिंग-डिकोडिंग (Coding-Decoding) • अभ्यास टेस्ट #205",
+          "questionCount": 10
+        },
+        {
+          "testId": "ch_reas_coding_206",
+          "testTitle": "कोडिंग-डिकोडिंग (Coding-Decoding) • अभ्यास टेस्ट #206",
+          "questionCount": 10
+        },
+        {
+          "testId": "ch_reas_coding_207",
+          "testTitle": "कोडिंग-डिकोडिंग (Coding-Decoding) • अभ्यास टेस्ट #207",
+          "questionCount": 10
+        },
+        {
+          "testId": "ch_reas_coding_208",
+          "testTitle": "कोडिंग-डिकोडिंग (Coding-Decoding) • अभ्यास टेस्ट #208",
+          "questionCount": 10
+        },
+        {
+          "testId": "ch_reas_coding_209",
+          "testTitle": "कोडिंग-डिकोडिंग (Coding-Decoding) • अभ्यास टेस्ट #209",
+          "questionCount": 10
+        },
+        {
+          "testId": "ch_reas_coding_210",
+          "testTitle": "कोडिंग-डिकोडिंग (Coding-Decoding) • अभ्यास टेस्ट #210",
+          "questionCount": 10
+        },
+        {
+          "testId": "ch_reas_coding_211",
+          "testTitle": "कोडिंग-डिकोडिंग (Coding-Decoding) • अभ्यास टेस्ट #211",
+          "questionCount": 10
         }
       ]
     },
     {
       "topicId": "reas_critical",
       "topicName": "तार्किक विश्लेषण एवं निर्णय क्षमता (Critical Reasoning)",
-      "totalQuestions": 38,
-      "totalTests": 4,
+      "totalQuestions": 75,
+      "totalTests": 8,
       "testPrefix": "ch_reas_critical",
       "tests": [
         {
@@ -1898,54 +2083,69 @@
           "testId": "ch_reas_critical_04",
           "testTitle": "तार्किक विश्लेषण एवं निर्णय क्षमता (Critical Reasoning) • अभ्यास टेस्ट #04",
           "questionCount": 10
+        },
+        {
+          "testId": "ch_reas_critical_05",
+          "testTitle": "तार्किक विश्लेषण एवं निर्णय क्षमता (Critical Reasoning) • अभ्यास टेस्ट #05",
+          "questionCount": 10
+        },
+        {
+          "testId": "ch_reas_critical_06",
+          "testTitle": "तार्किक विश्लेषण एवं निर्णय क्षमता (Critical Reasoning) • अभ्यास टेस्ट #06",
+          "questionCount": 10
+        },
+        {
+          "testId": "ch_reas_critical_07",
+          "testTitle": "तार्किक विश्लेषण एवं निर्णय क्षमता (Critical Reasoning) • अभ्यास टेस्ट #07",
+          "questionCount": 10
+        },
+        {
+          "testId": "ch_reas_critical_08",
+          "testTitle": "तार्किक विश्लेषण एवं निर्णय क्षमता (Critical Reasoning) • अभ्यास टेस्ट #08",
+          "questionCount": 10
         }
       ]
     },
     {
       "topicId": "reas_direction",
-      "topicName": "दिशा और दूरी परीक्षण (Direction & Distance)",
-      "totalQuestions": 75,
-      "totalTests": 8,
+      "topicName": "दिशा एवं दूरी (Direction & Distance)",
+      "totalQuestions": 63,
+      "totalTests": 7,
       "testPrefix": "ch_reas_direction",
       "tests": [
         {
           "testId": "ch_reas_direction_01",
-          "testTitle": "दिशा और दूरी परीक्षण (Direction & Distance) • अभ्यास टेस्ट #01",
+          "testTitle": "दिशा एवं दूरी (Direction & Distance) • अभ्यास टेस्ट #01",
           "questionCount": 10
         },
         {
           "testId": "ch_reas_direction_02",
-          "testTitle": "दिशा और दूरी परीक्षण (Direction & Distance) • अभ्यास टेस्ट #02",
+          "testTitle": "दिशा एवं दूरी (Direction & Distance) • अभ्यास टेस्ट #02",
           "questionCount": 10
         },
         {
           "testId": "ch_reas_direction_03",
-          "testTitle": "दिशा और दूरी परीक्षण (Direction & Distance) • अभ्यास टेस्ट #03",
+          "testTitle": "दिशा एवं दूरी (Direction & Distance) • अभ्यास टेस्ट #03",
           "questionCount": 10
         },
         {
           "testId": "ch_reas_direction_04",
-          "testTitle": "दिशा और दूरी परीक्षण (Direction & Distance) • अभ्यास टेस्ट #04",
+          "testTitle": "दिशा एवं दूरी (Direction & Distance) • अभ्यास टेस्ट #04",
           "questionCount": 10
         },
         {
           "testId": "ch_reas_direction_05",
-          "testTitle": "दिशा और दूरी परीक्षण (Direction & Distance) • अभ्यास टेस्ट #05",
+          "testTitle": "दिशा एवं दूरी (Direction & Distance) • अभ्यास टेस्ट #05",
           "questionCount": 10
         },
         {
           "testId": "ch_reas_direction_06",
-          "testTitle": "दिशा और दूरी परीक्षण (Direction & Distance) • अभ्यास टेस्ट #06",
+          "testTitle": "दिशा एवं दूरी (Direction & Distance) • अभ्यास टेस्ट #06",
           "questionCount": 10
         },
         {
           "testId": "ch_reas_direction_07",
-          "testTitle": "दिशा और दूरी परीक्षण (Direction & Distance) • अभ्यास टेस्ट #07",
-          "questionCount": 10
-        },
-        {
-          "testId": "ch_reas_direction_08",
-          "testTitle": "दिशा और दूरी परीक्षण (Direction & Distance) • अभ्यास टेस्ट #08",
+          "testTitle": "दिशा एवं दूरी (Direction & Distance) • अभ्यास टेस्ट #07",
           "questionCount": 10
         }
       ]
@@ -1967,8 +2167,8 @@
     {
       "topicId": "reas_seating_ranking",
       "topicName": "बैठक व्यवस्था एवं रैंकिंग (Seating & Ranking)",
-      "totalQuestions": 32,
-      "totalTests": 4,
+      "totalQuestions": 17,
+      "totalTests": 2,
       "testPrefix": "ch_reas_seating_ranking",
       "tests": [
         {
@@ -1980,24 +2180,14 @@
           "testId": "ch_reas_seating_ranking_02",
           "testTitle": "बैठक व्यवस्था एवं रैंकिंग (Seating & Ranking) • अभ्यास टेस्ट #02",
           "questionCount": 10
-        },
-        {
-          "testId": "ch_reas_seating_ranking_03",
-          "testTitle": "बैठक व्यवस्था एवं रैंकिंग (Seating & Ranking) • अभ्यास टेस्ट #03",
-          "questionCount": 10
-        },
-        {
-          "testId": "ch_reas_seating_ranking_04",
-          "testTitle": "बैठक व्यवस्था एवं रैंकिंग (Seating & Ranking) • अभ्यास टेस्ट #04",
-          "questionCount": 10
         }
       ]
     },
     {
       "topicId": "reas_series",
       "topicName": "श्रृंखला एवं लुप्त पद (Series & Missing Terms)",
-      "totalQuestions": 96,
-      "totalTests": 10,
+      "totalQuestions": 102,
+      "totalTests": 11,
       "testPrefix": "ch_reas_series",
       "tests": [
         {
@@ -2049,14 +2239,19 @@
           "testId": "ch_reas_series_10",
           "testTitle": "श्रृंखला एवं लुप्त पद (Series & Missing Terms) • अभ्यास टेस्ट #10",
           "questionCount": 10
+        },
+        {
+          "testId": "ch_reas_series_11",
+          "testTitle": "श्रृंखला एवं लुप्त पद (Series & Missing Terms) • अभ्यास टेस्ट #11",
+          "questionCount": 10
         }
       ]
     },
     {
       "topicId": "reas_syllogism",
       "topicName": "न्याय निगमन (Syllogism)",
-      "totalQuestions": 43,
-      "totalTests": 5,
+      "totalQuestions": 28,
+      "totalTests": 3,
       "testPrefix": "ch_reas_syllogism",
       "tests": [
         {
@@ -2073,24 +2268,14 @@
           "testId": "ch_reas_syllogism_03",
           "testTitle": "न्याय निगमन (Syllogism) • अभ्यास टेस्ट #03",
           "questionCount": 10
-        },
-        {
-          "testId": "ch_reas_syllogism_04",
-          "testTitle": "न्याय निगमन (Syllogism) • अभ्यास टेस्ट #04",
-          "questionCount": 10
-        },
-        {
-          "testId": "ch_reas_syllogism_05",
-          "testTitle": "न्याय निगमन (Syllogism) • अभ्यास टेस्ट #05",
-          "questionCount": 10
         }
       ]
     },
     {
       "topicId": "reas_words",
       "topicName": "शब्द निर्माण एवं शब्दकोश (Words & Dictionary)",
-      "totalQuestions": 26,
-      "totalTests": 3,
+      "totalQuestions": 17,
+      "totalTests": 2,
       "testPrefix": "ch_reas_words",
       "tests": [
         {
@@ -2102,11 +2287,6 @@
           "testId": "ch_reas_words_02",
           "testTitle": "शब्द निर्माण एवं शब्दकोश (Words & Dictionary) • अभ्यास टेस्ट #02",
           "questionCount": 10
-        },
-        {
-          "testId": "ch_reas_words_03",
-          "testTitle": "शब्द निर्माण एवं शब्दकोश (Words & Dictionary) • अभ्यास टेस्ट #03",
-          "questionCount": 10
         }
       ]
     }
@@ -2115,8 +2295,8 @@
     {
       "topicId": "math_average_age",
       "topicName": "औसत एवं आयु संबंधी प्रश्न (Average & Ages)",
-      "totalQuestions": 62,
-      "totalTests": 7,
+      "totalQuestions": 92,
+      "totalTests": 10,
       "testPrefix": "ch_math_average_age",
       "tests": [
         {
@@ -2153,13 +2333,28 @@
           "testId": "ch_math_average_age_07",
           "testTitle": "औसत एवं आयु संबंधी प्रश्न (Average & Ages) • अभ्यास टेस्ट #07",
           "questionCount": 10
+        },
+        {
+          "testId": "ch_math_average_age_08",
+          "testTitle": "औसत एवं आयु संबंधी प्रश्न (Average & Ages) • अभ्यास टेस्ट #08",
+          "questionCount": 10
+        },
+        {
+          "testId": "ch_math_average_age_09",
+          "testTitle": "औसत एवं आयु संबंधी प्रश्न (Average & Ages) • अभ्यास टेस्ट #09",
+          "questionCount": 10
+        },
+        {
+          "testId": "ch_math_average_age_10",
+          "testTitle": "औसत एवं आयु संबंधी प्रश्न (Average & Ages) • अभ्यास टेस्ट #10",
+          "questionCount": 10
         }
       ]
     },
     {
       "topicId": "math_interest",
       "topicName": "साधारण एवं चक्रवृद्धि ब्याज (Simple & Compound Interest)",
-      "totalQuestions": 68,
+      "totalQuestions": 65,
       "totalTests": 7,
       "testPrefix": "ch_math_interest",
       "tests": [
@@ -2203,8 +2398,8 @@
     {
       "topicId": "math_mensuration",
       "topicName": "क्षेत्रमिति एवं ज्यामिति (Mensuration & Geometry)",
-      "totalQuestions": 238,
-      "totalTests": 24,
+      "totalQuestions": 270,
+      "totalTests": 27,
       "testPrefix": "ch_math_mensuration",
       "tests": [
         {
@@ -2326,14 +2521,29 @@
           "testId": "ch_math_mensuration_24",
           "testTitle": "क्षेत्रमिति एवं ज्यामिति (Mensuration & Geometry) • अभ्यास टेस्ट #24",
           "questionCount": 10
+        },
+        {
+          "testId": "ch_math_mensuration_25",
+          "testTitle": "क्षेत्रमिति एवं ज्यामिति (Mensuration & Geometry) • अभ्यास टेस्ट #25",
+          "questionCount": 10
+        },
+        {
+          "testId": "ch_math_mensuration_26",
+          "testTitle": "क्षेत्रमिति एवं ज्यामिति (Mensuration & Geometry) • अभ्यास टेस्ट #26",
+          "questionCount": 10
+        },
+        {
+          "testId": "ch_math_mensuration_27",
+          "testTitle": "क्षेत्रमिति एवं ज्यामिति (Mensuration & Geometry) • अभ्यास टेस्ट #27",
+          "questionCount": 10
         }
       ]
     },
     {
       "topicId": "math_number_bodmas",
       "topicName": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
-      "totalQuestions": 1012,
-      "totalTests": 102,
+      "totalQuestions": 1080,
+      "totalTests": 108,
       "testPrefix": "ch_math_number_bodmas",
       "tests": [
         {
@@ -2845,14 +3055,44 @@
           "testId": "ch_math_number_bodmas_102",
           "testTitle": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS) • अभ्यास टेस्ट #102",
           "questionCount": 10
+        },
+        {
+          "testId": "ch_math_number_bodmas_103",
+          "testTitle": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS) • अभ्यास टेस्ट #103",
+          "questionCount": 10
+        },
+        {
+          "testId": "ch_math_number_bodmas_104",
+          "testTitle": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS) • अभ्यास टेस्ट #104",
+          "questionCount": 10
+        },
+        {
+          "testId": "ch_math_number_bodmas_105",
+          "testTitle": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS) • अभ्यास टेस्ट #105",
+          "questionCount": 10
+        },
+        {
+          "testId": "ch_math_number_bodmas_106",
+          "testTitle": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS) • अभ्यास टेस्ट #106",
+          "questionCount": 10
+        },
+        {
+          "testId": "ch_math_number_bodmas_107",
+          "testTitle": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS) • अभ्यास टेस्ट #107",
+          "questionCount": 10
+        },
+        {
+          "testId": "ch_math_number_bodmas_108",
+          "testTitle": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS) • अभ्यास टेस्ट #108",
+          "questionCount": 10
         }
       ]
     },
     {
       "topicId": "math_percentage",
       "topicName": "प्रतिशत (Percentage)",
-      "totalQuestions": 39,
-      "totalTests": 4,
+      "totalQuestions": 105,
+      "totalTests": 11,
       "testPrefix": "ch_math_percentage",
       "tests": [
         {
@@ -2874,13 +3114,48 @@
           "testId": "ch_math_percentage_04",
           "testTitle": "प्रतिशत (Percentage) • अभ्यास टेस्ट #04",
           "questionCount": 10
+        },
+        {
+          "testId": "ch_math_percentage_05",
+          "testTitle": "प्रतिशत (Percentage) • अभ्यास टेस्ट #05",
+          "questionCount": 10
+        },
+        {
+          "testId": "ch_math_percentage_06",
+          "testTitle": "प्रतिशत (Percentage) • अभ्यास टेस्ट #06",
+          "questionCount": 10
+        },
+        {
+          "testId": "ch_math_percentage_07",
+          "testTitle": "प्रतिशत (Percentage) • अभ्यास टेस्ट #07",
+          "questionCount": 10
+        },
+        {
+          "testId": "ch_math_percentage_08",
+          "testTitle": "प्रतिशत (Percentage) • अभ्यास टेस्ट #08",
+          "questionCount": 10
+        },
+        {
+          "testId": "ch_math_percentage_09",
+          "testTitle": "प्रतिशत (Percentage) • अभ्यास टेस्ट #09",
+          "questionCount": 10
+        },
+        {
+          "testId": "ch_math_percentage_10",
+          "testTitle": "प्रतिशत (Percentage) • अभ्यास टेस्ट #10",
+          "questionCount": 10
+        },
+        {
+          "testId": "ch_math_percentage_11",
+          "testTitle": "प्रतिशत (Percentage) • अभ्यास टेस्ट #11",
+          "questionCount": 10
         }
       ]
     },
     {
       "topicId": "math_profit_loss",
       "topicName": "लाभ-हानि एवं बट्टा (Profit, Loss & Discount)",
-      "totalQuestions": 151,
+      "totalQuestions": 160,
       "totalTests": 16,
       "testPrefix": "ch_math_profit_loss",
       "tests": [
@@ -2969,8 +3244,8 @@
     {
       "topicId": "math_ratio_mix",
       "topicName": "अनुपात, समानुपात एवं मिश्रण (Ratio & Proportion)",
-      "totalQuestions": 93,
-      "totalTests": 10,
+      "totalQuestions": 34,
+      "totalTests": 4,
       "testPrefix": "ch_math_ratio_mix",
       "tests": [
         {
@@ -2992,44 +3267,14 @@
           "testId": "ch_math_ratio_mix_04",
           "testTitle": "अनुपात, समानुपात एवं मिश्रण (Ratio & Proportion) • अभ्यास टेस्ट #04",
           "questionCount": 10
-        },
-        {
-          "testId": "ch_math_ratio_mix_05",
-          "testTitle": "अनुपात, समानुपात एवं मिश्रण (Ratio & Proportion) • अभ्यास टेस्ट #05",
-          "questionCount": 10
-        },
-        {
-          "testId": "ch_math_ratio_mix_06",
-          "testTitle": "अनुपात, समानुपात एवं मिश्रण (Ratio & Proportion) • अभ्यास टेस्ट #06",
-          "questionCount": 10
-        },
-        {
-          "testId": "ch_math_ratio_mix_07",
-          "testTitle": "अनुपात, समानुपात एवं मिश्रण (Ratio & Proportion) • अभ्यास टेस्ट #07",
-          "questionCount": 10
-        },
-        {
-          "testId": "ch_math_ratio_mix_08",
-          "testTitle": "अनुपात, समानुपात एवं मिश्रण (Ratio & Proportion) • अभ्यास टेस्ट #08",
-          "questionCount": 10
-        },
-        {
-          "testId": "ch_math_ratio_mix_09",
-          "testTitle": "अनुपात, समानुपात एवं मिश्रण (Ratio & Proportion) • अभ्यास टेस्ट #09",
-          "questionCount": 10
-        },
-        {
-          "testId": "ch_math_ratio_mix_10",
-          "testTitle": "अनुपात, समानुपात एवं मिश्रण (Ratio & Proportion) • अभ्यास टेस्ट #10",
-          "questionCount": 10
         }
       ]
     },
     {
       "topicId": "math_speed_distance",
       "topicName": "चाल, दूरी, समय एवं रेलगाड़ी (Speed, Distance & Time)",
-      "totalQuestions": 20,
-      "totalTests": 2,
+      "totalQuestions": 47,
+      "totalTests": 5,
       "testPrefix": "ch_math_speed_distance",
       "tests": [
         {
@@ -3040,6 +3285,21 @@
         {
           "testId": "ch_math_speed_distance_02",
           "testTitle": "चाल, दूरी, समय एवं रेलगाड़ी (Speed, Distance & Time) • अभ्यास टेस्ट #02",
+          "questionCount": 10
+        },
+        {
+          "testId": "ch_math_speed_distance_03",
+          "testTitle": "चाल, दूरी, समय एवं रेलगाड़ी (Speed, Distance & Time) • अभ्यास टेस्ट #03",
+          "questionCount": 10
+        },
+        {
+          "testId": "ch_math_speed_distance_04",
+          "testTitle": "चाल, दूरी, समय एवं रेलगाड़ी (Speed, Distance & Time) • अभ्यास टेस्ट #04",
+          "questionCount": 10
+        },
+        {
+          "testId": "ch_math_speed_distance_05",
+          "testTitle": "चाल, दूरी, समय एवं रेलगाड़ी (Speed, Distance & Time) • अभ्यास टेस्ट #05",
           "questionCount": 10
         }
       ]
@@ -3063,8 +3323,8 @@
     {
       "topicId": "sci_anatomy",
       "topicName": "मानव शरीर क्रिया विज्ञान (Anatomy & Physiology)",
-      "totalQuestions": 158,
-      "totalTests": 16,
+      "totalQuestions": 74,
+      "totalTests": 8,
       "testPrefix": "ch_sci_anatomy",
       "tests": [
         {
@@ -3106,54 +3366,14 @@
           "testId": "ch_sci_anatomy_08",
           "testTitle": "मानव शरीर क्रिया विज्ञान (Anatomy & Physiology) • अभ्यास टेस्ट #08",
           "questionCount": 10
-        },
-        {
-          "testId": "ch_sci_anatomy_09",
-          "testTitle": "मानव शरीर क्रिया विज्ञान (Anatomy & Physiology) • अभ्यास टेस्ट #09",
-          "questionCount": 10
-        },
-        {
-          "testId": "ch_sci_anatomy_10",
-          "testTitle": "मानव शरीर क्रिया विज्ञान (Anatomy & Physiology) • अभ्यास टेस्ट #10",
-          "questionCount": 10
-        },
-        {
-          "testId": "ch_sci_anatomy_11",
-          "testTitle": "मानव शरीर क्रिया विज्ञान (Anatomy & Physiology) • अभ्यास टेस्ट #11",
-          "questionCount": 10
-        },
-        {
-          "testId": "ch_sci_anatomy_12",
-          "testTitle": "मानव शरीर क्रिया विज्ञान (Anatomy & Physiology) • अभ्यास टेस्ट #12",
-          "questionCount": 10
-        },
-        {
-          "testId": "ch_sci_anatomy_13",
-          "testTitle": "मानव शरीर क्रिया विज्ञान (Anatomy & Physiology) • अभ्यास टेस्ट #13",
-          "questionCount": 10
-        },
-        {
-          "testId": "ch_sci_anatomy_14",
-          "testTitle": "मानव शरीर क्रिया विज्ञान (Anatomy & Physiology) • अभ्यास टेस्ट #14",
-          "questionCount": 10
-        },
-        {
-          "testId": "ch_sci_anatomy_15",
-          "testTitle": "मानव शरीर क्रिया विज्ञान (Anatomy & Physiology) • अभ्यास टेस्ट #15",
-          "questionCount": 10
-        },
-        {
-          "testId": "ch_sci_anatomy_16",
-          "testTitle": "मानव शरीर क्रिया विज्ञान (Anatomy & Physiology) • अभ्यास टेस्ट #16",
-          "questionCount": 10
         }
       ]
     },
     {
       "topicId": "sci_botany",
       "topicName": "पादप विज्ञान एवं आनुवंशिकी (Botany & Genetics)",
-      "totalQuestions": 73,
-      "totalTests": 8,
+      "totalQuestions": 27,
+      "totalTests": 3,
       "testPrefix": "ch_sci_botany",
       "tests": [
         {
@@ -3170,39 +3390,14 @@
           "testId": "ch_sci_botany_03",
           "testTitle": "पादप विज्ञान एवं आनुवंशिकी (Botany & Genetics) • अभ्यास टेस्ट #03",
           "questionCount": 10
-        },
-        {
-          "testId": "ch_sci_botany_04",
-          "testTitle": "पादप विज्ञान एवं आनुवंशिकी (Botany & Genetics) • अभ्यास टेस्ट #04",
-          "questionCount": 10
-        },
-        {
-          "testId": "ch_sci_botany_05",
-          "testTitle": "पादप विज्ञान एवं आनुवंशिकी (Botany & Genetics) • अभ्यास टेस्ट #05",
-          "questionCount": 10
-        },
-        {
-          "testId": "ch_sci_botany_06",
-          "testTitle": "पादप विज्ञान एवं आनुवंशिकी (Botany & Genetics) • अभ्यास टेस्ट #06",
-          "questionCount": 10
-        },
-        {
-          "testId": "ch_sci_botany_07",
-          "testTitle": "पादप विज्ञान एवं आनुवंशिकी (Botany & Genetics) • अभ्यास टेस्ट #07",
-          "questionCount": 10
-        },
-        {
-          "testId": "ch_sci_botany_08",
-          "testTitle": "पादप विज्ञान एवं आनुवंशिकी (Botany & Genetics) • अभ्यास टेस्ट #08",
-          "questionCount": 10
         }
       ]
     },
     {
       "topicId": "sci_chemistry",
       "topicName": "रसायन विज्ञान (Chemistry)",
-      "totalQuestions": 359,
-      "totalTests": 36,
+      "totalQuestions": 147,
+      "totalTests": 15,
       "testPrefix": "ch_sci_chemistry",
       "tests": [
         {
@@ -3279,144 +3474,19 @@
           "testId": "ch_sci_chemistry_15",
           "testTitle": "रसायन विज्ञान (Chemistry) • अभ्यास टेस्ट #15",
           "questionCount": 10
-        },
-        {
-          "testId": "ch_sci_chemistry_16",
-          "testTitle": "रसायन विज्ञान (Chemistry) • अभ्यास टेस्ट #16",
-          "questionCount": 10
-        },
-        {
-          "testId": "ch_sci_chemistry_17",
-          "testTitle": "रसायन विज्ञान (Chemistry) • अभ्यास टेस्ट #17",
-          "questionCount": 10
-        },
-        {
-          "testId": "ch_sci_chemistry_18",
-          "testTitle": "रसायन विज्ञान (Chemistry) • अभ्यास टेस्ट #18",
-          "questionCount": 10
-        },
-        {
-          "testId": "ch_sci_chemistry_19",
-          "testTitle": "रसायन विज्ञान (Chemistry) • अभ्यास टेस्ट #19",
-          "questionCount": 10
-        },
-        {
-          "testId": "ch_sci_chemistry_20",
-          "testTitle": "रसायन विज्ञान (Chemistry) • अभ्यास टेस्ट #20",
-          "questionCount": 10
-        },
-        {
-          "testId": "ch_sci_chemistry_21",
-          "testTitle": "रसायन विज्ञान (Chemistry) • अभ्यास टेस्ट #21",
-          "questionCount": 10
-        },
-        {
-          "testId": "ch_sci_chemistry_22",
-          "testTitle": "रसायन विज्ञान (Chemistry) • अभ्यास टेस्ट #22",
-          "questionCount": 10
-        },
-        {
-          "testId": "ch_sci_chemistry_23",
-          "testTitle": "रसायन विज्ञान (Chemistry) • अभ्यास टेस्ट #23",
-          "questionCount": 10
-        },
-        {
-          "testId": "ch_sci_chemistry_24",
-          "testTitle": "रसायन विज्ञान (Chemistry) • अभ्यास टेस्ट #24",
-          "questionCount": 10
-        },
-        {
-          "testId": "ch_sci_chemistry_25",
-          "testTitle": "रसायन विज्ञान (Chemistry) • अभ्यास टेस्ट #25",
-          "questionCount": 10
-        },
-        {
-          "testId": "ch_sci_chemistry_26",
-          "testTitle": "रसायन विज्ञान (Chemistry) • अभ्यास टेस्ट #26",
-          "questionCount": 10
-        },
-        {
-          "testId": "ch_sci_chemistry_27",
-          "testTitle": "रसायन विज्ञान (Chemistry) • अभ्यास टेस्ट #27",
-          "questionCount": 10
-        },
-        {
-          "testId": "ch_sci_chemistry_28",
-          "testTitle": "रसायन विज्ञान (Chemistry) • अभ्यास टेस्ट #28",
-          "questionCount": 10
-        },
-        {
-          "testId": "ch_sci_chemistry_29",
-          "testTitle": "रसायन विज्ञान (Chemistry) • अभ्यास टेस्ट #29",
-          "questionCount": 10
-        },
-        {
-          "testId": "ch_sci_chemistry_30",
-          "testTitle": "रसायन विज्ञान (Chemistry) • अभ्यास टेस्ट #30",
-          "questionCount": 10
-        },
-        {
-          "testId": "ch_sci_chemistry_31",
-          "testTitle": "रसायन विज्ञान (Chemistry) • अभ्यास टेस्ट #31",
-          "questionCount": 10
-        },
-        {
-          "testId": "ch_sci_chemistry_32",
-          "testTitle": "रसायन विज्ञान (Chemistry) • अभ्यास टेस्ट #32",
-          "questionCount": 10
-        },
-        {
-          "testId": "ch_sci_chemistry_33",
-          "testTitle": "रसायन विज्ञान (Chemistry) • अभ्यास टेस्ट #33",
-          "questionCount": 10
-        },
-        {
-          "testId": "ch_sci_chemistry_34",
-          "testTitle": "रसायन विज्ञान (Chemistry) • अभ्यास टेस्ट #34",
-          "questionCount": 10
-        },
-        {
-          "testId": "ch_sci_chemistry_35",
-          "testTitle": "रसायन विज्ञान (Chemistry) • अभ्यास टेस्ट #35",
-          "questionCount": 10
-        },
-        {
-          "testId": "ch_sci_chemistry_36",
-          "testTitle": "रसायन विज्ञान (Chemistry) • अभ्यास टेस्ट #36",
-          "questionCount": 10
         }
       ]
     },
     {
       "topicId": "sci_environment",
       "topicName": "पर्यावरण एवं पारिस्थितिकी (Ecology & Environment)",
-      "totalQuestions": 50,
-      "totalTests": 5,
+      "totalQuestions": 9,
+      "totalTests": 1,
       "testPrefix": "ch_sci_environment",
       "tests": [
         {
           "testId": "ch_sci_environment_01",
           "testTitle": "पर्यावरण एवं पारिस्थितिकी (Ecology & Environment) • अभ्यास टेस्ट #01",
-          "questionCount": 10
-        },
-        {
-          "testId": "ch_sci_environment_02",
-          "testTitle": "पर्यावरण एवं पारिस्थितिकी (Ecology & Environment) • अभ्यास टेस्ट #02",
-          "questionCount": 10
-        },
-        {
-          "testId": "ch_sci_environment_03",
-          "testTitle": "पर्यावरण एवं पारिस्थितिकी (Ecology & Environment) • अभ्यास टेस्ट #03",
-          "questionCount": 10
-        },
-        {
-          "testId": "ch_sci_environment_04",
-          "testTitle": "पर्यावरण एवं पारिस्थितिकी (Ecology & Environment) • अभ्यास टेस्ट #04",
-          "questionCount": 10
-        },
-        {
-          "testId": "ch_sci_environment_05",
-          "testTitle": "पर्यावरण एवं पारिस्थितिकी (Ecology & Environment) • अभ्यास टेस्ट #05",
           "questionCount": 10
         }
       ]
@@ -3424,28 +3494,13 @@
     {
       "topicId": "sci_health",
       "topicName": "रोग, स्वास्थ्य एवं पोषण (Diseases & Nutrition)",
-      "totalQuestions": 38,
-      "totalTests": 4,
+      "totalQuestions": 7,
+      "totalTests": 1,
       "testPrefix": "ch_sci_health",
       "tests": [
         {
           "testId": "ch_sci_health_01",
           "testTitle": "रोग, स्वास्थ्य एवं पोषण (Diseases & Nutrition) • अभ्यास टेस्ट #01",
-          "questionCount": 10
-        },
-        {
-          "testId": "ch_sci_health_02",
-          "testTitle": "रोग, स्वास्थ्य एवं पोषण (Diseases & Nutrition) • अभ्यास टेस्ट #02",
-          "questionCount": 10
-        },
-        {
-          "testId": "ch_sci_health_03",
-          "testTitle": "रोग, स्वास्थ्य एवं पोषण (Diseases & Nutrition) • अभ्यास टेस्ट #03",
-          "questionCount": 10
-        },
-        {
-          "testId": "ch_sci_health_04",
-          "testTitle": "रोग, स्वास्थ्य एवं पोषण (Diseases & Nutrition) • अभ्यास टेस्ट #04",
           "questionCount": 10
         }
       ]
@@ -3453,8 +3508,8 @@
     {
       "topicId": "sci_physics",
       "topicName": "भौतिक विज्ञान (Physics)",
-      "totalQuestions": 549,
-      "totalTests": 55,
+      "totalQuestions": 423,
+      "totalTests": 43,
       "testPrefix": "ch_sci_physics",
       "tests": [
         {
@@ -3670,66 +3725,6 @@
         {
           "testId": "ch_sci_physics_43",
           "testTitle": "भौतिक विज्ञान (Physics) • अभ्यास टेस्ट #43",
-          "questionCount": 10
-        },
-        {
-          "testId": "ch_sci_physics_44",
-          "testTitle": "भौतिक विज्ञान (Physics) • अभ्यास टेस्ट #44",
-          "questionCount": 10
-        },
-        {
-          "testId": "ch_sci_physics_45",
-          "testTitle": "भौतिक विज्ञान (Physics) • अभ्यास टेस्ट #45",
-          "questionCount": 10
-        },
-        {
-          "testId": "ch_sci_physics_46",
-          "testTitle": "भौतिक विज्ञान (Physics) • अभ्यास टेस्ट #46",
-          "questionCount": 10
-        },
-        {
-          "testId": "ch_sci_physics_47",
-          "testTitle": "भौतिक विज्ञान (Physics) • अभ्यास टेस्ट #47",
-          "questionCount": 10
-        },
-        {
-          "testId": "ch_sci_physics_48",
-          "testTitle": "भौतिक विज्ञान (Physics) • अभ्यास टेस्ट #48",
-          "questionCount": 10
-        },
-        {
-          "testId": "ch_sci_physics_49",
-          "testTitle": "भौतिक विज्ञान (Physics) • अभ्यास टेस्ट #49",
-          "questionCount": 10
-        },
-        {
-          "testId": "ch_sci_physics_50",
-          "testTitle": "भौतिक विज्ञान (Physics) • अभ्यास टेस्ट #50",
-          "questionCount": 10
-        },
-        {
-          "testId": "ch_sci_physics_51",
-          "testTitle": "भौतिक विज्ञान (Physics) • अभ्यास टेस्ट #51",
-          "questionCount": 10
-        },
-        {
-          "testId": "ch_sci_physics_52",
-          "testTitle": "भौतिक विज्ञान (Physics) • अभ्यास टेस्ट #52",
-          "questionCount": 10
-        },
-        {
-          "testId": "ch_sci_physics_53",
-          "testTitle": "भौतिक विज्ञान (Physics) • अभ्यास टेस्ट #53",
-          "questionCount": 10
-        },
-        {
-          "testId": "ch_sci_physics_54",
-          "testTitle": "भौतिक विज्ञान (Physics) • अभ्यास टेस्ट #54",
-          "questionCount": 10
-        },
-        {
-          "testId": "ch_sci_physics_55",
-          "testTitle": "भौतिक विज्ञान (Physics) • अभ्यास टेस्ट #55",
           "questionCount": 10
         }
       ]

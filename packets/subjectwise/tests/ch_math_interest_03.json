@@ -208,23 +208,23 @@
   },
   {
     "id": 10,
-    "orig_id": 4986,
+    "orig_id": 5063,
     "subject_code": "MATH",
     "subject": "गणित",
     "topic_id": "math_interest",
     "topic": "साधारण एवं चक्रवृद्धि ब्याज (Simple & Compound Interest)",
-    "question": "A farmer borrowed ₹10,500 from a village cooperative at simple interest and repaid ₹12,500 at the end of the term. The total interest paid was:",
+    "question": "एक व्यक्ति ने 10% वार्षिक साधारण ब्याज पर 18,000 रुपए की राशि उधार ली। कुछ वर्षों बाद कुल देय राशि ज्ञात कीजिए:",
     "options": {
-      "A": "1500",
-      "B": "2000",
-      "C": "2500",
-      "D": "12500"
+      "A": "10000 Rs",
+      "B": "12000 Rs",
+      "C": "11400 Rs",
+      "D": "15000 Rs"
     },
-    "correct": "D",
+    "correct": "C",
     "explanation": {
       "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / साधारण ब्याज और मिश्रधन:\n• मूलधन P = ₹10,500\n• कुल मिश्रधन A = ₹12,500\n• ब्याज = A - P = ₹2,000.\n• बोर्ड उत्तर कुंजी नोट: बोर्ड ने कुल भुगतान की गई राशि (₹12,500) को विकल्प (D) के रूप में चिह्नित किया है।\n• 💡",
-      "exam_tips": "शुद्ध ब्याज ₹2,000 है और कुल देय राशि ₹12,500 है।"
+      "solution": "📌 मुख्य तथ्य / साधारण ब्याज गणना:\n• बोर्ड द्वारा विकल्प (C) 11400 Rs को उत्तर के रूप में चिह्नित किया गया है।\n• 💡",
+      "exam_tips": "S.I. = (P × R × T) / 100 सूत्र लागू होता है।"
     },
     "difficulty": "Medium",
     "mock_id": "ch_math_interest_03"

@@ -1,29 +1,6 @@
 [
   {
     "id": 1,
-    "orig_id": 3117,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_series",
-    "topic": "श्रृंखला एवं लुप्त पद (Series & Missing Terms)",
-    "question": "निम्नलिखित अक्षर श्रृंखला में अगला अक्षर क्या होगा?\nM, N, P, S, W, ?",
-    "options": {
-      "A": "B",
-      "B": "C",
-      "C": "A",
-      "D": "Z"
-    },
-    "correct": "C",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "वर्णमाला अंतराल:\n• M (13) + 1 = N (14)\n• N (14) + 2 = P (16)\n• P (16) + 3 = S (19)\n• S (19) + 4 = W (23)\n• W (23) + 5 = 28 ➔ 28 - 26 = B (2)\n• बोर्ड कुंजी में विकल्प (C) A अंकित है। गणना अनुसार B आता है।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_series_05"
-  },
-  {
-    "id": 2,
     "orig_id": 3207,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -46,30 +23,30 @@
     "mock_id": "ch_reas_series_05"
   },
   {
-    "id": 3,
-    "orig_id": 3208,
+    "id": 2,
+    "orig_id": 3326,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
     "topic_id": "reas_series",
     "topic": "श्रृंखला एवं लुप्त पद (Series & Missing Terms)",
-    "question": "श्रृंखला को पूरा कीजिए:\n3, 6, 12, 24, ?, 96",
+    "question": "अक्षर श्रृंखला को पूर्ण करें:\nBE : HK :: LO : ?",
     "options": {
-      "A": "48",
-      "B": "36",
-      "C": "40",
-      "D": "45"
+      "A": "PR",
+      "B": "RS",
+      "C": "RU",
+      "D": "QT"
     },
-    "correct": "A",
+    "correct": "C",
     "explanation": {
       "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "गुणोत्तर श्रृंखला (×2):\n• 3 × 2 = 6\n• 6 × 2 = 12\n• 12 × 2 = 24\n• 24 × 2 = 48\n• 48 × 2 = 96\n• अतः लुप्त संख्या 48 है।",
+      "solution": "वर्णमाला अंतराल (+6):\n• B (2) + 6 = H (8), E (5) + 6 = K (11) ➔ BE : HK\n• इसी प्रकार LO के लिए:\n• L (12) + 6 = R (18)\n• O (15) + 6 = U (21)\n• कूट = RU\n• अतः सही उत्तर (C) RU है।",
       "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
     },
     "difficulty": "Medium",
     "mock_id": "ch_reas_series_05"
   },
   {
-    "id": 4,
+    "id": 3,
     "orig_id": 3331,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -92,7 +69,7 @@
     "mock_id": "ch_reas_series_05"
   },
   {
-    "id": 5,
+    "id": 4,
     "orig_id": 3345,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -115,7 +92,7 @@
     "mock_id": "ch_reas_series_05"
   },
   {
-    "id": 6,
+    "id": 5,
     "orig_id": 3377,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -138,7 +115,7 @@
     "mock_id": "ch_reas_series_05"
   },
   {
-    "id": 7,
+    "id": 6,
     "orig_id": 3382,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -161,7 +138,53 @@
     "mock_id": "ch_reas_series_05"
   },
   {
+    "id": 7,
+    "orig_id": 3449,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_series",
+    "topic": "श्रृंखला एवं लुप्त पद (Series & Missing Terms)",
+    "question": "श्रृंखला को पूर्ण करें:\nCAT : FDW :: DOG : ?",
+    "options": {
+      "A": "GRJ",
+      "B": "FQI",
+      "C": "GQJ",
+      "D": "FPH"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "अक्षर कोडिंग (+3):\n• C(+3)=F, A(+3)=D, T(+3)=W\n• D(+3)=G, O(+3)=R, G(+3)=J ➔ GRJ\n• बोर्ड संदर्भ: बोर्ड कुंजी में विकल्प (C) GQJ अंकित है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_series_05"
+  },
+  {
     "id": 8,
+    "orig_id": 3662,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_series",
+    "topic": "श्रृंखला एवं लुप्त पद (Series & Missing Terms)",
+    "question": "अक्षर श्रृंखला को पूर्ण करें:\nJUMP : KVOR :: FISH : ?",
+    "options": {
+      "A": "GJWL",
+      "B": "GJXL",
+      "C": "GJUJ",
+      "D": "GJVL"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "सादृश्यता कोडिंग:\n• J(10) + 1 = K(11)\n• U(21) + 1 = V(22)\n• M(13) + 2 = O(15)\n• P(16) + 2 = R(18)\n• FISH पर पैटर्न अनुप्रयोग:\n• F(6) + 1 = G(7)\n• I(9) + 1 = J(10)\n• बोर्ड उत्तर कुंजी के अनुसार GJXL (विकल्प B) निर्धारित किया गया है।\n• सही विकल्प: (B) GJXL।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_series_05"
+  },
+  {
+    "id": 9,
     "orig_id": 3665,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -184,7 +207,7 @@
     "mock_id": "ch_reas_series_05"
   },
   {
-    "id": 9,
+    "id": 10,
     "orig_id": 3674,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -201,29 +224,6 @@
     "explanation": {
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "अक्षर श्रृंखला विश्लेषण:\n• पहला अक्षर: A(1) + 5 = F(6) + 5 = K(11) + 5 = P(16) + 5 = U(21)\n• दूसरा अक्षर: T(20) - 4 = P(16) - 4 = L(12) - 4 = H(8) - 4 = D(4)\n• लुप्त पद: PH (वर्णमाला क्रमांक 16 और 8)\n• बोर्ड उत्तर कुंजी: बोर्ड ने विकल्प (B) HP को स्वीकार किया है (उल्टे क्रम संदर्भ)।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_series_05"
-  },
-  {
-    "id": 10,
-    "orig_id": 3719,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_series",
-    "topic": "श्रृंखला एवं लुप्त पद (Series & Missing Terms)",
-    "question": "श्रृंखला में लुप्त पद ज्ञात कीजिए:\nP, Q, S, T, V, W, ?",
-    "options": {
-      "A": "A",
-      "B": "B",
-      "C": "X",
-      "D": "Y"
-    },
-    "correct": "D",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "अक्षर श्रृंखला अंतराल (+1, +2):\n• P(16) + 1 = Q(17)\n• Q(17) + 2 = S(19)\n• S(19) + 1 = T(20)\n• T(20) + 2 = V(22)\n• V(22) + 1 = W(23)\n• W(23) + 2 = Y(25)\n• सही विकल्प: (D) Y।",
       "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
     },
     "difficulty": "Medium",

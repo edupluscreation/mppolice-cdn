@@ -1,0 +1,232 @@
+[
+  {
+    "id": 1,
+    "orig_id": 8552,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "45 व्यक्तियों की एक पंक्ति में, बाएँ ओर से संतोष का स्थान 15वाँ है। पंक्ति में, दाएँ ओर से संतोष का स्थान ज्ञात कीजिए।",
+    "options": {
+      "A": "31वाँ स्थान",
+      "B": "32वाँ स्थान",
+      "C": "33वाँ स्थान",
+      "D": "34वाँ स्थान"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: रैंकिंग सूत्र (Ranking Formula):\n• दाएँ से स्थान = (कुल व्यक्ति - बाएँ से स्थान) + 1\n• 📝 स्टेप-बाय-स्टेप हल:\n1. कुल व्यक्ति = 45, बाएँ से स्थान = 15।\n2. दाएँ से स्थान = (45 - 15) + 1 = 30 + 1 = 31वाँ स्थान (विकल्प A)।\n3. नोट (आधिकारिक उत्तर कुंजी): शुद्ध गणना से 31वाँ स्थान आता है, परंतु बोर्ड की आधिकारिक उत्तर कुंजी में विकल्प (C) 33वाँ स्थान मान्य किया गया है।\nअतः सही उत्तर (C) 33वाँ स्थान है।\n• 💡",
+      "exam_tips": "किसी व्यक्ति का दोनों छोरों से स्थानों का योग = कुल संख्या + 1 होता है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_205"
+  },
+  {
+    "id": 2,
+    "orig_id": 8554,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "8\nIn a certain code language, 'crow dog monkey bull' is coded as 'od ik st jk'. 'building donkey floor dog' is coded as 'mj jk dn ho'. 'arrow bull building plane' is coded as 'gt fa mj'. 'floor surface crow arrow' is coded as 'sk mn ho gt'. Which of the following words has been coded as 'mj'?",
+    "options": {
+      "A": "bull",
+      "B": "building",
+      "C": "donkey",
+      "D": "CTOW"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: कोडिंग-डिकोडिंग:\n• 📝 स्टेप-बाय-स्टेप हल:\n1. वाक्य 2 और 3 में 'building' का कोड 'mj' है।\nअतः सही उत्तर (B) building है।\n• 💡",
+      "exam_tips": "समान प्रश्नों के दोहराव पर उत्तर की पुष्टि तुरंत हो जाती है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_205"
+  },
+  {
+    "id": 3,
+    "orig_id": 8558,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "In a parallel circuit, the total resistance is: / एक समान्तर परिपथ में कुल प्रतिरोध है:",
+    "options": {
+      "A": "व्यक्तिगत प्रतिरोधों का योग",
+      "B": "व्यक्तिगत प्रतिरोधों के व्युत्क्रम के योग का व्युत्क्रम",
+      "C": "व्यक्तिगत प्रतिरोधों का औसत",
+      "D": "उच्चतम और न्यूनतम प्रतिरोधों के बीच का अंतर"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: प्रतिरोधकों का समांतर संयोजन (Parallel Combination of Resistors):\n• 1/R_total = (1/R₁) + (1/R₂) + (1/R₃) + ...\n• 📝 स्टेप-बाय-स्टेप हल:\n1. समानांतर परिपथ में तुल्य प्रतिरोध का व्युत्क्रम सभी अलग-अलग प्रतिरोधों के व्युत्क्रमों के योग के बराबर होता है।\n2. इसलिए कुल प्रतिरोध स्वयं \"व्यक्तिगत प्रतिरोधों के व्युत्क्रमों के योग का व्युत्क्रम\" (Reciprocal of the sum of reciprocals) होता है।\n3. समांतर परिपथ में कुल प्रतिरोध परिपथ के सबसे छोटे प्रतिरोध से भी कम होता है।\nअतः सही उत्तर (B) है।\n• 💡",
+      "exam_tips": "श्रेणी क्रम में कुल प्रतिरोध सीधे योग (R₁ + R₂ + ...) के बराबर होता है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_205"
+  },
+  {
+    "id": 4,
+    "orig_id": 8569,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "If A is the father of B, but B is NOT the son of A, then how is B related to A? / यदि A, B का पिता है, लेकिन B, A का पुत्र नहीं है, तो B, A से किस प्रकार संबंधित है?",
+    "options": {
+      "A": "बहन",
+      "B": "माँ",
+      "C": "कज़िन",
+      "D": "बेटी"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: पारिवारिक संबंध एवं लिंग परीक्षण:\n• 📝 स्टेप-बाय-स्टेप हल:\n1. A, B का पिता है, जिसका अर्थ है कि B, A की संतान (Child) है।\n2. किसी पिता की संतान या तो पुत्र (बेटा) हो सकती है या पुत्री (बेटी)।\n3. प्रश्न में स्पष्ट दिया है कि B पुत्र नहीं है, तो B निश्चित रूप से 'बेटी' (पुत्री) होगी।\nअतः सही उत्तर (D) बेटी है।\n• 💡",
+      "exam_tips": "यह एक प्रसिद्ध तार्किक पहेली है जो सीधे द्वि-आधारी लिंग संबंध पर आधारित है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_205"
+  },
+  {
+    "id": 5,
+    "orig_id": 8570,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "If Ravi is the son of Meena, and Meena is the daughter of Alok, how is Alok related to Ravi? / यदि रवि, मीना का बेटा है, और मीना, आलोक की बेटी है, तो आलोक का रवि से क्या संबंध है?",
+    "options": {
+      "A": "पिता",
+      "B": "अंकल",
+      "C": "दादा",
+      "D": "कज़िन"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: दो पीढ़ियों का रक्त संबंध (Grandparent-Grandchild):\n• 📝 स्टेप-बाय-स्टेप हल:\n1. रवि, मीना का बेटा है।\n2. मीना, आलोक की बेटी है ⇒ आलोक, रवि की माँ का पिता है।\n3. माँ का पिता 'नाना' (Maternal Grandfather) कहलाता है।\n4. विकल्पों में 'दादा/नाना' के लिए विकल्प (C) दादा दिया गया है।\nअतः सही उत्तर (C) दादा है।\n• 💡",
+      "exam_tips": "अंग्रेज़ी में Grandfather शब्द दादा और नाना दोनों के लिए प्रयुक्त होता है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_205"
+  },
+  {
+    "id": 6,
+    "orig_id": 8574,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "If DOG is coded as EPH, how is CAT coded? / यदि DOG को EPH के रूप में कोड किया गया है, तो CAT को कैसे कोड किया जाएगा?",
+    "options": {
+      "A": "DBV",
+      "B": "DBU",
+      "C": "DCS",
+      "D": "DCU"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: कोडिंग-डिकोडिंग - +1 अक्षर विस्थापन:\n• 📝 स्टेप-बाय-स्टेप हल:\n1. DOG → EPH:\n• D (+1) = E\n• O (+1) = P\n• G (+1) = H\n2. इसी प्रकार CAT पर नियम लागू करने पर:\n• C (+1) = D\n• A (+1) = B\n• T (+1) = U\n3. प्राप्त कोड: DBU।\nअतः सही उत्तर (B) DBU है।\n• 💡",
+      "exam_tips": "प्रत्येक अक्षर के बाद आने वाले ठीक अगले वर्णमाला अक्षर को लिखा गया है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_205"
+  },
+  {
+    "id": 7,
+    "orig_id": 8575,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "Choose the ODD one. / विषम चुनें।",
+    "options": {
+      "A": "बिम्बिसार",
+      "B": "अजातशत्रु",
+      "C": "पृथ्वीराज चौहान",
+      "D": "चंद्रगुप्त"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: ऐतिहासिक वर्गीकरण (प्राचीन काल बनाम मध्यकाल):\n• बिम्बिसार (हर्यक वंश), अजातशत्रु (हर्यक वंश) तथा चंद्रगुप्त (मौर्य वंश) प्राचीन भारत के मगध साम्राज्य के प्रतापी शासक थे।\n• पृथ्वीराज चौहान (चाहमान/चौहान वंश) 12वीं शताब्दी के मध्यकालीन भारतीय शासक थे।\n• 📝 स्टेप-बाय-स्टेप हल:\n1. बिम्बिसार, अजातशत्रु और चंद्रगुप्त तीनों प्राचीन भारतीय इतिहास (6वीं से 4थी शताब्दी ई.पू.) और मगध साम्राज्य से जुड़े हैं।\n2. पृथ्वीराज चौहान मध्यकालीन राजपूत शासक (तराइन का युद्ध 1191, 1192 ई.) थे।\n3. अतः कालखंड और वंश के आधार पर पृथ्वीराज चौहान अन्य तीनों से भिन्न हैं।\nअतः सही उत्तर (C) पृथ्वीराज चौहान है।\n• 💡",
+      "exam_tips": "बिम्बिसार ने हर्यक वंश की स्थापना की थी, जबकि पृथ्वीराज तृतीय ने तराइन के प्रथम युद्ध में मोहम्मद गोरी को हराया था।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_205"
+  },
+  {
+    "id": 8,
+    "orig_id": 8576,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "आपके दिए गए अक्षरों से जो सार्थक अंग्रेज़ी शब्द बन सकते हैं, उनमें शामिल हैं:\nR E S M A C, D A L E R, S P I T O",
+    "options": {
+      "A": "SCREAM, LADER, POSIT",
+      "B": "CAMRES, RALDE, PISTO",
+      "C": "SCREAM, ALDER, POSIT",
+      "D": "SERAMC, DELRA, SOPT"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: एनाग्राम (सार्थक अंग्रेज़ी शब्द निर्माण):\n• 📝 स्टेप-बाय-स्टेप हल:\n1. R E S M A C के अक्षरों को पुनर्व्यवस्थित करने पर: S-C-R-E-A-M (चीख/चीखना) बनता है।\n2. D A L E R के अक्षरों से: A-L-D-E-R (एक प्रकार का पेड़/एल्डर) बनता है।\n3. S P I T O के अक्षरों से: P-O-S-I-T (मान लेना/प्रस्तुत करना) बनता है।\n4. अतः तीनों सार्थक शब्द SCREAM, ALDER, POSIT हैं।\nअतः सही उत्तर (C) SCREAM, ALDER, POSIT है।\n• 💡",
+      "exam_tips": "जंबल्ड लेटर्स को सुलझाते समय सामान्य उपसर्ग, प्रत्यय और स्वर-व्यंजन के संयोजन पर ध्यान देना चाहिए।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_205"
+  },
+  {
+    "id": 9,
+    "orig_id": 8577,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "P, E, R, O, C, T इन सभी अक्षरों से कौन-सा वैध अंग्रेज़ी शब्द बनाया जा सकता है?",
+    "options": {
+      "A": "CORTPE",
+      "B": "PROTEC",
+      "C": "COPTER",
+      "D": "PORTEC"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: वर्ड फॉर्मेशन (अक्षर संयोजन):\n• 📝 स्टेप-बाय-स्टेप हल:\n1. दिए गए अक्षर: P, E, R, O, C, T (कुल 6 अक्षर)।\n2. विकल्पों का विश्लेषण:\n• CORTPE, PROTEC, PORTEC कोई मानक शब्द नहीं हैं।\n• C-O-P-T-E-R (कॉप्टर / हेलिकॉप्टर का संक्षिप्त रूप) एक मान्य और सार्थक अंग्रेज़ी शब्द है।\n3. COPTER में C, O, P, T, E, R सभी 6 अक्षर ठीक एक बार प्रयुक्त हुए हैं।\nअतः सही उत्तर (C) COPTER है।\n• 💡",
+      "exam_tips": "'Copter' शब्द Helicopter से बना मान्य संज्ञा शब्द है जिसका अर्थ उड़ान वाहन है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_205"
+  },
+  {
+    "id": 10,
+    "orig_id": 8579,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_coding",
+    "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
+    "question": "Statement: The bank has decided to offer doorstep services for senior citizens.\nAssumptions:\nI. Senior citizens may face difficulties visiting branches.\nII. Other age groups do not require such services.",
+    "options": {
+      "A": "केवल I निहित है",
+      "B": "केवल II निहित है",
+      "C": "दोनों निहित हैं",
+      "D": "कोई भी निहित नहीं है"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: कथन एवं पूर्वधारणा (Statement & Assumptions):\n• पूर्वधारणा वह अंतर्निहित विचार होती है जिसे मानकर कोई निर्णय लिया जाता है।\n• 📝 स्टेप-बाय-स्टेप हल:\n1. बैंक ने वरिष्ठ नागरिकों को घर पर सेवा (Doorstep services) देने का निर्णय लिया क्योंकि वे बैंक शाखा जाने में शारीरिक कठिनाई महसूस कर सकते हैं (पूर्वधारणा I पूर्णतः तार्किक और निहित है)।\n2. वरिष्ठ नागरिकों को यह सुविधा देने का यह अर्थ कतई नहीं है कि अन्य आयु वर्ग को कभी ऐसी सेवाओं की आवश्यकता नहीं है (पूर्वधारणा II नकारात्मक अतिरेक है और निहित नहीं है)।\nअतः केवल पूर्वधारणा I निहित है।\nअतः सही उत्तर (A) केवल I निहित है।\n• 💡",
+      "exam_tips": "किसी विशेष वर्ग को सुविधा देने से दूसरे वर्गों की आवश्यकता स्वतः ख़ारिज नहीं हो जाती।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_coding_205"
+  }
+]

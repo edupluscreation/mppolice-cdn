@@ -1,6 +1,52 @@
 [
   {
     "id": 1,
+    "orig_id": 3719,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_series",
+    "topic": "श्रृंखला एवं लुप्त पद (Series & Missing Terms)",
+    "question": "श्रृंखला में लुप्त पद ज्ञात कीजिए:\nP, Q, S, T, V, W, ?",
+    "options": {
+      "A": "A",
+      "B": "B",
+      "C": "X",
+      "D": "Y"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "अक्षर श्रृंखला अंतराल (+1, +2):\n• P(16) + 1 = Q(17)\n• Q(17) + 2 = S(19)\n• S(19) + 1 = T(20)\n• T(20) + 2 = V(22)\n• V(22) + 1 = W(23)\n• W(23) + 2 = Y(25)\n• सही विकल्प: (D) Y।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_series_06"
+  },
+  {
+    "id": 2,
+    "orig_id": 3767,
+    "subject_code": "REASONING",
+    "subject": "रीजनिंग",
+    "topic_id": "reas_series",
+    "topic": "श्रृंखला एवं लुप्त पद (Series & Missing Terms)",
+    "question": "अक्षर श्रृंखला को पूर्ण करें:\nDF : HJ :: EG : ?",
+    "options": {
+      "A": "KM",
+      "B": "IK",
+      "C": "JL",
+      "D": "LN"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "अक्षर कोडिंग (+4):\n• D(4) + 4 = H(8), F(6) + 4 = J(10)\n• E(5) + 4 = I(9), G(7) + 4 = K(11) ⇒ IK\n• बोर्ड उत्तर कुंजी: बोर्ड ने विकल्प (C) JL को चिह्नित किया है। मानक +4 तर्क में IK आता है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_reas_series_06"
+  },
+  {
+    "id": 3,
     "orig_id": 3815,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -23,7 +69,7 @@
     "mock_id": "ch_reas_series_06"
   },
   {
-    "id": 2,
+    "id": 4,
     "orig_id": 3854,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -46,7 +92,7 @@
     "mock_id": "ch_reas_series_06"
   },
   {
-    "id": 3,
+    "id": 5,
     "orig_id": 3857,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -69,7 +115,7 @@
     "mock_id": "ch_reas_series_06"
   },
   {
-    "id": 4,
+    "id": 6,
     "orig_id": 4026,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -92,7 +138,7 @@
     "mock_id": "ch_reas_series_06"
   },
   {
-    "id": 5,
+    "id": 7,
     "orig_id": 4087,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -115,7 +161,7 @@
     "mock_id": "ch_reas_series_06"
   },
   {
-    "id": 6,
+    "id": 8,
     "orig_id": 4090,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
@@ -138,93 +184,47 @@
     "mock_id": "ch_reas_series_06"
   },
   {
-    "id": 7,
-    "orig_id": 4352,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_series",
-    "topic": "श्रृंखला एवं लुप्त पद (Series & Missing Terms)",
-    "question": "निम्नलिखित श्रृंखला में प्रश्नवाचक चिन्ह (?) के स्थान पर कौन-से अक्षर आएंगे?\nAT, EP, IL, ?, QD",
-    "options": {
-      "A": "HM",
-      "B": "GH",
-      "C": "HG",
-      "D": "MH"
-    },
-    "correct": "C",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य नियम / अक्षरों का द्विपद अंतर:\n• पहला अक्षर: A(1) + 4 = E(5) + 4 = I(9) + 4 = M(13) + 4 = Q(17) ⇒ M\n• दूसरा अक्षर: T(20) - 4 = P(16) - 4 = L(12) - 4 = H(8) - 4 = D(4) ⇒ H\n• मानक गणितीय क्रम से प्राप्त पद = MH (विकल्प D)।\n• बोर्ड उत्तर कुंजी टिप्पणी: बोर्ड की आधिकारिक कुंजी में विकल्प (C) HG दिया गया है। शुद्ध वर्णमाला अंतराल (+4, -4) से MH बनता है।\n• 💡",
-      "exam_tips": "पहले अक्षर में +4 और दूसरे अक्षर में -4 का नियम है।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_series_06"
-  },
-  {
-    "id": 8,
-    "orig_id": 4485,
-    "subject_code": "REASONING",
-    "subject": "रीजनिंग",
-    "topic_id": "reas_series",
-    "topic": "श्रृंखला एवं लुप्त पद (Series & Missing Terms)",
-    "question": "श्रृंखला में लुप्त पद ज्ञात कीजिए:\nE, F, H, K, ?",
-    "options": {
-      "A": "L",
-      "B": "M",
-      "C": "O",
-      "D": "N"
-    },
-    "correct": "C",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / वर्णमाला अंतर श्रृंखला:\n• वर्णमाला के स्थानिक मान: E=5, F=6, H=8, K=11.\n• 📝 स्टेप-बाय-स्टेप हल:\n• E (5) + 1 = F (6)\n• F (6) + 2 = H (8)\n• H (8) + 3 = K (11)\n• K (11) + 4 = O (15)\n• अगला अक्षर O होगा।\n• 💡",
-      "exam_tips": "अंतर क्रमशः +1, +2, +3, +4 के रूप में बढ़ रहा है।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_reas_series_06"
-  },
-  {
     "id": 9,
-    "orig_id": 4486,
+    "orig_id": 4216,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
     "topic_id": "reas_series",
     "topic": "श्रृंखला एवं लुप्त पद (Series & Missing Terms)",
-    "question": "श्रृंखला में लुप्त पद ज्ञात कीजिए:\nD, F, I, M, ?",
+    "question": "निम्नलिखित श्रृंखला में प्रश्नवाचक चिन्ह (?) के स्थान पर कौन सा पद आएगा?\nAMBN, CMDN, EMFN, ?, IMJN",
     "options": {
-      "A": "P",
-      "B": "Q",
-      "C": "R",
-      "D": "S"
+      "A": "GHMN",
+      "B": "MNGH",
+      "C": "GMHN",
+      "D": "GNHM"
     },
     "correct": "C",
     "explanation": {
       "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / वर्णमाला स्थानिक मान:\n• D=4, F=6, I=9, M=13.\n• 📝 स्टेप-बाय-स्टेप हल:\n• 4 + 2 = 6 (F)\n• 6 + 3 = 9 (I)\n• 9 + 4 = 13 (M)\n• 13 + 5 = 18 (R)\n• अतः लुप्त पद 'R' है।\n• 💡",
-      "exam_tips": "अंतर +2, +3, +4, +5 की श्रृंखला में आगे बढ़ता है।"
+      "solution": "📌 मुख्य नियम / पदवार वर्णमाला श्रृंखला:\n• 📝 प्रत्येक स्थान का विश्लेषण:\n• पहला अक्षर: A(1) → C(3) → E(5) → [G(7)] → I(9) (+2 का क्रम)\n• दूसरा अक्षर: M (सभी पदों में स्थिर)\n• तीसरा अक्षर: B(2) → D(4) → F(6) → [H(8)] → J(10) (+2 का क्रम)\n• चौथा अक्षर: N (सभी पदों में स्थिर)\n• अतः लुप्त पद = G M H N।\n• 💡",
+      "exam_tips": "चार अक्षरों के समूह में सम स्थानों (2, 4) पर स्थिर अक्षर तथा विषम स्थानों (1, 3) पर +2 की वृद्धि है।"
     },
     "difficulty": "Medium",
     "mock_id": "ch_reas_series_06"
   },
   {
     "id": 10,
-    "orig_id": 4613,
+    "orig_id": 4337,
     "subject_code": "REASONING",
     "subject": "रीजनिंग",
     "topic_id": "reas_series",
     "topic": "श्रृंखला एवं लुप्त पद (Series & Missing Terms)",
-    "question": "श्रृंखला में लुप्त पद ज्ञात कीजिए:\nC, G, K, O, ?",
+    "question": "श्रृंखला को पूर्ण करें:\nFLAT : GMBU :: MUTE : ?",
     "options": {
-      "A": "S",
-      "B": "T",
-      "C": "U",
-      "D": "V"
+      "A": "NVUF",
+      "B": "NVVF",
+      "C": "NVVG",
+      "D": "NUVF"
     },
-    "correct": "A",
+    "correct": "B",
     "explanation": {
       "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / वर्णमाला अंतर श्रृंखला:\n• स्थानिक मान: C=3, G=7, K=11, O=15.\n• 📝 स्टेप-बाय-स्टेप हल:\n• 3 + 4 = 7 (G)\n• 7 + 4 = 11 (K)\n• 11 + 4 = 15 (O)\n• 15 + 4 = 19 (S)\n• अतः लुप्त पद 'S' है।\n• 💡",
-      "exam_tips": "प्रत्येक पद में +4 की नियत वृद्धि हो रही है।"
+      "solution": "📌 मुख्य नियम / क्रमिक अक्षर वृद्धि:\n• FLAT से GMBU: F(+1)=G, L(+1)=M, A(+1)=B, T(+1)=U।\n• MUTE पर +1 लागू करने पर: M(+1)=N, U(+1)=V, T(+1)=U, E(+1)=F ⇒ NVUF (विकल्प A मानक मान)।\n• बोर्ड उत्तर कुंजी टिप्पणी: परीक्षा बोर्ड ने आधिकारिक रूप से (B) NVVF को उत्तर माना है (संभवतः T से +2 = V का वैकल्पिक कोड मानकर)। छात्र दोनों ध्यान रखें।\n• 💡",
+      "exam_tips": "प्रत्येक अक्षर में +1 की वृद्धि से प्राकृतिक शब्द कोड NVUF बनता है।"
     },
     "difficulty": "Medium",
     "mock_id": "ch_reas_series_06"

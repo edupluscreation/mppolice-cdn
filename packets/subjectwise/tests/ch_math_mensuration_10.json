@@ -1,52 +1,6 @@
 [
   {
     "id": 1,
-    "orig_id": 2572,
-    "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_mensuration",
-    "topic": "क्षेत्रमिति एवं ज्यामिति (Mensuration & Geometry)",
-    "question": "एक गोलाकार नींबू जिसकी त्रिज्या 3 सेमी है, उसका सतह क्षेत्रफल (वर्ग सेंटीमीटर में) कितना होगा?",
-    "options": {
-      "A": "24π",
-      "B": "28π",
-      "C": "32π",
-      "D": "36π"
-    },
-    "correct": "D",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "गोले का पृष्ठीय क्षेत्रफल (Surface Area of Sphere):\n• सूत्र: A = 4π r²\n• त्रिज्या r = 3 सेमी\n• A = 4 × π × (3)² = 4 × π × 9 = 36π\\text{ सेमी}²\n• अतः नींबू का सतह क्षेत्रफल 36π वर्ग सेमी (विकल्प D) है।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_math_mensuration_10"
-  },
-  {
-    "id": 2,
-    "orig_id": 2711,
-    "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_mensuration",
-    "topic": "क्षेत्रमिति एवं ज्यामिति (Mensuration & Geometry)",
-    "question": "\"एक वर्गाकार मैदान की भुजा 20% बढ़ा दी जाती है। इसका क्षेत्रफल कितने प्रतिशत बढ़ जाता है?\"",
-    "options": {
-      "A": "20%",
-      "B": "40%",
-      "C": "44%",
-      "D": "24%"
-    },
-    "correct": "C",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "क्षेत्रफल में प्रतिशत परिवर्तन:\n• वर्गाकार मैदान की भुजा में वृद्धि = 20\\%\n• क्षेत्रफल = \\text{भुजा}²\n• \\text{क्षेत्रफल में वृद्धि} = 20 + 20 + \\frac{20 × 20}{100} = 40 + 4 = 44\\%\n• अतः क्षेत्रफल 44% बढ़ जाएगा (विकल्प C सही उत्तर है)।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_math_mensuration_10"
-  },
-  {
-    "id": 3,
     "orig_id": 2820,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -69,7 +23,7 @@
     "mock_id": "ch_math_mensuration_10"
   },
   {
-    "id": 4,
+    "id": 2,
     "orig_id": 2832,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -92,7 +46,7 @@
     "mock_id": "ch_math_mensuration_10"
   },
   {
-    "id": 5,
+    "id": 3,
     "orig_id": 2833,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -115,7 +69,7 @@
     "mock_id": "ch_math_mensuration_10"
   },
   {
-    "id": 6,
+    "id": 4,
     "orig_id": 2958,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -138,7 +92,30 @@
     "mock_id": "ch_math_mensuration_10"
   },
   {
-    "id": 7,
+    "id": 5,
+    "orig_id": 3070,
+    "subject_code": "MATH",
+    "subject": "गणित",
+    "topic_id": "math_mensuration",
+    "topic": "क्षेत्रमिति एवं ज्यामिति (Mensuration & Geometry)",
+    "question": "वृत्त की स्पर्श रेखा किस बिंदु पर त्रिज्या के लंबवत होती है?",
+    "options": {
+      "A": "किसी भी बिंदु पर",
+      "B": "संपर्क बिंदु पर",
+      "C": "केंद्र पर",
+      "D": "वृत्त के बाहर"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "प्रमेय (Tangent-Radius Theorem): वृत्त के किसी बिंदु पर खींची गई स्पर्श रेखा (Tangent) उस बिंदु से जाने वाली त्रिज्या (Radius) पर लंबवत (90° का कोण बनाती) होती है।\n• बिंदु: यह लंबवतता केवल स्पर्श रेखा और वृत्त के संपर्क बिंदु (Point of Contact) पर होती है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_math_mensuration_10"
+  },
+  {
+    "id": 6,
     "orig_id": 3074,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -161,7 +138,7 @@
     "mock_id": "ch_math_mensuration_10"
   },
   {
-    "id": 8,
+    "id": 7,
     "orig_id": 3075,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -178,6 +155,29 @@
     "explanation": {
       "formula": "सूत्र: अर्धगोले का आयतन = (2/3) × π × r³\n• गणना:\n• r = 10 सेमी, π = 3.14\n• आयतन = (2/3) × 3.14 × (10)³ = (2/3) × 3140 = 6280 ÷ 3 = 2093.33 सेमी³\n• अतः सही उत्तर (C) 2093.33 है।",
       "solution": "विस्तृत व्याख्या उपलब्ध है।",
+      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_math_mensuration_10"
+  },
+  {
+    "id": 8,
+    "orig_id": 3076,
+    "subject_code": "MATH",
+    "subject": "गणित",
+    "topic_id": "math_mensuration",
+    "topic": "क्षेत्रमिति एवं ज्यामिति (Mensuration & Geometry)",
+    "question": "हिस्टोग्राम में प्रत्येक पट्टी की ऊँचाई किसका प्रतिनिधित्व करती है?",
+    "options": {
+      "A": "वर्ग की चौड़ाई",
+      "B": "आवृत्ति घनत्व",
+      "C": "वर्ग का मध्य बिंदु",
+      "D": "इनमें से कोई नहीं"
+    },
+    "correct": "B",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "सांख्यिकी सिद्धांत (Histogram Height):\n• जब वर्ग अंतराल (Class interval) असमान चौड़ाई के होते हैं, तो हिस्टोग्राम में आयत का क्षेत्रफल बारंबारता के समानुपाती होना चाहिए।\n• इसलिए प्रत्येक पट्टी (बार) की ऊँचाई आवृत्ति घनत्व (Frequency Density = आवृत्ति ÷ वर्ग चौड़ाई) को दर्शाती है।\n• परीक्षा टिप्स: समान वर्ग अंतराल होने पर ऊँचाई सीधे आवृत्ति का प्रतिनिधित्व करती है।",
       "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
     },
     "difficulty": "Medium",

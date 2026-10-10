@@ -1,6 +1,144 @@
 [
   {
     "id": 1,
+    "orig_id": 4092,
+    "subject_code": "MATH",
+    "subject": "गणित",
+    "topic_id": "math_number_bodmas",
+    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
+    "question": "यदि 'P' का अर्थ 'जोड़ना', 'Q' का अर्थ 'घटाना', 'R' का अर्थ 'गुणा करना' और 'S' का अर्थ 'भाग देना' है, तो 24 S 4 R 3 Q 5 P 10 का मान क्या होगा?",
+    "options": {
+      "A": "23",
+      "B": "18",
+      "C": "13",
+      "D": "15"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य नियम / BODMAS नियम: प्रतीकों का प्रतिस्थापन करने पर व्यंजक: 24 ÷ 4 × 3 - 5 + 10।\n• 📝 स्टेप-बाय-स्टेप गणना:\n• 1. भाग (Division): 24 ÷ 4 = 6\n• 2. गुणा (Multiplication): 6 × 3 = 18\n• 3. जोड़ व घटाव: 18 - 5 + 10 = 13 + 10 = 23 (मानक गणितीय मान, विकल्प A)।\n• बोर्ड उत्तर कुंजी टिप्पणी: आधिकारिक परीक्षा कुंजी में उत्तर (C) 13 मान्य किया गया है (गणना 18 - 5 = 13 पर रुक जाने की मुद्रण भूल)। छात्र दोनों मान ध्यान रखें।\n• 💡",
+      "exam_tips": "मानक BODMAS क्रम: Brackets → Orders → Division → Multiplication → Addition → Subtraction।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_math_number_bodmas_49"
+  },
+  {
+    "id": 2,
+    "orig_id": 4093,
+    "subject_code": "MATH",
+    "subject": "गणित",
+    "topic_id": "math_number_bodmas",
+    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
+    "question": "यदि 'P' का अर्थ 'जोड़ना', 'Q' का अर्थ 'घटाना', 'R' का अर्थ 'गुणा करना' और 'S' का अर्थ 'भाग देना' है, तो 24 S 4 R 3 Q 5 P 10 का मान क्या होगा?",
+    "options": {
+      "A": "23",
+      "B": "18",
+      "C": "13",
+      "D": "15"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य नियम: व्यंजक = 24 ÷ 4 × 3 - 5 + 10 = 18 - 5 + 10 = 23।\n• 📝 टिप्पणी: गणितीय रूप से 23 शुद्ध मान है, जबकि बोर्ड कुंजी में (C) 13 अंकित है।\n• 💡",
+      "exam_tips": "संक्रियाओं का क्रम हमेशा BODMAS के अनुसार करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_math_number_bodmas_49"
+  },
+  {
+    "id": 3,
+    "orig_id": 4097,
+    "subject_code": "MATH",
+    "subject": "गणित",
+    "topic_id": "math_number_bodmas",
+    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
+    "question": "समीकरण को सही करने के लिए किन दो गणितीय चिन्हों को आपस में बदलना चाहिए?\nसमीकरण: 50 ÷ 5 + 8 - 6 × 2 = 56",
+    "options": {
+      "A": "÷ और -",
+      "B": "+ और -",
+      "C": "÷ और ×",
+      "D": "और ×"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य नियम: गणितीय संक्रियाओं के चिन्हों का परस्पर परिवर्तन।\n• 📝 बोर्ड कुंजी विश्लेषण:\n• बोर्ड आधिकारिक कुंजी में विकल्प (C) ÷ और × को सही माना गया है।\n• जांच: यदि ÷ और × बदलें तो 50 × 5 + 8 - 6 ÷ 2 = 250 + 8 - 3 = 255 (मूल समीकरण में मुद्रण त्रुटि संभावित)।\n• 💡",
+      "exam_tips": "ऐसे प्रश्नों में प्रत्येक विकल्प को समीकरण में रखकर दायां पक्ष (RHS) प्राप्त करने का प्रयास किया जाता है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_math_number_bodmas_49"
+  },
+  {
+    "id": 4,
+    "orig_id": 4106,
+    "subject_code": "MATH",
+    "subject": "गणित",
+    "topic_id": "math_number_bodmas",
+    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
+    "question": "यदि α = 1, β = 2, γ = 3, तो δ = ?",
+    "options": {
+      "A": "4",
+      "B": "5",
+      "C": "6",
+      "D": "7"
+    },
+    "correct": "A",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य नियम: ग्रीक वर्णमाला का क्रमिक मान।\n• 📝 विश्लेषण:\n• α (अल्फा) = 1 (पहला ग्रीक अक्षर)\n• β (बीटा) = 2 (दूसरा ग्रीक अक्षर)\n• γ (गामा) = 3 (तीसरा ग्रीक अक्षर)\n• δ (डेल्टा) = 4 (चौथा ग्रीक अक्षर)\n• 💡",
+      "exam_tips": "ग्रीक वर्णमाला के शुरुआती चार अक्षर: अल्फा, बीटा, गामा, डेल्टा।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_math_number_bodmas_49"
+  },
+  {
+    "id": 5,
+    "orig_id": 4107,
+    "subject_code": "MATH",
+    "subject": "गणित",
+    "topic_id": "math_number_bodmas",
+    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
+    "question": "नीचे दिए गए पते से बिल्कुल मेल खाने वाला पता चुनें।\nFlat No. 21A, Maple Residency, Kothrud, Pune, Maharashtra – 411038",
+    "options": {
+      "A": "Flat No. 21B, Maple Residency, Kothrud, Pune, Maharasthra – 411038",
+      "B": "Flat No. 21B, Mapel Residency, Kothrud, Pune, Maharashtra – 411038",
+      "C": "Flat No. 21A, Maple Residency, Kothrud, Pune, Maharashtra – 411088",
+      "D": "Flat No. 21A, Maple Residency, Kothrud, Pune, Maharashtra – 411038"
+    },
+    "correct": "D",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य नियम: पता मिलान (Address Matching / Clerical Aptitude)।\n• 📝 विकल्प त्रुटि विश्लेषण:\n• (A) में '21B' और 'Maharasthra' गलत है।\n• (B) में '21B' और 'Mapel' गलत है।\n• (C) में पिनकोड '411088' गलत है।\n• (D) मूल पते से अक्षरशः शत-प्रतिशत मेल खाता है।\n• 💡",
+      "exam_tips": "क्लर्कियल एप्टीट्यूड में फ्लैट नंबर, स्पेलिंग और पिनकोड के प्रत्येक अंक का सूक्ष्म निरीक्षण करें।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_math_number_bodmas_49"
+  },
+  {
+    "id": 6,
+    "orig_id": 4134,
+    "subject_code": "MATH",
+    "subject": "गणित",
+    "topic_id": "math_number_bodmas",
+    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
+    "question": "निर्देश: दिए गए विकल्पों में से संबंधित शब्द चुनें।\nचूहा : चूं-चूं (स्क्रीक) :: डॉलफ़िन : ?",
+    "options": {
+      "A": "दहाड़",
+      "B": "रेंकना (ब्रे)",
+      "C": "क्लिक",
+      "D": "हूंकना (हाउल)"
+    },
+    "correct": "C",
+    "explanation": {
+      "formula": "मुख्य संकल्पना एवं नियम",
+      "solution": "📌 मुख्य संबंध: जीव और उनकी ध्वनि (Animal Sound Analogy)।\n• 📝 ध्वनि मिलान:\n• चूहे की ध्वनि को 'चूं-चूं' (Squeak) कहा जाता है।\n• डॉल्फिन जल के भीतर संचार और इकोलोकेशन (Echolocation) के लिए उच्च आवृत्ति वाली 'क्लिक' (Clicking sounds) और सीटी (Whistles) ध्वनि उत्पन्न करती है।\n• 💡",
+      "exam_tips": "गंगा डॉल्फिन (Platanista gangetica) भारत का 'राष्ट्रीय जलीय जीव' है, जो पराश्रव्य (Ultrasonic) ध्वनियों से शिकार करती है।"
+    },
+    "difficulty": "Medium",
+    "mock_id": "ch_math_number_bodmas_49"
+  },
+  {
+    "id": 7,
     "orig_id": 4143,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -23,7 +161,7 @@
     "mock_id": "ch_math_number_bodmas_49"
   },
   {
-    "id": 2,
+    "id": 8,
     "orig_id": 4148,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -46,30 +184,30 @@
     "mock_id": "ch_math_number_bodmas_49"
   },
   {
-    "id": 3,
-    "orig_id": 4151,
+    "id": 9,
+    "orig_id": 4149,
     "subject_code": "MATH",
     "subject": "गणित",
     "topic_id": "math_number_bodmas",
     "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
-    "question": "कौन-सी अंतर्निहित आकृति, घन और बेलन जाल दोनों में उभयनिष्ठ होती है?",
+    "question": "कौन-सी आकृति, जब एक वर्ग के अंदर समाहित की जाती है, दोनों विकर्णों के साथ समान परावर्तन दर्शाती है?",
     "options": {
-      "A": "आयत",
-      "B": "त्रिभुज",
-      "C": "वृत्त",
-      "D": "समलंब"
+      "A": "वृत्त",
+      "B": "समबाहु त्रिभुज",
+      "C": "वर्ग",
+      "D": "पंचभुज"
     },
     "correct": "A",
     "explanation": {
       "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / 3D ज्यामिति जाल (Nets of Solids):\n• 📝 जाल विश्लेषण:\n• बेलन (Cylinder) का जाल: दो वृत्त (आधार) और एक आयत (वक्र सतह खोलने पर)।\n• घन (Cube) का जाल: छह वर्ग (प्रत्येक वर्ग विशेष प्रकार का आयत होता है)।\n• अतः आयत (Rectangle) दोनों जालों की उभयनिष्ठ आकृति है।\n• 💡",
-      "exam_tips": "बेलन की वक्र सतह को खोलने पर वह आयत बनती है जिसकी लंबाई 2πr और चौड़ाई h होती है।"
+      "solution": "📌 मुख्य नियम / सममिति (Symmetry):\n• 📝 ज्यामितीय विश्लेषण:\n• एक वृत्त (Circle) का प्रत्येक व्यास उसकी सममिति का अक्ष होता है (अनंत सममित अक्ष)।\n• जब वृत्त को वर्ग के केंद्र में अंतर्निहित किया जाता है, तो वर्ग के दोनों विकर्ण (Diagonals) वृत्त के व्यास बन जाते हैं।\n• अतः दोनों विकर्णों के अनुदिश वृत्त पूर्णतः समान परावर्तन सममिति (Reflectional Symmetry) प्रदर्शित करता है।\n• 💡",
+      "exam_tips": "वृत्त में घूर्णी और परावर्तन सममिति सभी कोणों पर अक्षुण्ण रहती है।"
     },
     "difficulty": "Medium",
     "mock_id": "ch_math_number_bodmas_49"
   },
   {
-    "id": 4,
+    "id": 10,
     "orig_id": 4161,
     "subject_code": "MATH",
     "subject": "गणित",
@@ -87,144 +225,6 @@
       "formula": "मुख्य संकल्पना एवं नियम",
       "solution": "📌 मुख्य सूत्र / BODMAS नियम:\n• 📝 स्टेप-बाय-स्टेप हल:\n• 1. पहला कोष्ठक: (15 × 8) ÷ 6 = 120 ÷ 6 = 20\n• 2. दूसरा कोष्ठक: √169 = 13 ⇒ 13 × 2 = 26\n• 3. तीसरा कोष्ठक: 36 ÷ 4 = 9\n• 4. मान रखने पर: 20 + 26 - 9\n• 5. 46 - 9 = 37।\n• 💡",
       "exam_tips": "कोष्ठक के अंदर की संक्रियाएं पहले हल की जाती हैं।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_math_number_bodmas_49"
-  },
-  {
-    "id": 5,
-    "orig_id": 4168,
-    "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_number_bodmas",
-    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
-    "question": "tan²θ + 1 निम्न के बराबर है:",
-    "options": {
-      "A": "cos²θ",
-      "B": "cot²θ",
-      "C": "sec²θ",
-      "D": "cosec²θ"
-    },
-    "correct": "C",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य त्रिकोणमितीय सर्वसमिकाएं:\n• 1. sin²θ + cos²θ = 1\n• 2. 1 + tan²θ = sec²θ\n• 3. 1 + cot²θ = cosec²θ\n• 📝 प्रमाण: sec²θ - tan²θ = 1 ⇒ 1 + tan²θ = sec²θ।\n• 💡",
-      "exam_tips": "sec²θ - tan²θ = 1 से (secθ - tanθ)(secθ + tanθ) = 1 प्राप्त होता है।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_math_number_bodmas_49"
-  },
-  {
-    "id": 6,
-    "orig_id": 4173,
-    "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_number_bodmas",
-    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
-    "question": "\"120 मीटर लम्बी एक रेलगाड़ी 240 मीटर लम्बे प्लेटफार्म को पार करती है। यदि रेलगाड़ी 54 किमी/घंटा की चाल से चलती है, तो प्लेटफार्म को पार करने में उसे कितना समय लगेगा?\"",
-    "options": {
-      "A": "30 सेकंड",
-      "B": "24 सेकंड",
-      "C": "35 सेकंड",
-      "D": "40 सेकंड"
-    },
-    "correct": "B",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य सूत्र: समय = (ट्रेन की लंबाई + प्लेटफॉर्म की लंबाई) / चाल।\n• 📝 गणना: समय = 360 मी / (54 × 5/18 मी/से) = 360 / 15 = 24 सेकंड।\n• 💡",
-      "exam_tips": "प्लेटफॉर्म, पुल या सुरंग को पार करते समय उनकी लंबाई ट्रेन की लंबाई में जुड़ती है।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_math_number_bodmas_49"
-  },
-  {
-    "id": 7,
-    "orig_id": 4175,
-    "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_number_bodmas",
-    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
-    "question": "एक वस्तु को क्रमशः 10% और 5% की दो छूटों के साथ बेचा जाता है। इसके बराबर एकल छूट प्रतिशत क्या होगा?",
-    "options": {
-      "A": "14%",
-      "B": "14.50%",
-      "C": "15%",
-      "D": "15.50%"
-    },
-    "correct": "B",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य सूत्र: दो क्रमिक छूटों (d₁ और d₂) की समतुल्य एकल छूट = [d₁ + d₂ - (d₁ × d₂) / 100] %।\n• 📝 स्टेप-बाय-स्टेप हल:\n• d₁ = 10%, d₂ = 5%\n• समतुल्य छूट = 10 + 5 - (10 × 5) / 100\n• समतुल्य छूट = 15 - 50 / 100 = 15 - 0.50 = 14.50%।\n• 💡",
-      "exam_tips": "क्रमिक छूट हमेशा दोनों छूटों के सीधे योग (10 + 5 = 15%) से कम होती है।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_math_number_bodmas_49"
-  },
-  {
-    "id": 8,
-    "orig_id": 4194,
-    "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_number_bodmas",
-    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
-    "question": "निम्नलिखित में से कौन-सा कुषाण वंश का सिक्कों के क्षेत्र में एक महत्वपूर्ण योगदान था?",
-    "options": {
-      "A": "कागजी मुद्रा की शुरुआत",
-      "B": "सिक्कों के आकार का मानकीकरण",
-      "C": "स्वर्ण मुद्राओं का निर्माण",
-      "D": "धार्मिक उद्देश्यों के लिए सिक्कों का उपयोग"
-    },
-    "correct": "C",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / प्राचीन भारतीय मुद्राशास्त्र: भारत में नियमित और बड़े पैमाने पर सबसे शुद्ध सोने के सिक्के (Gold Coins) जारी करने का श्रेय 'कुषाण वंश' (विशेष रूप से विम कडफिसेस और कनिष्क) को जाता है।\n• 📝 सिक्कों की विशेषताएं:\n• कुषाणों के सिक्कों में यूनानी, ईरानी और भारतीय (भगवान शिव, नंदी, बुद्ध) देवताओं के चित्र उत्कीर्ण थे।\n• भारत में सबसे पहले सोने के सिक्के 'इंडो-ग्रीक' (हिंद-यवन) राजाओं ने जारी किए थे, किंतु सबसे शुद्ध और व्यापक स्वर्ण मुद्राएं कुषाणों ने चलाईं।\n• 💡",
-      "exam_tips": "गुप्त काल में सर्वाधिक संख्या में सोने के सिक्के (दीनार) जारी किए गए।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_math_number_bodmas_49"
-  },
-  {
-    "id": 9,
-    "orig_id": 4201,
-    "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_number_bodmas",
-    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
-    "question": "यदि 11 -> 121, 12 -> 144, तो 14 -> ?",
-    "options": {
-      "A": "156",
-      "B": "169",
-      "C": "196",
-      "D": "225"
-    },
-    "correct": "C",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य नियम: n → n²।\n• 📝 गणना: 14 का वर्ग = 196।\n• 💡",
-      "exam_tips": "वर्ग संख्याओं के अंत में 2, 3, 7 या 8 कभी नहीं आ सकते।"
-    },
-    "difficulty": "Medium",
-    "mock_id": "ch_math_number_bodmas_49"
-  },
-  {
-    "id": 10,
-    "orig_id": 4202,
-    "subject_code": "MATH",
-    "subject": "गणित",
-    "topic_id": "math_number_bodmas",
-    "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
-    "question": "यदि 3 -> 6, 4 -> 24, तो 5 -> ?",
-    "options": {
-      "A": "100",
-      "B": "120",
-      "C": "60",
-      "D": "150"
-    },
-    "correct": "B",
-    "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य नियम: फैक्टोरियल n!।\n• 📝 गणना: 5! = 120।\n• 💡",
-      "exam_tips": "1 से 6 तक के फैक्टोरियल मान सीधे याद रखें।"
     },
     "difficulty": "Medium",
     "mock_id": "ch_math_number_bodmas_49"
