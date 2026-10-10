@@ -181,18 +181,18 @@
     "subject_code": "REASONING",
     "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
     "topic_id": "reas_coding",
-    "question": "अंग्रेजी भाषा में, एक सार्थक वाक्य बनाने के लिए निम्नलिखित भागों को पुनर्व्यवस्थित करें:",
+    "question": "मध्य प्रदेश के टीकमगढ़ और छतरपुर क्षेत्र में निम्नलिखित में से कौन-सी प्रमुख सिंचाई परियोजना स्थित है?",
     "options": {
-      "A": "the proposal (B) last Friday (C) by the committee (D) was approved\n(A) A - B - C - D",
-      "B": "last Friday (C) by the committee (D) was approved\n(A) A - B - C - D\n(B) B - A - D - C",
-      "C": "by the committee (D) was approved\n(A) A - B - C - D\n(B) B - A - D - C\n(C) A - C - B - D",
-      "D": "was approved\n(A) A - B - C - D\n(B) B - A - D - C\n(C) A - C - B - D\n(D) A - D - C - B"
+      "A": "सिंघपुर बैराज परियोजना",
+      "B": "बरगी परियोजना",
+      "C": "तवा परियोजना",
+      "D": "कोलार परियोजना"
     },
-    "correct": "C",
+    "correct": "A",
     "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "मुख्य तथ्य / नियम / सूत्र: मानक पैसिव संरचना A-D-C-B है।\n• विवरण:\n• शुद्ध व्याकरण सम्मत वाक्य \"The proposal was approved by the committee last Friday\" (A-D-C-B) बनता है।\n• बोर्ड कुंजी में मुद्रण दोष से (C) अंकित था, परंतु सही वाक्य क्रम विकल्प (D) ही है।",
-      "exam_tips": "परीक्षा के लिए सभी संबंधित तथ्यों और सूत्रों का नियमित अभ्यास करें।"
+      "formula": "मध्य प्रदेश की जल संसाधन एवं नदी घाटी परियोजनाएं",
+      "solution": "सिंघपुर बैराज (केन-बेतवा लिंक से संबंधित) बुंदेलखंड के टीकमगढ़/छतरपुर क्षेत्र को सिंचाई जल उपलब्ध कराता है। बरगी जबलपुर में, तवा होशंगाबाद (नर्मदापुरम) में और कोलार सीहोर में है।",
+      "exam_tips": "बुंदेलखंड क्षेत्र की प्रमुख नदियां केन, धसान और बेतवा हैं।"
     },
     "difficulty": "Medium",
     "test_id": "ch_reas_coding_25"

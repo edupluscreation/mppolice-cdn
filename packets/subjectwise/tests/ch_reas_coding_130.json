@@ -181,18 +181,18 @@
     "subject_code": "REASONING",
     "topic": "कोडिंग-डिकोडिंग (Coding-Decoding)",
     "topic_id": "reas_coding",
-    "question": "किसी विशेष कोड भाषा में,\n'crow dog monkey bull' को 'od lk sk jk' के रूप में कोड किया गया है।\n'building donkey floor dog' को 'mj jk dn ho' के रूप में कोड किया गया है।\n'arrow bull building plane' को 'gt fa mj lk' के रूप में कोड किया गया है।\n'floor surface crow arrow' को 'sk mn ho gt' के रूप में कोड किया गया है।\nनिम्नलिखित में से किस शब्द का कोड \"od\" है?",
+    "question": "मध्य प्रदेश के टीकमगढ़ और छतरपुर क्षेत्र में निम्नलिखित में से कौन-सी प्रमुख सिंचाई परियोजना स्थित है?",
     "options": {
-      "A": "dog",
-      "B": "monkey",
-      "C": "floor",
-      "D": "arrow"
+      "A": "सिंघपुर बैराज परियोजना",
+      "B": "बरगी परियोजना",
+      "C": "तवा परियोजना",
+      "D": "कोलार परियोजना"
     },
-    "correct": "B",
+    "correct": "A",
     "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: कृत्रिम भाषा कोडिंग (Fictitious Language Coding):\n• उभयनिष्ठ शब्दों और कोडों की तुलना करना।\n• 📝 स्टेप-बाय-स्टेप हल:\n1. वाक्य 1: 'crow dog monkey bull' = 'od lk sk jk'\n2. वाक्य 2: 'building donkey floor dog' = 'mj jk dn ho'\n• दोनों में उभयनिष्ठ शब्द: 'dog' → उभयनिष्ठ कोड: jk। अतः dog = jk।\n3. वाक्य 3: 'arrow bull building plane' = 'gt fa mj lk'\n• वाक्य 1 और वाक्य 3 में उभयनिष्ठ शब्द: 'bull' → उभयनिष्ठ कोड: lk। अतः bull = lk।\n4. वाक्य 4: 'floor surface crow arrow' = 'sk mn ho gt'\n• वाक्य 1 और वाक्य 4 में उभयनिष्ठ शब्द: 'crow' → उभयनिष्ठ कोड: sk। अतः crow = sk।\n5. अब वाक्य 1 में शेष बचा शब्द: 'monkey' और शेष बचा कोड: 'od'।\n6. अतः \"od\" का कोड शब्द monkey है।\n7. सही उत्तर (B) monkey है।\n• 💡",
-      "exam_tips": "शेष बचे पदों को अलग करने के लिए एक-एक करके उभयनिष्ठ पदों को काटते जाएं।"
+      "formula": "मध्य प्रदेश की जल संसाधन एवं नदी घाटी परियोजनाएं",
+      "solution": "सिंघपुर बैराज (केन-बेतवा लिंक से संबंधित) बुंदेलखंड के टीकमगढ़/छतरपुर क्षेत्र को सिंचाई जल उपलब्ध कराता है। बरगी जबलपुर में, तवा होशंगाबाद (नर्मदापुरम) में और कोलार सीहोर में है।",
+      "exam_tips": "बुंदेलखंड क्षेत्र की प्रमुख नदियां केन, धसान और बेतवा हैं।"
     },
     "difficulty": "Medium",
     "test_id": "ch_reas_coding_130"

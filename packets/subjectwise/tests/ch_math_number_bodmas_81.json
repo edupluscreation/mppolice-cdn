@@ -181,18 +181,18 @@
     "subject_code": "MATH",
     "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
     "topic_id": "math_number_bodmas",
-    "question": "वह पता चुनें जो नीचे दिए गए पते के समान हो।\nVilla No. 204, Lake View Estate,\nBanjara Hills, Hyderabad,\nTelangana- 500034",
+    "question": "मध्य प्रदेश के टीकमगढ़ और छतरपुर क्षेत्र में निम्नलिखित में से कौन-सी प्रमुख सिंचाई परियोजना स्थित है?",
     "options": {
-      "A": "Villa No. 204, Lake View Estate, Banjara Hills, Hyderabad, Telangana - 500034",
-      "B": "Villa No. 204, Lakeview Estate, Banjara Hills, Hyderabad, Telangana - 500034",
-      "C": "Villa No. 204, Lake View Estates, Banjara Hills, Hyderabad, Telangana - 500034",
-      "D": "Villa No. 240, Lake View Estate, Banjara Hills, Hyderabad, Telangana - 500034"
+      "A": "सिंघपुर बैराज परियोजना",
+      "B": "बरगी परियोजना",
+      "C": "तवा परियोजना",
+      "D": "कोलार परियोजना"
     },
     "correct": "A",
     "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: पता मिलान (Address Matching):\n• 📝 स्टेप-बाय-स्टेप हल:\n1. मूल पते के सभी विवरणों (Villa No. 204, Lake View Estate, Banjara Hills, Hyderabad, Telangana - 500034) का अक्षरशः मिलान विकल्प (A) से होता है।\nअतः सही उत्तर (A) है।\n• 💡",
-      "exam_tips": "विराम चिह्न और वर्तनी की पूर्ण शुद्धता।"
+      "formula": "मध्य प्रदेश की जल संसाधन एवं नदी घाटी परियोजनाएं",
+      "solution": "सिंघपुर बैराज (केन-बेतवा लिंक से संबंधित) बुंदेलखंड के टीकमगढ़/छतरपुर क्षेत्र को सिंचाई जल उपलब्ध कराता है। बरगी जबलपुर में, तवा होशंगाबाद (नर्मदापुरम) में और कोलार सीहोर में है।",
+      "exam_tips": "बुंदेलखंड क्षेत्र की प्रमुख नदियां केन, धसान और बेतवा हैं।"
     },
     "difficulty": "Medium",
     "test_id": "ch_math_number_bodmas_81"

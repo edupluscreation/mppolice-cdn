@@ -181,18 +181,18 @@
     "subject_code": "MATH",
     "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
     "topic_id": "math_number_bodmas",
-    "question": "वह पता चुनें जो नीचे दिए गए पते के समान हो।\nFlat No. 101, Maple Residency,\nKoregaon Park, Pune,\nMaharashtra - 411001",
+    "question": "मध्य प्रदेश के टीकमगढ़ और छतरपुर क्षेत्र में निम्नलिखित में से कौन-सी प्रमुख सिंचाई परियोजना स्थित है?",
     "options": {
-      "A": "Flat No. 101, Maple Residency, Koregaon Park, Pune, Maharashtra - 410001",
-      "B": "Flat No. 101, Maple Residency, Koregaon Park, Pune, Maharashtra - 411001",
-      "C": "Flat No. 101, Maple Residency, Koregaon Park, Pune, Maharashtra - 411001",
-      "D": "Flat No. 101, Maple Resedency, Koregaon Park, Pune, Maharashtra - 411001"
+      "A": "सिंघपुर बैराज परियोजना",
+      "B": "बरगी परियोजना",
+      "C": "तवा परियोजना",
+      "D": "कोलार परियोजना"
     },
-    "correct": "B",
+    "correct": "A",
     "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य: पते की शुद्धता का सत्यापन।\n• 📝 त्रुटि पहचान:\n• (A) में पिनकोड 410001 (गलत) है।\n• (D) में 'Resedency' वर्तनी अशुद्ध है।\n• विकल्प (B) मूल पते से पूर्णतः समरूप है।\n• 💡",
-      "exam_tips": "वर्तनी (Spelling) और पिनकोड दोनों की एक साथ जांच करें।"
+      "formula": "मध्य प्रदेश की जल संसाधन एवं नदी घाटी परियोजनाएं",
+      "solution": "सिंघपुर बैराज (केन-बेतवा लिंक से संबंधित) बुंदेलखंड के टीकमगढ़/छतरपुर क्षेत्र को सिंचाई जल उपलब्ध कराता है। बरगी जबलपुर में, तवा होशंगाबाद (नर्मदापुरम) में और कोलार सीहोर में है।",
+      "exam_tips": "बुंदेलखंड क्षेत्र की प्रमुख नदियां केन, धसान और बेतवा हैं।"
     },
     "difficulty": "Medium",
     "test_id": "ch_math_number_bodmas_49"

@@ -181,18 +181,18 @@
     "subject_code": "MATH",
     "topic": "संख्या पद्धति एवं सरलीकरण (Number System & BODMAS)",
     "topic_id": "math_number_bodmas",
-    "question": "नीचे दिए गए उदाहरण पते के समान पते को चुनें।\nउदाहरण पता:\nFlat No. 401, Lotus Enclave,\nJP Nagar, Bangalore,\nKarnataka - 560078",
+    "question": "मध्य प्रदेश के टीकमगढ़ और छतरपुर क्षेत्र में निम्नलिखित में से कौन-सी प्रमुख सिंचाई परियोजना स्थित है?",
     "options": {
-      "A": "Flat 401, Lotus Enclave, JP Nagar, Bengaluru, Karnataka - 560078",
-      "B": "Flat No. 401, Lotus Enclave, JP Nagar, Bangalore, Karnataka - 560078",
-      "C": "Flat No. 401, Lotus Enclave, J.P. Nagar, Bangalore, Karnataka - 560087",
-      "D": "Flat No. 410, Lotus Enclave, JP Nagar, Bangalore, Karnataka - 560078"
+      "A": "सिंघपुर बैराज परियोजना",
+      "B": "बरगी परियोजना",
+      "C": "तवा परियोजना",
+      "D": "कोलार परियोजना"
     },
-    "correct": "B",
+    "correct": "A",
     "explanation": {
-      "formula": "मुख्य संकल्पना एवं नियम",
-      "solution": "📌 मुख्य तथ्य / नियम / सूत्र: पता सत्यापन (Clerical Aptitude / Address Verification) में एक-एक वर्ण और पिनकोड की सटीकता।\n• 📝 स्टेप-बाय-स्टेप हल:\n• विकल्प (A) में \"No.\" छूटा है और \"Bengaluru\" लिखा है (गलत)।\n• विकल्प (C) में पिनकोड 560087 लिखा है (मूल 560078 है - गलत)।\n• विकल्प (D) में फ्लैट नंबर 410 लिखा है (मूल 401 है - गलत)।\n• विकल्प (B) मूल पते का हूबहू और सटीक मिलान है।\n• 💡",
-      "exam_tips": "पिनकोड के अंतिम दो अंक और फ्लैट नंबर सबसे आम भ्रामक बिंदु होते हैं।"
+      "formula": "मध्य प्रदेश की जल संसाधन एवं नदी घाटी परियोजनाएं",
+      "solution": "सिंघपुर बैराज (केन-बेतवा लिंक से संबंधित) बुंदेलखंड के टीकमगढ़/छतरपुर क्षेत्र को सिंचाई जल उपलब्ध कराता है। बरगी जबलपुर में, तवा होशंगाबाद (नर्मदापुरम) में और कोलार सीहोर में है।",
+      "exam_tips": "बुंदेलखंड क्षेत्र की प्रमुख नदियां केन, धसान और बेतवा हैं।"
     },
     "difficulty": "Medium",
     "test_id": "ch_math_number_bodmas_59"
